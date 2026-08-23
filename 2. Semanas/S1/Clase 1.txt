@@ -1,11 +1,117 @@
-. {
-	. {
-		. 
+. INTRODUCCION{
+	. El profesor trabaja en BBVA
+	. Proyecto{
+		. La idea es brindar las herramientas
+	}
+	. Equipo: 5 personas
+	. 5 Evaluaciones presenciales en Paideia 11am-11:15am son 10 preguntas para marcar
+	. Examenes: 8 pts preguntas para marcar y 12 pts desarrollo
+	. Entregables: Sirve para saber desarrollar el examen
+	. Exposiciones{
+		. Parcial: Sub entregas antes de parciales con feedback que se vuelve entregar corregido el informe
+		. Final: Sub entregas antes de finales con feedback que se vuelve entregar corregido el informe
+	}
+	. Actividades{
+		. Promedio de entregas semanales
+		. Dinamicas de clase
+	}
+	. Certificacion de SCRUM gratuita: Bonus 2pts sobre el 10%{
+		. Jueves-Domingo despues de la 2da semana de finales
 	}
 }
 
-. {
-	. {
+. Conceptos Básicos de Gestión de Proyectos: Sesión 1{
+	. DESCUBRIMIENTO{
+		. Design Thinking: "Valor" -> Necesidad/Problema -> Idea -> Prototipo -> 
+		
+		. La idea es traer un proyecto que ya esta hecho o incompleto que previamente fue descubierto
+		
+		. Si no hacemos la conexion con el usuario, no vamos a descubrir su necesidad, por lo que desarrollemos no va a tener el efecto que tengamos
+	}
+	. GESTION DE PROYECTOS{
+		. Gestion de herramientas para cumplir los objetivos del proyecto
+	}
+	. Enfoques de desarrollo{
+		. PREDICTIVO{
+			. Anticipacion
+		}
+		. ADAPTATIVO{
+			. Reactivo
+		}
+	}
+	. CICLO DE VIDA{
+		. Incremental{
+			. Es tradicional y hay partes que no van a ser usadas
+			. Esperamos tener el dedsarrollo completo para darselo al cliente
+			. Se lo que estoy hacienddo porque satisface la necesidad
+		}
+		. Iterativo{
+			. Producto Minimo Viable
+			
+			. Vemos{
+				. Como sabemos que priorizar
+				. Otros factores para decidir con que salimos primero <- Dificil de negociar
+			}
+			
+			. El usuario va a pedir todo, pero debemos tener el criterio para decidir
+		}
+	}
+	. ROLES{
+		. No trabajamos solos
+	}
+	. INTERESADOS{
+		. Hay areas de control que deben ser informadas
+		. No estamos creando nada, sino estamos consultando
+		. Si tenemos una iniciativa hay que mapear a todos los interesados
+	}
+	. PLAN DE PROYECTO{
+		. Es un resumen de todo lo que va a ser el proyecto
+		
+		. Esto lo elaboraremos en la semana 3
+		. Antes de la tesis hay un plan de tesis
+		. Toda sugerencia va aqui
+	}
+	. Adaptación (tailoring) <- Viene en una pregunta de examen{
+		. Cada proyecto es unico, por lo que no se debe aplicar de la misma manera
 		. 
 	}
+	. FACTORES PARA LA ADAPTACION{
+		. Nos adaptamos a los involucrados
+	}
+	. BENEFICIOS DE LA ADAPTACION{
+		. Las personas deben saber porque las cosas van a cambiar
+		
+		. El equipo necesita comprometerse, por lo que deben saber que problema le damos solucion
+		
+		. Compremeter al equipo va a sumar un monton
+	}
+	. Programa{
+		. Una persona que gestiona proyectos
+	}
+	. Portafolio{
+		. Conjunto de programas
+		
+		. Las personas claves van a bajar la informacion al equipo
+		. Hay burocracia, asi que si no hay necesidad no hay que ponerlo
+	}
+	. ENTORNO{
+		. Es clave entender la estrategia
+		. Hay que entender el area en el que estan
+		. Entenderlo sirve para darle valor a lo que haces y conocer como funciona la empresa
+	}
+	. La Oficina de Dirección de Proyectos{
+		. Debemos revisar como se trabaja para saber que se puede modificar
+		. Asi todas las personas nuevas puedan aprender
+		
+		. Como hay un estandar tecnico, tmb debe haber uno practico
+		. Te exijo cumplimientos e hitos
+		. DIRECTIVA{
+			. De esta viene los gestores de proyecto
+		}
+	}
+	. El entorno del proyecto{
+		. Nivel interno
+		. Nivel externo
+	}
+	. La Guia de SCRUM es de 12 paginas y lo dificil es aplicarlo porque depende de la cultura de la gente
 }
