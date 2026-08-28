@@ -1,8 +1,552 @@
-¿Cómo? Como algunos de ustedes también, que tenemos un salón bastante variado. Creo que en comedidas son. ¿Problemáticos? Sí. ¿Los cuáles? Lamentablemente. Lo cual es interesante porque en el proyecto se ven realidades distintas. A lo largo del curso, digamos, en algunos casos, por ejemplo, cuando venían de civil, de minas, también han venido. A veces veíamos proyectos hidroeléctricos, o sea, se van aprendiendo, ¿verdad? Así que es interesante tener un salón con distintas ingenierías. Pero bueno, de mi parte, yo estoy como, siento así total libertad de poder preguntar, poder interrumpir en el momento que así lo requiera. En lo posible, tratamos de mantener este espacio como un espacio, digamos, de confianza, donde puedan ustedes interactuar libremente, ¿no? Sin temor, sin miedo, digamos, a que alguna respuesta quizás sea incorrecta. Y en verdad, el curso tiene bastante apertura, y muchos de los conceptos que vemos, pues no tienen una respuesta única, ¿no? Entonces, sobre esa lógica, siéntanse con esa confianza. Sobre todo si están en los últimos ciclos. ¿Quiénes están en últimos ciclos? ¿Qué pasa? ¿Qué somos? ¿Qué somos? ¿Noveno? Ah, ahí son más. Entonces, si están sobre todo en el último año, y más aún en el último ciclo.
-
-Sí, ambos años. Deben aprovechar estos espacios como para poder conocerse primero entre ustedes y, dos, también interactuar. Porque, como seguramente ya habrán visto, para los que han practicado, al final, este, en las organizaciones necesitamos relacionarnos, no solamente con gente de nuestra área, sino con otros. Y estamos hablando de proyectos con más razón, ¿no? Porque nosotros no es que sepamos todo de todo, sino que somos facilitadores de muchas otras personas que trabajan con nosotros. Entonces, desde ese punto de vista, vamos a tratar, en lo posible, de poder interactuar. Habrá algunas clases donde sí hagamos algunas dinámicas con papelógrafos, con plumones, como para que no siempre estemos en las computadoras. Y habrán algunas otras donde sí, incluso armaremos algunas figuras con ladrillos para poder dar en práctica algún concepto. De eso un poquito se trata, para no hacerlo tan lineal, de poder tener algunas actividades que puedan, sobre todo, que a ustedes también les, digamos, motive, ¿no? A poder asistir, porque acá en la facultad no hay un mínimo de asistencia. De hecho, no hay, no hay un mínimo de asistencia, o sea, que si va a poder estar el salón vacío, pues no pasa nada. En gestión, si yo vengo, bueno, de hecho, también dicto en gestión, ahí sí hay un límite, ¿no?
-
-Pasas el 30%, pues todo está bien. Pero acá hay mucha más libertad, lo cual hace que seamos mucho más conscientes, ¿no? De poder asistir. Y en caso no puedan asistir, también me lo puedan comentar con confianza. Eso se los digo justamente como para hacerles sentir y notar que al menos en este espacio necesitamos entrar en esa confianza para que ustedes también tengan la apertura tanto conmigo y como con ustedes mismos para poder interactuar y participar. Ese es uno de los objetivos fundamentales. Principalmente, bueno, yo me dedico a la gestión de proyectos de tecnología, entonces yo trabajo en el BBVA por más de diez años. Bueno, en febrero cumplí diez años. Y, digamos, mi experiencia más llegada ahí, en el banco trabajamos con un meteorólogo, Marco Sánchez. Nosotros en el curso no vemos Marco Sánchez como tal, pero habrán ciertas clases donde sí vamos a tener un mix o un contraste para que ustedes también se puedan llevar esa experiencia. Y haremos algún contraste o unas dinámicas para ver y entender ambos grupos, que eso corresponde a la. Y como les decía, nuevamente, con total confianza, en verdad podemos interactuar sin ningún tipo de problema. Somos 40 personas.
-
-¿Cada grupo? Estamos 20, la mitad. Normalmente, la asistencia creo que está como que al 70%, así que seguro llegarán más. Así que, bueno, para que ustedes pongan una nueva mesa y ya van asistiendo. Normalmente dice la asistencia 70, esperemos que lleguen más personas. Eso es.
-
+00:00 Speaker 2: ...como algunos de ustedes también, que tienen un salón bastante variado, creo que son informáticos... ...lo cual es interesante porque los proyectos se ven en realidad distintas. A lo largo del curso, digamos, en algunos casos, por ejemplo, cuando venían, decidí de minas al grupo que han venido. A veces veía un proyecto de infraeléctrica, o sea, se va aprendiendo, ¿verdad? Así que es interesante tener que hacer un salón con disciplinas ingenierías. Pero bueno, de mi parte yo estoy como, siéntase en total libertad de poder preguntar, poder interrumpir en el momento que así lo requiere. En lo posible tratamos de mantener este espacio como un espacio, digamos, de confianza, donde... Pueden ustedes interactuar libremente, sin temor, sin miedo, sin alguna respuesta quizás sea incorrecta. En verdad, el curso tiene bastante apertura. Y muchos de los conceptos que vemos no tienen una respuesta única. Entonces, sobre esa lógica, siéntanse con esa confianza.
+01:10 Speaker 2: Sobre todo si están en los últimos ciclos. ¿Quiénes están en los últimos ciclos? Noveno,
+01:19 Speaker 1: ahí son más.
+01:21 Speaker 2: Entonces, si están sobre este en el último año, y más aún en el último siglo, deben aprovechar estos espacios como para poder conocerse primero ustedes y dos también interactuar, porque como seguramente ya habrán visto, para lo que han practicado, al final es en las organizaciones que necesitamos relacionarnos, no solamente con gente de nuestra área, sino con nosotros. Y estamos hablando del proyecto como a razón, porque nosotros no es que sepamos todo de todo, sino que somos facilitadores de
+01:53 Speaker 1: muchas otras personas como nosotros.
+01:57 Speaker 2: Desde ese punto de vista, vamos a tratar en lo posible de poder interactuar. Habrán algunas clases donde si hagamos algunas dinámicas con papel horas, con plumones, como para que no siempre estemos en las computadoras. Y habrá algunas otras donde sí, incluso armaremos algunas figuras con ladrillos para poder en práctica algún proceso. De eso un poquito se trata, para no hacerlo tan lineal, de poder tener algunas actividades.
+02:31 Speaker 2: Sobre todo que a ustedes también les, digamos, motive a poder asistir, porque acá no
+02:39 Speaker 1: hay un mínimo de dinero.
+03:06 Speaker 2: Lo cual hace que seamos mucho más conscientes. de poder asistir y en caso no puedan asistir también me lo puedan comentar con confianza. Yo se lo digo justamente como para hacerles sentir y notarles, al menos en este espacio. Necesitamos entrar en esa confianza para que ustedes también tengan la apertura tanto conmigo y con ustedes mismos para poder interactuar y participar. Esos son los objetivos fundamentales. Principalmente, bueno, yo me dedico a la gestión de proyectos de tecnología. Yo trabajo en BBVA por
+03:45 Speaker 1: más de
+03:47 Speaker 2: 10 años, bueno, en febrero cumplí 10 años.
+03:53 Speaker 1: Y, digamos,
+03:55 Speaker 2: mi experiencia más llegada es que en el banco trabajamos con un metodologo, Marco Sáquez. Nosotros en el curso no vemos, Marco Sáquez es como tal. pero habrán ciertas clases donde sí vamos a tener un mix o un contraste para que ustedes también se pueden llevar esa experiencia. Y ya tenemos un contraste o una dinámica para defender ambos problemas. Y como les decía nuevamente, con total confianza en verdad podemos interactuar con
+04:28 Speaker 1: un tipo de problemas. Somos 40 personas.
+04:35 Speaker 2: Estamos 20 de la mitad. Normalmente, la asistente debe estar como que al 70%. Así que seguro llegarán. Así que, vamos bien. O sea, ustedes pongan uno nuevamente. Normalmente dice la asistente a 70%.
+04:54 Speaker 1: Esperemos que llegue más tarde.
+04:58 Speaker 2: Eso con respecto a mí. Con respecto al curso, el día de ayer les compartí un cronograma.
+05:07 Speaker 1: con
+05:07 Speaker 2: todo lo que nosotros vamos a trabajar en el
+05:09 Speaker 1: curso,
+05:10 Speaker 2: que seguramente ustedes han podido
+05:12 Speaker 1: revisar. ¿Fue
+05:14 Speaker 2: en la mañana del día de hoy? Pues si no, y lo empiezan a ver aquí. Donde por semana está un poco la programación en la que nos encontramos lo grande. En nuestro curso, trabajamos en un proyecto, un proyecto que ustedes traen en el curso, de una organización que ustedes también traen. Si en caso no tienen una organización, pueden, por ejemplo, amigos de informática, generalmente presentan un proyecto, por el nombre del curso, pero... Creo que lo hacen en equipos de
+05:45 Speaker 1: proyectos.
+05:46 Speaker 2: Un trabajo, una aplicación, una página web. Generalmente es lo que he
+05:51 Speaker 1: visto que trae. Pero
+05:53 Speaker 2: los que no, pueden buscar tesis de proyectos pasados, de RPs. La idea de este curso no es elaborar o ejecutar el proyecto en sí, la realidad. Sino es brindar las herramientas, formatos, conceptos que los ayuden a buscar proyectos.
+06:12 Speaker 1: y esto que trae ustedes es un ejemplo
+06:15 Speaker 2: para que utilicen las herramientas pero finalmente esas herramientas las vamos a utilizar en el proyecto de Historia Paco de España
+06:23 Speaker 1: entonces eso
+06:27 Speaker 2: es un poquito la programación y sobre esto hay que notar he puesto las fechas algunas que están en rojo porque son entregables que vamos a presentar la misma semana en la que las vamos a invitar Ya vamos a entrar al detalle en punto de esto. Pero el primer paso para entrar en programa es entender que los trabajos se hacen bien equipos. Y los equipos van a estar compuestos por 5 personas. Somos 40, tendríamos que
+06:56 Speaker 1: tener 8 personas.
+07:06 Speaker 2: ¿Alguno ha sido guiante?
+07:13 Speaker 1: No hay tiempo. Yo he sido guiante. Pero
+07:16 Speaker 2: no teníamos eso que habrá sido. Es pura voz. ¿Les ha tocado venir de Escolares acá a la Universidad? Ojalá. Bueno, a veces son grupos más grandes, 20 o 25, y cuando están en el colegio y algunos que nos quieren venir a donde sí, es más difícil de controlar, pero con eso es más fácil. Han recibido también este Excel donde están los grupos de todos. La idea es que puedan pedir acceso, que el coordinador del equipo puedan pedir acceso para que pueda ir armando su equipo.
+07:49 Speaker 2: Entonces, los equipos son de 5, al final terminamos con 8. y en la medida que vaya pasando la clase o incluso los días siguientes pueden ir solicitando acceso y yo les voy dando acceso al coordinador para que seleccione el integrante y le colóquenlo
+08:06 Speaker 1: igual
+08:08 Speaker 2: las instrucciones para como seleccionar y seleccionar y esto nos va a servir para poder tener los 8 tipos
+08:26 Speaker 1: La
+08:27 Speaker 2: próxima clase también vamos a seleccionar nuestro delegado o delegado en el
+08:30 Speaker 1: salón. Ya
+08:33 Speaker 2: sabemos a qué se dedica, principalmente el contacto con el docente, traslado de quejas, su interés,
+08:39 Speaker 1: problemas, o
+08:41 Speaker 2: cosas positivas también. En general, el tiempo para corregir no puede estar bien.
+08:48 Speaker 1: Y
+08:48 Speaker 2: adicional a eso quizás...
+08:51 Speaker 1: Si es que, si
+08:53 Speaker 2: ustedes a mí así lo desean, ya no os voy a olvidar un poco partir al final del ciclo, que sería la exposición. O de repente, esta clase está
+09:06 Speaker 1: en el sábado de Halloween, creo. Sí.
+09:15 Speaker 2: ¿Alguna vez
+09:16 Speaker 1: lo hicimos en gestión?
+09:22 Speaker 2: Bueno, entonces, el delegado básicamente es un nexo, ¿no? Entonces, creo que a su vez también la facultad le dan incentivos de
+09:32 Speaker 1: un micro-ojo, de
+09:34 Speaker 2: este campo. Y además porque ejercen ciertos liderazgos sobre los
+09:41 Speaker 1: compañeros, porque son
+09:42 Speaker 2: un contacto directo.
+09:45 Speaker 1: Entonces
+09:46 Speaker 2: podrían animarse. Y la siguiente clase, si hay más de uno,
+09:50 Speaker 1: hacemos una presentación de cada uno.
+09:52 Speaker 2: Y si es solamente uno, y si no hay ninguno,
+09:57 Speaker 1: a dedo. Sorteo y ya.
+10:02 Speaker 2: Eso es, pues acá está el archivo.
+10:05 Speaker 1: de los
+10:06 Speaker 2: integrantes. Ahora sí vamos a leer el sílabo. Este ciclo hay siete horarios
+10:20 Speaker 1: de cursos, hay un montón de gente que
+10:23 Speaker 2: se llama el curso. No es un curso, iba a decir que es un curso sencillo, pero es un curso, en verdad no es tan complicado,
+10:32 Speaker 1: si es que le necesitamos atención a lo que vamos a explicar.
+10:36 Speaker 2: Termina siendo un curso del cual podemos obtener una buena nota.
+10:39 Speaker 1: entonces hay que aprovecharse,
+10:41 Speaker 2: y vamos a ver ahora por
+10:44 Speaker 1: qué y cómo hacer eso posible.
+10:48 Speaker 2: Vemos que en el curso hay muchas ingenierías que lo pueden llevar, entonces por eso es que es un curso que de alguna forma tiene que ser un promedio a la necesidad de todos. Por eso no está en el extremo ni de ágil, ni de interpretativo. O sea, ni tipo de extremo. Esto es un proyecto que tiene que ser como algo promedio porque atiende una relación bastante... El curso, como tal, tiene una nota única que se publica a final del ciclo, en diciembre, pero ustedes van a saber obviamente la más próxima medida que vamos
+11:27 Speaker 1: a ver.
+11:32 Speaker 2: El primer componente del curso es el 30% que corresponde a evaluaciones en faileña, que son 5. Son 5 evaluaciones de 15 minutos presenciales que van a llevarse a cabo a las 11 de la mañana, o sea, de 11, 11, 15, en 5 fechas durante el
+11:56 Speaker 1: ciclo.
+11:58 Speaker 2: Y digo que son presenciales para que al menos ese día
+12:01 Speaker 1: estemos todos presentes.
+12:04 Speaker 2: Porque si no estamos, no pueden. Ese día de evaluación hay
+12:10 Speaker 1: que estar presente.
+12:12 Speaker 2: Y el día de evaluación lo pueden ver aquí, donde dice evaluación 1, 2, hasta el 5 del día. Por ejemplo, la próxima evaluación sería el 5 de septiembre y los temas evaluados corresponderían a conceptos y principios, conceptos y principios, que serían las dos primeras clases. Entonces, cinco evaluaciones tienen ya marcados ahí los días. 11 de la mañana a 11.15. Y el promedio de las 5, 30% del público. ¿En qué consiste la evaluación? 10 preguntas para marcar.
+12:52 Speaker 1: ¿No?
+12:53 Speaker 2: Con alternativas.
+12:57 Speaker 1: ¿Y dónde?
+12:59 Speaker 2: Necesitamos una razón de confianza. No podemos consultar ningún material. Otro tipo de herramienta que nos
+13:07 Speaker 1: ayude a
+13:09 Speaker 2: absorber el examen de forma
+13:11 Speaker 1: fácil. Dicho
+13:14 Speaker 2: eso, no pueden usar inteligencia. Obviamente. Pero por este caso, les comento porque la evaluación no van a rendir. 3, 2,
+13:27 Speaker 1: y
+13:29 Speaker 2: bueno, 15 minutos hay que absorber por el final. En verdad, no es tan poco sencillo, así que no hay por qué arriesgarse. No debería haber.
+13:40 Speaker 1: Y
+13:40 Speaker 2: con eso, vienen el 30% y asegurado que es bastante. Luego de eso de ahí, vienen los exámenes, ¿no? 20% del examen parcial, 20% del examen final. el cual se desarrolla en viernes 16, creo que 4 de diciembre. No recuerdo, el examen es a las
+14:09 Speaker 1: 11 y media de la mañana. Los
+14:14 Speaker 2: que trabajan tengan en cuenta eso. Igual si ha pasado algo, si pasa algo y yo no estoy, me mandan más un correo para hablar con la próxima. para que los deje entrar, solamente se ha pasado obviamente algo muy grave. Pasó algo y se les pide llegar, y que necesitan irles grave, por si hay alguna justificación grave, y ahí lo dan para que los deje
+14:43 Speaker 1: pasar.
+14:44 Speaker 2: Pero en lo posible, tomen sus precauciones para llegar a tiempo al examen. El curso es sencillo, pero obviamente hay que ir al examen para hacer el contacto. Entonces cada examen vale 20%, el examen tiene una estructura también parecida en ambos casos, y corresponde a 8 puntos de preguntas para marcar,
+15:07 Speaker 1: y los otros 12
+15:10 Speaker 2: de desarrollo. Esos puntos de desarrollo están ligados a herramientas que vamos a ver en el curso, y son de hecho cosas que ustedes también van a trabajar para sus proyectos. ¿Cuál es el secreto? Ustedes, si hacen los entregables, van a saber hacer esto. Obviamente, si no hacen los entregables, y en su grupo solo es uno de los trabajos y los demás no,
+15:38 Speaker 1: bueno, acá van a ser más estudiantes.
+15:40 Speaker 2: No van a tener que estudiar más. Van a saber cómo hacer esto. Pero en verdad, si todos trabajan en los entregables que vamos a dejar cada semana, cada 12 semanas más o menos, esto va a ser sencillo y van a tener una buena nota. es generalmente lo que pasa entonces ahí tenemos 30, 50, 70 y
+16:00 Speaker 1: de ahí se divide
+16:00 Speaker 2: otro 30% está ligado a primero empezamos por el aquí es el 20% de exposición entonces ahí también se abre en exposición parcial y en exposición
+16:19 Speaker 1: final
+16:23 Speaker 2: y ahí si vamos a hacer una pequeña explicación un
+16:29 Speaker 1: poco en
+16:31 Speaker 2: pro de obtener una buena nota Hemos dividido los entregables de cada una de estas disposiciones en entregas parciales o subentregas que dan lugar a estas entregas. ¿Qué quiere decir eso? Por ejemplo, comienza la calificación en la semana 3 con un primer entregable que es el acto de constitución.
+16:57 Speaker 1: Después, en esta fecha.
+17:00 Speaker 2: Después viene el entregable 2, el ELT, que es otro documento, el entregable 3, que es otro documento llamado el cronograma, y finalmente el 4, que es otro documento. ¿En qué consiste el entregable parcial? En la suma de esos cuatro. Entonces, ¿cuál es el truco de que ustedes han presentado cada uno de estos? no importa equivocarse acá porque el costo es bajo que ahorita lo voy a saber pero suma mucho tener feedback porque al final cuando lleguen acá ya tienen todo eso corregido y seguramente acá van a tener una alta nota porque ya saben que estuvo mal y solamente lo vamos
+17:45 Speaker 1: a volver a presentar con todo corregido entonces por
+17:50 Speaker 2: eso es importante presentar cada uno de estos en la flecha propuesta para que tengan pinta lo rican y cuando vienen acá ya lo tengan súper pinta ¿por qué? porque esto de acá la entidad de parcial si va directamente a esta evaluación para la evaluación de aquí de este 20% que se podría dividirlo en 10-10
+18:21 Speaker 2: Va la expo más el informe, cada uno. Pero como el informe ya lo van a tener prácticamente corregido, seguramente el informe va a ser la
+18:31 Speaker 1: nota alta.
+18:33 Speaker 2: Y la expo, bueno, ya depende. ¿Está claro? Por eso que normalmente este grupo, estas notas, por lo general lo que pasa es que todas estas notas están medias bajas, porque hay varios errores que atinar al inicio, pero las notas que más pesan terminan siendo altas, porque ya tienen todo el aprendizaje, digamos, ahí puesto para que pasen el mismo. ¿Está
+19:04 Speaker 1: bien?
+19:05 Speaker 2: ¿Pregúntanse? Mi último 10%, no menos importante,
+19:14 Speaker 1: tiene que ver con un
+19:16 Speaker 2: promedio de actividad realizada. Y ahí le vamos a meter todos los entregables parciales que han hecho para llegar obviamente a esto. Han habido entregas semanales. Y también habrán ciertas dinámicas en la clase que van a sumar a ese 10%. ¿Qué tipo de dinámicas? Quizás, como les decía al inicio, ¿no? Algunas herramientas que vamos a hacerlas en papelógrafo, compost, armando
+19:52 Speaker 1: algunos dos, de lo que
+19:55 Speaker 2: sea. Igual, esas dinámicas también se mencionan por aquí. Para que lo sepan, sepan siempre qué va a haber en la casa. No hay nada oculto.
+20:10 Speaker 1: Y
+20:10 Speaker 2: con toda esa información, calculamos ya de 100 a 100. Entonces, en resumen, ¿qué cosas tenemos? Un 70% que viene por,
+20:22 Speaker 1: digamos,
+20:24 Speaker 2: esfuerzo individual. Por haber respondido 5 evaluaciones en Paideia y en los exámenes, tanto parcial que final, 80%. Y otro 30%, que es más en
+20:36 Speaker 1: equipo. Gracias.
+20:39 Speaker 2: Porque tiene que ver con su trabajo, la ex, con los informes. Pero obviamente si no hacen esto, luego el examen no lo van a poder hacer tan sencillo, porque es lo mismo que se pregunta acá en lo que han resultado en el trabajo. Entonces, es un curso que normalmente tiene notas altas. Entonces hay que aprovechar esta parte. Y ya sabemos por qué. Porque de alguna forma los van llevando a tener cuatro minutos en la medida que van por el tiempo, van enterando.
+21:18 Speaker 2: ¿Preguntas?
+21:19 Speaker 1: ¿Haciendo?
+21:25 Speaker 2: O al contrario, nueve meses que no
+21:27 Speaker 1: presentan, la notas que van.
+21:32 Speaker 2: y finalmente hay un bonus al final sobre
+21:52 Speaker 1: esta
+21:57 Speaker 2: de acá, 6% Hay una certificación que pueden hacer de acá. Como vamos a ver, o sea, como lo que vamos a tratar nosotros es de que en la medida que va pasando el curso vamos a ir pidiendo algunas herramientas del marco ágil. Al final de todo el curso, ustedes deberían tener una idea de que funciona esto del marco. Entonces, para los que desean, podrían recibir esa certificación que es gratuita.
+22:29 Speaker 2: y colgarla el último domingo, cuando termino sus exámenes, creo que jueves, día de semana, el último domingo, en
+22:41 Speaker 1: el plazo de clases, hacer la
+22:44 Speaker 2: certificación, y eso les daría dos puntitos más, no es mucho, pero igual les puede sumar a ustedes desde el punto de vista de sus perfiles. para si quieren proyectos de pronto una certificación adicional pueden quitarle gracias no les toman mucho tiempo probablemente o sea inclusive la página de aquí les da los videos para que lo puedan hacer recordar y finalmente tienen la certificación no mucha gente lo hace pero igual si no lo hacen ahora en el sitio igual queda la página para que lo hagan en un momento y hay también unas guías que están colgadas ahí así que es como esto nunca se valió
+23:33 Speaker 1: más
+23:35 Speaker 2: que como este extrazo
+23:36 Speaker 1: esa es
+23:42 Speaker 2: y eso es correcto Entonces, conclusión de esta parte, el cronograma lo puedo revisar siempre, está ahí vivo, que lo tienen compartido,
+23:57 Speaker 1: está toda
+24:00 Speaker 2: la información del curso, y
+24:04 Speaker 1: sobre todo con las fechas.
+24:05 Speaker 2: Con eso termino. Para que se vea justamente este beneficio de que ustedes puedan recibir el feedback y ese entregable pueda ser fin, que ustedes puedan tener la nota y todo eso que les he explicado, necesitamos ser bien estrictos con
+24:22 Speaker 1: las fechas.
+24:23 Speaker 2: Son varias cosas que vamos a corregir y son varios estrictos que corregir.
+24:29 Speaker 1: Entonces,
+24:30 Speaker 2: hay algunas que voy a hacer en alcohol rojo para que puedan ustedes... Estar como sin alerta a esa fecha. ¿Por qué? Porque, por ejemplo, en el caso de este entregable, la clase se da el 5, o sea, como ahorita, el 5, y el entregable se presenta ese mismo día a la media noche. ¿Cuál va a ser la recomendación? De que en la clase 2 lo vamos a ver, porque es un formato que ustedes ya como para que vayan completando. Por más que no lo hayamos visto en la clase. sí lo pueden ir haciendo, porque es una rata de
+25:08 Speaker 1: criterio.
+25:10 Speaker 2: Entonces, hay solamente dos, creo, que están en rojillo,
+25:14 Speaker 1: donde vamos
+25:17 Speaker 2: a tener esa... Ustedes también planifiquen con su equipo, de que esos entregables se van a presentar en ese día.
+25:30 Speaker 1: Pero
+25:30 Speaker 2: hay otros que sí son más extendidos. Pero de alguna forma está hecho para llegar a tiempo. Al enterable parcial. Por eso está un poco apretado. Eso es. Eso sería con respecto a las fechas. Igual, ya todas las fechas también están actualizadas en Paideia. Pero sí les recomiendo que le den una revisada cuando ya tengan su equipo. Para que ustedes mismos ya se programen, sabiendo cuándo van a entregar, qué día, etc. Ya vayan separando su tiempo, sus días, cómo lo van a coordinar, cómo lo van a trabajar. Y así también ustedes se planifican. Porque ya saben hacia dónde tienen que ir.
+26:15 Speaker 2: porque luego si movemos algo de acá se va a empezar a desordenar todo va a ser complejo de lo posible
+26:22 Speaker 1: hay que tratar de cumplir
+26:24 Speaker 2: con las fechas por ejemplo un
+26:26 Speaker 1: beneficio para ustedes es
+26:29 Speaker 2: acá van a tener chance por ejemplo hacen la PPT si parecería pero el informe como tal el informe parcial que va a valer más una
+26:40 Speaker 1: semanita más
+26:43 Speaker 2: por eso hay que cumplir básicamente el plan para que sea también un beneficio para que ustedes no les aprendan tanto en las entregas digamos más complejas pero si aprendemos en las entregas que
+26:58 Speaker 1: son digamos más de
+27:02 Speaker 2: menos de menos eso
+27:04 Speaker 1: eso
+27:04 Speaker 2: sería la
+27:07 Speaker 1: conclusión
+27:11 Speaker 2: Ya sabemos eso, ya sabemos que hay que formar ocho equipos, ocho personas cada uno. En el archivito el coordinador solicita el acceso.
+27:26 Speaker 1: Nombre
+27:26 Speaker 2: de un delegado y de forma opcional pueden nombrar a ese tipo también. Para identificarlo de alguna forma Si no, acerca de los maternos del equipo
+27:39 Speaker 1: 1, 2, 2 ¿Quieren poner su nombre? Y eso es por respecto... ¿Hay crasteros? ¿Hay crasteros?
+27:50 Speaker 2: A ver, alguien no puede hacer eso, ¿no? Ah, bien, bien Como nadie se conoce, justamente vamos a empezar con la parte derecha. identificar expectativas del curso. Entonces, como ya somos más, partimos justamente de que este es un espacio, otra vez, un espacio seguro, etc. Donde cualquier cosa que llegamos se va a quedar en este espacio sobre el cual necesitamos que ustedes se les envuelvan en este
+28:31 Speaker 1: entorno de confianza de manera abierta.
+28:35 Speaker 2: Tranquila. Entonces, vamos a ver si ese mensaje ha
+28:38 Speaker 1: llegado a usted.
+28:40 Speaker 2: Para preguntarle, de forma, digamos, voluntaria, ¿qué expectativas tienen en curso? Entonces, podrían ustedes decir su nombre, su carrera,
+28:51 Speaker 1: y si tienen alguna expectativa, no la
+28:54 Speaker 2: tienen tan bien, estamos por espantar el
+28:56 Speaker 1: curso. No
+28:59 Speaker 2: para marcarlo, ¿sabes? No para comentarlo. Yes.
+29:06 Speaker 1: Hola chicos,
+29:08 Speaker 2: mi nombre es Ezequiel Vaca, tengo 21 años, sé la carrera de Quillenía y Dramática y bueno, mi objetivo básicamente es cuadrar bien la gestión que hice del proyecto de derechos que estoy llevando para ver si es que lo he hecho adecuadamente, porque sube capaz de pasar por mi cuenta de un proyecto y el material que viene, pero quería ver cómo dice la teoría realmente que se va a hacer.
+29:47 Speaker 1: Bueno, buenos días a todos. Mi nombre es Regina Sánchez, tengo 21 años. También estudio la carrera de Ingeniería Informática. Y relativamente a nivel de expectativas, espero poder ver mucho de lo que son ya los conceptos base de la edición de proyectos que... La verdad que considero que ya su utilidad no sea proyecto propio, sea proyecto más adelante. Es siempre importante conocerlo. Hasta simplemente ya para poder aprender y comunicarse. Si es que eres parte de, por ejemplo, tienes que poder saber comunicarse de los diferentes conceptos, qué técnicas se tienen que tener para quién dirige las cosas, cómo se dirigen las cosas, cuál es la orientación de los procesos que se tienen que ejecutar. Y por eso al menos considero que esto es lo más importante que me hicieron.
+30:34 Speaker 1: Buenos días a todos, soy Jorge Chamorro, actualmente estoy estudiando la carrera de Ingeniería Informática y me encuentro en el noveno ciclo. Y bueno, yo lo que espero en el curso es aprender distintas metodologías, herramientas técnicas que puedas poner en práctica justamente en una comunidad estudiantil que estoy liderando, que es una comunidad estudiantil multidisciplinaria. Eso sería todo, muchas gracias.
+31:03 Speaker 1: Hemos empezado súper bien, ¿no? Tres personas. Uy.
+31:07 Speaker 2: Tres informáticos. Tengo acá, ahora.
+31:12 Speaker 1: A una vez. Por
+31:26 Speaker 2: saludar a tu compañero.
+31:34 Speaker: También tengo 21 años. Estoy en la carrera de Ingeniería Informática. Y bueno, la verdad es el curso. Espero que pueda aprender. Porque cuando yo puedo salir de este...
+31:59 Speaker: a poder comprender mejor cómo funciona en general los proyectos que tienen las empresas y cómo eso puede afectar a los sistemas que poseen, porque no son proyectos de emigración en proyectos de... ¿Puedes entender cómo esto se funciona y cómo afectar tanto en el tema que nos hicieron como en el tema del desarrollo, ¿me podría ayudar a desempeñar mejor mi trabajo y en general a los estudiantes?
+32:49 Speaker 1: Bueno, buenos días, yo soy Ana Garra. Es un gusto estar aquí, también estoy ingeniería informática, tengo 21 años, y mis expectativas son que realmente podamos llevarnos bastante el fundamento de la función de proyectos, porque creo que independientemente de las ideas informáticas o industriales, la forma de trabajar es siempre con proyectos y objetivos, entonces siento que eso suma bastante. También el hecho de que estemos en...
+33:26 Speaker 1: Y bueno, más allá de lo académico, mi expectativa también es que en realidad sea un curso donde... podamos estar tranquilos, donde la pasemos bien, porque la verdad es que al menos del lado de la informática tenemos el gusto de estar con bastantes compañeros que nos conocemos, que nos hemos dividido entre diferentes ciclos y de alguna manera habemos varios aquí, entonces creo que es una bonita oportunidad de pasarnos un momento todos. Yo particularmente también tengo amigos de industrial y creo que varios informáticos también y creo que es una expectativa que realmente es un curso divertido para todos.
+34:18 Speaker 2: Algo diferente a este salón, por ejemplo, es que se han puesto de
+34:20 Speaker 1: pie, cada vez que han hablado. Hola, buenos días. Soy Rodrigo Lin, de Ingeniería Informática. Estoy en el décimo ciclo, tengo 21 años. De este curso, la verdad, tengo una estrategia un poco diferente de los de informática, porque... No, no. Sí, en el curso sabemos cosas de programación, desarrollo, inteligencia artificial y varias cosas.
+34:46 Speaker 1: Yo estoy más orientado a lo que me ha dado cuenta es un poco más a norte de gestión de proyectos. Estoy en el banco crédito, por ejemplo, y llevamos iniciativas todo el tiempo para viajar en el área de estrategia. Entonces es importante, más que, bueno, la parte del desarrollo y del técnico es importante para la ejecución, pero yo quiero verlo desde una parte más de llevar el proyecto, de saber qué hacer, para qué va a servir, siendo que esas son cosas que puedo aprender en este curso y por eso quiero también ver esa parte de ustedes industriales que creo que dominar un poco más en ese sentido. Gracias.
+35:28 Speaker 1: Yo soy Eduardo Finsa, de 21 años también, en la carrera de Ingeniería Industrial. Bueno, expectativas de curso. En principio, genial reconectarme también con mis compañeros de otras carreras que nos conocimos en el primer ciclo.
+35:45 Speaker 2: Super.
+35:46 Speaker 1: Y en segundo lugar, este, también, bueno, yo era, bueno, practicaba la experiencia. Y estaba como RCA. en banca comercial, entonces la parte que más me llamó la atención fue
+36:01 Speaker 2: la parte del flujo de iniciativas que
+36:04 Speaker 1: pasaban todos los equipos a las unidades y nunca he tenido la oportunidad de ver cómo se llevaba un proyecto y cómo se manejaba todo ello, entonces el equipo de salud también tiene un rol muy importante desde el encuentro. Entonces, siempre he querido ver eso, entrar en una mesa de control. Nunca he tenido la oportunidad de ver cómo se lleva todo el tema de los líderes también.
+36:29 Speaker 2: Tiene mucho, un proyecto. Entonces, creo que
+36:32 Speaker 1: este curso busca ellos, ¿no? Inicia un proyecto hasta el final y luego el trabajo de una carrera y todo eso. Y nada,
+36:40 Speaker 2: eso. Gracias. ¿Alguna más? 2, 4, 6, 6, 7, 8,
+36:57 Speaker 1: 8, 9, 10, 11, 12, 13, 13, 14, 14, 15, 16, 16, 17, 18, 19, 20, 20, 21, 21, 22, 22, 22, 23, 23, 24, 24, 24, 25, 25, 26, 27, 28, 28, 29, 29, 29, 30, 29, 30, 29, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, Hola, ¿qué tal? Yo soy Jerel, tengo 22 años y estoy estudiando Ingeniería Industrial.
+37:16 Speaker 1: Realmente las expectativas que tengo del curso son bastante altas, no solamente porque toda la carrera vemos cómo se gestionan los proyectos, cómo es un proyecto, las ganas de suministros y demás, sino que también quiero ver un poco más el lado aplicativo. Actualmente formo parte de ADN, la asociación de estudiante ingresado de Ingeniería Industrial. y de otras agrupaciones, asociaciones estudiantiles, y muchas veces nosotros cuando hacemos un proyecto siempre lo hacemos de modo atractivo, no se nos da como que el tema de planificar o seguir un objetivo mismo. Entonces sí, realmente, sinceramente quisiera ver un poco más allá de las formas, formatos que hay que llenar, sino como realmente... Creo yo que al hacer un proyecto es más que nada una inversión de tiempo, de recursos, de esfuerzo. Entonces, más allá de, ok, cumplí con lo que quería, ¿cuánto valor le he agregado? Entonces, eso y espero que podamos aprender bastante. Veo que no sabía que era un curso de otras carreras, entonces espero que podamos aportar un poco de todo. Y nada, siempre es como que buscamos que aprovechar el máximo curso, especialmente que ya es de los últimos años.
+38:27 Speaker 1: Perfecto.
+38:30 Speaker 2: Creo que está bueno, o sea, no sabían, que se conozcan de antes, eso va a ser algo interesante. Porque podría permitir hacer otro tipo de dinámicas, o cuando las hagan, que realmente las aprovechen. En un punto, por ejemplo, hay dinámicas que tienen que ver con el equipo encima de desarrollar los equipos. Si se conocen de antes, yo creo que van a sumar bastante. Normalmente lo que pasa es que para el equipo no se conoce y luego con las dinámicas que se ven a conocer, nos terminan con la actitud que ustedes tienen el día de hoy. Así que aquí, de alguna forma, tendría que pasar algo mucho más común.
+39:09 Speaker 1: Y así como los veo a ustedes,
+39:12 Speaker 2: ahora los he dicho al finalizar el curso, a los otros grupos. Si ustedes comienzan así, deberían estar
+39:18 Speaker 1: más cohesionados. Esperemos que así
+39:22 Speaker 2: sea. Igual, como lo decía al inicio, cualquier cosa que ustedes vean, o que necesiten, que no estén de acuerdo, o que de repente falle, siempre lo pueden comentar, si no es directamente en alguna cosa que tengamos, a través del Estado, sin ningún problema,
+39:40 Speaker 1: yo los voy a
+39:42 Speaker 2: tomar en cuenta, porque... La idea al final es que tenga usted la mejor experiencia y como comenta su compañero, el proyecto que hacemos nosotros no solamente lo determinamos por la cantidad de pasos o formatos que completaron, sino por el valor que se genera al crear. El usuario final. En este caso, el usuario final del curso, etc., con ustedes. En la medida que ustedes tengan satisfacción en los servicios
+40:13 Speaker 1: que están recibiendo. Y
+40:15 Speaker 2: si no, siempre tienen espacio para poder recibir nada. Solo nos esperemos al final, porque acá no vamos a
+40:23 Speaker 1: hacer nada.
+40:24 Speaker 2: Pero sí en el transcurso.
+40:26 Speaker 1: Que ven algo que se pueda mejorar.
+40:30 Speaker 2: Esta es una parte ya más formal para cerrar nomás la lectura del sílabus. En el curso vamos a reconocer las prácticas de gestión de proyectos y sobre todo desempeñándose adecuadamente como miembros de un equipo, no solamente de un grupo, es decir... no solamente dividirse en responsabilidades para su tiempo de trabajo, sino realmente sentir que ustedes son un solo equipo y ese equipo es el que finalmente presenta un resultado, que está en el trabajo de todos. Y no solamente eso, sino que también desarrolla sus habilidades de comunicación entre ustedes y que el liderazgo de repente en el equipo también se va a rotar para que todos puedan tener esa experiencia.
+41:20 Speaker 2: Y finalmente, bueno, aplicar las herramientas que vamos a trabajar y los proyectos que ustedes van a traer. Como metodología, nosotros tenemos un espacio de la clase en sí y algunas actividades que van a variar de cada clase. Y también habrá un espacio para que ustedes avancen su trabajo, de ser posible, para que no se lleven todo el trabajo a la casa. Ustedes podrían avanzar también el trabajo desde aquí, en los últimos. en los últimos 20 minutos por ahí del año.
+41:53 Speaker 2: Y la evaluación es continua en la medida que recortamos las evaluaciones de Paideña. Solamente son 5 y que también podamos participar en la clase porque también esa participación sumará a este componente de acá, ¿no? El 10% de por aquí.
+42:12 Speaker 1: Y
+42:12 Speaker 2: más allá de la nota, inclusive. para ustedes también tener la confianza
+42:16 Speaker 1: de poder participar.
+42:19 Speaker 2: Eso ya lo vimos, equipo de cinco personas, el cronograma ya está. La retroalimentación la van a tener generalmente los lunes, porque presentamos sábado a
+42:32 Speaker 1: medianoche.
+42:34 Speaker 2: Domingo a la noche, lunes a la mañana deben tener la retroalimentación ya puesta. Tienen la opción también de marcar... ¿Qué miembro del equipo no participó? En principio la nota es la misma para todos, pero si hay alguno que no participa, demarcan o no.
+42:53 Speaker 1: Y en
+42:54 Speaker 2: la exposición final, pues incluí todo el debate. Esa es. Las evaluaciones ya les expliqué. Cinco evaluaciones de opción múltiple. Después tenemos el parcial final. Eso también ya les expliqué el esquema. Y el break. Importante. El break más o menos será a las once y media. Aproximadamente. Quince minutos. ¿Lleva una evaluación de proyectos? A la onda de la tarde. En lo posible vamos a prepararse aquí un poquito. Cuando tengas práctica igual, tienes que salir. ¿Avisan más?
+43:50 Speaker 1: Porque
+43:50 Speaker 2: claro, como tienen de una a cuatro, una a tres. En lo posible, claro. Los compañeros que tengan evaluación a la una, avisan, ¿no? Si de repente
+44:02 Speaker 1: tienen que salir antes, avisan.
+44:05 Speaker 2: por esta consideración de este proyecto. Normalmente el break sería de 15 minutos, 11 y media aproximadamente, y después del break tomamos asistencia. Entonces, con eso ya empezamos la sesión 1 de conceptos básicos. Y lo primero sería que pensemos en proyectos, decir qué
+44:32 Speaker 1: ideas ustedes
+44:35 Speaker 2: comienzan a tener cuando alguien le dice proyectos.
+45:08 Speaker 1: Siempre que se tiene que estar con una acción de recursos. Objetivos. Objetivos.
+45:34 Speaker 2: Estaban en el curso.
+45:52 Speaker: Indicador de infección. Soporte. Perfecto. Bueno, no estamos en medio de personas. Recursos.
+46:26 Speaker: Buen life, buen life. Importantísimo. Evolución económica. Ya está toda la respuesta allá. Ahí no es. Evolución. Mejora conmigo.
+47:06 Speaker 2: Ya estamos, ¿no? Entonces, pues se han dado bastantes ideas que están muy ligadas a lo que vamos a ver en el proyecto. Y en principio, algunas de esas ideas las vamos a tratar de, o acercarnos al concepto, así como lo estamos haciendo desde su participación, también desde una imagen. Y vamos a pensar en que... Esta imagen de aquí me corresponde a un edificio que hoy existe en San Cielo.
+47:38 Speaker 1: De repente la han visto. Por ahí.
+47:41 Speaker 2: Vamos a pensar de que se han hecho dos proyectos. Vamos a asumir. No solamente nada. Algo puntual. Que han hecho un proyecto para hacer esta torrecita de acá. Y han hecho otro proyecto para hacer esta torrecita de acá. Dos proyectos. La pregunta que les hago es, si ustedes creen que
+48:06 Speaker 1: ambos
+48:08 Speaker 2: resultados de estos proyectos son iguales o son diferentes.
+48:17 Speaker 1: Entiendo.
+48:20 Speaker 2: ¿Por qué son diferentes o por qué son diferentes?
+48:25 Speaker 1: Podrían ser diferentes personas que son en plazos de tiempo. Y pensando
+48:42 Speaker 2: ya en el edificio, o sea, en el final del proyecto, ¿ese entregado es igualito?
+48:53 Speaker 1: ¿Por qué
+48:57 Speaker 2: no necesariamente?
+49:14 Speaker 1: Gracias. Una de las cosas que se puede tomar como lecciones aprendidas hasta el primer edificio es saber qué tipo de disposiciones, qué tipo de apartamentos, qué tipo de departamentos se tiene que priorizar y no, porque digamos que en el primer edificio lo que se tiene que encontrar es el tipo de departamento A con cierta disposición, entonces vamos a priorizar eso para el proyecto B, porque estamos considerando que queremos optimizar lo que estamos hablando a partir de lo que hemos aprendido en el primer edificio.
+49:57 Speaker 1: Funciones, entiendo de que interiormente un edificio funciona para otras cosas que el segundo edificio, ya que no vería sentido, por ejemplo, si fuese una empresa, el área esté dividida en ambos edificios. Uno tendría que tener cierta cantidad de funciones y el otro otra.
+50:18 Speaker 2: De acuerdo con ustedes entonces, ambos edificios podrían parecer... a su vista iguales a primer
+50:28 Speaker 1: plano pero
+50:31 Speaker 2: por la misma razón que ustedes están diciendo pues existen ciertas diferencias y si supiéramos un poquito más de contexto
+50:39 Speaker 1: seguramente extrañamos más desde
+50:41 Speaker 2: el punto de vista por ejemplo de los acabados de repente si hay algún trabajo manual exactamente al ser manual esa persona no ha replicado el mismo efecto podrían haber diferencias Lo que finalmente nos hace concluir de que cada proyecto tiene un resultado único. Y por más de que ustedes quieran repetir los mismos pasos para generar un proyecto con el mismo resultado, entre comillas, no va a ser exactamente lo mismo.
+51:14 Speaker 2: Si nosotros, de alguna manera también, ustedes tienen un método de estudio y se lo quieren pasar a otro compañero, oye, hace esto y va a celebrar tal cosa. No le va a salir exactamente igual, porque hay condiciones que varían en su entorno, en el mismo, etc. Entonces, esa es la primera característica de un proyecto. Que cada proyecto tiene un resultado que es único. Por más que lo respetamos, nunca vamos a conseguir nada parecido.
+51:41 Speaker 2: Y este proyecto que tiene un resultado único, también tiene un inicio y un fin. Lo que quiere decir... que tiene una característica de temporalidad o es temporal, porque no es un proyecto eterno, no es algo que hoy inicia y de uy, cuándo acabará, sino que tiene un inicio y un fin marcado y en ese periodo de tiempo se genera ese resultado único del que
+52:08 Speaker 1: acabamos de mencionar.
+52:11 Speaker 2: Entonces, segunda característica de un proyecto es que es temporal, porque existe solo un periodo de tiempo. Se ha marcado un fin para tenerse asustado. Lo siguiente es que ese esfuerzo temporal que acabamos de hablar, sirve también, como ustedes lo han dicho hace un ratito, para poder cumplir objetivos. Ustedes, por ejemplo, acá ya mencionaron inicio y fin, que tiene que ver con la temporalidad. Objetivos, efectivamente, en ese periodo de tiempo, ustedes van a cumplir objetivos.
+52:49 Speaker 2: objetivos que van a ir ligados al valor que queremos lograr y el valor es lo que nosotros vamos a poner a disposición de nuestros clientes que pueden ser internos dentro de las organizaciones o externos finales del servicio, del producto que estamos
+53:08 Speaker 1: elaborando
+53:09 Speaker 2: entonces ese proyecto de resultado único, también es un resultado que permite el cumplimiento objetivo. No es algo que simplemente se hace en fin, sino porque hay ciertos objetivos que seguramente van con algo que también mencionaron acá, la estrategia de la organización. Porque finalmente la estrategia a nivel macro marcará una ruta general, pero luego se descomponen ciertos objetivos. y algunos de esos podrán ser alcanzados a través de proyectos.
+53:45 Speaker 2: Puede haber N objetivos que seguramente de acuerdo a cada organización podrán ser llevados desde distintas formas, pero habrán algunos de los objetivos que gracias a los proyectos podremos
+54:01 Speaker 1: llevar
+54:04 Speaker 2: ese tipo de iniciativas. lo fundamental aquí también es que comiencen
+54:12 Speaker 1: a visualizar de
+54:15 Speaker 2: que el proyecto no solamente se ejecuta sino que en su concepción responde a un objetivo que
+54:24 Speaker 1: tiene que ver con la estrategia directamente
+54:26 Speaker 2: de la organización que basado en esa estrategia el proyecto podría ser priorizado o no priorizado Como si en el caso de ustedes, por ejemplo, quisieran especializarse de repente, no sé,
+54:39 Speaker 1: en logística,
+54:41 Speaker 2: que tienen un presupuesto de mil soles para llevar cursos de logística. Si se comienza a llevar cursos, no sé, de Historia del Arte, chévere tener un curso, pero no va al objetivo que ustedes quieran lograr. Sería una inversión que no nos estaría acercando. Entonces, por eso es importante saber la estrategia. Porque la estrategia conecta con el objetivo del proyecto y permite decidir a la organización si es que prioriza o no. No lo va a priorizar nuevamente cuando
+55:10 Speaker 1: no es algo que está
+55:11 Speaker 2: relacionado con su estrategia. Y finalmente, este esfuerzo temporal, de resultado público, que tiene objetivos, que responden a una estrategia, sirve también para poder generar o crear valor. Y el valor será lo que nosotros vamos a poner a disposición de los clientes y que va a ayudar a resolver problemas
+55:38 Speaker 1: o satisfacer necesidades.
+55:41 Speaker 2: Por eso es que... Es bastante importante que en el diseño del proyecto tengamos en cuenta a ese usuario. Nosotros, de hecho, esa parte no la vemos en el curso porque asumimos... Lo vamos a ver acá.
+55:59 Speaker 1: Si
+56:00 Speaker 2: nosotros descomponemos, digamos... a toda la gestión en tres grupos. En un primer grupo está el historio de descubrimiento de la idea que debemos desarrollar, después estará el desarrollo como tal del proyecto y finalmente la entrega. En el caso nuestro, nosotros partimos de aquí para el curso,
+56:32 Speaker 1: de aquí en adelante.
+56:34 Speaker 2: Toda la parte de aquí del cubrimiento es algo que nosotros no vemos. Pero justamente en esta parte del cubrimiento es donde aseguramos el valor porque aplicamos marcos que nos ayuden justamente a estar seguros de que este valor satisface necesidades o resuelve problemas del usuario.
+56:58 Speaker 2: Para esta parte, por ejemplo, marcos como el Design Pinking, que seguramente han escuchado, se aplican porque justamente va a ir al usuario a entender esta necesidad, ese problema, y con eso va a generarse una idea que después se convierte en un prototipo.
+57:20 Speaker 2: que finalmente se evalúan con los usuarios, y con esa certeza de que efectivamente eso que hemos creado aquí satisface la necesidad, vamos a decir, ah ya entonces, el proyecto tiene como alcance tal y va a convirtir en crear A, B, C, D, porque satisface la necesidad de tal usuario. Pero si no hacemos todo esto,
+57:48 Speaker 2: tenemos el riesgo de entrar a desarrollar algo que quizás no va a satisfacer completamente el problema de necesidad del usuario. Por eso que esta etapa es súper importante y es una etapa que no necesita tanta inversión porque usando las tecnologías actuales, por ejemplo, a nivel de prototipos, Sabemos que podemos hacer prototipos en papel, en papelógrafo, en cartón, usando herramientas digitales, con inteligencia artificial, haciendo un pro, o sea, n maneras de hacer prototipos de bajo costo, pero con la idea de poder probar una idea. ¿Y eso qué significa? De hacer algo. Usted puede decirle a su usuario, oye, mira, he creado esto para solucionar tu problema.
+58:40 Speaker 2: Úsalo y dime qué te parece. Y en ese feedback, al final, para que este prototipo realmente tenga, digamos, exista cierta certeza de que solucione un problema. Y con esa certeza poder decir, ya está, estoy listo ahora sí para construir el proyecto. Lo que voy a desarrollar es esto y ya paso ya directamente a la parte de desarrollo.
+59:09 Speaker 2: Nosotros en nuestro curso comenzamos desde aquí, por eso es que lo que se les pide a ustedes es que traigan un proyecto que quizás ya está hecho, o de repente incompleto, una idea que la organización ya haya trabajado, con el objetivo de ayudarles a,
+59:28 Speaker 1: digamos, No llenar, pero digamos,
+59:35 Speaker 2: ayudarles a que tengan todos los formatos en cuenta para poder desarrollar y tener un proyecto, pero que previamente ya ha sido descubierto. Eso, solo se los comento. Para que lo tengan ahí en cuenta, de que no solamente es porque se les ocurre una idea hoy
+59:51 Speaker 1: día y ya comenzar a fabricar, sino que
+59:54 Speaker 2: aquí hay toda una lógica. Y principalmente el design thinking
+59:59 Speaker 1: es un marco.
+01:00:01 Speaker 2: que nos ayuda muchísimo en tratar al usuario, para poder realmente darles lo que esperan. Eso es por esta parte de ello. ¿Alguien ha usado el centímetro?
+01:00:16 Speaker 1: ¿Algunas?
+01:00:18 Speaker 2: Varias, ¿no? Desde el colegio. Entonces, no es difícil. Pero es bastante potente y podría llegar a tomar mucho tiempo. Sobre todo en la fase inicial, el patital. Es una de las fases, digamos, más importantes. Porque si no conocemos al usuario, si no hacemos esa conexión, nunca vamos a entender realmente cuáles son sus índices y finalmente descubrir cuál es su necesidad. Y si no hacemos ese análisis de forma tan profunda, luego de esto que vamos a desarrollar no va a tener el efecto que buscamos.
+01:00:58 Speaker 2: Entonces, eso por eso se los recalco para que cuando les toque volver a trabajar en algún... marco, digamos, su debería que descubra una necesidad, tengamos ese enfoque desde hoy. Esto lo hacemos no solamente porque sí hay que destruir, sino porque realmente veo eso se va a convertir en una inversión ya de dinero que la empresa va a poner para poder fabricar eso que hemos dicho que va a solucionar problemas. Si no soluciona nada, habremos invertido algo y no cumpliremos con los objetivos. Es por eso esa parte importante.
+01:01:37 Speaker 2: Y eso nos asegura crear valor. ¿Por qué? Porque realmente hay alguien que nos está esperando. Existe una sociedad salud o un problema que resolver y eso será una solución finalmente esperada por el usuario. Realmente vamos a generar valor en esas personas. Por eso es importante también hacer esa acción.
+01:02:03 Speaker 2: Y eso es. Entonces, ya en general, dentro de la gestión de proyectos que nosotros vamos a ver, acabamos de definir un proyecto como resultado único, temporal, que cumpla objetivos y que genera valor, como definición del proyecto. Y como definición ya de gestión de ese proyecto, tendríamos la aplicación de las herramientas que nos ayuden a cumplir esa obtenencia. Y son las herramientas que nosotros vamos a trabajar en el curso, que están aterrizadas en ciertos formatos. Formatos que van acompañando toda esta tabla. El desarrollo, hasta la entrega. Pero en sí no es que vayamos a desarrollar el proyecto, solamente lo vamos a plantear. No es que vamos a
+01:02:50 Speaker 1: desarrollar códigos. No
+01:02:53 Speaker 2: solamente... Vamos a documentar cada etapa hasta llegar a cómo debería entregarse.
+01:03:03 Speaker 1: En
+01:03:04 Speaker 2: un entorno real, eso que nosotros hacemos a nivel de documentación tendrá un equipo que lo comience a plasmar ya en el desarrollo de la plataforma, sin comer. Y acá hay otra lámina interesante. Ya sabemos que son proyectos, ¿no? Pero ahora que son operaciones. Aquí les suena operaciones. para
+01:03:39 Speaker 1: operar dicha solución. Al menos yo lo asocio con mi temática ya en eso de que cuando ya te quedas y ya está en producción. Esa es la solución que somos. Esto ya es cuando ya se está manejando. Ya listaste todo, ya probaste todo y ahora sí ya está disponible o parcialmente disponible de acuerdo a cómo se está llevando a cabo el despliegue para el cliente.
+01:04:08 Speaker 1: También lo imagino como algo del software, pero si tuviera que ir a la administración, ¿no? Sería operaciones sobre el conjunto de actividades que atacan directamente al objetivo.
+01:04:19 Speaker 2: Puede ser.
+01:04:22 Speaker 1: Ponemos más conjunto de actividades. Todo tiene que
+01:04:27 Speaker 2: tener sentido. ¿Está bien?
+01:04:29 Speaker 1: Hay más.
+01:04:32 Speaker 2: Industriales, tenemos que tener una operación. Vamos, vemos tanto operación. ¿Han tenido alguna planta de producción alguna vez? ¿Cómo son plantas de cerveza?
+01:04:51 Speaker 1: ¿Costinas? Depende. Por ejemplo,
+01:04:59 Speaker 2: llegué en 2014, lo practiqué en barco. En la planta de arte.
+01:05:04 Speaker 1: ¿Cómo se llama planta de arte?
+01:05:06 Speaker 2: De cerveza. Y las plantas están en sota. O sea, no todas. Todas de cerveza estaban en sota. Entonces, una planta es un espacio gigante, donde tú ves que muchas cosas funcionan automáticamente, y seguramente ahorita será mucho más automáticamente. Pero finalmente es una operación continua. Y hay tres turnos, y en lo posible que una planta siempre esté en funcionamiento, salvo que se haya de cambio móvil,
+01:05:40 Speaker 2: de fruto, etcétera, obviamente la ciudad debe ser más corta. pero la idea es que es algo continuo
+01:05:53 Speaker 1: pero
+01:05:58 Speaker 2: antes de tener esa planta que hoy ya funciona continuo por ejemplo en el caso de Bacu es que la cerveza viene y todo se hace de una forma automatizada hasta que terminan las botellas las cajas y se va un palo y ya va directo al camión y todo el circuito es súper rápido.
+01:06:22 Speaker 2: Anterior a eso, existió solamente un espacio, un vacío. Y seguramente existió la necesidad de hacer una planta y existe un equipo de proyectos que comenzó a idear cómo sería esta planta. Hasta que finalmente construyeron una planta y... habrán hecho una primera prueba piloto y finalmente ya tenemos nuestra planta de producción de cerveza.
+01:06:50 Speaker 2: Entonces, ese primer momento, antes de que exista como tal esa planta de funcionamiento, la deriva el equipo de proyecto, que se preocupó justamente de obtener ese resultado. Entonces, de acuerdo a la necesidad, el equipo de proyecto, para seguir en un ejemplo, Haber elaborado una planta de producción, la puso en funcionamiento, hizo
+01:07:14 Speaker 1: una primera corrida, listo.
+01:07:16 Speaker 2: Check, el equipo de proyecto dio su objetivo, pero eso no ha quedado ahí, ¿no? Porque la planta que les cuento sigue funcionando hasta el día de hoy, se mantiene el tiempo
+01:07:26 Speaker 1: y continúa y continúa.
+01:07:28 Speaker 2: Entonces lo que quiere decir, algo que con todos los compañeros, es que no existe otro frente que le da soporte a esa operación. Porque ese resultado único o que se ha creado funciona, pero luego si se queda así sin administrarse, pues terminará siendo un resultado que se pierde en tiempo. Porque no hay alguien que le dé seguimiento a las ideas, que le dé mantenimiento, que repare las fallas, que capacite. Entonces, necesariamente, así como tenemos un grupo de equipo de proyecto que... nos genera un resultado único, tenemos que tener un equipo de operaciones que mantenga ese resultado público.
+01:08:10 Speaker 2: Operaciones en general, porque aquí se podría distinguir varios tipos de equipos, puede ser el contact center o la gente que recibe la llamada para poder responder reclamos, puede ser la gente que dé incidentes o problemas en la aplicación o en este caso de planta. que le dé mantenimiento a las máquinas.
+01:08:31 Speaker 2: O sea, puede haber acá más equipos, pero la idea es que exista un equipo encargado
+01:08:37 Speaker 1: de hacer el resultado único y
+01:08:40 Speaker 2: otro equipo encargado de mantener ese resultado único. Si no existe esto, o el resultado único se pierde el tiempo
+01:08:50 Speaker 1: y finalmente nadie lo usa,
+01:08:52 Speaker 2: o que sería un principiador, porque igual de malo, que el equipo del proyecto vea los dos frentes. que esté haciendo cosas nuevas, resultados únicos, pero que también esté de otra vista mirando la paga de incendios de esos que ha creado hace tres meses. Y si pasa eso, nos dirá poco. No sabría hacer vender lo nuevo o dar solución a lo que hicieron. Por eso es que es necesario hacer esta transferencia. Del resultado único al equipo de operaciones, se hace una transferencia. Porque la función del equipo de proyecto es velar por que ese resultado único sea entregado de acuerdo a los objetivos propuestos. Pero que una vez entregado, exista otro frente que le dé seguimiento.
+01:09:40 Speaker 2: Pero luego, le explicamos esta ida. Pero luego podría haber una vuelta.
+01:09:49 Speaker 1: Y
+01:09:49 Speaker 2: esa vuelta se produce cuando el equipo de operaciones detecta, por ejemplo, mejora,
+01:09:55 Speaker 1: falla.
+01:09:56 Speaker 2: Y el equipo de operaciones dice, mira, ¿hay uno mejor? No sé. La mayoría de los clientes están quejando por tal cosa. De repente, si ajustas... STX o incluye tal cosa, eso
+01:10:09 Speaker 1: se va a reducir. Entonces,
+01:10:11 Speaker 2: el equipo de Puerto Rico también podría recibir feedback de ese apuntado original creado.
+01:10:16 Speaker 1: Y eso, tenerlo
+01:10:18 Speaker 2: mapeado para que en el futuro se encuentre una mejor versión o una nueva versión de ese apuntado original creado. Por eso, que hay unida y vuelta. No solamente es transferencia de colegio de Luis se va a dar tu carácter, sino es yo encargándome del tema aquí. También de retornimiento de pinto. Porque al final, lo central es que eso maximice la experiencia del cliente. Entonces, basado en eso, pues ambos trabajan de la mano. Porque busca que ese resultado sea lo más top para el cliente que está atento. ¿Está claro?
+01:10:57 Speaker 2: ¿Han usado, por ejemplo, la línea 1 del método? Hay algunos que nunca se han subido al pinto. Pero bueno, en esa experiencia, para hacerla corta, porque ya es justo sobre si media, tenemos un proyecto que fue la línea 1,
+01:11:20 Speaker 1: y
+01:11:22 Speaker 2: si ustedes ya pasaron varios años de eso, y si ustedes suben hoy, los valores están en check, o sea, se ven limpios. hay buena comunicación, hay finalización, ¿no? Entonces, de alguna manera ese soporte al servicio está siendo súper bueno, ¿no? Porque lo mantiene, está manteniendo siempre ahí. A diferencia de repente, no sé, ¿no? A veces, por ejemplo, yo, sirve para que lo pueda decir porque no sé realmente el contexto, pero por ejemplo, cuando yo venía a la universidad hace, cuando estudiaba, me venía en las 40.
+01:12:00 Speaker 2: unos buses rojos, cuando yo los usaba esos buses tan nuevecitos, un bonito bus de nuevecitos, y la otra vez que los vi, se están todos rayados, chancados, es una desgracia, entonces probablemente no le dan mantenimiento, nadie se puede parar, pero se dan cuenta como el servicio comienza a degradarse, por eso es importante que este frente exista. Porque si lo ponemos en algo, digamos, más tangible, ¿no? O no sé, ya. Si no existe esto, pues seguramente en la medida que la gente reclame, no hay una respuesta. O sea, eso no sirve, no sirve, no sirve,
+01:12:41 Speaker 2: no sirve nada de estar en los datos. Por eso es importante ese frente. Porque da respuesta y mantiene ese resultado. Obviamente hasta que ese resultado, pues ya haya cumplido su ciclo, ¿no? Por ejemplo, los teléfonos públicos. Ah, no sólo ustedes serían autónomas. ¿Con monedas? ¿Con monedas? ¿Sí? Sí, se puede. Ya no existe.
+01:13:10 Speaker 1: Ya tampoco es.
+01:13:11 Speaker 2: A veces hay algo. Ya, pero por ejemplo, ahí, claro, es que, o sea, ya cumplió ciclo. O sea, ya, ahí ya, no hay más que mantener. Pero en su momento, claro, era como que había gente que iba, ¿no? Y sacaba el dinero, ¿no? Y recolectaba el dinero. o seguramente le hagan mantenimiento a la Jabil, etc. Pero llega un momento donde ya, simplemente porque, no por dejadez del equipo de operaciones, sino porque ya cumplen su ciclo, ese resultado único ya desaparece.
+01:13:45 Speaker 2: Pero la conclusión de esa lámina es que todo lo que hemos visto del proyecto, que mide todo lo que nos ha costado llegar a fabricar el proyecto, con toda la investigación, todo lo que hemos visto para tener ese resultado único, tiene que mantenerse en el tiempo para que se mantenga un cliente de operaciones sin encabezas. Justamente el deber es de mantenimiento y que retroalimente también el equipo del proyecto para que la experiencia del cliente atendido siempre sea la mejor.
+01:14:14 Speaker 2: Eso es entonces por esa primera parte. podemos tomar un descansito de 15 minutos 11 y media tiempo
+01:14:23 Speaker 1: pueden
+01:14:28 Speaker 2: ir armando su turno
+01:14:59 Speaker 2: Y la lámina de aquí básicamente es el ciclo de vida del proyecto a nivel de asuntamiento. General que comienza desde los requisitos, el diseño del proyecto, pasa por una etapa de construcción y pruebas hasta que finalmente se entregue. En su momento obtenemos esta información. Lo importante de esta lámina para esta clase es que la entrega no solamente queda ahí, sino que hay todo un soporte después. Un soporte al equipo de operaciones, un
+01:15:30 Speaker 1: soporte al equipo de mantenimiento,
+01:15:32 Speaker 2: y quizás en el futuro, ¿no?, un soporte de otro equipo que va a reemplazar esa solución que acabamos de generar, ¿no? Ya están 5, 10, 15 años. Cuando haya cumplido su vida útil, seguramente ese resultado se va a retirar del mercado, como pasó, por ejemplo, con el teléfono que conversamos. Y acá viene el enfoque de desarrollo, el enfoque predictivo, híbrido y adaptativo. En el caso de nuestro curso nos vamos a ir por el enfoque más predictivo, no vamos a ver nosotros muy a fondo el enfoque adaptativo, porque eso tiene que ver mucho con el contexto en que se desarrollan los proyectos.
+01:16:25 Speaker 2: ¿A qué les suena el enfoque predictivo?
+01:16:30 Speaker 1: Quizás de anticiparse a algo nuevo que va a salir del mercado. El concepto de generar algo que es más innovativo. Entonces, de
+01:16:47 Speaker 2: alguna forma nos permite anticiparlo.
+01:16:52 Speaker 1: ¿Alguna teoría?
+01:16:57 Speaker 2: Mientras en un caso quiero yo anticiparme.
+01:17:21 Speaker 1: Alguien más?
+01:17:25 Speaker 2: Y tiene mucho que ver con lo que vamos a describir, mientras que en un caso de ese tipo de proyectos, justamente como pueden de alguna forma predecir el resultado que necesitan, podrían anticiparse y hacer una planificación super detallada de lo que se va a requerir. Y en el caso de aquí,
+01:17:45 Speaker 2: los cambios en el entorno generan de que nos tengamos que adaptar en el tiempo con ese resultado. Del lado de aquí, por tanto, van a estar los marcos más tradicionales, los que son basados en el PMI, como en el estándar del PMI. Y para el lado de aquí estarán los enfoques, digamos, están ligados a los marcos ágiles, como tipo fiscal,
+01:18:15 Speaker 1: por ejemplo.
+01:18:17 Speaker 2: Y en el centro tendremos un enfoque híbrido que mezcla de una forma ambos. en un enfoque que permite tomar las mejores prácticas de los dos juntos. En el caso de sus trabajos, ustedes podrían elegir ir por alguno de estos enfoques. Si hay alguno, por ejemplo, que va a trabajar con un enfoque híbrido, porque de repente para las etapas iniciales lo va a ver más predictivo, pero si quieren plantear, por ejemplo, su desarrollo usando Scrum, lo vamos a poder hacer. porque los formatos que vamos a mostrar van a tener esa adaptación. Si por el contrario todo lo van a trabajar en predictivo, también lo van a poder hacer. Así que en ese momento vamos a ver cómo también podemos aplicar el CRAM para un proyecto.
+01:19:08 Speaker 2: ustedes van a ejecutar
+01:19:11 Speaker 1: la idea.
+01:19:12 Speaker 2: La idea es que se lleven la práctica de los dos, pero principalmente el curso va a ser enfocado en la idea.
+01:19:19 Speaker 2: ¿Pero eso es? Entonces, conclusión de la lámina, la elección del enfoque de desarrollo depende del contexto en el que se desarrolla el proyecto. Si un contexto más conocido o desconocido. Un contexto más conocido, por ejemplo, es anunciado a los proyectos de construcción. Si van a hacer un edificio, el contexto es totalmente conocido, o sea, son todos los pasos que tienen que seguir, ¿no? Desde el diseño hasta finalmente le entrega el edificio. Pero si de repente van a hacer una solución de tecnología usando inteligencia artificial, es algo que no van a poder predecir, las actualizaciones, cómo va un poco cambiando, es algo que no se va a poder proyectar a mucho tiempo. Quizás pueden hacer una proyección a tres meses, a seis, pero no a uno o dos años, porque puede cambiar mucho. Y ese proyecto podría necesitar muchos cambios de alcance. Entonces, como no queremos que eso pase en un enfoque adaptativo, tratamos de hacer entregables mucho más corto.
+01:20:22 Speaker 1: Y
+01:20:22 Speaker 2: acá es como que
+01:20:23 Speaker 1: un
+01:20:26 Speaker 2: ejemplo más clarito de lo anterior.
+01:20:30 Speaker 1: En un enfoque adaptativo,
+01:20:32 Speaker 2: nosotros buscamos tener un resultado, sí, pero un resultado que se pueda construir en el tiempo. Si, por ejemplo, nosotros necesitamos o tenemos la necesidad de tener un cuadro, en un enfoque adaptativo, Ya sabemos que necesitamos el cuadro y ese es el último fin. Pero para llegar a ese cuadro yo podría hacer entregas parciales que me acerquen a ese objetivo. Por ejemplo, podría tener una entrega inicial donde ese cuadro es un boceto a lápiz que de alguna forma me ayuda a visualizar cuál es el entregable. El usuario podría comprarme
+01:21:16 Speaker 1: este boceto.
+01:21:19 Speaker 2: Podría usarlo porque es un producto terminado, no final, no se ve bonito, pero es que haga un acercamiento y también me podría dar fila de ese entregable. Sobre ese entregable yo podría hacer correcciones, podría ajustarlo y más adelante sacar una nueva versión para que ahora este boceto esté,
+01:21:40 Speaker 1: digamos,
+01:21:42 Speaker 2: con color. Pero aún así el usuario podría seguir dando pitua hasta llegar a un último entregado donde ya no es el cuadro final.
+01:21:49 Speaker 1: Entonces, en
+01:21:51 Speaker 2: un enfoque adaptativo lo que buscamos son entregables cortos. No buscamos la perfección del producto, pero sí entregables cortos que puedan estar en menor tiempo en las manos del cliente. Si han escuchado, por ejemplo, que vienen otras empresas como Rébulos al
+01:22:13 Speaker 1: sistema financiero.
+01:22:14 Speaker 2: Entonces, ¿qué pasaría si una empresa al sistema financiero comienza a demorar mucho tiempo en desarrollar su producción? Por hacerlo tan perfecto, se demora un año en traer algo. Quizás otra empresa que viene de afuera ya lo tiene. Podría perder la oportunidad en el campo. Por esa razón, en mi forma adaptativa, nosotros priorizamos el entregable más importante que pueda ser fabricado en muy corto tiempo y sobre eso vamos iterando versiones hasta tener un producto mucho más consolidado. Otro ejemplo más visual de eso podría ser que se usara la plataforma. ¿La han usado? ¿La han usado? ¿La han usado? Yo la acabo de usar porque me di mi intervención.
+01:23:09 Speaker 1: Pero esta
+01:23:12 Speaker 2: plataforma no siempre fue así. ¿Alguien la ha usado otros diseños?
+01:23:19 Speaker 1: Bueno,
+01:23:21 Speaker 2: para terminar el ejemplo, les quiero dejar con esto esto siguiente. Hoy esta plataforma, al ver, entiende... o nos permite gestionar un montón de operativos, un montón de instituciones, que tienen que ver con muchas entidades. Pero cuando esta plataforma empezó, no tenía todas las operativas de Freeway Payback. Tenía solamente algunas, las más importantes, donde probablemente una de esas había sido en la reglita, o el trámite del reglito. Y bastó de eso, o bastó seleccionar las más importantes para que la plataforma vea la luz, para que la plataforma sea usada por la gente. Pues esto digamos en la lámina de aquí. Sería esta nuestra primera versión. Una plataforma que prioriza las transacciones más importantes y que con eso comienza a probar con la gente.
+01:24:23 Speaker 2: Si la gente no hubiese tenido respuesta y nada hubiese entendido, pues de repente la plataforma hubiera quedado ahí y la inversión con la pérdida hubiera sido mínima. Pero qué tal si sabiendo que la gente, mejor dicho, antes de esa cosa, si yo no hubiese hecho eso y por el contrario no hubiese esperado tener todo lo que la plataforma tiene ahorita y hubiera esperado recién a tenerlo todo completo para lanzarla seguramente esa plataforma que dio servicio durante la pandemia recién hubiese estado el año pasado y
+01:25:04 Speaker 1: con
+01:25:06 Speaker 2: el riesgo de que toda la inversión de repente no sea bien recibida Como estamos hablando de algo muy transformacional, como es el caso de la plataforma,
+01:25:19 Speaker 1: lo
+01:25:19 Speaker 2: más adecuado es que si es un entorno transformacional, cambiante, si no estamos seguros de lo que estamos creando, porque son finalmente hipótesis de solucionar problemas, deberíamos trabajarlo con un enfoque más adaptativo, porque eso nos permite tener entregables más cortos, acotados, que no sean versiones finales. pero que sí permita probar con los usuarios. Porque así nos vamos a dar cuenta
+01:25:47 Speaker 1: si efectivamente esa
+01:25:49 Speaker 2: solución es bien aceptada o no, y si no lo es, incluyen firmas para corregirle la siguiente. Pero si en un entorno que sabemos que es cambiante, que no estamos seguros, que es una hipótesis lo que hemos planteado, nos ponemos a desarrollar el proyecto entero, hay un alto riesgo de que todo ese desarrollo lo repense. no sea entendido por la gente, porque es tan transformacional que encima que le pusieron tantas funcionalidades, no terminan entendiendo una para que usen la plataforma, pero van a ingresar todas completas. Es un poquito el enfoque al momento de elegir cómo gestionar el proyecto.
+01:26:42 Speaker 1: Gracias. Gracias. Gracias.
+01:26:59 Speaker 2: La idea es al final, como comentó mi compañero, que descubran en sus proyectos, en meses pasados en este enfoque, qué es lo más importante que les pueda recibir y qué efectivamente satisface el problema de la necesidad más importante. Podrían apoyarse de estadística, podrían apoyarse indicadores, podrían apoyarse de repente de multa, o sea, diversas formas de cómo seleccionar esa parte más importante, pero lo crucial es que en este tipo de proyectos, violice. Porque obviamente la lista es inmensa. Ustedes podrían solicitar, no sé,
+01:27:36 Speaker 1: un auto full
+01:27:38 Speaker 2: de equipo, pero inicialmente con que tengan el auto sin radio, no importa, ya está, no se transporta. Y en la medida que va a pasar el tiempo, les voy a ir agregando cosas. Es como el WhatsApp. Al inicio, solamente se comunicaba y ya está. Y era un hit. Y después, ya de intercambio de archivos, de escuelas y de llamadas. Por ahora, en las últimas épocas, como en las últimas, ya pueden compartir pantalla, entonces cada vez
+01:28:07 Speaker 1: nada más.
+01:28:10 Speaker 2: Pero no es que se empezó así desde el inicio, sino que desde el inicio se priorizó la necesidad más importante que era de comunicarse entre personas. A diferencia de un enfoque más tradicional, donde efectivamente existen fases, Pero las fases simplemente son partes del producto. Partes que si lo vemos de forma independiente no van a poder ser usadas. Como si cuando fabricara un auto, por ejemplo. Una parte está en las llantas, otra parte está en el capó, otra parte está en los asientos. Entonces, independientemente, si ven cada parte, efectivamente el proyecto está avanzando en su porcentaje de gestión. Hoy estoy al 60%, al 70%, al 80%. y genial, pero de manera funcional ese porcentaje de fusión no asegura de que yo pueda usar en ese momento el proyecto o el producto que están construyendo a diferencia de acá. En un entorno más tradicional o de un contexto predecible esperamos a tener el desarrollo completo para recién darse al cliente para que lo use. Por eso que eso lo hacemos cuando realmente estamos seguros de lo que estamos haciendo. Tipo, por ejemplo, un edificio, una planta de producción,
+01:29:28 Speaker 2: un acertario de test, un puente, carretera. Son tipos de proyectos donde, o de cifras, sé lo que estoy haciendo porque satisfaza la necesidad y el resultado tiene que ser terminado para que el cliente lo use. Pero si estamos en un entorno más cambiante,
+01:29:45 Speaker 1: en tecnología, en
+01:29:47 Speaker 2: aplicaciones, páginas web,
+01:29:51 Speaker 1: hasta inclusive proyectos que tengan que ver
+01:29:53 Speaker 2: con cambios culturales, que son pruebas y errores, no nos mandaríamos a ir por acá, porque sería invertir tanto tiempo en una idea completa que no estamos seguro. Cuando pasa eso, tendremos que ir por acá, para que de todos los beneficios que tengan este día, seleccionemos la más importante.
+01:30:15 Speaker 1: Y sobre eso comenzamos a trabajar.
+01:30:18 Speaker 2: Y aunque no lo crean, hacer esta división es complicado, porque a veces los jefes van a tener todo. Sácame todo, todo completo. Y depende de ustedes, de justamente hacer esa negociación. para seleccionar qué es lo más importante. Haciendo preguntas como qué necesidades estamos satisfaciendo, cuáles son los puntos de dolor, cómo sabemos priorizarlo, o sea, qué indicadores tenemos, le pueden meter indicadores financieros, como ustedes por ahí mencionaron,
+01:30:54 Speaker 2: y otros factores que finalmente nos ayuden a decidir con qué seremos. Y esa negociación es complicada en la práctica. porque la gente va a querer simplemente por todo. Pero cuando les explicamos, no, pero, o sea, ¿por qué no poner algo mínimo en las manos del cliente para que este lo vaya usando y vamos a evolucionar? Entonces, eso va a ser simplemente un reto, ¿no? Sobre todo para los que puedan ir a la parte del proyecto. Porque el usuario siempre va a pedir todo.
+01:31:26 Speaker 2: Pero ustedes dependen un poco, tienen el criterio para hacer estas divisiones. En caso se pueda... Y en caso no efectivamente, como en los tiempos de proyecto que mencioné, sí tendremos que tener todo. Es como si ustedes construyen su casita de un piso, pues no es que vayan a poder vivir con el baño, con un cuarto, sino que van a tener mínimamente casi toda la casita, su instalación, etcétera, para poderse habitar.
+01:31:56 Speaker 2: Por eso que hay tipos de proyectos que aplican muy. En el caso de nuestro curso, todos están orientados aquí. Justamente por las carreras a las que atendemos, está más orientado a un enfoque predictivo. Pero lo que sí vamos a hacer nosotros es un enfoque hídrico para que si ustedes traen proyectos de entender por ejemplo con tecnología, podamos hablar de las cosas de acá. para combinar más con el coquillo. Acá me refiero con eso, a que ustedes van a plantear en cierta parte el curso de un enfoque predictivo y seguramente para el desarrollo lo hacemos
+01:32:33 Speaker 1: adaptativo.
+01:32:37 Speaker 2: Por sprint, usando el track,
+01:32:40 Speaker 1: y ahí ya hacemos un match entre A.
+01:32:47 Speaker 2: A nivel de roles, tenemos nuestro rol de equipo, que es el sponsor o patrocinador del proyecto que en GIF determina el presupuesto. GIF tiene la billetera y nos da el presupuesto por el proyecto. Y después está el jefe del
+01:33:02 Speaker 1: proyecto, ustedes,
+01:33:04 Speaker 2: quienes se encargarán de dirigir, digamos, a todos los equipos dentro del proyecto. Y debajo de ustedes estarán ya los equipos como tal. ¿Qué nos quiere decir esta lámina más allá de la jerarquía? Que nosotros no trabajamos solos. Y que si hoy estamos aquí con varias ingenierías, tenemos que aprovechar, porque nosotros interactuamos con distintos roles, no solamente que entendemos. Para sacar, no sé si trabajar de repente en Saga y quieren ofrecer un producto en su página web, no solamente es la tecnología para visitar el producto, sino de repente hoy en el industrial para ver el stock. el legal para ver que efectivamente se está ofreciendo el precio adecuado, si es una oferta, que los términos estén explícitos, y así, ¿no?
+01:33:50 Speaker 2: ¿Cómo para una sola cosita, el de marketing de repente para ofrecer la campaña? Entonces, ¿cómo un cambio puntual en la plataforma que acabamos de mencionar? ¿O detrás tiene varios roles? Con lo que hay por lo que hay. ¿Y quién es la cara visible de todo eso en el gerente proyecto? Ustedes, quienes lideran a todo ese equipo que está debajo para hacer cumplir esos objetivos que se han propuesto. Por eso que, más allá de la estructura, es saber hacer
+01:34:25 Speaker 1: consenso entre los proyectos.
+01:34:28 Speaker 2: Porque no es que ustedes sepan la especialidad de cada uno. Pero si sabemos un poco direccionar nuestras especialidades en torno a los objetivos que tenemos en el programa. Y eso es un
+01:34:42 Speaker 1: poquito lo
+01:34:42 Speaker 2: importante. Entonces, eso nos lleva al siguiente concepto de los stakeholders o interesados. Los stakeholders son todos aquellos, aquellas personas, áreas, incluso organizaciones que están interesados en este proyecto. Pues tenemos que ser conscientes que un proyecto está transformando una situación. O sea, tenemos una situación actual y vamos a pasar una situación distinta o mejorada. Bueno, debería ser mejor. Pero esa transformación va a afectar a personas. Si hoy, por ejemplo, ustedes saben que para entrar a la universidad necesitan mostrar su DNI y ayuda.
+01:35:26 Speaker 1: La persona de seguridad se está leyendo en los varios debates.
+01:35:31 Speaker 2: Si mañana ponen biometría facial y ponen una cámara para que todos pongan delante y no avisan a nadie,
+01:35:38 Speaker 1: seguramente se van a dejar a ustedes.
+01:35:41 Speaker 2: Y lo peor sería que ni siquiera funcione la identificación. Estén 5 minutos por persona, imagínense las colas cabellas, sería un caos. ¿Qué quiere decir eso? De repente es súper bueno, porque ya no necesito estar con la gente ahí. Escaneando cada DNI, si no es una cámara que está haciendo galógicamente, así pues no funciona, hay deficiencia, esas personas pueden cuidar otra parte de la universidad, todo perfecto, pero dejar al usuario final que no ha sido peor, porque ahora el usuario final tiene que ser colas más grandes. no estaba bien calibrado, no se hizo un piloto, no se hizo una comunicación, de repente alguno vino a la justa para el examen y ahora el nuevo proceso lo retrasa.
+01:36:27 Speaker 2: ¿Cuántas cosas comienzan a surgir a partir de que no se consideraron a todos los actores clave del proyecto? Y en ese caso, obviamente la clave era el usual, sería usted. Pero así como ese ejemplo, a nivel interno de la organización, hay áreas que también están, que deberían ser informadas. Por ejemplo, los que estaba su compañero al inicio, hay áreas de control que necesariamente también tienen que participar en las
+01:36:56 Speaker 1: iniciativas.
+01:36:57 Speaker 2: Voy acá, por ejemplo, a la universidad. La plataforma oficial para dejar planes virtuales sube. Si un día a mí se le ocurre otra cosa, se necesitaría ir hacia la UNED y hacer una publicación sobre ese software que está aprobado de forma oficial. Porque en el caso de la universidad, la UNED es ese actor que administra toda la política universitaria, con las novas, etc. A nivel,
+01:37:25 Speaker 2: por ejemplo, de los bancos, será
+01:37:26 Speaker 1: la superintendencia,
+01:37:28 Speaker 2: la SBS, bancos y seguros,
+01:37:32 Speaker 1: y así.
+01:37:33 Speaker 2: Cada sector tendrá su propio centro, y los entes dan dos normas que rigen al sector. Entonces, habrán áreas de las organizaciones que están especializadas en dar cumplimiento a las normas, porque posterior a eso habrán auditorías, y si no se cumplen las normas, se cumplen. Dicho eso, en un proyecto, al momento de hacer un proyecto, no solamente es publicarlo al interno, al equipo, al cliente, como tal, sino convocar a
+01:38:03 Speaker 1: más
+01:38:03 Speaker 2: áreas de la organización. Si es que no hay un flujo definido,
+01:38:10 Speaker 1: trataremos
+01:38:12 Speaker 2: de convocar a la mayoría o continuaremos con el jefe para ver qué áreas aplican. Pero normalmente en empresas grandes ya debería haber un grupo definido de cómo hacer esos anuncios para los campos. Pero si no lo hay, y ustedes están comenzando de cero, tendrían que apoyarse o de algunas personas que tengan experiencia para filtrar esa lista de convocatoria o
+01:38:34 Speaker 1: convocar a todos para de
+01:38:35 Speaker 2: alguna forma saber a quiénes les podría perjudicar ese cambio. Porque la importancia en esta parte es comunicar lo que están haciendo. Aquí todavía no están fabricando nada, están solamente contando en perspectiva a los stakeholders. Por eso son los interesados, porque de alguna manera les afecta ese cambio. Les afecta claramente al cliente final, pero también le afecta de repente a una empresa externa, a recursos humanos. ¿Cuántos efectos podrían haber a partir de una iniciativa? y por eso que es importantísimo tener papeado a todos esos interesados.
+01:39:18 Speaker 2: Ténganlo súper claro,
+01:39:20 Speaker 1: porque sí
+01:39:22 Speaker 2: me ha pasado en algún punto de que por
+01:39:26 Speaker 1: una
+01:39:27 Speaker 2: aparición tardía de algún interesado, modifique el resultado del proyecto. A veces puede hacer retroceder o a veces puede hacer aumentar el plazo. Pero un efecto va a tener y sobre todo es algo muy de sí o sí. O sea, no es sí o sí tiene que hacer. No es algo que se pueda negociar más. Por eso esta partecita parece muy sencilla pero es crucial. La conclusión sería, oye, si tenemos una nueva iniciativa, tratemos de listar a todos los interesados que puedan hacer nuestra pregunta.
+01:40:08 Speaker 2: Quizás por mi poca experiencia y yo no estoy seguro, no pasa nada, siempre tendremos un jefe, igual y tengo un poco más de experiencia para cruzar esa lista y validar que efectivamente estén todos los interesados. Si luego van y ahí nos confirman que no hay participación, ya está, no pasa nada. Pero lo peor sería... No he incluido a alguien que se participa a ejecutar el proyecto y
+01:40:33 Speaker 1: que quizás
+01:40:34 Speaker 2: le entrega a la empresa. Ahí se está mal. Es complicado porque habría que hacer todo un cambio, no debería ser eso. Y como definición, la que está ahí, ¿no? Dice un grupo que pueda afectar o verse afectado por el resultado del proyecto. Eso principalmente serían los stakeholders. El sponsor ya lo vimos. La persona que ofrece los recursos y el cliente, ustedes, la persona encargada de administrar todo el proyecto y llevar a ese proyecto al cumplimiento
+01:41:13 Speaker 1: de su resultado.
+01:41:15 Speaker 2: Entonces hasta ahí, digamos, hemos descrito al proyecto, a su entorno, lo hemos definido como tal, y ahora vamos a pasar a
+01:41:28 Speaker 1: definir.
+01:41:32 Speaker 2: al plan de proyecto como un documento que nos va a servir para poder resumir todo el trabajo. Y de hecho, este plan de proyecto es el que nosotros vamos a elaborar por la semana. Que no es más que... Como cuando ustedes, si mal no recuerdo, antes de hacer la tesis, creo que tenemos un documento donde se aprueba la propuesta. Y
+01:42:02 Speaker 1: donde se
+01:42:04 Speaker 2: ponía referencia. Nos pueden abrir
+01:42:06 Speaker 1: todo en dos oquitos.
+01:42:10 Speaker 2: Y ustedes luego van a hacer lo mismo, pero obviamente lo van a ampliar. Todo se va a ampliar. Pero en ese documento, todo de edad general. Y obviamente si hay algo que está mal,
+01:42:20 Speaker 1: se cerra desde ahí nomás,
+01:42:22 Speaker 2: o incluye tal, no hay que hacer todo el trabajo para darse cuenta que algo. Entonces lo mismo va a pasar, este plan refleja todo lo que se va a hacer, y este plan tiene que ser aceptado. Si hay alguna sugerencia es el momento de hacerlo, porque aquí no has hecho ningún trabajo, todo está en
+01:42:39 Speaker 1: una idea de búsqueda.
+01:42:46 Speaker 2: un resumen de todo lo que el proyecto va a ser que luego de ser aprobado finalmente será ejecutado y ampliar cada cosita que habíamos comprometido y sobre ese plan
+01:43:01 Speaker 1: y
+01:43:03 Speaker 2: sobre los marcos, si quieres un comentario general sobre todos los marcos que vamos trabajando no deberíamos como de aplicarlos a cienas. O sea, antes de aplicar, y eso en general creo que para cualquier teoría. Nosotros a lo largo de la carrera vamos a tener un montón de herramientas, pero muchas de esas herramientas no se aplican así tal cual. Habrá algunas que se aplican a cierta parte, que se combinan con otras, y eso va a depender un poco al sector en el que cada uno se desenvuelve. Y a la experiencia que también cada uno va a tener.
+01:43:42 Speaker 1: Entonces...
+01:43:42 Speaker 2: Eso refleja una cierta capacidad de adaptación que ustedes van teniendo para poder adaptar esa teoría a la práctica. Esa adaptación que vamos a ver con más detalle aquí, lo que nos dice es que no debemos aplicar exactamente las prácticas de la misma manera en todos los proyectos, porque cada proyecto es único, como ya sabemos, en plan. Y porque cada proyecto tiene personas trabajando. Fue una idea que también ustedes dijeron. ¿Y cómo son las personas?
+01:44:17 Speaker 2: Las personas son muy complicadas. Cada persona, cada uno de nosotros aquí, tiene una cultura distinta, un ambiente distinto, un ambiente distinto. De repente alguno se enojará más fácil que otro. Uno no se será, digamos, no. entre comillas más recto, menos recto, etc. Entonces, entre todas esas diferencias, tratamos de componer un equipo de proyectos que pueda tener como eje central el objetivo que quiere lograr. Pero, si a nivel de personas nos damos cuenta que el enfoque de gestión que vamos a usar definitivamente tiene que ser distinto en cada proyecto, no se va a repetir el mismo grupo, es como en el salón de clases, pero fíjense, este grupo no es igual al grupo del siglo pasado, ni del año pasado, nunca, cada grupo va siendo distinto, igual ustedes también, cada equipo, cada grupo se les va tocando en sus horarios,
+01:45:19 Speaker 1: entonces,
+01:45:19 Speaker 2: de alguna manera, todos tenemos esa capacidad de adaptación. porque nos comportamos y vamos adaptando un poco nuestras formas al ambiente que nos va a tocar trabajar. Y esto es exactamente el principio de Taylor, que lo que nos dice es poder adaptar las prácticas que nosotros vemos en que son los proyectos a la realidad de cada uno. ¿Y en qué características? Por ejemplo, a nivel de enfoque... Definir, oye, me conviene trabajar de forma predictiva, ágil o bíblica. ¿Dónde está el proyecto? ¿Es más predecible? ¿Tiene más incertidumbre? ¿O es un punto de los dos? ¿Quién debe tomar decisiones? ¿Quién aprueba cambio? De repente, en una empresa puede ser todo paso por el gerente general. Es una empresa pequeña, ¿no? Pero de repente va una grande, oye, no, nunca voy a dar el gerente general así, para cualquier cosa.
+01:46:17 Speaker 2: Solamente mi jefe directo. Y así, entonces, desde ese punto de vista, la gobernanza también va cambiando. En función a la empresa, habrá más estructura, será más horizontal, será más vertical. Por ejemplo, acá en la universidad, en algunos aspectos todavía es un poco más vertical. Tal vez a ustedes que les ha tocado hacer una iniciativa con alguna organización, quizás lo pueden tener mejor, pero creo que hay más protocolos, un poco una estructura que acompaña a la gestión de la universidad. Entonces, de repente no es igual que gestionar en otra universidad. Quizás es mucho más vertical, más horizontal. Entonces, como es diferente, necesitamos también adaptarnos a ese enfoque de gobierno. Y también a nivel de procesos. Habrá organizaciones que tienen todo documentado y habrá otras que no,
+01:47:20 Speaker 1: donde hay que echarse a
+01:47:22 Speaker 2: levantar procesos, a dibujar. Será más difícil llevar el proyecto así, pero tocará adecuar justamente esas prácticas de gestión a la realidad del estudio. Entonces, de eso tiene que ver el tailoring, que ustedes tomen las prácticas en general. todos los cursos que adapten esa teoría a la realidad del sector. Porque no todo va a funcionar igual, va a depender mucho de dónde están, qué sector, y qué nivel de madurez a la organización.
+01:47:56 Speaker 2: Y en este ejemplo, en un lado, por ejemplo, tengo una construcción o un edificio, y en el otro te voy a desarrollar una aplicación. Es el ejemplo clásico para decir, ah, no, pues acá es un... un entorno más predecible, más documentación, planificación, etc. En cambio, en la aplicación, quizás no estoy seguro de la aplicación, es una hipótesis, no sé si el cliente lo va a recibir bien o no, entonces mejor saquemos algo más puntual, algo más fructo viable.
+01:48:29 Speaker 2: No perdamos tanto tiempo de la planificación, porque no estamos seguros de que nosotros hagamos una planificación más corta por el TRI. Entonces ahí se ve una diferencia. Son proyectos distintos y adaptamos la misma teoría
+01:48:43 Speaker 1: según la realidad.
+01:48:48 Speaker 2: Viene como pregunta de repente
+01:48:50 Speaker 1: de algún ensayo,
+01:48:53 Speaker 2: pero es simplemente eso. Es saberse adaptar prácticas a la realidad. No hay más tema común. Y no solamente adaptamos enfoque, ¿no? Como hemos visto hace rato, nos adaptamos a las personas, a los involucrados, porque inclusive dentro de una misma empresa no todos tienen la misma cultura, ¿no? La reciente diaria está un poco más cerrada, más celosa de la información. O sea, no porque ellos sean así, sino por el mismo nivel de responsabilidad que tienen de poscodearse a otras cosas, o sea... va cambiando también su nivel de gestión para las personas.
+01:49:39 Speaker 2: Seguramente acá mismo ustedes quizás no se relacionen igual con todos los profesores, entre ustedes mismos, ¿no? Con sus amigos más cercanos de otra manera, hoy no lo conozco y más cercano. Entonces, si eso a nivel práctico usted ya lo hace, imagínense eso. Mucho más veces en una empresa también. ¿A qué nos lleva esto entonces? Es para adaptarnos, también necesitamos escuchar bastante. Y como gestor del proyecto, en general creo que cualquier carrera de trabajo que vayan a tener en el futuro, como ustedes no lo van a hacer solos, a menos que sean especializados
+01:50:23 Speaker 1: en una tarea, puede ser.
+01:50:27 Speaker 2: Pero por lo general va a pasar en equipos, en tres equipos, ya sabemos que hay muchas personas, y en N formas hay que saber mantener un enfoque abierto para poder adaptar. Porque al final, sobre todo nosotros, están los objetivos que queremos lograr, y recordando que los objetivos van llevados a la estrategia, deberíamos de usar eso como... forma para poder
+01:50:54 Speaker 1: abrir alguna brecha y creo
+01:51:02 Speaker 2: que eso por el lado de la adaptación y algo que no les había mencionado pero aprovecho acá que habla del compromiso para generar compromiso necesitamos ser transparentes con lo que estamos haciendo Y esto lo que quiere decir es poder compartir ese beneficio que nosotros estamos generando en el proyecto. ¿Qué quiere decir eso? Es distinto que ustedes tengan un equipo y que simplemente le digan qué hacer, a que le digan qué hacer, pero también le expliquen el significado de lo que nosotros tenemos.
+01:51:42 Speaker 2: Cuando le explican el significado, o sea, lo que usted dice es lo contrario, la persona se compromete un poco más, porque entiende que su trabajo va a tener un resultado, y que ese resultado se va a utilizar. Solamente le dicen por decir, lo vas a hacer, pero luego, ¿para qué no lo
+01:51:59 Speaker 1: pide?
+01:52:01 Speaker 2: No queda muy
+01:52:02 Speaker 1: cerrado el decisión.
+01:52:04 Speaker 2: Y ahí, por ejemplo, una experiencia más personal podría ser, ¿ok? Hace años, pero ahora ya es más común, es diferente, pero era más difícil aprender SAP. Ahora ya se muestran y se usan el currículum en la pandemia,
+01:52:22 Speaker 1: ya hay videos y todas las cosas.
+01:52:24 Speaker 2: Pero por el 2013, no, 12, 12, 11, 30,
+01:52:30 Speaker 1: era muy difícil, no
+01:52:32 Speaker 2: era tan difícil. Entonces, en la primera época que yo tuve, me ofrezco la oportunidad de ir a una profesión final de la enseñanza en el comercio. Y era chévere porque aprendías, ¿no? Pero era muy operativo. ¿Por qué era operativo? Porque el área administraba, o esa función de los practicantes administraba la caja chica. Y en esa época, como no había hubo, hubo, todo lo que hoy conocemos, ya, etc. Al periodista, como tal que descubría la noticia en la madrugada, venía la mañana siguiente con sus boletas y le devolvíamos la plata. Luego, todas sus boletas eran digitalizadas en el SAP para que se lleve la contabilidad de su plazo. Entonces, a la larga, eso me pareció chévere porque aprendí a aceptar el SAP. Terminaba siendo súper aburrido, porque era solo un detalle informático.
+01:53:27 Speaker 2: Entonces, ¿qué más hiciste? Pero lo interesante era que uno de ustedes que no está haciendo una tarea puntual en un periodo de tiempo, y yo sé que ya mi compañero necesita justo ese perfil, deberíamos nosotros poder sincronizar y decir, oye mira, los recursos que estoy acá no utilizando, los puedo dar para que te pueda ir a ti y así generar un recurso más eficiente. Pero eso solo lo vamos a generar si estoy comprometido.
+01:54:02 Speaker 2: problemas. Mi isla, tu isla, mi proyecto, mi proyecto. Y esas cosas no deberían pasar. Por eso que desde la cabeza y en resumen es la estrategia para todos. O sea, el objetivo para todos. Y eso va a ir bajando el nivel al nivel. Y eso va a hacer que todo el equipo se comprometa y en su conjunto todos nos veamos como uno solo. No como equipo.
+01:54:29 Speaker 2: No puedo haberse en el colegio, uno decía, yo hice la tarea, profesor, mi compañero,
+01:54:34 Speaker 1: no sé, pero yo sí.
+01:54:39 Speaker 2: Ahí, claro, pensamos de uno, pero en caso de proyecto, o sea, el ejemplo no está, solamente es para ti, entienden los trases, pero en el proyecto
+01:54:49 Speaker 1: se pensamos como todos.
+01:54:51 Speaker 2: O sea, en el proyecto, si yo leo a mi jefe, yo hice, pero él no. Alguna vez alguien dijo, si se ha pasado algo así de que alguien envió un correo, que me envió el correo, pero ella respondió no, pero yo lo envíe. Y eso no vale, porque si es urgente hay que, si no te responde hay que lo perseguir, por más que hayas enviado todo, al final también siento la responsabilidad de la persona que busca la respuesta.
+01:55:17 Speaker 2: Entonces, no es una respuesta válida decir sí, yo lo envíe, por más que no haya respondido. Pero qué más hiciste para él. O lo llevaste, o me
+01:55:26 Speaker 1: dijiste, o sea, entonces, por
+01:55:29 Speaker 2: eso que acá, a nivel de proyectos, debe haber mucha cohesión, mucha unión, para que el resultado finalmente decidiera. Esta es una lámina de resumen, y tiene que ver con lo que les acabo de decir. Arriba está la estrategia, como lo que nos permite finalmente decidir. Esto nos dirige juntos a donde queremos ir. Y sobre esto tenemos los proyectos. Esto de acá es una clasificación que
+01:56:03 Speaker 1: tiene
+01:56:04 Speaker 2: que ver con... A un nivel, digamos, inicial, nosotros tenemos proyectos, y podemos tener muchos proyectos. Muchos proyectos, en función, obviamente, de la cantidad del
+01:56:27 Speaker 1: proyecto que tiene la organización,
+01:56:29 Speaker 2: puede haber N proyectos. Cada proyecto tiene un guía.
+01:56:35 Speaker 1: Pero,
+01:56:35 Speaker 2: ¿qué pasa si tuviesen 100 proyectos, 200, 300? Sería bien complicado poder gestionar a tanta gente. Entonces comenzamos a agruparlos. Y la primera agrupación del proyecto será que un conjunto de proyectos será un programa. Y así, un programa. Entonces, de esa manera, al menos ahí ya nos aseguramos que todo este grupito de acá, que puede ser F, lo responda a una persona que lidera el programa. Y así ya no tendría tanto abajo, sino tendría que ser a tener ciertas cabezas visibles que gestionaría el programa.
+01:57:22 Speaker 2: Si lo vemos, por ejemplo, acá a nivel de facultad, ¿Podría llegar a tener de repente acá las especialidades? Pero el conjunto, jefe, decano. A todos los representantes de ingeniería. Si quieren hacer una reunión en la universidad, no van a cada uno, de repente solo las cabezas. Pasa el decano de ingeniería, de gestión, todos los decanos se juntan para lo que le preguntan. Para ello sirve el negocio. Pero aún así, esto podría ser también extenso, porque de repente son muchos, muchos programas existen. Creamos entonces una última agrupación, que es un portafolio.
+01:58:07 Speaker 2: Y el portafolio es el conjunto de programas. Pero en realidad todas son proyectos, solamente que son agrupaciones. Conjunto de proyectos, programas, y conjunto de programas,
+01:58:18 Speaker 1: portafolio.
+01:58:20 Speaker 2: Cuando se usa, de repente, ya para sincronizar cosas a muy alto nivel, la última línea de la empresa, solamente necesito quizás las personas claves, porque luego esas personas nos van a comunicar, van a bajar la información a todos los equipos.
+01:58:40 Speaker 2: Entonces de eso un poquito se trata. Y la otra pregunta que surge es, ¿usted cree que esta estructura se repite así en todas las empresas?
+01:58:55 Speaker 1: ¿O de qué depende? Exacto,
+01:58:59 Speaker 2: depende del tamaño. Puede ser que acá nomás con esto no valga, porque solamente hay cinco proyectos, ¿por qué voy a traer más burocracias a mí? Entonces, esta clasificación va a depender mucho de la necesidad. Porque al final acá hay otra cosa. Si no hay necesidad, no hay que ponerla. Esto aparece aquí. Pero todo tiene que desaparecer fecha porque acá es un proyecto. Y luego los proyectos están las operaciones que dan soporte
+01:59:31 Speaker 1: a los proyectos.
+01:59:32 Speaker 2: Pero todos están direccionados por esa estrategia. La misma estrategia que ustedes deberían de tener, por ejemplo, para sus metas,
+01:59:44 Speaker 1: sus objetivos,
+01:59:46 Speaker 2: etc. La misma que funciona para gestionar proyectos, para decidir en las empresas qué proyectos priorizar, etc. Si no hubiese esta estrategia, no sabríamos qué decidir. Hoy todos son buenas ideas, sí, no sé a dónde ir. Si sigas todas, no. ¿Qué cosas hacer? La única forma de saber qué hacer es revisar cuál es el objetivo de conseguir. Y dicho eso, su gráfico que habla de lo mismo, está la estrategia de la organización, y desde la estrategia se generan oportunidades. O también se detectan amenazas, quizás competidoras que están viniendo al mercado, de tomar en cuenta, para que sobre eso se generen casos de negocio o propuestas de proyectos que sean gestionadas.
+02:00:41 Speaker 2: y que una vez terminada se manden al equipo operaciones para que finalmente se genere el resultado y el ciclo se retorne. Entonces, clave es entender la estrategia, como les decía hace un ratito, y no solamente para esto, sino para cada cosa que ustedes vayan a hacer, sobre todo para cuando vayan a practicar o trabajar, entiendan cómo funciona el área en donde están. y no perciban, por más que
+02:01:11 Speaker 1: parezca
+02:01:14 Speaker 2: operativa la tarea, seguramente alguien está usando lo que ustedes están haciendo.
+02:01:21 Speaker 2: Entenderlo les sirve, uno, para darle valor a lo que ustedes hacen, o para ustedes mismos, y dos, para conocer cómo funciona la empresa. Sobre todo en el momento inicial, ustedes necesitan eso, conocer más. No sabe inclusive qué sector, quizás sí, pero a veces no sabemos qué sector es el que vamos a finalmente alimentarnos. Entonces, lo que sí podemos aprovechar es, es oportunidades de trabajo prácticas, explotarlas y conocer la inclusión en la que estamos. Me tocó estar en telecomunicaciones, en el área de operaciones. Entonces, bueno, puedo conocer de repente un poco el área de ventas, porque mi trabajo tiene que ver con ventas, con soportes, y más o menos se hace como un mapa. Ya sé cómo funciona la telecomunicación. No me gustó, pero ya está. Es una experiencia que al final no saben también cómo la vamos a utilizar.
+02:02:17 Speaker 2: Porque luego la carrera la van leccionando incluso a lo que va apareciendo. A primera está súper bueno que la consideren así siempre. Y esta lámina de acá tiene que ver con que existe también. No siempre, pero debería existir algún
+02:02:36 Speaker 1: tipo de área que administre los proyectos.
+02:02:39 Speaker 2: Podría ser la responsabilidad de un área, de varias áreas, pero finalmente habrá alguna unidad dentro de las organizaciones que debe administrar todo lo que estamos haciendo. Entrenos, por ejemplo, los recursos. La necesidad de pedir presupuesto para contratar gente y licitarse centralizada. Porque debería haber una visión completa, ¿no? Porque por ahí podrá prestarse nada más de los amigos. Oye, contrátame a mi amigo. Debería haber toda una política clara para evitar más de los amigos.
+02:03:13 Speaker 1: Entonces,
+02:03:14 Speaker 2: el área debería centralizar esa gestión transparente de recursos. Pero también a nivel de metodología, ¿no? Ustedes pueden decir, no, sí, yo he visto en un video que se hizo el proyecto así, y otro sí, yo le hice un TikTok, no sé, pueden traer cada uno sus prácticas y formatos, lo cual está bien, pero de base ya debe de estar. Y si no lo hay, estamos en el momento para aportar. Y si lo hay, pueden mejorar lo que hay también. Pero en principio debería haber al menos algo que ya exista y que funcione. Es como acá en la punta. De alguna manera ya seguramente existe y hay una forma de como yo gestiono. Que se puede mejorar, seguramente se puede mejorar. Pero de base, y bien llegamos, debemos revisar cómo se trabaja. Y sobre eso comenzará ya. ¿Eso
+02:04:10 Speaker 1: lo podemos escuchar? ¿Eso no?
+02:04:13 Speaker 2: Pero existirá justamente esa área que centraliza
+02:04:16 Speaker 1: todas las prácticas, para que busque toda
+02:04:19 Speaker 2: la gente nueva que se suma a la organización pueda aprender. No tengan que inventar todo de cero y no sean tesoros, porque uno aplica la forma, uno aplica la dosis, pero para evitar eso, debe haber un instante. Y así como hay un estándar a nivel, digamos, técnico, también debería haber un estándar a nivel tránsito. Entonces, seguramente esa área capacita, supervisa, orienta, de alguna forma, da ese soporte a las nuevas personas para darles ese estándar.
+02:04:56 Speaker 2: Podría también ser un área que coordina la comunicación entre proyectos para evitar justamente silos. Tal vez se sale a tratar de romperlos en base a algunas dinámicas. Diseñar plantillas, documentos, monitorear avances. Pero si se dan cuenta de fondos personales, pues que centraliza toda la gestión de proyectos de una empresa. Pero que también dependerá de la inmensidad. De repente no es necesario para pequeñas empresas, muy poquitos proyectos. Pero de repente para un... un álico así, porque hay un
+02:05:33 Speaker 1: montón de proyectos y iniciativas.
+02:05:36 Speaker 2: Entonces, eso también hay que ver qué tanto aplica, pero la idea es que exista una unidad que se realice. Y sobre eso, ya vamos a acabar. Existirán tipos de esa área. Una puede ser más de apoyo, estar como un consultor, más de,
+02:05:59 Speaker 1: digamos,
+02:06:02 Speaker 2: de lineamientos, no tan restrictivo como tal, más como un acompañamiento. Por otro lado habrán áreas más de control, es decir, no solamente te doy el apoyo para que hagas una buena visión del proyecto, sino también te exijo cumplimiento. de indicadores, de plazos, de monitoreos, de cuestiones, se pongo hitos, se pongo controles. Y finalmente, un tipo de oficina mucho más directiva, donde ya los gestores de proyectos provienen de esta misma área, como para asegurar mucho más el control al proyecto.
+02:06:42 Speaker 2: El promedio, por lo general, está acá, que son áreas que controlan, pero que también apoyan.
+02:06:51 Speaker 1: pero igual va a depender mucho por lo
+02:06:54 Speaker 2: general vamos a estar por aquí pero podría encontrarse de otros casos y esto para terminar así como hablamos de los stay holders también deberíamos entender que el entorno incluye
+02:07:19 Speaker 2: ¿Qué quiere decir que el entorno influirá? ¿Por qué el entorno influirá en el resultado?
+02:07:24 Speaker 1: Tal vez el contexto en el que se encuentra la empresa, tal vez, ahorita hay nuevas regulaciones que impiden poder finalizar un proyecto.
+02:07:35 Speaker 2: Perfecto, sí, exacto. También creo que se puede ver desde la cuestión del cambio. Si se va a cambiar o se va a implantar un nuevo software, los usuarios para la gestión todavía no.
+02:08:02 Speaker 1: En general el entorno es el que va a poner todo el plano de ejército completo de lo que se puede hacer, lo que sí está potenciado para poder hacer. Es el que te va a dar todo el... las posibles limitaciones o hasta oportunidades que se presentan para poder desarrollar un proyecto.
+02:08:47 Speaker 2: Nos quedamos con la idea de que, así como en el caso de cada uno de nosotros, las condiciones en las que desarrollamos nuestras actividades incluyen el resultado. Es decir, si los mandan a un lugar distinto, con otro salón, de repente... Cuando no conocen nada y el resultado va cambiando, lo mismo va a pasar en el proyecto. Como dice un compañero, lo más tangible, si cambia la regulación y esa regulación es obligatoria, definitivamente algo le va a pasar al proyecto. Cuando hubo, por ejemplo, la ley esta de las tasas, tarjetas y que pusieron tope, era algo obligatorio y mandatorio. Todas las empresas financieras, todas las empresas financieras estuvieron que adecuadas. el producto para no incumplir las normas. Entonces,
+02:09:38 Speaker 2: ¿cómo desde el entorno externo también podrían cambiar o apretar un resultado de nuestro proyecto? Y a nivel interno también, con la gestión de cambio de productos y compañeros. Por ejemplo, en esas épocas en Baco, las personas que trabajaban en la
+02:09:54 Speaker 1: TNAC eran personas que tenían muchos años.
+02:09:56 Speaker 2: ¿Y eso qué traía? ¿Qué consecuencias? Más que consecuencias, pero
+02:10:01 Speaker 1: qué... aspecto, digamos, que
+02:10:04 Speaker 2: considerar, digamos, generar, de que no era tan sencillo que un estudiante que recién había egresado le diga que cambiara, entonces esa resistencia a veces me ha complicado llevar,
+02:10:20 Speaker 1: y
+02:10:22 Speaker 2: también podría eso repercutir en el resultado del proyecto, porque muchas de esas cosas, por ejemplo, allá en Banco, en esa área que se llamaba manufactura de clase mundial, dependían de la gente que hace el trabajo, porque es esas personas las que nos comienzan a decir problemas, con las que probamos las nuevas ideas. Entonces, si en el lado interno no tenemos ese apoyo, también va a ser un poco complicado y puede ser un factor que a veces nos pueda frenar.
+02:10:55 Speaker 2: Entonces, en general, Porque es una lámina que se va a repetir más adelante. Tanto externo como interno van a ser factores que podrían afectar al proyecto. Y
+02:11:08 Speaker 1: también,
+02:11:09 Speaker 2: gestión interna en la empresa, como por ejemplo, no tener una base de conocimiento, podría ser la que también reste. ¿Qué significa esto? Imagínense que ustedes no tengan exámenes para estudiar. van a dar un examen a ciegas,
+02:11:27 Speaker 1: van con incertidumbre, un poco más
+02:11:29 Speaker 2: inseguros. Pero cuando tienen muchos exámenes, y eso viene en 2020, tanto, tanto, tanto, ya somos expertos. Entonces, eso es una empresa igual. Si nutrimos diferentes casuísticas, ya va a ser sencillo encontrar cómo gestionar el proyecto, pero si no lo tenemos documentado, cada proyecto va a ser un salto a lo vacío. Y lo mismo acá. Mientras tengamos información documentada, nos va a ayudar justamente a saber la ronda de lo que estamos haciendo,
+02:12:02 Speaker 2: revisar cómo funciona la empresa, etc. Pero si no pasa eso, nos va a ser más complicada.
+02:12:10 Speaker 1: Esta última parte, entonces, la reservamos
+02:12:12 Speaker 2: para muchas ideas,
+02:12:14 Speaker 1: para
+02:12:14 Speaker 2: la reunión en la clase. Pero era simplemente un comentario sobre cada edición del libro. Nosotros usamos... Gracias.
