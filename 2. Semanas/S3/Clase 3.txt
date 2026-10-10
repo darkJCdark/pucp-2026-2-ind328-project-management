@@ -2,14 +2,58 @@
 https://www.sessionlab.com/methods/team-canvas-session
 }
 
-. {
-	. {
-		. 
+. Definición y entorno del proyecto{
+	. La Direccion de Portafolios{
+		. Es mejor verlo asi para que se siga una estrategia
+		. Esto sirve para organizaciones grandes
 	}
-}
-
-. {
-	. {
-		. 
+	. Selección del enfoque de desarrollo{
+		. Frecuencia de entrega{
+			. Bajo: Una entrega
+			. Alto: Entrega continua
+		}
+		. Grado de cambio{
+			. Bajo: Predecible
+			. Alto: Adaptativo
+		}
+		. Incertidumbre{
+			. Menos incierto: Mas conocido
+			. Mas incierto: Mas desconocido
+		}
+		
+		. ENFOQUE PREDICTIVO{
+			. Los requisitos son estables y el contexto no cambia
+		}
+		. ENFOQUE INCREMENTAL{
+			. Contexto incierto
+			. Covid: Varios prototipos de vacuna
+		}
+		. ENFOQUE AGIL{
+			. Es incremental e iterativo
+			. Un prototipo minimo que es lanzado para el cliente
+		}
+	}
+	. FASES DEL PROYECTO Y CICLO DE VIDA DEL PROYECTO{
+		. Fase: Conjunto de actividades
+		. Conjunto de Fases es el ciclo de vida del proyecto
+		
+		. 1: Inicio
+		. 2: Planificacion
+		. 3: Ejecucion
+		. 4: Control
+		. 5: Cierre
+	}
+	. EJEMPLO DE CICLO DE VIDA CON LOGICA INCREMENTAL E ITERATIVA{
+		. SPRINT{
+			. Periodo de tiempo donde se hace la transformacion de valor
+			. Teoria: 1-4 semanas
+			. Realidad: 2 semanas
+		}
+	}
+	. EJEMPLO DE CICLO DE VIDA BAJO ENFOQUE ADAPTATIVO{
+		. La planificacion es constante
+		. Todo esta en funsion de la vision que estamos construyendo
+		. Tengo el espacio para replanificar
+		. Las planificaciones en organizaciones son trimestrales
 	}
 }

@@ -1,11 +1,18 @@
-. {
-	. {
-		. 
+. CRONOGRAMA{
+	. EJERCICIO DDDE ESTABILIZACION DE RECURSOS{
+		. Siempre se empieza con la ruta critica
+		. RUTA CRITICA: Lo primero es programar la ruta critica
+		. No se debe superar los limites de tiempo y no hay limite de personas
+	}
+	. EJERCICIO DE NIVELIZACION DE RECURSOS{
+		. Siempre se empieza con la ruta critica
+		. No se debe superar los limites de personas y se extiende el tiempo
+	}
+	
+	. METODO DE RUTA CRITICA{
+		. El fin de 'inicio' es igual que el inicio de 'A'
+		. Se resta de abajo a arriba
 	}
 }
 
-. {
-	. {
-		. 
-	}
-}
+La ruta critica tiene holgura 0

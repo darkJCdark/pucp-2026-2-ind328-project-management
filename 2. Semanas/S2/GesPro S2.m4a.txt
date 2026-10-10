@@ -1,0 +1,459 @@
+# GesPro S2
+
+  Meeting started: 29/8/2026, 7:50:01 p. m.
+  Duration: 106 minutes
+  Participants: Speaker, Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/QpW5llXGVGkEkqmsTFWb?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Vamos a finalizar la clase, que seguramente vamos a continuar la siguiente, porque se les supe que se presenten
+00:08 Speaker 2: todos los científicos.
+00:13 Speaker 1: Entonces, en esta primera parte, vamos a conversar acerca de los principios de la gestión de proyectos, que serán los que van a regir todo lo que vamos
+00:24 Speaker 2: a seguir conversando a lo largo de las sesiones.
+00:28 Speaker 1: Entonces, lo primero es entender también la evolución, que así como el contexto nuestro sigue cambiando, la gestión de proyectos también ha tenido toda una evolución a lo largo de tiempo. Y ha pasado un enfoque de procesos hasta el principio, entendiendo los procesos como algo más estructural. Cuando nos da un proceso, es una secuencia de paso, que seguimos uno detrás de otro hacia el objetivo. Entonces nos da la idea de una receta, de algo que se repite, de algo que se
+01:01 Speaker 2: interesa cumplir, etc. Y
+01:04 Speaker 1: ese era el enfoque de las ediciones anteriores del libro. que crecionar los proyectos en un entorno más tradicional, pero a partir de la séptima edición de adelante,
+01:14 Speaker 2: pues ya estamos en la parte de
+01:16 Speaker 1: este enfoque también. Y cambió un enfoque ligado más a principios, para entender cómo lineamientos que se explica en la gestión de proyectos, no son más una secuencia de pasos, una receta que se aplica a todos los contextos de la misma manera, sino más bien son lineamientos. cuya aplicación va a ser más distinta de
+01:42 Speaker 2: acuerdo al contexto del 1950.
+01:44 Speaker 1: Y para esto entonces, dentro de esos principios, nosotros tenemos un enfoque tradicional, ligado a contextos predecibles, como hablábamos en la clase anterior, y un enfoque activo,
+01:58 Speaker 2: derivado de los
+01:59 Speaker 1: contextos con más insatitud. Y en resumen, podríamos entender al proceso, como les decía un ratito, como aquellas actividades que son orientadas a un resultado, una secuencia de pasos que siempre se va a repetir, pero en cambio, en principio, es más bien un criterio para orientar las decisiones. Entonces, hay una cierta diferencia entre ambos. Aquí está mucho más rígido, aquí es más flexible, y es flexible para que ustedes acomoden ese lineamiento según el contexto en el cual se encuentran. Esa es la gran diferencia. Hasta aquí están las seis primeras ediciones del proyecto. Y a partir de aquí comienza la edición 7, la 8 y las 5. Que toma en cuenta justamente también ese cambio que va teniendo nuestro contexto. no es un contexto estático, sino es un contexto de cambio, combinado a las nuevas tecnologías, a las nuevas tecnologías, entonces, dicho eso, el propio manual de los proyectos también incluye este cambio, y por eso que se transforma un poco en el proceso. Entonces, en esta clase, lo que nosotros vamos a ir Analizando justamente los
+03:24 Speaker 2: principios, uno
+03:26 Speaker 1: a uno debido a este ejemplo, pero como para entrar en contexto, uno de los principios se enfoca en el valor. Ya entendemos al valor como
+03:36 Speaker 2: eso que
+03:40 Speaker 1: nosotros ponemos a disposición de nuestros usuarios, que realmente ellos usan, esa conclusión del proyecto. Pero que no solo quede en que el proyecto se termine, sino que el resultado es usado por un usuario,
+03:51 Speaker 2: que puede ser interno o externo.
+03:53 Speaker 1: Cuando ese usuario lo usa, cuando ese usuario satisfaza su necesidad, o resuelve el problema, o resuelve su problema, hablamos del valor que esa solución tiene para él.
+04:05 Speaker 2: Entonces,
+04:06 Speaker 1: si el principio es enfocarse en el valor, al menos que hay estudiantes en general, vemos que la aplicación va a ser distinta según el enfoque de gestión en proyectos, en el que estemos trabajando por ejemplo el valor para un enfoque más tradicional nos dice que se busca definir desde el inicio lo que se quiere lograr y controlando que el proyecto avance hacia esos resultados entonces entiendo yo que hay un
+04:34 Speaker 2: momento inicial
+04:36 Speaker 1: Entonces, este proyecto se comienza a definir, y en la medida que el proyecto avanza, o sea, bastante que termina, pues el valor dice que se define en base a cómo este proyecto va a avanzar. Seguramente, si es que hacemos un bloque a cada vez, entonces, este proyecto va a avanzar a 20 por ciento, a cada vez que hay estas decenas, y soluciones. Entonces, el valor, según el bloque tradicional, se mide... de acuerdo al avance que tiene el proyecto. Según el instante, ahora vamos a estar acá. Y así se mienta. Pero ¿qué pasa con un tono más ágil? Dice, el valor se busca entregando de manera incremental y priorizando continuamente aquello que tenga mayor beneficio. Eso quiere decir que yo puedo tener exactamente el mismo inicio, pero al cabo de cierto tiempo, yo me planteo tener entregas progresivas. Y ahí veremos que hay un concepto que más adelante explicaremos, que tiene que ver con los sprints o aquellos periodos de tiempo cortos donde ustedes van entregando valor. Entonces un sprint normalmente podría durar de una a cuatro semanas, en promedio dos, pero en ese periodo de tiempo ustedes entregan un valor. si hubiera algo tangible, como alguna entrega que van construyendo, y al término de los sprints, cuando ya termine, digamos, su ejecución, seguramente tendrán un producto mínimo viable que entregar a sus usuarios.
+06:17 Speaker 2: Entonces,
+06:19 Speaker 1: aquí es distinto, ¿no? Porque de repente, al 20% no hay nada tangible, es pura documentación, quizás. Mientras que aquí, en cada sprint, sí hay algo cautivo. Entonces, no se considera un avance de valor si el que no existe es entregue el sprint. Mientras que en un enfoque tradicional,
+06:38 Speaker 2: esto es distinto. Aquí
+06:40 Speaker 1: es más bien el avance. ¿Qué tanto estoy avanzando para llegar al objetivo? Pero aquí, en cambio, mis objetivos son más específicos y están
+06:49 Speaker 2: dados por los periodistas.
+06:51 Speaker 1: Pero ambos están enfocados en valor. no solamente que el valor esté enfrentado de forma distinta, de acuerdo al contexto. Y un enfoque híbrido,
+07:04 Speaker 2: que se estará combinando ambos, seguramente
+07:06 Speaker 1: para las etapas iniciales, cierra una preocupación en hacer que no, a estar listo para desarrollar, y cuando desarrollar, a través de este enfoque. Pero la idea en este caso es cómo un mismo principio que habla de valor, de poner ese beneficio en las manos del usuario, es interpretado según el
+07:32 Speaker 2: contexto en el que nos encontré.
+07:35 Speaker 1: Ninguno está incorrecto, la única diferencia es que se aplica de forma distinta, porque obviamente en este contexto, por ejemplo, de una obra de construcción, yo sí tengo que seguir todas las bases. Porque cada una de estas fases me va a ayudar a dar resultados y al final tendré el edificio de propósito. Pero en el caso, por ejemplo, de aquí, yo quiero hacer una aplicación de repente, pero esa aplicación, pues al inicio yo no estoy seguro que las 10 funcionalidades propuestas van a servir. Pues de repente voy a tener que realizar una funcionalidad primero, otra después,
+08:10 Speaker 2: y así simplemente no hasta aquí.
+08:13 Speaker 1: que el usuario le haya dado feedback, de repente ese feedback hace que la aplicación tenga que volver a platear. Entonces, en la medida que vaya disputando el periodo de fondos, voy enriqueciendo de feedback, mejorando y lanzando una mejor acción. Es distinto el enfoque. Entonces, esa es un poquito la idea de los principios. Nos da la flexibilidad para tener... ese manejo de la aplicación a diferencia de antes que si nos da una receta hoy son principios que se rigen por el contexto en que ustedes lo
+08:51 Speaker 2: vayan a aplicar lo primero
+08:54 Speaker 1: que nos dice o concluye esa parte de la clase como la propia gestión de proyectos también evoluciona y en esa evolución se adapta a eso y entiendo que todos los proyectos no son iguales todos los entornos a foco o aplicar principios que según el criterio de la persona que los lidera va tomando un significado destino entonces para eso también hay que recordar y eso también ya lo vimos que hay básicamente dos extremos los proyectos que están en un entorno mucho más predecible que tiene un enfoque tradicional y los proyectos que están en un entorno más cambiante, donde hay más incertidumbre, donde el enfoque será más adaptado. Para los primeros usaremos una metodología tradicional, waterfall o cascada. Y para los adaptativos, que están en un contexto de más incertidumbre, usaremos los marcos A. Como también les decía, en el caso del curso se forró desde aquí hacia atrás con herramientas más tradicionales y eso es un poquito por la cantidad de, la variedad de participantes que llevan el curso. Sin embargo, de repente, si alguien en sus trabajos y la aplicación de los proyectos que vamos a desarrollar quisieran acercarse para la parte de aquí, también los podrían confiar y vamos dándoles forma en este caso. a eso que ustedes van entregando
+10:35 Speaker 2: en cada
+10:36 Speaker 1: entrega. También podrían acercarse aquí si es que les interesa. De repente quieren hacer algo híbrido. Quizás el desarrollo, cuando van a la parte de desarrollo del proyecto, lo quieren enfocar por sprint, comunitar más, un productor, etc. También lo podrían hacer. Y aunque no lo veamos quizás muy a detalle en la clase, en el feedback, si pueden hacer una propuesta, sobre eso hacemos feedback, hasta llegar al enfoque que ustedes quisieran, con el que quisieran gestionar su proyecto. Entonces, de esa manera también los podríamos destacar al entendimiento del paso de mensaje, si es que fuese ese su interés. Pero si no, lo que se evaluó en el curso, en los exámenes, etc., va a estar ligado. Más para la parte tradicional,
+11:28 Speaker 2: híbrida.
+11:31 Speaker 1: Esta parte de aquí, podrían haber algunas preguntitas,
+11:37 Speaker 2: digamos, preguntas
+11:38 Speaker 1: por alternativa. Pero más allá de eso,
+11:41 Speaker 2: no hay mucho todavía.
+11:43 Speaker 1: Por aquí, todavía no, porque seguramente hay un problema
+11:46 Speaker 2: de color.
+11:48 Speaker 1: Esa podría evolucionar. Lo de aquí explica lo que ya les había comentado, cómo en la sexta edición existen procesos, áreas de conocimiento, que nos llevan más a un enfoque mucho más restringido. Esto nos daba la idea de que todos los proyectos se funcionaban de la misma forma, pero eso estaba, digamos, en contraposición a lo que el entorno comenzaba a generar, a tener. había muchos cambios, muchos reprocesos, porque de repente ustedes comenzaban a hacer un proyecto tecnológico usando un marco más adicional, pero el tiempo pasaba y ya lo que estaban construyendo quizás ya no era válido, pues de pronto la competencia se acuerda más rápido, la tecnología ya cambió, entonces habían pasado tanto tiempo la planificación, que cuando ya pasaban a la construcción quizás ya era demasiado tarde. ¿Cómo por eso y por el propio concepto evoluciona también la gestión de proyectos con enfoque por principios? Donde antes ustedes se podían
+12:58 Speaker 2: plantear,
+13:01 Speaker 1: ¿no? Y de toda esa lista, ¿qué proceso sigo para gestionar el proyecto? Pero en cambio ahora, ¿qué enfoque necesito para que este proyecto realmente genere valor? Es el principal reto. Y ustedes identifiquen. cuál es el valor que está generando su proyecto. Y sobre ese valor, utilizar los principios que mejor se
+13:23 Speaker 2: acomoden a ese valor que ustedes quieren generar.
+13:26 Speaker 1: Y adicional a esto, recuerden que no hay que olvidar también que eso viene en un proceso anterior, que le habíamos llamado un estudio de descubrimiento, después había un desarrollo y finalmente una entrega del proyecto. ¿Cómo garantizamos que el proyecto tenga valor? Principalmente en esa etapa de aquí. Porque en esa etapa de aquí ustedes descubren cuál es esa necesidad o problema. Eso también lo habíamos comentado. Pero vale la pena otra vez mencionar que en esta
+13:59 Speaker 2: parte del descubrimiento hay
+14:01 Speaker 1: que darle mucho foco a la necesidad o problema para garantizar que efectivamente haya
+14:06 Speaker 2: un valor que alguien espera.
+14:09 Speaker 1: Porque esto de aquí al final está dirigido a un usuario y que puede ser tanto externo como interno. Esto es clave, digamos, para poder entender
+14:21 Speaker 2: la
+14:24 Speaker 1: propuesta y poder ser más tangible esa propuesta del proyecto que estamos trabajando. Y con esa certeza, no tanto certeza, pero con menos incertidumbre, pasar a desarrollar el proyecto. Entonces, de esa forma también, podremos acercarnos a ese valor que tenemos logrado. ¿Y por qué? Porque recuerden que sí también hay un marco, ¿no?, que puede sostener todo esto, que es el Design Pitching, pero otros también como el Lean Startup, que de repente ha desarrollado, y
+14:59 Speaker 2: así.
+15:00 Speaker 1: Marcos de la mente de... pensamientos de diseño, que podrían tomar ese descubrimiento.
+15:07 Speaker 2: El tema de descubrimiento también podría
+15:09 Speaker 1: ser oportunidad. Sí, también podría ser, porque al final una necesidad se puede transformar en esa oportunidad de negocio que queremos lograr. Y aprovechando la pregunta de su compañero, aquí también hay otra relación. que existirá una estrategia al inicio de la organización estrategia que debería sincronizar con esta necesidad de repente y que podría convertirse en una oportunidad porque al final el resultado de este proyecto de aquí nos va a determinar un indicador que puede ser un KPI propiamente del proyecto pero que antes de haber hecho esto en esta etapa también elaboramos un caso de negocio, justamente utilizando estos indicadores y analizando qué tanto aportamos
+16:04 Speaker 2: a la estrategia de la organización.
+16:06 Speaker 1: Todo eso forma parte del momento inicial antes del proyecto. Entonces eso hay que darle en cuenta, porque si pensamos en el valor que generamos, tenemos que ser conscientes de lo que resolvemos y también del impacto que genera.
+16:24 Speaker 2: ese proyecto de la organización.
+16:27 Speaker 1: La única manera de saberlo es establecer esa conexión con la estrategia. Porque la estrategia al final termina siendo
+16:35 Speaker 2: el
+16:37 Speaker 1: plan estratégico que tiene la organización para ciertos periodos de tiempo.
+16:41 Speaker 2: Entonces,
+16:42 Speaker 1: si ya tenemos esa ruta, ¿no? De cómo la organización se ve a
+16:47 Speaker 2: 1, 3, 5,
+16:48 Speaker 1: 6 años. ese proyecto de alguna forma debería aportar alguno de esos objetivos
+16:54 Speaker 2: en ese mismo periodo de tiempo entonces
+16:57 Speaker 1: por eso que esto no es menor tiene muchos factores que hay que analizar
+17:03 Speaker 2: y
+17:05 Speaker 1: con eso podemos decir ah efectivamente el proyecto generó valor tanto para quien lo va a usar como
+17:11 Speaker 2: para la organización con eso para
+17:15 Speaker 1: adelante Y lo demás va a ser finalmente teoría de soporte en la gestión. Pero toda esta parte de aquí, que se dan cuenta de la previa, es mucho de análisis propio, de ustedes que se metan a entender qué están haciendo, por qué lo están haciendo, si existen mejores formas, probando nuevas soluciones, porque solo como algo más adicional. Recordemos que también la conclusión de estos marcos de diseño de aquí que hemos puesto es tener un prototipo. No tenemos un producto final. Un producto final lo tenemos aquí, cuando ya hayamos desarrollado. Pero aquí tenemos un propio prototipo. Entonces, a nivel de prototipo, nos damos la libertad en esta etapa de poder probar. Yo podría ir a esto. diseñar en un propio lugar por toda una aplicación un app y se puede mostrar a ustedes y dicen no me gusta no hay problema y ahí mismo comenzamos a borrar incluir pantallas, más datos a nivel de prototipo esto casi no tiene costo y estamos justo en el momento de definir de definir para cada vez acercarnos más a la necesidad de este usuario y con todo eso
+18:35 Speaker 2: Ya recién pasada a
+18:37 Speaker 1: torturar el proyecto y finalmente se comparte. Toda esa partecita no hay que perder de vista, sobre todo que ahora
+18:45 Speaker 2: el enfoque es
+18:46 Speaker 1: gestionar ese valor, pero como la palabra valor puede quedar muy poco aterrizada, la forma como ustedes lo deben aterrizar es justamente así, entendiendo un poco el corazón del proyecto, cómo se relaciona con la organización. ¿Qué necesidad satisface? ¿Qué oportunidad está creando? ¿Qué es una nueva oportunidad de negocio? Y con todos esos datos, sustentar ese caso de negocio, que pueda ser luego comparable con otros proyectos de organización. Porque si también lo pensamos en un entorno más real,
+19:23 Speaker 2: y
+19:24 Speaker 1: ustedes han hecho, digamos, todo ese trabajo, y acá nomás son ocho
+19:29 Speaker 2: equipos, me quieren decir que hay algo.
+19:31 Speaker 1: Ocho grandes ideas. Cada uno tendrá su caso de negocio, pero de repente solo la facultad
+19:37 Speaker 2: tiene presupuesto para tres. Entonces,
+19:40 Speaker 1: se tendría que ver el detalle un poco de cada caso para priorizar finalmente los otros. Y no quiere decir que los cinco sean malos, porque hayan quedado afuera, sino que... el plan para cumplir esta estrategia, de repente, en ese momento, busca o está más relacionado a ustedes que se han realizado. Y más adelante, a esos cinco, quizás. Justo para hacer todo ese análisis, es que... Necesitamos entender la importancia de descubrir realmente qué estamos haciendo, por qué lo estamos haciendo y a quién o qué resultados estamos aportando, tanto para el usuario como para la organización. Eso es bastante clave. Y eso está un poquito por detrás de esta teoría que vamos a revisar. De entender el valor y la importancia de lo que
+20:34 Speaker 2: está naciendo. Eso es.
+20:38 Speaker 1: Y ahora ya vienen los principios en sí,
+20:41 Speaker 2: que son 2, 4 y 0.
+20:44 Speaker 1: No vamos a tener mucha complejidad, pero recordemos todos los análisis
+20:50 Speaker 2: que hay que hacer para ya
+20:52 Speaker 1: proceder a quitarlo. Entonces, una consideración muy importante que describe un poco esto que ya hemos conversado. es que no solamente nos vamos a concentrar en gestionar el proyecto como tal. Es decir, si ustedes plantean su proyecto, siguen su metodología, su formato, etc. y tienen un resultado, va a estar bien la
+21:18 Speaker 2: gestión del proyecto en forma adecuada.
+21:20 Speaker 1: Pero si ese resultado finalmente no se entrega,
+21:23 Speaker 2: es como si el proyecto no hubiese existido.
+21:26 Speaker 1: Por eso que no solamente hablamos de gestión de proyectos, sino también de la entrega
+21:32 Speaker 2: de este valor.
+21:35 Speaker 1: Porque si no hay entrega, ¿cómo es el proyecto? Tú me dices, hermano, ¿no? O sea, si al final ustedes buscaban de repente, no sé, mejorar la matrícula de
+21:45 Speaker 2: la universidad, se metieron todo
+21:47 Speaker 1: un trabajo, un ciclo, un prototipo, un desarrollo, una máquina, un logro, etc. Los pruebas no entendieron nada, se cayó el sistema, no funcionó y lo dejaron de lado y nadie más recordó el proyecto. no sería realmente un proyecto exitoso y ustedes como equipo de proyecto tampoco habrían
+22:09 Speaker 2: terminado, no habían cumplido un S-PIN por
+22:12 Speaker 1: el cual se generó el proyecto, finalmente era entregar un valor a los usuarios, en ese caso los estudiantes de la facultad o de la universidad. Entonces, en conclusión de esas láminas,
+22:30 Speaker 2: No
+22:31 Speaker 1: solamente nos enfocamos en gestionar el proyecto con las herramientas que tenemos, sino también en gestionar la entrega. ¿Y qué significa gestionar la entrega? Podemos terminar el desarrollo, podemos tener ya ese mínimo procuriable o eso que nos hemos planificado construir, ya lo tenemos ahí. Pero ahora tenemos que ver cómo lo implementamos, ¿no? Y no implementarlo al 100%. Bastará como una prueba piloto, un grupo de usuarios, ¿no? Donde sepamos nosotros que realmente se puede, que funciona este sitio, que se entiende, que no existe
+23:10 Speaker 2: caída abrupta,
+23:14 Speaker 1: que está estable, ¿no? Eso que estamos construyendo. Y que luego de ese pequeño periodo... digamos de prueba, de piloto, de marca blanca.
+23:24 Speaker 2: Nosotros podemos decir hoy sí, entonces mi proyecto
+23:27 Speaker 1: quedó ché, terminó, está grande, ahí está. Y cuando pasa eso, recuerden lo que sería, ¿no? Que había una laminita que decía proyecto y después decía operaciones, como un término general, ¿no? Porque en verdad aquí podrían haber muchos más equipos que finalmente reciben ese resultado de aquí. Esto está funcionando, ya lo usó 50 personas. Funcionó, es estable, y ahora lo entrego a otro frente, y este frente se encargará de seguir dando esta estabilidad a lo que acabamos de construir. Pero si no existiera esto, luego también sería... peligroso, ¿no?, porque ya, ok, con el proyecto acabé, me gestioné y entregué un resultado, pero si no hay una transferencia, alguien que va a ver el resultado, seguramente se va a quedar bien viento, de repente hay incidencias y nadie nos va a responder, y cuando pase eso, ustedes como usuarios, al no haber respuesta, me van a dejar cruzar. Eso puede ser una cosa. O lo otro podría ser algo quizás peor, que el propio tipo de proyecto ahora esté dividido entre lo que tenga que cubrir como incidencia de lo que construyó y lo nuevo. O sea, es como que ustedes ya están haciendo algo como si estuvieran ahorita llevando, de hecho, no estamos iniciando el ciclo, pero ustedes están aprendiendo lo
+24:57 Speaker 2: nuevo de sus cursos y
+24:59 Speaker 1: también tengan que ver lo del ciclo anterior, porque deben trabajo, porque... Encontraron errores en mi trabajo sin corregir la hora, entonces es como que estoy en el ciclo actual pensando en el anterior, pero también
+25:12 Speaker 2: en lo que me quedé en un desorden.
+25:15 Speaker 1: No tendría un poco, porque diría, bueno, el otro día lo pasé, ¿por qué el otro no volverá a abrir? No tendría mucho sentido, pero a veces pasa. Y pasa la vida real justamente cuando no hay esa transparencia. Entonces, si no hay una transferencia, lo que va a pasar es tener un reclamo y van a buscar a estos señores que hicieron el proyecto, decirle cómo funciona esto y la gente está fijando.
+25:39 Speaker 2: Entonces,
+25:40 Speaker 1: ellos tendrían que detener lo que están haciendo, lo nuevo, para concentrarse en preparar lo anterior que trabajaron. Y eso les quitaría foco de lo nuevo. Y en su proyección de lo nuevo, eso impactaría. gastaría más tiempo, más recursos, sería todo un desorden, y eso provocado por no tener esa transferencia. Y también como hablamos, de repente en una empresa pequeñita no existe esa transferencia, porque son muy pocas personas, pero entonces debería existir una división clara del tiempo.
+26:19 Speaker 2: O sea,
+26:20 Speaker 1: si el mismo equipo de proyectos, porque la empresa es muy, muy, muy chiquita, va a terminar viendo lo que trabaja
+26:27 Speaker 2: y lo nuevo que sigue, pues
+26:30 Speaker 1: en los cronogramas que plantea ese tipo de proyectos, debería tener respecto a ese tiempo.
+26:37 Speaker 2: Su día de repente no es de 27 horas, sino de 4,
+26:41 Speaker 1: porque 4 lo dedica a ver el día a día, dando soporte a los que ya trabajó,
+26:46 Speaker 2: y las 4 siguientes horas a los 9.
+26:49 Speaker 1: Entonces, Es otra vez que nos lleva a entender siempre el contexto de donde están. Sabemos que tenemos que hacer una transferencia de tareas, sí, porque necesitamos separar lo nuevo de lo que ya se entrega. Si no se puede hacer eso, entonces, y es el mismo equipo que lo va a ver, sincerando eso, no pasa nada, sinceramos que es esa figura, y cuando haya que proponer algo nuevo, entonces tiene la disponibilidad de ese equipo menor, y esa disponibilidad menor se verá. desde el inicio de los
+27:22 Speaker 2: programas que se han planteado.
+27:24 Speaker 1: Pero si sabemos que el equipo no dispone de su 100%, porque atiende también incidencias, horrores que pueden pasar. Y acá pintamos que sí, que está al 100, habría algo que no tiene sentido. Estaríamos... asumiendo que el equipo va a dar más de su capacidad y eso no va a ser tan realista lo que se va a pasar es que de repente el equipo funciona cuando
+27:55 Speaker 2: el equipo ya no da más explota luego
+27:58 Speaker 1: es una nueva cosa de la técnica alargada no vamos a quedar mal con el punto no vamos a pegar el tiempo este objetivo del equipo pues se va a
+28:06 Speaker 2: cumplir
+28:09 Speaker 1: una descoordinación que está ligada a no haber sido transparente. Entonces eso también es otro puntito clave. Como nosotros estamos al precio del proyecto, nosotros necesitamos
+28:25 Speaker 2: tener esa transparencia por nuestros
+28:27 Speaker 1: sponsors, por nuestros stakeholders, porque si el proyecto sirve para darnos o llevarnos,
+28:36 Speaker 2: mejor dicho,
+28:39 Speaker 1: contribuye a ese cumplimiento de la estrategia. Esa estrategia tiene plazos, tiene fechas, y con esas fechas la organización también gestiona su recurso. Entonces, si nosotros no somos transparentes con lo que estamos administrando y no mostramos cronogramas y margenitos realistas, no es estrategia, no se va a poder cumplir. Y como es un todo, la organización no solamente
+29:06 Speaker 2: es el equipo de proyectos, sino que es un
+29:09 Speaker 1: mismo resultado para todos. Esa poca transparencia podría aceptar no solamente a ese
+29:15 Speaker 2: equipo, sino a otros equipos
+29:17 Speaker 1: que no van a poder cumplir con los propuestos. Entonces, por ahí un poquito más el razonamiento de ser consciente. que la gestión del proyecto no es solamente el proyecto, no es solamente su tema, sus formatos, lo presenta el check, sino es que eso que generen realmente se use y se use en las fechas que ustedes también han proyectado.
+29:44 Speaker 2: Lo
+29:44 Speaker 1: mismo, por ejemplo, debería pasar, bueno, no se ve mucho en las notas, ese comportamiento, porque a veces, claro, en las notas... Por más que el resultado sea del equipo, sí
+29:54 Speaker 2: hay un peso individual para cada
+29:57 Speaker 1: uno, siempre hay uno más trabajado. Pero en la vida real, por ejemplo, si una parte de su proyecto no se entrega a causa del equipo, en realidad ustedes son los primeros responsables, ustedes van a cumplir el proyecto. Entonces tendríamos nosotros que, en la medida que nos damos cuenta de eso, haber gestionado ese equipo. quizás haber coordinado con él, haber analizado
+30:25 Speaker 2: o propuesto
+30:28 Speaker 1: ciertas alternativas de solución, porque lo que necesitamos es que el resultado
+30:32 Speaker 2: en conjunto se cumpla.
+30:34 Speaker 1: Si el resultado individual de ustedes se cumplió, bien, pero en verdad no importa que el conjunto se cumpla, que la entrega finalmente sea real y la entrega no solamente depende de ustedes, sino depende de todos los equipos que participen. eso pienso que se lo también
+30:52 Speaker 2: es bastante clarito a veces
+30:56 Speaker 1: acá al interno en la universidad pues ese efecto no se nota mucho porque si podemos castigar digamos a quien no aportó dentro del equipo pero un entorno más real ese castigo entre las comunidades si se puede dar pero en el fondo todos van a
+31:18 Speaker 2: Todos caen cuando
+31:20 Speaker 1: el resultado no está. Luego ya se puede individualizar y encontrar, digamos,
+31:27 Speaker 2: dónde estuvo el error, etc.
+31:29 Speaker 1: Pero en principio, si sabemos que algo está mal, somos todos los que tenemos que sacarlo adelante. Y ustedes, sobre todo, nosotros, como gestores de proyectos, los primeros llamados a pelear
+31:41 Speaker 2: porque todo eso se cumpla.
+31:43 Speaker 1: Y si es que hay alertas, se escalan, se... revisa porque el resultado es el que no se debe afectar tenemos que ser todos y todos debemos hacer nuestro mejor esfuerzo para que ese resultado no se afecte y cumpla con los plazos esa
+32:02 Speaker 2: podría ser una pregunta en
+32:05 Speaker 1: alguna evaluación de la entrega versus la gestión del proyecto ahora ya sabemos Son complementarios, no solamente gestionamos el proyecto, sino también gestionamos el resultado. Dado que el fin del proyecto es entregar valor, no podemos
+32:26 Speaker 2: descuidar el resultado.
+32:29 Speaker 1: No por solamente la gestión del proyecto y estamos bien, sino que hay que ver que el resultado
+32:34 Speaker 2: finalmente lo implementa.
+32:36 Speaker 1: Eso es bastante importante. Incomiendo, vamos a hacer una revisión de los principios. Vamos a cambiar el esquema aquí, y primero vamos a mostrar un ejemplo, y con el ejemplo vamos luego a mostrar el ejemplo. El ejemplo, quiero probar el ejemplo. El ejemplo dice, implementar nuevo sistema de matrícula en una universidad.
+33:04 Speaker 2: Complicado. Sistema de matrícula en
+33:06 Speaker 1: dos de variables. Aunque el sistema de la tecnología no se usa acá. de hecho a nivel de facultades la preparación de la matrícula más o menos comienza como un mes hasta un poquito más antes de que acaben las clases de cifra porque tienen código por profesores, abuelos, etc. y sobre todo ahora Hay mucha más restricción de ambiente. Tienen que optimizar los salones, la cantidad de alumnos. Es un mundo bastante... No es tan sencillo. Entonces el ejemplo nos propone eso. Un sistema de matrícula que pueda ser instalado en una universidad. Y acá dice, el proyecto no solo depende de que la plataforma funcione. También involucran los procesos, los actores. Y si cambia alguno de esos componentes, puede generar efectos en los demás. Eso es tener una visión para entender el proyecto como parte de un sistema. Entonces acá, en el ejemplo, ahorita vamos a escribir un principio de que hay alguna pista en el principio, pero nos comienza a, o nos debería llevar a la reflexión, que el proyecto no solamente es que el producto funcione, sino también
+34:34 Speaker 2: es entender a sus actores.
+34:36 Speaker 1: Y para entender a sus actores necesitamos tener una visión integral de lo que estamos haciendo. Porque de repente le estamos mejorando la vida a un actor, pero le estamos mejorando la vida a otro. Y eso no debería pasar. Si son varios actores los que intervienen en el proyecto, deberíamos tener un concepto sobre la solución que estamos trabajando. A veces, en algún punto, por ejemplo a mí, nos ha pasado que quizás por querer...
+35:04 Speaker 2: automatizar todo pero
+35:07 Speaker 1: no tener recursos, claro de cara al cliente parece todo automático pero eso que parece automático de cara al cliente se lo estoy cargando a otra persona o de repente estoy contratando un proveedor para digitar cosas que el cliente ya no hace y el cliente está check, oye que genial pero por detrás un montón de plazas y un digitador Este principio nos empieza a sugerir que no solo nos enfoquemos en el resultado, y se debe defender el valor, el inicio, eso va a estar genial, pero no solamente nos vamos a quedar ahí, sino también cuando ya tenemos esta propuesta, vamos a plantear nuestra visión y vamos a plantear todos los actores y componentes que participan en este valor. ¿Para qué? Para
+35:56 Speaker 2: entender cuáles son partes y cuáles son efectos.
+35:59 Speaker 1: Y eso trata la visión política.
+36:05 Speaker 2: Tener una visión completa del entorno
+36:08 Speaker 1: que nos permita
+36:10 Speaker 2: entender todos los actores,
+36:13 Speaker 1: los efectos y todas las consecuencias que podría tener eso que estamos haciendo. Porque de repente esa buena acción que estamos proponiendo podría estar perjudicando a otros actores. Y si no tenemos conocimiento de ello, pues
+36:26 Speaker 2: sería
+36:28 Speaker 1: un tema, ¿no? Porque luego van a haber reclamos, intervención, etc. Entonces el principio de la visión holística nos dice eso. Podría que comprender y gestionar los proyectos, pero considerando todo el entorno, el entorno completo, para entender cómo
+36:46 Speaker 2: el proyecto se
+36:47 Speaker 1: relaciona con todo el sistema. Normalmente, Es un diagramita sencillo, de repente
+36:54 Speaker 2: lo han visto en algún punto,
+36:56 Speaker 1: donde al centro podrían tener al proyecto de repente, al proyecto, y después dibujar círculos con los actores, y en la medida que las líneas de repente sean más lejanos, hay una relación mucho
+37:13 Speaker 2: menos
+37:17 Speaker 1: importante. Pero aquí, sí, y de esa forma, ustedes pueden darse cuenta de que actores son más importantes que otros. Por ejemplo, si el proyecto estuviera enfocado en la universidad, como el caso del texto de la FPT, digamos, a la interna no está el asumido, pero sabemos que cualquier cosa, finalmente, va a estar normado, regido por lo que diga
+37:41 Speaker 2: el asumido, el asumido de educación.
+37:44 Speaker 1: que estarán por acá, por acá, están más lejos, pero no por eso no deberían estar informados, no por eso no deberíamos no revisar esas normas, porque eso podría también resultar a ese proyecto. Entonces, conclusión de la misión holística es mapear justamente al sistema y a todos los actores para
+38:06 Speaker 2: que ustedes en base a ese
+38:07 Speaker 1: entendimiento discriminen. ¿Cuáles son los más importantes? ¿Cuáles tienen que mantener más cerca? ¿Cuáles tienen que mantener, digamos, todo informado? ¿Cuáles deciden? Y más adelante, en la parte de comunicaciones, justamente vamos a analizar.
+38:29 Speaker 2: Para la parte ya del... Pero
+38:31 Speaker 1: al menos ese principio se aterriza en este conocimiento. Si no hacemos esto, otra vez podrían haber consecuencias. Como les decía,
+38:45 Speaker 2: a veces no
+38:46 Speaker 1: debería pasar. Ese va, ese es el principio número uno. y ahora vamos con el 2 seguimos con el sistema de matrícula y en este caso dice el sistema no solo genera valor porque funciona dice o sea que funcione es como Pueden, no sé, instalarse Word, una visión antigua, funciona, funciona, ¿no? Pero ahí hay que ser eficiente, es otra cosa. Y en este caso el valor desde el sistema debería de validarse con ciertos indicadores, como por ejemplo, la reducción del tiempo, la facilidad del proceso, la disminución de errores. Porque el valor no solamente está en lo que se entrega, dice, sino en un beneficio que... esta entrega genera. Entonces, esto es súper importante. Ustedes han podido elaborar una súper plataforma, pero si el tiempo de carga es las dos minutos para que el usuario pueda dar clic y cada clic en el minuto, un minuto, un minuto, nada de usar esa plataforma, ¿no? Entonces, la entrega también tiene que validar que es el beneficio. Por eso, El beneficio que ustedes descubren aquí necesita aterrizarse en indicadores, en descubrir realmente cuál es esa necesidad que están cubriendo o ese problema que están resolviendo.
+40:24 Speaker 2: Y eso también hay que tener
+40:25 Speaker 1: en cuenta, ¿no? Porque quizás a este nivel
+40:29 Speaker 2: nosotros
+40:32 Speaker 1: a veces hacemos un proyecto, ¿no? Y chévere, pero funciona bastante. Pero de repente, cuando lo comparamos con otras soluciones, ya por un entorno real, no ofrece realmente beneficio.
+40:45 Speaker 2: Eso es
+40:45 Speaker 1: lo que hay que validar. Y como seguramente ya lo intuye, ese principio se enfoca en el valor.
+40:56 Speaker 2: Y
+40:56 Speaker 1: ese valor no solamente está ligado a la estrella, sino al efecto, al impacto que esa estrella genera. Por eso dice, ¿no? El valor representa los resultados del proyecto y los beneficios en las partes interesadas. Y otra vez menciono las partes interesadas, ¿no? Porque al final, de repente es súper beneficioso porque reduce tiempos, ¿no? Pero quizás lo reduce porque estamos poniendo a trabajar a todo el mundo tres turnos. Entonces, claro, reduce tiempos, pero esto es necesario trabajar mucho más horas de lo que debería. Entonces ahí no hay un par de valor, porque el valor es integral, si se
+41:36 Speaker 2: dan cuenta.
+41:37 Speaker 1: No solo a nivel de resultados, sino también a nivel de los diseños que nos interesamos. El valor de ese también se puede expresar de diversas maneras, y hay dimensiones indicadores, ¿no? Contribuciones, beneficios sociales, etc. Porque la gestión del proyecto no
+41:56 Speaker 2: solamente es una gestión privada,
+41:58 Speaker 1: sino de repente los... Por ejemplo, en algún sitio que no me acuerdo de gestión, hicieron un proyecto que más llega a la parte social. donde juntaron dos instituciones, una que era Niquem y otra que era Ojalá, pero además básicamente adoptaba perritos. Y con ayuda de una psicóloga, lo que hizo el proyecto fue hacer un piloto para que estos perritos,
+42:46 Speaker 2: los
+42:48 Speaker 1: que debían ser amantrados, puedan servir como una ayuda a
+42:54 Speaker 2: los niños.
+42:55 Speaker 1: que acudían a una terapia y
+42:58 Speaker 2: que necesitaban tener un
+43:00 Speaker 1: tiempo de espera. Entonces, para que en ese tiempo de espera no existan,
+43:05 Speaker 2: o
+43:07 Speaker 1: mejor dicho, se relajen, se sientan a gusto,
+43:11 Speaker 2: tal
+43:12 Speaker 1: vez les baja un poco ese temor que existía por entrar a la terapia, aparecen esas mascotas para que les den una interacción previa al entrar a la terapia. funcionaba y era un piloto que se quería implementar, y ahí unían dos instituciones, y el beneficio es un beneficio más humano, no es un beneficio tangible, de ahorro, de uso de tiempo, etc., sino un beneficio más humano, mucho más social, que tenía que ver con el éxito de la literaterapia, con la mejora de la calidad de vida del paciente. la mejora de la atención, muchos otros actores, pero que están más ligados a la parte social, ¿no? Ahí, por ejemplo, no
+43:56 Speaker 2: hay algo que interesaría.
+43:59 Speaker 1: Y en el caso de gestión pública, igual, ¿no? Cuando, por ejemplo, ustedes han escuchado, ¿no? Ahí se generan programas sociales para poder educar más a las personas. para poder, tal vez, generar mayor inclusión financiera. Entonces, hay, digamos, proyectos de todo tipo, ¿no? Y es por eso que, de acuerdo al contexto que ustedes se vayan a desempeñar, lo vamos a poder aplicar. Pero eso un poquito se los decía como para que
+44:29 Speaker 2: siempre
+44:32 Speaker 1: lo podamos ampliar, ¿no? Y ustedes también nos pueden aportar, si conocen, ¿no? De repente trabajan... en una organización social, participan de voluntariados, en ONGs, por repente en el Estado, que sí pueden santear los ejemplos. Pero siempre teniendo en cuenta eso, ¿verdad? Estos conceptos son transversales a diversos sectores. No es netamente todo monetario, también puede ser algo más humano, más social. Entonces es un poquito lo de valor. Y ahí, digamos, ya entendemos que no solamente es la entrega de algo, ni siquiera es solamente que funcione ese algo, que funcione y que realmente se sustente en los comunicadores que permitan. validar ese valor. Y que no solamente sean esos indicadores, sino que también sea validado por los interesados. O sea, que sea un valor integral. No solo de resultados, sino también de los resultados. hasta ahí vamos dos, misión holística para emprender el sistema y
+45:47 Speaker 2: un poco en valor para medir
+45:50 Speaker 1: eso que estamos entregando y para que también esa medición
+45:55 Speaker 2: no
+45:56 Speaker 1: afecte a las tejolas y ahora vamos a ver el tercero siguiendo con el mismo ejemplo en este sistema No basta, dice, con que la plataforma esté terminada. O sea, no basta con que la plataforma
+46:11 Speaker 2: esté terminada,
+46:12 Speaker 1: sino que antes de ponerlo en funcionamiento, verifiquemos que regice correctamente, en el caso de esta plataforma, que verifiquemos que se regicen los cursos, que procesen pagos, que respondan tiempos esperados y que sea
+46:28 Speaker 2: fácil de usar.
+46:30 Speaker 1: ¿Qué pasa si es que ustedes se comprometieron? Oye, sí, esta plataforma, lo máximo, incluye los tiempos, a nadie le afecta, no, genial, lo desplega y comienza a haber errores.
+46:42 Speaker 2: Se cae,
+46:43 Speaker 1: no valida, ponen un código y sale de otra persona, comienza a haber errores, falta de título, errores autográficos.
+46:57 Speaker 2: Y aquí, ya nos sugiere, es
+47:00 Speaker 1: la última línea, ¿no? La calidad se construye durante el proyecto y no se revisa la calidad. O sea, no somos reactivos con la calidad, ¿no? No es porque ustedes se dan cuenta que algo está mal, yo lo corrijo, sino más bien somos proactivos. Y es por eso que, seguro en más de un curso a lo largo de todos estos años, el término de calidad es a lo que ha aparecido en el tiempo, ¿no? Y la calidad es a lo que se... va de la mano también con el desarrollo. Y es por eso que existieran herramientas, y ahora con mucho más, mucho más, creo que, mucho más accesible que antes, herramientas que a ustedes les ayudan a revisar lo que van construyendo. Por ejemplo, quizás, los compañeros informáticos de repente se utilizan, o sea, de repente la inteligencia se trata de revisar su código, generar algunas obras. O por ejemplo, si yo quisiera medir,
+48:00 Speaker 2: si
+48:05 Speaker 1: nosotros por ejemplo quisiéramos medir en tiempo real
+48:10 Speaker 2: la
+48:11 Speaker 1: página de la universidad y ver cómo en este momento está el rendimiento, yo podría estar
+48:25 Speaker 2: probando.
+48:28 Speaker 1: Yo podría ver ahí un poquito de
+48:29 Speaker 2: comportamiento.
+48:31 Speaker 1: Y aquí, por ejemplo, en esta comparación, invento que funciona mejor. ¿Y el celular funciona peor? Pero esos son tipos de indicadores, pero eso sería un poquito más reactivo, porque ya la página está ahí. Pero de repente, cuando esto se está desarrollando... dentro de esa ejecución se podría haber tenido ciertas herramientas para detectar errores, errores, para que... Entonces, es un poquito la idea de la calidad, que es el
+49:10 Speaker 2: tercer principio.
+49:16 Speaker 1: La calidad se integra a la gestión del proyecto, la calidad no está separada, porque si estuviera separada, estaríamos
+49:24 Speaker 2: siendo más reactivos,
+49:27 Speaker 1: es decir, hay error y recién la ley. En cambio, si está integrada, dentro del propio desarrollo ya tenemos pruebas que nos permitan
+49:37 Speaker 2: ir
+49:40 Speaker 1: validando que efectivamente lo que estamos construyendo está acorde a lo solicitado. Esto también lo vemos, por ejemplo, industrial, cuando hacemos inspecciones, en general, o al inicio, de las primeras cosas que nos enseña industrial, por ejemplo, un DOP, un
+49:59 Speaker 2: DAP, y
+50:01 Speaker 1: comienza a haber esas figuritas,
+50:02 Speaker 2: diámbulos, cuadrados.
+50:11 Speaker 1: nos sirve y nos dicen ¿le puedes poner inspección a todo? no porque es el primer acoso va un poquito ustedes seleccionando esos puntos de control y de esa idea hacia aquí podemos hacerle un mezzo de como ya desde antes en esas herramientas que dibujábamos Estábamos considerando la calidad como parte del proceso. Parte del proceso de una operación que un operario hacía era tener actividades de calidad en ciertos puntos. Podían estar en todos los puntos, no, porque eso era costoso. Entonces había que seleccionar los más importantes. Y eso nos va a servir justamente para... asegurar que se esté alcanzando ese nivel que se espera lograr. Obviamente siempre habrán errores, porque no vamos a parar a hacer una inspección completa de todo el lote. Habrán ciertos lotes, productos de repente que salgan un poco fuera de esos niveles, pero en teoría de evidenciar los mínimos. Por ejemplo, cuando yo practiqué embacus en una línea de envasado, en esa época había un problema de sobrellenar. Pero de repente para los clientes de Estados Unidos, quizás se ha sobrellenado no es un problema, porque daban más de lo que pagaban.
+51:43 Speaker 2: Es como
+51:43 Speaker 1: 500 mililitros y daban 550. de repente para el cliente era el hub pero para la empresa no es más de lo que debería entonces ahí lo que se hacía era que a medida que se iba a llenar por más controles que había igual pasaba pero se hacía todo un proyecto de sin sigma justamente para establecer esa medición esa causa raíz y finalmente darle una solución Entonces tenía muestras. La calidad es algo que está bien. En algunas organizaciones está súper, digamos, incluido en la propia operación. Porque desde la calidad podemos evitar problemas, etc. Pero a veces la calidad la sacrificamos. ¿En qué sentido? Creo que tal vez se lo dije en la clase pasada. Que a veces me ha pasado. Nos falta tiempo en el proyecto. Ya falta un mes y me falta hacer pruebas. Pero las pruebas las serían precisados después del mes. Por ahí alguien dice, quítale un poco de pruebas. Unas previstas de cuatro o tres semanas y con eso pasamos. Es un riesgo, ¿no? Porque quizás esa semanita que le estamos cortando que aparentemente no tiene efecto. Entonces, otra frase de esta lámina puede ser que la calidad no está
+53:17 Speaker 2: a lo que se impone, tampoco se sacrifica.
+53:20 Speaker 1: La calidad es a la que se tiene que tomar en cuenta, que se tiene que, digamos, sincerarse, transparentarse, en todo caso, si va a pasar eso, aceptar las consecuencias que pueden pasar. Yo voy a dejar de hacer esas pruebas quizás sin años, ¿no? Porque la gente a la que yo voy a sacar la aplicación normalmente está usando. Ya, pero ten en cuenta, ¿no? Que el 5% que usa años va a poder reclamar porque no lo está probando. Quizás es una decisión por X cosa,
+53:52 Speaker 2: pero no puede estar claro,
+53:54 Speaker 1: ¿no? Porque en principio sabemos que esa calidad... no se negocia y otra cosa importante es que en base a esto de acá nosotros definimos un alcance del proyecto y ese alcance
+54:13 Speaker 2: de
+54:15 Speaker 1: cara a lo que vamos a construir se puede describir a través de criterios la estructura de aceptación es como si fuera una especie de checklist de lo que ustedes están construyendo. Si mandan a construir la puerta, ustedes a la puerta exploman, si tiene una ventana al medio, si. Todos los criterios les van a servir justamente para validar que lo que están recibiendo es lo que ustedes
+54:41 Speaker 2: mandaron a construir.
+54:45 Speaker 1: Por eso es importantísimo
+54:47 Speaker 2: decidir el alcance.
+54:49 Speaker 1: Porque el alcance nos dice que hay que hacer y los criterios nos dicen cómo validar eso que
+54:54 Speaker 2: hemos mandado a construir.
+54:57 Speaker 1: Ese es el tercer tema, el de la calidad. Vamos ahora con el cuarto. Dice, durante la implementación, igual de ese sistema, aparece un retraso importante. El líder asume el problema. lo comunica, escucha y toma decisiones sin sacrificar la calidad y sobrecargar a las personas. Podría ser también que tengan que sacrificar algo. A veces son problemas no siempre de solución así tan perfecto. Quizás a veces son problemas de solución en un buen tipo de sobrecaso. Pero bueno, fuera de eso... En este caso, en principio, lo que nos está llevando a pensar es cómo debería ser este líder en el proyecto. ¿Debería ser un líder que se hace cargo de las decisiones
+56:00 Speaker 2: en principio? Sí. Porque
+56:03 Speaker 1: si el resultado del proyecto es responsabilidad de todos, pero principalmente es responsabilidad del que está gestionando el proyecto. ¿Quién asume esa responsabilidad y quién? trata de funcionar a las personas para que el problema se solucione. Pero así como nos toca a veces recibir un
+56:25 Speaker 2: premio, un reconocimiento,
+56:28 Speaker 1: oye, qué buen proyecto, qué buena idea, etc., también a veces nos va a meter que asumir ciertas consecuencias. Oye, tu producto se ha caído, no funciona, estábamos todo, y el líder va a estar dando las buenas. Así como están las buenas para la foto, también para estar para las malas, cuando le toque estar con el equipo para levantar el sistema, para arreglar lo que quizás no se probó a tiempo, para solucionar algún error, involucrar a alguna persona, etc.
+57:02 Speaker 2: Y
+57:02 Speaker 1: este principio, por tanto, nos hablará acerca del liderazgo responsable, el cual no solamente... implica dirigirnos a las personas, sino también asumir, tanto lo bueno como lo malo, los objetivos del proyecto y todas las acciones y decisiones que vayan tomando. Que es un poquito lo que nosotros hacemos en nuestro día a día. Ustedes tienen un objetivo que lograr y, por ejemplo, hoy seguramente están viniendo a entrar a la universidad. y tiene la decisión de ¿entra
+57:40 Speaker 2: a clase o no entra a clase?
+57:42 Speaker 1: y si uno no entra a clase y se va a hacer otra cosa, está decidiendo y asume nomás la consecuencia si justo es de una actividad asume cero nomás, conscientemente porque tomó la decisión de no
+57:54 Speaker 2: entrar a esa clase entonces
+57:57 Speaker 1: desde ese punto de vista nosotros también asumimos liderazgo con nuestra propia
+58:02 Speaker 2: historia
+58:05 Speaker 1: Somos responsables de las decisiones que estamos tomando. Sabemos cuál es nuestro objetivo y cada día... tomamos muchas decisiones que nos acercan
+58:17 Speaker 2: a eso.
+58:19 Speaker 1: En el entorno real, un líder, además de todo lo que hemos conversado, también debe ser una persona honesta. ¿Y dónde está un poco la honestidad? Nosotros, si recordaron también el programa y toda la lógica que hicimos en la clase pasada, somos administradores de presupuesto. Y ese presupuesto podría ser cantidades bastante fuertes. Entonces, cuando nosotros vamos a contratar, por ejemplo, a personas, los procesos tienen que ser transparentes. A veces, por ejemplo, seguramente han escuchado, se adjudican obras y justo se creó una empresa. La licitación, no sé, es en octubre y justo se creó una empresa en septiembre y con ser experiencia le dieron la licitación en el Estado. Entonces ahí como que no hay manejo tan transparente. Entonces, por eso, lo que nos propone la teoría, no solamente la teoría, nuestra propia experiencia, tenemos que ser honestos con los recursos que nos toca administrar, siendo respetuosos de las formas, de los procesos que existan. Y acá hay otra cosilla clave, nos dice humildad y disponibilidad. ¿Por qué creen ustedes que un líder debe ser humilde y disponible? ¿A qué se referirá esto de él? ¿Se les ocurre? la disponibilidad para poder escuchar y terminar con la gente. Sí, ¿no? Perfecto. ¿Cuál es su nombre? El Andy. Perfecto, lo que comedia es su compañera Rani, ¿no?
+01:00:24 Speaker 2: Yo le hablo más desde la horizontalidad, porque mayormente asomen que un líder es una persona que está por encima de las personas y les van a trabajar, pero es lo menos al contrario, me encanta educar. ser uno más del grupo y estar justamente disponible igual que ellos, no simplemente mandarlos a trabajar junto a ellos y aprender junto a ellos. Bueno, podría dar un ejemplo, y creo que si un líder no es un líder, se le puede, como que quien dice, que va a perder el objetivo del proyecto y también va a verlo por sus proyectos. Cuando hay algún error, va a buscar algún culpado, lo cual también es tener un tema en el equipo que está llevando a cabo el proyecto que no es adecuado. Y bueno, también va por su mismo... Eh, voy tal. No voy a estar listo muy lejos. Cada vez que el proyecto le quieran, sino cuando ellos quieran. No, no se va a poder llevar a cabo de un proyecto exitoso. ¿Tu nombre? Eduardo.
+01:01:46 Speaker 1: Y los demás están de acuerdo. Creo que los tres han coincidido bastante, ¿no? En que necesitamos tener esa apertura, en principio,
+01:01:55 Speaker 2: para los demás,
+01:01:56 Speaker 1: que si nos subimos, como dijo Eduardo, a un pedaño mucho más alto, ¿no? Quizás nos funcione para lo bueno, ¿no? Pero ahí con qué, imagínense con qué... actitud, podemos ir a buscar a las personas para que nos ayuden sin que algo no pasó. O cómo, porque de pronto no vamos a entender todo de todo, ¿no? Cómo, igual, ¿no? Vamos al equipo a decir, oye, ¿me puedes explicar cómo funciona este módulo? No se puede entender un poquito más la parte técnica. O sea, ¿cómo también recibimos de los demás respuesta a nuestras consultas? O como los demás también nos piden ayuda, ¿no? Realmente hay un problema que está pequeñito, ¿no? Pero como no le dicen nada, comienza a agrandarse, agrandarse, agrandarse, agrandarse. Entonces, qué importante es, inclusive no sólo aquí, ¿no? A nivel de que
+01:02:55 Speaker 2: tengamos
+01:02:57 Speaker 1: pues esa, como también comentábamos en media vista, ¿no? Ese trato horizontal con las personas. Sobre todo porque hoy miramos
+01:03:06 Speaker 2: que estamos tocando, no
+01:03:09 Speaker 1: sé, en este contexto. Pero luego, en otro contexto, de repente las cosas
+01:03:15 Speaker 2: cambian y ya no son los textos.
+01:03:25 Speaker 1: o de repente estamos en una empresa nueva seguimos siendo jefe pero una empresa nueva nos vamos a necesitar entrar a detalle de cortes
+01:03:32 Speaker 2: entonces si
+01:03:35 Speaker 1: nuestra posición no siempre va a ser la misma toda la vida y esto va a poder cambiar dependiendo del contexto detrás de esos principios también está la idea de que deberíamos actuar conforme al dato que nosotros nos gustaría recibir. Porque no siempre vamos a estar como de arriba, es cierto, puede tocar un poco más completo. Pero para no hacer distinciones, lo bueno me comporto así, lo malo así, mejor tener una misma línea siempre. Y eso también nos va a sumar a ustedes para que se
+01:04:12 Speaker 2: construyan esa
+01:04:15 Speaker 1: imagen que les gustaría proyectar hacia afuera. Ese perfil, que no solamente es un perfil personal, sino es un perfil íntegro, que tiene que ver tanto con lo técnico que con lo personal. Ustedes pueden desarrollar súper top a nivel profesional, pero también necesitan desarrollarse a nivel personal. Y ven cómo ese desarrollo también interviene en el proyecto, porque esa forma de ser de ustedes va también en ser parte de cómo hacen sentir a su equipo. Porque cuando ya tengo un equipo, personas, presupuestos, etc., van a tener que estar disponibles, van a tener que escucharlos,
+01:04:53 Speaker 2: van
+01:04:54 Speaker 1: a tener que hacer respeto, obviamente, por condiciones que quizás no son como las de ustedes, pero de repente hay alguna razón en la que está diciendo las personas. Humildad, como comentaba su compañera García, también para reconocer errores. Y hasta el jefe también se puede equivocar.
+01:05:13 Speaker 2: ¿Qué
+01:05:13 Speaker 1: sensación le deja el equipo? El jefe reconoce que se ha equivocado por mucho más la razón nosotros. Por eso, una serie de eventos. En este caso tiene que ver más con una parte mucho más de cada uno, más intrínseca, más soft, más blanda, pero que son necesarias para que el equipo también se sienta con confianza y que según esa confianza nos podamos
+01:05:55 Speaker 2: adaptar a todos los
+01:05:57 Speaker 1: campos que vayan. Es algo importante para que nos den cuenta también y no solamente en la gestión de proyectos, sino a nivel general. Nos
+01:06:09 Speaker 2: basamos
+01:06:13 Speaker 1: en una
+01:06:14 Speaker 2: parte técnica para entender los objetivos, pero
+01:06:17 Speaker 1: también una parte de la semana para poder establecer sus conexiones que hagan construir. o que van a dejar de que pasemos, mejor dicho, de ser un grupo, que seamos realmente unidos. ¿Cuál es la diferencia? Que en un grupo nos juntamos, en un grupo de personas, cumplimos el objetivo, sí, pero la responsabilidad es un poco más individual. Un grupo, o sea, de repente en el
+01:06:48 Speaker 2: colegio, ¿qué ha pasado?
+01:06:49 Speaker 1: Si alguien no hace, profesor, él no hizo, ¿ah? Pues sí,
+01:06:52 Speaker 2: profesor, no habrá hecho problemas, pero no hay problema.
+01:06:57 Speaker 1: de las primeras cosas pero
+01:07:02 Speaker 2: luego de ahí el
+01:07:04 Speaker 1: resultado va cambiando si ya lo están así si me va bien en
+01:07:09 Speaker 2: verdad somos todos pero
+01:07:10 Speaker 1: uno puede ahora que levante la mano y que diga por qué no pudo problemas como todos y
+01:07:18 Speaker 2: nos podemos apoyar pero
+01:07:21 Speaker 1: es necesario tener esa conciencia de equipo como Un partido igual jugó, ¿no? Gana el equipo, no gana el jugador. El jugador viene al jugador, pero si el jugador fue el estrella y perdieron por goleado,
+01:07:35 Speaker 2: no va a tener ningún sentido el resultado individual.
+01:07:40 Speaker 1: Entonces, dicho eso, esta parte va más hacia adentro.
+01:07:48 Speaker 2: Y
+01:07:48 Speaker 1: no hay que perder la vista porque otra vez es algo que vamos a ir desarrollando y que todos en verdad estamos desarrollando. Así como ustedes, yo cada uno a su momento, pero ahora todos seguimos desarrollando, todos seguimos aprendiendo,
+01:08:05 Speaker 2: y esto es algo que
+01:08:06 Speaker 1: va a evolucionar en el tiempo. Y un principio más, antes de irnos a ver, y en el mismo ejemplo, al implementar este sistema, al implementar este sistema, la universidad busca una solución que no solo funcione hoy. Sino que también sea viable, fácil de mantener y capaz de reducir recursos. Interesante, ¿no? O sea, que no solamente sea una solución que... Ahí está, puede ser... Puede ser, se me va a ocurrir, pero podría ser también
+01:08:42 Speaker 2: como el puente del aeropuerto.
+01:08:44 Speaker 1: La solución que ahí está, ¿no? Estos dos puentes están en la venta del aeropuerto con la pista, ¿no? Pues están ahí, funcionan. No va a ser para siempre, porque tienen que ser provisionales. Y tiene que ser, en verdad ha debido ser una solución oficial de inicio, algo que pueda servir para muchos más años, no algo solamente por apagar el ejemplo. Entonces nuestro proyecto también debería tener el mismo efecto. La solución que estamos viendo debería ser algo mucho más estratégica, mucho más avanzada, aunque es cierto y hay que darle el matiz real
+01:09:22 Speaker 2: de
+01:09:23 Speaker 1: que a veces nos pide apagar el
+01:09:26 Speaker 2: incendio.
+01:09:27 Speaker 1: Y en ese caso podríamos proponer dos opciones. Oye, la solución completa de repente te vale un año. Pero esta solución completa te va a servir para cada cinco años porque tiene A, B, C, B. La solución más táctica te va a aguantar, no sé, tres años, pero te va a dar la mitad del tiempo. Y ahí el negocio puede decidir. O en función de la estrategia, todos tomar una decisión de cuál alternativa ir. Eso también pasa. Pasa, pero nuestro rol es justamente dar esa visibilidad completa
+01:10:03 Speaker 2: en los dos escenarios. Porque lo
+01:10:06 Speaker 1: que la teoría del caso quiere es, oye, tú siempre proyecta, digamos, esa solución completa que sea sostenible en el tiempo. Pero el matiz, acá real que le damos es, sí, efectivamente es correcto, pero podría darse el caso también que por urgencia, necesidad, contexto de negocio, además de esta solución estratégica que va a servir para muchos más años. propongamos algo más puntual, algo más como para pagar el incendio.
+01:10:37 Speaker 2: Como si de
+01:10:39 Speaker 1: repente... Ustedes necesitan, no sé, vender entradas para la fiesta de grabación, pueden construir una super plataforma porque quieren que esta plataforma se use todos los ciclos por todas las promociones que puedan venir acá los años. Eso puede ser una, no puede ser un colás, o la otra es que creen sus formularios Google nomás y con eso la gente llene, encanee nomás su voucher y con eso ya van a vender entradas. La otra solución al problema, sí. Una es más barata que otra, obviamente, porque Google es gratis, incluso usando el correo público. Pero la otra, pues, la primera va a requerir mantenimiento, va a requerir que cada vez se haga un formulario nuevo, etc., mientras que la otra es más sencilla de mantenimiento. Entonces, esa es un poquito la idea desde el principio. Y también nos habla de reducir recursos innecesarios. Y aquí hay la palabrita que es la sostenibilidad. Cada vez en nuestros proyectos, no, cada vez en el contexto en que vivimos, la palabra de sostenibilidad es a lo que está mucho más presente. Si vamos, por ejemplo, en el Magrego, o acá en el Magrego, acá en la Universidad, acá en la Universidad, acá en la Universidad, acá en la Universidad, acá en la Universidad, acá en la Universidad, acá en la Universidad, acá en la Universidad. el uso de la energía sea más eficiente, el uso del agua, el uso de los recursos en general. Entonces acá, por ejemplo, también habla de la capacidad de que nuestra solución, así como sea sostenible en el tiempo, también sea capaz de utilizar los recursos necesarios. Y creo que con eso, resulta que el siguiente principio sería la sostenibilidad integral, donde nosotros...
+01:12:35 Speaker 2: Por tal, digamos, de hacer nuestra solución
+01:12:37 Speaker 1: y solamente concentrarnos en ella, perjudiquemos quizás o comprometamos a las generaciones futuras, como dice acá. Por ejemplo, de repente, ¿no? Yo necesito, ahorita necesidad de vivienda, ¿no? Eliminamos todo y hacemos un conjunto de habitaciones inmenso, todo el mundo tiene casa, todo genial, ya está, ¿no?
+01:13:02 Speaker 2: La gente vive, pero de cada 10
+01:13:05 Speaker 1: años, o de cada algunos años, ese oxígeno, esa contaminación, entonces hay efectos adversos que no tenemos que considerar la solución. Dicho eso, en este principio lo que dice es, esa solución, como ya vimos hasta aquí,
+01:13:22 Speaker 2: tiene un resultado,
+01:13:24 Speaker 1: se preocupa por los tejores, etc. no debería, o debería tratar de utilizar recursos mínimos y sobre todo no perjudicar también al ambiente donde se desarrolla, al contexto donde se desarrolla. Debería más bien tratar de preservarlo, utilizar
+01:13:42 Speaker 2: materiales reciclables,
+01:13:45 Speaker 1: que sean biodegradables, si de repente es un impacto, es un diciembre de alguna estructura, algún componente. Deberíamos darnos todo ese trabajo de analizar los materiales, radiaciones, etc. que usamos para garantizar que así como funciona y genera valor y todo, también nos genera un impacto adicional al medio donde se va a aplicar
+01:14:10 Speaker 2: ese uso.
+01:14:13 Speaker 1: Y eso es, nos falta solamente uno más, el resumen 11 y 29. Entonces, debemos analizar. ...y cuenta con la confianza del equipo. Entonces acá nos menciona varias características
+01:14:28 Speaker 2: importantes, porque dice que cada
+01:14:31 Speaker 1: integrante conoce claramente su rol, lo que nos habla de un autoconocimiento
+01:14:36 Speaker 2: de lo que hacemos en nuestro país.
+01:14:40 Speaker 1: Y el conocimiento finalmente nos da cierto poder, porque si nosotros conocemos lo que hacemos, también nos da ventana,
+01:14:52 Speaker 2: nos da oportunidad
+01:14:54 Speaker 1: de poder aportar. Porque en principio ya somos expertos, pero dominamos un poco el tema y sobre eso, ese dominio podemos tener cierto aporte. que nos permita tomar decisiones. Y otra vez, el conocimiento nos da esa potestad. Yo sé mi tema, entonces me puedo aventurar a decir, oye, esto se tiene que resolver así, porque realmente usted conoce su ámbito de conocimiento. Y esto a su vez, irradle que el equipo confíe en usted, oye, esta persona sabe el tema, o sea, si no se es... O sea, no sé, Gandhi habla, no sé, sobre... Ya ves que, de repente, el gobierno no es... Esto ya sabe,
+01:15:43 Speaker 2: ¿no? Sabe siempre, conoce, ¿no?
+01:15:45 Speaker 1: Voy a poner un ejemplo. Entonces, el conocimiento, ¿no? Que parte de uno mismo, comienza a radiar en otras cosas, ¿no? En la toma de decisiones, en la confianza de los otros miembros del equipo, y esto a su vez nos va
+01:15:59 Speaker 2: convirtiendo justamente... y líderes dentro de nuestro equipo.
+01:16:05 Speaker 1: Este principio, que habla acerca del empoderamiento, nos menciona de
+01:16:12 Speaker 2: que este tipo de personas tienen
+01:16:14 Speaker 1: un principio de claridad, cuentan con la confianza del equipo y tienen cierta autonomía. Pero esta autonomía no es gratis, es una autonomía basada en hechos. Y los hechos... Inicialmente partieron de un conocimiento de sus actividades, de volverse expertos en esta materia y sobre eso poder asumir más responsabilidad. En conclusión, hablamos del principio de cultura empoderada. Es aquella cultura donde se promueve la confianza entre las partes interesadas y los miembros del equipo. Pero el empoderamiento, como acabamos de ver en el ejemplo, empieza desde uno mismo.
+01:16:57 Speaker 2: que conozcamos lo que estamos haciendo, conozcamos nuestro aporte,
+01:17:00 Speaker 1: y sobre eso complicamos a inscribir a los demás. Sobre eso tuvimos responsabilidades, proponemos unas soluciones, o quizás también criticamos o observamos el proceso que estamos viendo, porque partimos justo por esa claridad que cada uno va a tener. En la medida que todos los miembros del equipo se empoderen, ese equipo va a ser mucho más autónomo. Quiere decir que no va a depender de que siempre tenga una persona detrás o que siempre el jefe venga para decidir. Quizás sí para cuestiones mucho más, digamos, estratégicas. Pero de repente para el día a día el equipo por sí solo puede confesionarse y de hecho hacia donde deberíamos ir. a tratar de tener equipos autónomos que puedan ser responsables de sus decisiones y que puedan tener también la confianza de los actores graves. Es decir, oye, este equipo realmente sabe
+01:18:00 Speaker 2: lo que quiere,
+01:18:01 Speaker 1: sabe por qué está haciendo o trabajando en ese proyecto. Entonces, la decisión que ese equipo tiene, pues la avalamos, la suscribimos. porque partimos de esa responsabilidad que existe entre sus miembros. Entonces, otra cosa importante de esta cultura es que se generan sinergias con el equipo, con otros actores, y sobre todo hay bastante colaboración. El empoderamiento, entonces, en conclusión, parte de uno mismo, de que uno mismo pueda... sea referente del tema que está habiendo, y esa referencia la comenzamos a irradiar hacia los demás miembros del equipo.
+01:18:47 Speaker 2: En la medida que todos llegamos a
+01:18:49 Speaker 1: este mismo empoderamiento, el equipo como tal será mucho más autónomo, y esto servirá para poder tomar decisiones mucho más rápido, tener más colaboración con los stakeholders. Y si lo vemos a nivel personal, para que ustedes mismos se vayan aprendiendo nuevos temas, participen en otras mesas de trabajo de repente, o hasta quizás encontrar nuevas oportunidades de trabajo también. Porque en la medida que interactúen con otras áreas, que sean más visibles también hacia otras partes de la organización, eso también les va a servir al gobierno personal. y obviamente a nivel de proyecto esto pues va a descartar en mayores sinergias con otras que están iguales entonces sobre esto hay un ejercicio que ustedes van a tener que trabajar hasta la mañana a la medianoche simplemente hay una PPT en Paideia que
+01:19:51 Speaker 2: tiene un link Donde están los
+01:19:58 Speaker 1: principios que acabamos de ver. Y en los principios,
+01:20:02 Speaker 2: ustedes
+01:20:03 Speaker 1: van a tener que proponer un ejemplo. Puntual nomás. Gracias. Gracias.
+01:20:30 Speaker: Acá dice, actividad y clave. Acá está el ejercicio, le dan clic. Y es reflexionar los principios que acabamos de ver. Por cada principio, en total, es contestar dos preguntas. ¿Cómo
+01:20:50 Speaker 1: impacta el principio a lo largo de esto? ¿Cómo van a respetar este principio? Las buenas experiencias
+01:20:57 Speaker 2: que ustedes hayan tenido.
+01:21:00 Speaker 1: Dos preguntas por cada principio, con seis principios, y la respuesta, simplemente le sacan la copia de la UBT y lo ponen ahí debajo. Lo principal es el dar la reflexión del principio en alguna situación que hayan podido vivir. y que puedan hacer ese aterrizaje. Y se presenta una repente por cada equipo.
+01:21:30 Speaker 2: Entonces, son... ¿cuántos equipos? ¿Cuántos pasamos?
+01:21:36 Speaker 1: ¿Cuántos pasamos? ¿Cuántos pasamos? ¿Cuántos pasamos? ¿Cuántos pasamos? ¿Cuántos pasamos? ¿Cuántos pasamos?
+01:22:12 Speaker 2: En
+01:22:12 Speaker 1: ese mismo proyecto. Ah, ya. de un proyecto que ustedes conozcan, de una iniciativa,
+01:22:22 Speaker 2: de una experiencia, sobre eso.
+01:22:24 Speaker 1: ¿Cómo impactó eso en esta experiencia? ¿Cómo se refleja? En general,
+01:22:31 Speaker 2: ahora que lo veo bien,
+01:22:34 Speaker 1: esta parte de aquí amplía un poquito más la respuesta,
+01:22:36 Speaker 2: ¿no? Sí, es por eso que fue justo consultado.
+01:22:39 Speaker 1: Porque, claro, la de aquí está más puntual al proyecto y la de aquí sí es más hacia otras experiencias. No lo vamos a... Lo podríamos hacer esto en clase, pero lo vamos a reemplazar por esta estabilidad. Por eso es el arriesgo para... No lo puedo resolver hasta mañana, porque es bastante... Bastante simple. No debería
+01:23:02 Speaker 2: haber...
+01:23:04 Speaker 1: Ahí. El acceso, todos sean de lectura, simplemente les voy a copiar. Y ahora vamos a continuar con lo último. en la parte de dominio ya hemos visto los principios que son los negamientos que finalmente nos orientan la forma de cómo deben de pensar, decidir y actuar cuando están delante de un proyecto en nuestros principios Y ahora vamos a hablar de dominios. Los dominios son finalmente... la fuerza de realizar los principios pero propiamente ya en áreas de conocimiento que ahorita vamos a ver por eso es que tenemos los siguientes dominios que son 2, 4, 7 que tienen que ya ver directamente con cuestiones puntuales del proyecto y que esa forma de gestionar ahora se debe realizar a estos aspectos anteriormente estos dominios de desempeño se conocieron como áreas de conocimiento hasta la sexta edición y hoy estos dominios de desempeño lo
+01:24:30 Speaker 2: que nos detallan
+01:24:35 Speaker 1: son las actividades que deberíamos tomar en cuenta para cada uno de estos cursos Para cada una de esas áreas, de alguna forma de conocimiento. De hecho, cada una de esas representa un entregable del curso. En el entregable 2, por ejemplo, van a ser un IDP, después un cronograma, después un presupuesto. O sea, todo eso es como la ruta de lo que vamos a trabajar. Hasta el final. Y hoy es simplemente una explicación general. Y comienza el primer dominio. con la pregunta ¿Quién decide? que responde el dominio de la gobernante en este caso es velar o entender un poquito quién
+01:25:22 Speaker 2: finalmente guía las
+01:25:24 Speaker 1: actividades dentro del proyecto si existe un jefe si existen
+01:25:28 Speaker 2: varios líderes
+01:25:30 Speaker 1: quién toma realmente la decisión o de repente la decisión está distribuida en varios frentes Para poder determinar, finalmente, cuál es ese modelo de gestión del proyecto. Entonces, cuando les hablan de gobernanza, la pregunta inmediata que se deben hacer es, ¿quién decide en el proyecto? ¿Una sola persona decide para todo?
+01:25:51 Speaker 2: ¿O está dividido, digamos, en aspectos, en áreas? ¿Es un proyecto que, naturalmente,
+01:25:57 Speaker 1: ataca una área, o un área, o son varias áreas. Eso es lo que hay que tener en cuenta aquí. El modelo de decisión del proyecto y la importancia de eso es justamente tener identificados a las personas o esos roles para poder saber consultar a tiempo y poder tomar en cuenta esos filhos. Con respecto al alcance, la pregunta sería ¿qué es lo que vamos a hacer? El alcance va a ser necesario para aterrizar
+01:26:36 Speaker 2: en algo tangible lo que
+01:26:38 Speaker 1: buscamos trabajar en el proyecto. Podremos trabajar un producto, podemos trabajar un proceso, pero finalmente hay cierto entregable que el proyecto va a generar. Y por eso vamos a gestionar nosotros el alcance. En el caso del curso, lo gestionamos con un ERT, que es una estructura de clases de trabajo, que lo veremos. en la cuarta
+01:27:01 Speaker 2: clase.
+01:27:04 Speaker 1: Y desde aquí, por ejemplo, se visualizan todos los entregables que tienen el proyecto. En estos entregables de aquí, hay entregables que tienen que ver con los documentos que genera el proyecto para su gestión, pero también hay entregables que tienen que ver con el producto, porque algunos no son entregables, sino que ver con
+01:27:23 Speaker 2: eso tangible que nosotros entregamos.
+01:27:25 Speaker 1: Pero como nosotros, no solamente entregamos eso como... el resultado del proyecto, sino también entregamos otros documentos y formatos a lo largo del tiempo. El EDT justo busca dibujar todos estos entregables. Tanto los entregables del propio proyecto, que tienen que ver con los documentos, por ejemplo, como el cronograma, como el alcance, etc. Pero también hay entregables que tienen que ver con el producto, que se ve en una cámara. Esas entregas quizás parciales que vamos teniendo. Y todo eso en su conjunto, por una parte, de los entregables que el proyecto entrega en un entorno ágil por ejemplo no existe un EDP pero existe un backlog de entregables que será tan simple como colocar todos los entregables uno debajo del otro pero la dificultad está en priorizarlo Llevará a una persona que se llama, o cuyo rol se llama Product Owner, que será encargado de administrar esta cantidad de entregables y de priorizarlos. Entonces, visualmente sencillo, una columna, uno debajo de otro, estamos entregables, pero funcionalmente complejo porque... Esa persona tendría que tener ese juicio para poder establecer el orden. Y obviamente ese orden va a estar ligado a invitadores, a negocios, a prioridades, a reuniones previas. De tal herramienta, es sencillo nomás, una
+01:29:07 Speaker 2: fila y está uno debajo de otros pedidos.
+01:29:10 Speaker 1: Pero el análisis que tiene que hacer ese rol para llegar a ese orden, sí va a ser lo más complejo. Entonces, cuando veamos la gestión del alcance, vamos a ver estas dos maneras. El ERC y
+01:29:23 Speaker 2: el PRODUFACLO, ambos sirven
+01:29:25 Speaker 1: para aterrizar. Eso es lo
+01:29:27 Speaker 2: que debemos construir en el proyecto.
+01:29:29 Speaker 1: Y eso es un poquito lo importante. Es entregable, es decir, hay que cumplir obviamente con la calidad y la calidad ligada a los criterios de aceptación. Pero lo importante es
+01:29:41 Speaker 2: que
+01:29:43 Speaker 1: esto nos permita aterrizar lo que queremos trabajar.
+01:29:47 Speaker 2: Eso como primero.
+01:29:49 Speaker 1: Y con ese aterrizaje que vamos a empezar a ver por acá, nosotros comenzamos a construir la ruta de nuestro curso, porque ya tenemos el EDT que nos comienza a superar los entregables. En realidad esto a partir del alcance, y el alcance está descompuesto en entregables. Los entregables no son más
+01:30:15 Speaker 2: que...
+01:30:20 Speaker 1: documentos o, por
+01:30:22 Speaker 2: ejemplo,
+01:30:24 Speaker 1: entregas parciales del producto
+01:30:26 Speaker 2: o servicio que se ve construyendo.
+01:30:28 Speaker 1: Pero ya es un aterrizaje un poco más, a otro nivel. Acá está como muy hacia arriba y
+01:30:35 Speaker 2: los entregables ya tangibilizan
+01:30:36 Speaker 1: ese pedido en entregas, en documentos,
+01:30:40 Speaker 2: en productos, en
+01:30:43 Speaker 1: construcción, etc. Y eso lo trabajamos en
+01:30:46 Speaker 2: el EBT.
+01:30:49 Speaker 1: Una vez que tenemos los entregables, lo que toca ahora es planificarlos. El drag, ¿no? Ese entregable de ahí lo vamos a trabajar en enero y en febrero. Desde acá, en febrero, en febrero y en marzo.
+01:31:14 Speaker 2: Entonces,
+01:31:15 Speaker 1: desde el alcance tan grande, nos comenzamos a dividir en entregables. Y los entregables ya se pueden plasmar en un cronogram. Sin embargo, esto aún sería muy alto nivel. Porque el entregable dice que no se quiere. una aplicación web para vender en dadas pero lo de ahí tiene un montón de tareas entonces cuando llegamos al cronograma que sería lo de acá el cronograma a su vez necesita de actividades necesita descomponerse en actividades, y por eso aquí van a surgir una actividad, uno, dos, cinco, y cada entregable va a tener dos actividades. Y ya está donde nosotros vamos a trabajar también como entregable al curso. Cada entregable descompuesto en actividades, y
+01:32:18 Speaker 2: todo eso va a estar proyectado, y eso
+01:32:22 Speaker 1: va a formar parte del cronograma. Entonces, hasta ahí tenemos el alcance que fue... con lo que empezó el proyecto. Después de ese alcance, se representó en un EDT, para poder dibujar o expresar los entregables. Y cuando ya tengo los entregables,
+01:32:40 Speaker 2: ahora me piden determinar mi estudio.
+01:32:44 Speaker 1: Para eso, dibujo mi cronograma, donde yo voy a colocar mis entregables y las actividades para llevar a cabo los entregables. Haré todo el dibujo, ¿no? Mi gana, mi sofía, y con eso tendré mi planificación. Y sabré decir, o inicio en enero y termino en julio
+01:33:01 Speaker 2: del 2028.
+01:33:04 Speaker 1: Entonces, el cronograma responde la pregunta, ¿cuándo lo haremos? Con el treable 1 lo haremos en el febrero, pero el 3 recién en febrero o marzo. El cronograma también sirve para que en la medida que ya exista, si es que fuese el cronograma, y si yo de repente en la teoría, a febrero debería estar a 60, pero de repente en la práctica, a febrero estoy al 40, entonces ahí habría un error, o sea, algo ha pasado. Y eso es una alerta que el cronograma me estaría dando a mí en los otros proyectos y que ustedes tendrían que ver qué pasó. El cronograma no solamente existe para planificar y que quede todo bonito, sino también como herramienta para tomar acciones. ante un retraso de actividades, saber exactamente en qué punto estuvo ese retraso, para poder evitar justamente el desfase
+01:34:05 Speaker 2: entre el cronograma.
+01:34:07 Speaker 1: Es una herramienta también de acción, para que ustedes puedan visionar el tiempo. Y con eso, lo siguiente que vamos a trabajar es el presupuesto, que sería lo que sigue aquí, que también será otro regalo en curso. En este caso el presupuesto le agrega aquí a las actividades un componente más de recursos. ¿Y qué son los recursos? Serán
+01:34:48 Speaker 2: las
+01:34:50 Speaker 1: personas, las máquinas, las herramientas, el software, que se va utilizando para cumplir con cada una de esas actividades. Por ejemplo, de repente para hacer el entregable uno, necesitamos un analista, necesitamos de repente un supervisor, Entonces, todo lo que necesitamos para cada actividad lo vamos a colocar ahí. Porque la sumatoria de lo que necesitamos para cada actividad será el entregable. Y todos los entregables nos darán como resultado la cantidad de recursos que necesitamos para poder llevar a cabo este alcance. Por eso que termina siendo como un orden que vamos a seguir de hecho en el curso. Lo primero es definir el alcance, después vamos a definir los entregables de ese alcance, después vamos a construir un cronograma de esos entregables, descomponiendo entregables en actividades, y hasta ahí vamos a decir, ay, el proyecto dura tanto tiempo. Pero después vamos a tener que entrar al presupuesto. Y para entrar al presupuesto no nos vamos a meter aquí a detectar nada, sino que vamos a consultar nuestro programa y decir, como ya sé todo lo que necesito hacer, ahora voy a colocar qué perfiles van a interactuar en cada actividad. Y con eso, tendrían, basará solamente acá con tener una tablita más, donde yo pueda decir, oye, el analista lo necesito, ¿cuánto? No sé, cinco días. Por día, no sé, 100 soles, 100 por 5 o tanto. Y al final sumaré todo esto y me dará un monto. Un monto de todo este costo que tendrá el proyecto. Por eso vamos a ir paso a paso. Cada paso va abriendo lo siguiente. Si no hubiésemos hecho una correcta división de entregables, se arrastraría el error. Por eso aquí nos tomamos el tiempo de definir en general lo que se quiere, aterrizar lo inentregable, descomponer las actividades y finalmente determinar qué recursos se necesitan para hacer cumplir esas actividades.
+01:37:16 Speaker 2: ¿Ya está?
+01:37:17 Speaker 1: Por eso esta parte de finanzas responde a la pregunta ¿cuánto cuesta? que lo vamos a ver en el presupuesto pero este costo de acá solamente por ejemplo hasta esta parte ese costo está ligado netamente a los entregables pero
+01:37:38 Speaker 2: a
+01:37:39 Speaker 1: ese costo todavía falta sumar
+01:37:42 Speaker 2: dos componentes
+01:37:45 Speaker 1: más al menos porque el proyecto necesariamente no va a salir perfecto podrían haber cosas que puedan pasar en el camino. Entonces, hay riesgos que pueden ser conocidos o
+01:37:59 Speaker 2: no conocidos.
+01:38:00 Speaker 1: Para los riesgos conocidos, nosotros tenemos un análisis de riesgos donde ustedes van a establecer ciertas acciones. Y esas acciones también van a tener un costo. Porque esas acciones serían su plan de contingencia. el plan de condigencia que ustedes van a tener para poder prevenir esos riesgos. De repente no lo usan, pero será un fondo que ustedes tengan dentro del proyecto para poder gestionar esas cosas. Algo así como de repente ustedes normalmente traen X dinero, pero quizás traen siempre un poquito más, por si se malogra el carro, el bus, etc. Esa es la misma idea. Y luego habrá otro presupuesto de cosas que no conocemos, cosas que podrían pasar, pero que realmente no tenemos idea. Entonces, en ese caso, ¿cómo se estima? Normalmente aquí es un nivel de riesgo que la regresión maneja para todos los proyectos y es una constante que en su momento vamos a ver. Y de todo esto se compone el presupuesto del proyecto, que ya más o menos es, hasta acá cierra el
+01:39:13 Speaker 2: parcero. Hasta acá llega el parcial.
+01:39:19 Speaker 1: La parte más difícil del parcial, que no mía, estaría antes. Porque para la parte de aquí, para resolver un ejercicio, un famoso ejercicio de la ruta crítica, yo sería lo más difícil. Resuelve la ruta crítica, y cuando sepan la duración del proyecto,
+01:39:36 Speaker 2: ya es fácil.
+01:39:38 Speaker 1: Pero la cosa está, resolver la ruta crítica. Porque en el examen vendrá esto, como he dicho, solo que esto podría venir redactado y ustedes deberían de construirlo, ¿no? Ese deberá haber precedentes.
+01:39:56 Speaker 2: Y puede ser sometido a algún paciente
+01:39:58 Speaker 1: para saber la duración del proyecto. Y sobre eso, ya sale directo el puesto. Entonces, eso es lo más difícil de convivir. Entonces, los riesgos responden a esa pregunta, ¿no? Que podría salir mal. Inclusive, podría salir, bueno, ¿qué podría suceder más que mal, no? Porque un riesgo también, vamos a ver más adelante, puede ser algo positivo. O sea, de repente puede ser negativo para un contexto, pero también podría ser un beneficio para uno. Pero de todas formas, necesita tener un plan de contingencia, y por eso lo cualificamos en el presupuesto. Y la parte de recursos responde a con quién y cómo lo haremos, porque justamente aquí, si ya sabemos lo que hay que hacer, qué actividades intervienen, ahora comenzamos a designar las personas, personas, máquinas, herramientas, sistemas, interactúan, para poder hacer el proyecto. Y acá, por ejemplo, no interviene esa parte de principios donde decíamos, hoy el líder tiene que ser honesto, ¿no? Porque si no es honesto, luego estas licitaciones, estas adjudicaciones, no serían muy transparentes.
+01:41:20 Speaker 2: Ahí es donde se comienza a
+01:41:23 Speaker 1: unir tanto principio con dominio. Y finalmente los stakeholders, que son todos los desafíos afectados por el proyecto. Palabra que le hemos repetido más de una vez. Y es necesario tener a todos. una vez terminamos el facial y cuando termine toda esta parte ya aparece Lo que les acabo de contar es esto, aparece el EDT, aparece el cronograma, aparece el presupuesto, hasta ahí acaba el parcial. Una vez terminado todo eso, aparece calidad, no lo acabamos de ver en la lámina, pero va a haber un
+01:42:24 Speaker 2: análisis también de los
+01:42:28 Speaker 1: controles que ustedes proponen en su proyecto, aparece su análisis de riesgos, Y aparece su matriz de comunicaciones, que tiene que ver justamente con los esterejoles. Porque el nivel de comunicación que ustedes tengan con los esterejoles no va a estar el mismo. Entonces habrán ciertos lineamientos, una cierta frecuencia que hay que tener en cuenta. Y con eso se termina. Fácil, ¿no? También se termina la cuestión. Y es la última. y eso es, entonces esa es una vista de todo lo que va a tener cada lámina tiene una clase de especialidad pero es un poco toda la ruta que nosotros vamos a ir desde el alcance hasta
+01:43:22 Speaker 2: tener cuantificado el proyecto y
+01:43:25 Speaker 1: también complementamos eso como análisis de calidad de riesgos y de igualdad todo eso Es lo que vamos a desarrollar aquí. ¿Preguntas hasta ahí? Entonces ahora, ¿qué vamos a hacer? Vamos a regresar al colegio. La diferencia es que esto lo vamos a aplicar a nuestro equipo, no a un proyecto, y lo hacemos para poder conocer.
+01:44:21 Speaker 2: al equipo.
+01:44:23 Speaker 1: Conocernos a nosotros como equipo. Entonces, esto de aquí lo vamos, además de tomar una fotito y guardarlo en pairellas, también lo vamos a guardar de forma física. Así
+01:44:37 Speaker 2: que no vayan a estudiar papelógrafos. Me va a quedar el tiempo. O uno de ustedes lo guarden, lo llevan. Para el grupo. Pero
+01:44:46 Speaker 1: lo principal... es que ustedes lo trabajen porque en principio aquí está el propósito del equipo, donde ustedes tienen que lograr como equipo, reconociendo que tienen ciertas debilidades, ciertas fortalezas, ciertos objetivos, valores. La idea es que yo les voy a dar posits y que ustedes puedan responder las preguntas de forma personal. Obviamente el propósito es en conjunto, cuando revisen un poco toda la información. Los objetivos comunes también deberían estar en conjunto, pero las preguntas deben ser más personales, por ejemplo, en necesidad expectativa. Si son cinco integrantes en el equipo, quiere decir que acá habrán cinco posos, uno por cada uno. La idea entonces es que cada uno también responda las preguntas y que en consenso vayan respondiendo las preguntas de equipo. Entonces, todo esto está orientado a ustedes como equipo, no al proyecto que están haciendo. No tiene nada que ver proyectos, tiene que ver usted como equipo, todo su salud. Donde solamente tiene que ver proyectos acá, porque acá dice personas y roles, entonces acá ponen su nombre y ponen el rol que les gustaría tener en el equipo. Por ejemplo, ser líder, ser de repente, no sé, comunicador, investigador, analista. ¿Aca hay otro?
+01:46:36 Speaker 2: Sí, sí, el grupo se llama El Craftero Ahora los dos, a uno.
+  

@@ -1,11 +1,25 @@
-. {
-	. {
-		. 
-	}
+. Formato - Cronograma Detallado{
+https://docs.google.com/spreadsheets/d/1tip7ahb01khlzQcwtKULLGZO21tHCdRvfyQMeD-6CZk/edit?gid=1937673035#gid=1937673035
 }
 
-. {
-	. {
-		. 
-	}
+. EP{
+	. Estimacion por 3 valores: peor, esperaddo y mejor donde cada una tiene un peso: 1,4,1; todo entre 6
+	. 2h
+	
+	. 8pts para marcar
+	. 12pts para desarrollar; la parte para diagramar toma mucho tiempo
+}
+
+. RUTA CRITICA{
+	. Si algo le pasa, desvia la duracion del proyecto
+}
+
+. holgura{
+	. necesitas la ruta critica
+}
+
+. Historia de usuario{
+	. como: usuario
+	. quien: necesidad
+	. para: beneficio
 }

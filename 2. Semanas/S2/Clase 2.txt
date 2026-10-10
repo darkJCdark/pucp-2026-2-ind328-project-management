@@ -1,11 +1,71 @@
-. {
-	. {
-		. 
+. ENFOQUE{
+	. TRADICIONAL{
+		. Se entrega el 20% y luego el 60%
+	}
+	. AGIL{
+		. Se entregan las funcionalidades por incrementos
 	}
 }
 
-. {
-	. {
-		. 
+. Grafico 1{
+	. Predictivo{
+		. Waterfall
 	}
+	. Adaptativo{
+		. Agiles
+	}
+}
+
+. Grafico 2{
+	. Discovery - Desarrollo - Entrega
+	. Desing System o Lern Startup -> Prototipo{
+		. Necesidad/problema/oportunidad > Usuario : Interno o Externo
+	}
+}
+
+. Project Delivery{
+	. Si se hace un proyecto, sí se debe entregar para que sea exitoso
+	. La idea es que se entienda y no se caiga
+	. Luego de la marcha blanca de proyecto pasa a Operaciones
+	
+	. La gestion del proyecto es que lo que se genere se use en las fechas que se ha proyectado
+}
+
+. Principio 1: Vision Holistica{
+	. Este principio aterriza en ese conocimiento
+}
+
+. PRINCIPIO 2: ENFOQUE EN EL VALOR{
+	. EJEMPLO{
+		. El valor tmb esta en lo que esa entrega genera
+		. La entrega debe validar ese beneficio
+		. El beneficio debe entregarse en indicadores
+	}
+	. Un valor validado por indicadores y personas
+}
+
+. PRINCIPIO 3: CALIDAD EN LOS PROCESOS{
+	. Hay que definir el alcance y los criterios de aceptacion
+}
+
+. PRINCIPIO 4: LIDERAZGO RESPONSABLE{
+	. El lider gestiona a las personas para que el problema se solucione
+	. Tienes que estar disponible para escuchar a las personas
+}
+
+. PRINCIPIO 5: SOTENIBILIDAD INTEGRAL{
+	. 
+}
+
+. PRINCIPIO 6: CULTURA EMPODERADA{
+	. Criticamos el proceso que vemos
+	. Todo el miembro del equipo empoderado es autonomo
+}
+
+. DOMINIOS DE LA GESTIÓN DE PROYECTOS{
+	. Alcance
+	. EDT: Entregables
+	. Cronograma: Actividades
+	. Presupuesto: Recursos
+	. 
 }

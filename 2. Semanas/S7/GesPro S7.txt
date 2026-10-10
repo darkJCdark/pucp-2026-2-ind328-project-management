@@ -1,0 +1,272 @@
+# GesPro S7
+
+  Meeting started: 3/10/2026, 1:00:06 p. m.
+  Duration: 73 minutes
+  Participants: Speaker, Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/PqXFFSNJHKOXRvODRqQv?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Pero para eso vamos a empezar con algunos ejercicios más, más concretos. Y recordando un poco lo que no vimos en el programa, ya digamos lo hemos visto de veces, pero recordando que la gente se ha dado un alcance, que ese alcance se ha dado... y gracias a eso nosotros hemos elaborado un cronograma que ahora nos va a tener que calcular el presupuesto. Entonces realmente todo va a ser bien
+00:42 Speaker 2: muy lógico y
+00:44 Speaker 1: los entregables de aquí están en el compuesto de las actividades y de esas actividades Bueno, nos van a dar los tiempos, los recursos que están en el programa, que es lo que dice usted que ha trabajado. Pero aquí vamos a volver a recordar la clase pasada. Entonces en el programa... las técnicas para poder hacer algo. La primera dice, análisis de red y cronograma, donde se representan todas las actividades del proyecto, porque es que nosotros trabajamos cuando dibujamos el diagrama de red. En el diagrama de red, comenzamos a colocar todas las actividades del proyecto en función de las dependencias que nos va subviniendo el caso. Y sobre ese análisis de red y cronograma, trabajamos en la ruta crítica. La ruta crítica es... es aquella secuencia de actividades que determinan la duración del proyecto. Cualquier mejora que sea en el proyecto debería hacerse sobre la ruta crítica. ¿Por qué? Porque la ruta crítica de una forma marca el ritmo del proyecto. Si ustedes afectan la ruta crítica de forma positiva, esta cantidad de días se va a afectar. Si la afectan de forma negativa, la cantidad de días se va a ampliar. No solamente la cantidad de días es una actividad específica, sino de dos. del proyecto, porque estaríamos afectando a una de las actividades que pertenecen a la ruta crítica. Entonces, nosotros en nuestro examen trabajamos en esta zona, con la red y la ruta crítica. Estas dos son parte del examen. Pero después hay algunas otras más. se ajusta el cronograma considerando la disponibilidad real de los recursos. O sea, hay diferencia emocional a las rutas críticas en la secuencia de actividades. Y para eso,
+03:00 Speaker 2: hay que entender la
+03:01 Speaker 1: disponibilidad de los recursos que pueden estar interactuando en esas actividades. ¿Qué quiere decir eso? Que, por ejemplo, si la ruta crítica fue la actividad A, B y C, los recursos asignados a ser rutas críticas son una mayor y otra mayor. analista. Sin embargo, aparentemente se trataría del mismo analista. Entonces, realmente no se podrían llevar a cabo otra manera al mismo tiempo. No tendríamos que dedicar a otras personas que lleven esa actividad. Porque si fuese así, esa actividad no se puede afectar.
+03:44 Speaker 2: Entonces,
+03:45 Speaker 1: de alguna forma, la ruta que... Entonces la ruta vela por las actividades y la cadena. por la disponibilidad de los recursos. ¿Ambos se complementan? Sí. Porque mientras sobre una necesitamos necesitar la percepción sobre los recursos, bueno, sobre las actividades que están dentro de la ruta, en la otra necesitamos la percepción y los recursos que forman parte de esa ruta. Por eso, ambas se complementan. Y eso es lo que está aquí. En caso de que un recurso tenga el mismo recurso en interacción en varias tareas de la ruta clínica, se tendría que reprogramar y reprogramar sus tareas. Después existe otra técnica que se llama nivelación de recursos para adquirir la asignación de recursos. los conductistas sobrecargan. Y eso lo vamos a ver como un ejemplo. Todavía uno para adelante. Realmente vamos a prestarle, vamos a tomar nota. Nivelación, equilibrar la asignación. Se hace equilibrar. Sabemos lo que significa, pero de alguna forma la palabra equilibrio comienza a ser pensada que es un tipo de constancia que va a pasar. Probablemente asociada, todos los recursos pueden estar abiertos de manera distinta, pero que es la actividad de un lado. Luego veremos cómo se trabaja. la nivel de la nivel de la nivel de la nivel de la nivel de la nivel de la nivel de la nivel de la nivel
+06:50 Speaker: Y en estas 10 términos de línea, tenemos la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual es la cual en el vanguard podemos hablar del inicio donde ustedes comenzaban a tener una versión inicial luego la misma versión y le podían incrementar como algo así luego 1.6.3 lo mismo lo mismo y quizás aquí un incremental es decir, se iba incrementando en el tiempo y iba haciendo un
+07:38 Speaker 1: enfoque iterativo porque va iterando ...e incrementar porque vamos sumando funcionalidades. Así, publicamos nuestros servicios en un entorno A. Pero, vamos a ir pasando directamente a la práctica, porque hoy día es probablemente... ...a un poco de tiempo. Así que, y vamos a poder... ...la primera técnica... derecha de estabilización de arreglo. Y para esto nos muestran ese arreglo, que es bastante bastante sencillo. La roca crítica estaba afectada por esta cadena. Lo suman 8 y 12 semanas. Esas 12 semanas se están distribuyendo de la siguiente manera. La actividad A comienza desde semana 1 y por 6 periodos. La B desde semana 1 por 8 semanas. La C desde la 1 por 4 semanas. Cuando sumamos, nos dan esta cantidad de personas por semana. viene la B y la E en paralelo, después que se ha hecho la B, en esta duración, al final nos da ese ritmo de trabajo. Entonces, lo principal de acá que ustedes se dan cuenta, que se den cuenta es una primera condición. Uno, es la forma de cómo se están solicitando los recursos. Primero tienen 40, entonces están como por acá. Sobre ese ritmo están un tiempo, después bajan a 30. por acá, después siguen hace un tiempo, después están bajando a 20. Entonces, no es una asignación constante. Entonces, si ustedes tuviesen que contratar a las personas, al fin les contrataría mucha gente y al final se les va dejando de trabajar con las personas. Entonces, la idea es ser un poco más constante en ese término de trabajo. También para que la inversión que ustedes han como proyecto no sea tan alta al inicio, sino sea algo más equilibrado. ¿Qué vamos a hacer con eso? Lo que nos piden es lo siguiente. Primero nos están cortando el caso que acabamos de ver. El proyecto requiere de 40 personas de las semanas 1 a 4, 30 tantos, y 7 de tanto a tanto. Es finalmente lo que vamos a ver acá. El proyecto requiere de la semana 1 a... a las 4, 40, de las 5 a las 6, 30, de las 7 a las 10, 20, después 10 personas. Solamente nos están contando el gráfico. Dice, si se designa el personal a toda la empresa, no se podrá llevar a cabo ninguna otra actividad. ¿Qué es lo que quiere decir? ¿Qué nos está diciendo que la empresa tiene como máximo 40 personas? para hacer n cosas entonces si yo estoy pidiendo acá 40 quiere decir que en ese periodo de tiempo o sea durante un mes se va a poder hacer nada más que este proyecto lo cual no debería pasar según el caso vale esto dice hay buenas condiciones aquí por otro lado no es posible que ese proyecto demore más de 12 es decir No es posible que tengamos aquí 40, porque eso haría que se haga nada más en la empresa, y luego no es posible tirar más el tiempo. Entonces, ¿cómo liberamos
+11:47 Speaker 2: estos recursos?
+11:49 Speaker 1: Y dice, ¿cómo podría reasignar los recursos para mejorar este problema y utilizar menos de 40 personas en esas 12 semanas? ¿Quién es el reto? ¿Se entiende el reto? podríamos programar? ¿Cuáles serían las actividades que ustedes programarían primero? Sabiendo que no tendremos que pasarnos de los dos años, ya este es nuestro ritmo. ¿Cuáles son las actividades que ustedes elegirían programar primero? ¿Cuáles serían? ¿Otro más? ¿Otro más?
+13:00 Speaker 2: ¿Con cuál empezarían?
+13:24 Speaker 1: ¿Alguna otra razón por que sea B?
+13:34 Speaker 2: ¿Cuál
+13:35 Speaker 1: era la luta crítica en este ejercicio? ¿De qué actividad se compone la luta crítica en este ejercicio? Exacto. Entonces, si la condición del ejercicio es que no alteremos el plazo máximo para el proyecto, y es el plazo de dos semanas, Lo que lo dice la teoría es que para evitar que este plazo,
+14:05 Speaker 2: digamos, se extienda,
+14:06 Speaker 1: debemos de prestar atención en la ruta crítica. Quiere decir que esto sí o sí se tiene que dar desde el inicio. Porque si esto no se da desde el inicio, todos los proyectos deben enfocar. Porque esas son las actividades que marcan la situación. En conclusión, actividades que sean ruta crítica son las que se deben de hacer antes desde el inicio. y si no, y algo le pasa a esto, todos pueden tener enojado. Entonces, efectivamente, empezamos con 20, y B sería 20 por... sería 20,
+14:42 Speaker 2: 20, 20, y 20.
+14:48 Speaker 1: Después de 20, después de la semana 8, podemos ver toda la actividad de menos 100, 100, 100, 100. Y hasta ahí me cumplimos mi condición de que lo primero que tenemos que hacer siempre es programar la ruta vírgida, porque si no hubiera hecho eso, lo hubieran programado de repente por acá o por acá o en su medio, ¿no? Todos los resultados se hubieran empujado y hubiera accedido ya a las dos semanas. Y lo que queremos es no exceder en las
+15:19 Speaker 2: dos semanas, ¿no? Entonces, eso es nuestro objetivo.
+15:22 Speaker 1: Por eso es que cualquier otro punto
+15:25 Speaker 2: viene a preparar la ruta.
+15:27 Speaker 1: Hasta ahí está. ¿Con cuál más seguimos ahora? Con la A, la C y la E. Vamos a probar igual el resultado. Con la E. Entonces la E está en paralelo a la D. Y acá. A ver, podemos ir probando.
+16:14 Speaker 2: Hasta ahí
+16:17 Speaker 1: estamos con un ritmo más o menos de 20. Porque la otra condición es uno que no sea de las 12 semanas. Y la otra que seamos... Menor igual a 40. Menor a 40. Porque no puedes tratar con la 40. Y ahora vamos a hacer la A o la C. Probemos con la A. Y la A desde donde?
+16:52 Speaker 2: Una semana.
+16:56 Speaker 1: 1, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2,
+17:08 Speaker: 3, 2, 3,
+17:11 Speaker 2: 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3,
+17:13 Speaker 1: 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 3, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3, 2,
+17:22 Speaker: 3, 3, Ah, perdón, para estar haciendo.
+17:55 Speaker 1: Y realmente en este ejercicio también va a salir lo mismo si empezamos con la C. En ese ejercicio. Si empezamos con la C, en vez de la A, también se ve lo mismo. Pero ahí, en el fondo, solamente nos están pidiendo dos cositas y las estamos cumpliendo. Por eso que la respuesta podría ser vale en ningún caso. Solamente nos están diciendo, uno, de que no excedamos el plazo. Y dos, que no excedamos el plazo. tengamos 40 o más de 40 personas por semana. Entonces, en la propuesta que hemos hecho, no excedemos a los dos y tampoco tenemos más de 40. 40 o más de 40. Entonces, eso sería la respuesta. Conclusión, cuando hablamos de estabilización, que es lo primero que hemos mencionado, hablamos de que no debemos de superar el tiempo máximo. el proyecto. Si bien podemos actividad a lo posible, acá por ejemplo estamos en 30, 30, 30, así bajamos, pero casi al final. Entonces el resultado en realidad podría ser un ejercicio que venga para marcar, no necesariamente para desarrollar, porque como ven es bastante difícil.
+19:19 Speaker 2: No
+19:20 Speaker 1: hay mucho que hacer por ahí. y ahora vamos a hacer el de nivelación ya vimos entonces estabilización, que es no superar el tiempo del proyecto, pero ahora vamos a ver nivelación. Y en nivelación lo que nos dan como constante no es el tiempo del proyecto, sino es la cantidad de personas por semana. Entonces en nivelación sí podemos superar el tiempo. ¿Por qué? Porque probablemente la organización está diciendo tenemos que acomodar. Definitivamente con más personas nos vamos a acomodar más. Por eso es desnivelación y podemos estirar el tiempo. ¿Qué vamos a hacer en este caso? ¿Con cuál empezamos a programar? Gracias. Y ya está nuestra ruta programada. Y ahora sí, ¿con qué seguimos? Considerando que acá está el límite de 20. Ya no se pudo. No se puede contar. Y si hubiese salido la ruta clínica, probablemente ahí, ya desde ahí, donde saquen nomás, tendríamos que haber tirado mucho más. porque no se podría
+21:51 Speaker 2: hacer
+21:54 Speaker 1: más directo. Pero bueno, en este caso, no quiere decir que a partir de acá hay
+21:59 Speaker 2: dos, pero nada más.
+22:01 Speaker 1: ¿Cómo pueden seguir? Ya, ya sé que un matiz también. ¿Listo? Gracias por ver el video en la vida real esto podría pasar porque justo esto depende del presupuesto al final la cantidad de personas como probablemente la representación haya dicho o yo más que tengo esto por semana la única manera es directo porque el proyectado es menor pero como más dinero menos digamos por semana, de ninguna forma es que para que ese flujo se cumpla es más bien. Eso es, entonces, si hablamos de flujo, pero es que esa cantidad de personas trata de ser un poco más, con sangre. No es un límite como tal, no lo hay para este, no lo es, pero trata que al menos flujo, no haya caído tan alto. Si acá ya cayó, ya está, no esté acá, va a volver a volver. ¿En qué puede venir eso? En la truta paramática.
+24:06 Speaker 2: ¿Y
+24:06 Speaker 1: ahora vienen los huevos?
+24:32 Speaker 2: Hay cuatro
+24:33 Speaker 1: componentes que se dibujan en la ruta artística
+24:44 Speaker 2: Inicio temprano Inicio temprano Inicio temprano Inicio temprano Inicio temprano Inicio temprano
+24:50 Speaker 1: Inicio temprano Inicio temprano Inicio temprano Inicio temprano Inicio temprano Inicio temprano Inicio temprano en cada actividad este es sencillo para que con esto ya podamos dar la práctica si empezamos del instante cero el tiempo con esto no tiene ningún tipo de oración así que El ángel. Como el de aquí tiene una precedencia. Si para esto pusiera la lámina.
+26:09 Speaker 2: Como
+26:09 Speaker 1: aquí tiene la... en nada, el tipo de precedencia que se asume es la de fin inicio. De hecho, por eso el gráfico está aquí.
+26:18 Speaker 2: El fin inicio.
+26:21 Speaker 1: Está saliendo de la A, iniciando la B, que es el más común. ¿Qué quiere decir todo esto acá? Que si es fin inicio, el fin de acá sería igual a la B. Entonces sería también cero. Cero más la duración de A, sería así. Esto también, ¿no? Pin inicio. Pin inicio. Cinco. Más cuatro. Diez.
+26:52 Speaker 2: Nueve.
+26:54 Speaker 1: Otra vez acá. Pin inicio. Pin inicio.
+27:01 Speaker 2: Nueve más tres. Dos.
+27:06 Speaker 1: Acá también. Pin inicio. 0, 6, 6. Y acá viene el centro. Fin inicio sería 6. Pero eso también es. Fin inicio sería 9. Los dos se toman sin el menor. Porque si se toman menor, el de acá no terminaría. Si yo comienzo el 6, desde acá todavía le faltaría el tiempo para poder servir. 9, 2, 11. Y ya está. Fin inicio. y ahora vamos a ir al revés
+27:58 Speaker 2: al
+28:01 Speaker 1: revés Los 2 y 9 están iguales. 12 menos 0,
+28:12 Speaker 2: 2.
+28:14 Speaker 1: Pero bien, ¿no? Este 12 por acá. Y en este 12 por acá.
+28:22 Speaker 2: Y también.
+28:29 Speaker 1: La misma relación.
+28:32 Speaker 2: En el inicio del
+28:34 Speaker 1: 12. Y en el inicio del 12. 12 menos 2, 10. Este 10 viene por acá. 12 menos 3, 9. Y este 9 viene para acá. Y ahí cuál es el 10. Si pongo el 9, el menor
+29:09 Speaker 2: Claro,
+29:15 Speaker 1: acá se nota Si pusieran 10, lo que pasaría es los siguientes.
+29:26 Speaker 2: Este
+29:27 Speaker 1: tendría que ser 10.
+29:30 Speaker 2: Y
+29:31 Speaker 1: quiere decir que tuvimos un día más al inicio de la finalidad. Entonces estarían comprando el programa, lo cual no queremos. las dos tienen que ver con que tan pronto inicie la tarea
+30:36 Speaker 2: Entonces,
+30:37 Speaker 1: como no quiero retrasar... Ahora para la ruta. crítica, hay que restar los extremos. Los que tienen la altura 0 son parte de los extremos. 12 menos 12 es 0. 12 menos 12 es 0. Acá es 1.
+31:34 Speaker 2: Acá
+31:35 Speaker 1: es 0. Acá es 0. Acá es 4.
+32:09 Speaker 2: Todo
+32:10 Speaker 1: lo que diga cero. Gracias. el examen esta y después vamos a hacer el examen eso va a ser nuestra ruta del día de hoy esto es vital que lo sepamos yo
+33:09 Speaker 2: porque
+33:15 Speaker 1: normalmente es con esto ¿no? pero podría haber alguna variación relaciones
+33:21 Speaker 2: y presiones entre actividades si
+33:23 Speaker 1: te pasamos que vino con esto ya vamos a ver que es el mismo
+33:28 Speaker 2: si
+33:30 Speaker 1: no viene ninguna variación de este entonces pero bueno, este lo vamos a ver en un ratito aprovechamos de tomar las casas
+34:06 Speaker: José. Seri. Jonathan. Jorge. Alejandra. Y Roa. Lo ayudaré. Sergio. Jean-Pierre. Mariel. ¡Gracias!
+34:59 Speaker: Francesco. Cristo. Regina. Carlos. Índalo. Mariana. Rodrigo.
+35:15 Speaker 1: Luis. Sebastián. Carlos. Luciana. Lucas. Ángel
+35:31 Speaker 2: Augusto.
+35:32 Speaker 1: Benin. Fabián. Rafael. Ariana. Valeria Borra. Sebastián Roca.
+35:51 Speaker 2: Erizo. Gracias
+36:16 Speaker 1: por ver el video. Mientras estemos en la práctica, ¿cuándo es sacada la cuenta? ¿Cuánto tiempo nos va a tomar la exposición? Para ver hasta qué se va, más si os podemos
+36:48 Speaker 2: esperar. Gracias. Gracias.
+39:53 Speaker 1: y esto debería ser el partido en
+40:09 Speaker 2: la caja Cuatro. Cuatro. Cuatro. Cuatro. Cuatro. Cuatro más una. Cinco.
+40:37 Speaker: Cinco más diez. Cuatro. Cuatro más tres. Siete. Y nueve. 20.
+42:32 Speaker: Ah, pero ahí queda 8 o 7. Llega el mayor sabiduría. No, no. Vale. Ajá. Si, si llega el 7. Porque si llega el 8. 7 menos 3.
+43:17 Speaker: Si, no. H igual a 0.
+43:45 Speaker: H igual a 0. Ahí
+43:55 Speaker 2: en dos caminos se escoja el mayor
+43:58 Speaker 1: y al volver se escoja el mayor.
+44:19 Speaker 2: Acá me están dando un estadio.
+44:22 Speaker 1: Por qué?
+44:53 Speaker 2: En la práctica también se dice, porque parece que es un poco más realista.
+45:12 Speaker 1: y al regreso el día siguiente No me lo decía,
+45:24 Speaker 2: o sea, en la vida real, cuando se hace, se entiende, ¿no?, que va a ser el día que termina. Sí.
+45:36 Speaker 1: Sí, porque no todo, claro, hay cosas que acaban el mismo día y el mismo día se está empezando el otro. Y ahora lo que nos toca, ¿cuánto nos ha tomado? 3 minutos para nosotros. Pero ahora nos toca que ustedes lean antes de que lo vayamos a recuperar. Primero vamos a descargar el examen. Hay comentarios.
+46:47 Speaker 2: Fabián, una pregunta, ¿van a hacer alguna presentación de videojuegos? Para
+46:53 Speaker 1: que se entienda, primero tienen que descargar el examen,
+46:57 Speaker 2: lo
+46:58 Speaker 1: pueden cargar ahí como en el video del Facebook, o de repente ya lo tienen. Tienen que leer descasito, aparte de tres, en el casito. Y van a intentar tratar de dibujar. para ver después la solución. ¿Por qué? Porque acá hay algunas particularidades, que son el tipo de relación sobre todo. Mientras se va descargando, igual que se da cuenta de cambio en la estructura de... 8 puntos en la primera parte para marcar. Después viene el ERT y finalmente viene la parte de la honora. Yo dejaría siempre esta pregunta para el final. ¿La estructura
+48:05 Speaker 2: es similar?
+48:06 Speaker 1: Dos horas dura el examen. ¿Cuál es la distribución? Dos horas. El tiempo es de tres, pero realmente es de dos. Calculador hace pausar para el presupuesto.
+48:29 Speaker 2: Para marcar
+48:37 Speaker 1: viene todo lo que hemos visto. 8 puntos. Solamente se marca. Se marca en el... En el cuadernillo, se escribe en el cuadernillo, no sé, esta hoja no vale. Si lo hacen acá no vale. En la parte 2 es el EDT. En el EDT es un caso que se redacta en el mismo examen, por ejemplo, el caso del examen pasado de esta ceremonia académica de graduación. Fin de carrera. Y ahí les dice, ¿no? seleccionar dos páquetes de trabajo, serían dos entregables seleccione dos entregables y desarrolle la descripción y las que te va a acceder dice un conjunto de cosas, recomendaciones para el buen diseño de una CRT por ejemplo, que no se escribe en ver o sea, esa es una pregunta sencilla y de ahí viene la otra en el caso de aquí hay un cuadrito que hay que dibujarlo entonces la idea es que lo dibuje que lo intenten hacer ustedes y después lo vamos a hacer en la cara eso no está nada significativo Profe,
+50:20 Speaker 2: ¿el archivo lo vas a subir al Pairella o dónde se encuentra? O buscamos en la ruta que nos dio.
+50:30 Speaker 1: Por WhatsApp, por WhatsApp.
+50:35 Speaker 2: Por WhatsApp, por WhatsApp. Por WhatsApp, ¿no? Ahí lo veo. Gracias. Gracias. no puede ser
+54:18 Speaker: Mirando lo de ahí, en algunas pistas, ahí está, inicio, inicio, que es la de una actividad y... Vamos a poder entender que hay iniciales y ambas actividades que están en paralelo.
+54:51 Speaker 1: ¿Y un retraso que es de mí?
+54:53 Speaker 2: Que va a tomar más días para
+54:55 Speaker 1: iniciar.
+54:57 Speaker 2: ¿Apare? ¿Cómo que hace? Una vez se anima A, se espera tres días para cumplir el tiempo. Este es el retraso. El retraso sería de B. O A se retrasa en términos. ¿Se podría entender de una actividad que demora, se retrase y demora más en términos como una actividad que se retrasa en inicial? ¿Cómo se entiende el retraso?
+55:31 Speaker 1: En inicial pero en la que, como es la relación F y no, final de inicio, la precede la ley. ¿Quiere decir que el efecto está sobre la ley? No, retrasa el fin de la D. No, el inicio de la D. Porque la D termina y debería iniciar directamente. No, no es que la D termine. Pero lo que dice ahí es que para iniciar la D se retrasa tres días. Entonces quiere decir que...
+56:09 Speaker 2: Ajá.
+56:13 Speaker 1: Y en el adelanto sería al revés. Gracias. Inicia antes.
+56:28 Speaker 2: Los días antes. Eso no es que ya...
+56:32 Speaker 1: Pero el final inicio, la relación que tienen esas son final inicio. Por eso dicen FI, FI, FI, FI, todas las raíces de FI. La única que es inicio, inicio es la I.
+56:49 Speaker 2: O
+56:50 Speaker 1: sea, una vez que termine. La B. La E comienza dos días antes.
+57:14 Speaker 2: ¿Terminante? No tengo que iniciar todos los días antes de que termine. ¿Dónde está antes de que? ¿Cómo supone con la condición del hecho de que hay que terminarlo para que termine? ¿Cuáles son que deben termino antes? ¿Puede ser que deben termino antes? No sé por qué se quiera en los casos. Pero puede ser que sean los vecinos de 27 para... Yo supongo que dura mucho.
+57:40 Speaker 1: Siguiente. A ver, tengo una más tarde. Pero está bien porque al menos ya tienen que son conscientes de que hay un detrás, no hay nada. Cuatro minutitos y ya los resultados.
+58:21 Speaker: ¡Suscríbete al canal! O sea, aquí digamos que siempre la condición empieza, termina y termina. Se realiza un específico de examen y se está proponiendo de que en esta relación, la actividad sí puede iniciar antes de que termine. Por eso se adelanta un poquito antes de que termine y a poder ver. Y así va a entrar con la consulta. y y y ¿Qué pasa? Ah, tengo que subir eso.
+01:01:20 Speaker 1: Ya. A nivel del gráfico. El gráfico sí es sencillito, pero... Madre.
+01:01:43 Speaker: La B procede a la A. La B procede a la A. La C procede a la A. La C procede a la B. La D procede a la B. La E procede a la D. La F procede a la C. La C procede a la A.
+01:02:14 Speaker 2: la G donde la A tendría por la G y acá viene una
+01:02:22 Speaker 1: diferencia en el caso de la I marco la relación de inicio-inicio con la A por eso acá la flechita no está para acá como
+01:02:33 Speaker 2: final
+01:02:35 Speaker 1: -inicio, final-inicio-inicio por eso está inicio-inicio incluye su relación entre A y de I la J que se ve bueno con la H y I entonces a nivel de gráfico lo nuevo sería lo de aquí esta relación de aquí que es inicio y lo demás era exactamente lo mismo Y ahora vamos a ver. Dice, empezamos en cero. Empezamos en cero. Final, inicio. Entonces, final, inicio igual. 3, 3 más 7, 10. Este viene acá, viene para acá. Final, inicio, 10. 10 más 11, ah no, pero la deca que ha sido su relación alta. El famosísimo retraso. Entonces, ¿qué tal estaría en 10? Si no lo dijeron nada, sería 10. Pero como dice... Es una relación final e inicio, sí, pero con retraso de tres días, quiere decir que se demorará en empezar tres días. Se retrasa, porque se demorará tres días y recién comienza. Entonces, por eso estaba tres días. Pero esta es la condición del problema. La relación se mantiene final e inicio.
+01:04:52 Speaker 2: ¿Quién se retrasó hoy? ¿Quién se retrasó hoy? ¿Quién se retrasó hoy?
+01:05:25 Speaker 1: Quizás en medio, para allá de esto, haya algo que hacer. Se podría poner más contextos. Se podría poner más contextos. Claro, en la vida real, probablemente haya algún contexto para generar estas cosas. No llegó la información aquí en el podcast. La E también tiene una relación final inicio, ah, pero antes es 13 más 11, igual. Entonces, entre viernes también debe ser 24, pero en el caso de la E, igual tiene una relación final inicio, pero con adelante 2 días. Como eso se adelanta, quiere decir que eso puede empezar antes.
+01:06:10 Speaker 2: Entonces,
+01:06:11 Speaker 1: por condición del problema, el adelante es de 2, se tendría de 22. Si no lo dijera eso, es 24, ¿no? Pero, otra vez, hay una condición en el problema que nos dice que podemos adelantar la tarea, hacia atrás,
+01:06:27 Speaker 2: ¿no?
+01:06:28 Speaker 1: Aunque nosotros sabemos que, por lo general, deben ser iguales en el problema, en especial, que no. Quizás hay un caso especial ahí, que hay hecho que sí se pueda. 22 más 8, 30.
+01:06:44 Speaker 2: ¿Y acá estamos
+01:06:45 Speaker 1: bien? ¿Sí? Y por acá, al final, 10 igual a 19, más 14.
+01:06:57 Speaker 2: 30.
+01:06:59 Speaker 1: 30. 30. 30. 30. 30.
+01:07:15 Speaker 2: esta caja viene ahí sin de frente
+01:07:28 Speaker 1: La puesta de acá, a diferencia de antes, que era final igual inicio, los de acá ahora son inicio, inicio. O sea, debería ser 39, ¿qué dice? y interpretar la red pero todo por relación Porque, al igual que arriba, abajo también deberían ser iguales. O sea, la relación de los inicios
+01:09:10 Speaker 2: no
+01:09:12 Speaker 1: deben ser iguales, como tal. Pero para ahí. O sea, en principio, en casa de los inicios se ven iguales.
+01:09:21 Speaker 2: Por ahí se dio 46, ¿no? Pero,
+01:09:24 Speaker 1: para ayer se dio 41.
+01:09:27 Speaker 2: ¿Cómo? Ajá. Está,
+01:09:36 Speaker 1: en teoría. Se dio 41, porque acá habrá partido de 1. 39, ¿no? Porque se han retardado 2. Y para mantener la condición constante. Ahí va a haber sido 39.
+01:09:57 Speaker 2: Y ahí viene entonces.
+01:10:00 Speaker 1: Sería 39 más 5, 44. Entonces tengo 2.
+01:11:21 Speaker 2: Esta
+01:11:24 Speaker 1: primera posibilidad sería que inicie el 39.
+01:11:34 Speaker 2: Puede
+01:11:35 Speaker 1: ser una duración de 5. Y el otro sería, si termina en 47, ¿qué pasaría? Termina en 47. Tiene 7 acá, sería 1. Menos 5, 42. Para mantener... Porque este S47, en teoría debería mantener acá su diferencia, porque luego ese numerito de ahí se va a igualar su de acá.
+01:12:32 Speaker 2: Entonces, o sea, hace sentido que se pueda terminar hasta el día 47, ¿no? Si es que la actividad llegara a demorar más tiempo.
+01:12:42 Speaker 1: ¿Cómo, señor? Bueno, primero, si fuera 47, esa data tendría que ser... Claro, eso sí durara
+01:12:50 Speaker 2: los 5 días. Claro. Pero podría durar hasta el 47 y empezar el 37. Ajá. O sea, la actividad podría tomar más días. La actividad supuestamente me hizo hasta qué fecha puedo demorarme. Tendría sentido decir que la actividad H puede llegar, puede concluirse hasta el día 47, siempre es cuando hay un día 49.
+01:13:53 Speaker 1: Pero ese H sería como una locura de
+01:13:56 Speaker 2: esta actividad.
+01:14:04 Speaker 1: Pero claro, al darle más días trabajando, todavía le está incrementando el curso también. Claro. Eso no se entendió.
+01:14:16 Speaker 2: A su ley, finish, sigue 147. Puede demorar 147 y la sigue dentro de él. A menos que la regla del diagrama sea que sí o sí se recibe.
+01:14:27 Speaker 1: De hecho, el H no es brutal crítico, me parece. El H, pero el H termina siendo la ruta crítica. Sí, el H termina siendo la ruta crítica.
+01:14:41 Speaker 2: ¿Cómo es posible que H y J sean ruta crítica? Sí,
+01:14:50 Speaker 1: ambos tienen que hacer cosas. Ah, claro. Es
+01:15:40 Speaker: el revés, porque empezó desde el inicio, para iniciar con piloto y con la condición de los dos. Y de ahí ya está
+01:15:48 Speaker 2: fácil.
+01:16:46 Speaker 1: Acá falta el efecto igual.
+01:16:54 Speaker: ¿Y acá cómo lo hacemos? Ah, porque debería ser 25. Pero en teoría... ¿Quién? No me voy a dar cuenta. 100 euros. ¿Y el de aquí? Aquí yo diría 3. Sí, pero bueno. No afecta. No afecta, porque igual yo diría 3. No, no, no. 3 en menos 3. Ya le había restado.
+01:18:16 Speaker 2: Entonces, ¿qué se debería hacer? ¿Qué se debería hacer? ¿Qué se debería hacer?
+01:19:10 Speaker: igual para que se cumpla la relación La
+01:19:14 Speaker 1: actividad de acá nos decía que estaba ahí atrás. Esta de hoy en día será acá 27, pero como se adelanta, empieza dos días más. Para que se cumpla esa condición, quiere decir que acá empezó dos días después. ¿Por qué si no? Si fuera acá 25, entonces se adelanta, entonces este debió haber empezado en 23, pero en realidad pues en 25. Entonces acá tendría que ser 27, y como se adelanta 2, empieza 2 días antes que es 25. Es lo que nos determinaba el 33 con los 8. por eso y lo mismo la relación hacia adelante y
+01:20:42 Speaker 2: aquí
+01:20:45 Speaker 1: no más hay que recordar que si no nos dice nada ya la relación siempre es final y inicio por eso que igualamos los extremos final y inicio y así nos ha sido siempre el efecto de retraso está acá que vimos por eso sumamos acá el 10 más 6 el adelanto retrocede 24 minutos Y por acá estaba lo del comienzo, comienzo. Los igualamos 39, 39, pero le sumamos 2 por el retraso. Y ahora del otro lado va al revés. Acá igualos, igualos, por comienzos, por comienzos. Este era 41, pero por el retraso tiene que ser 41 menos 39 para que al momento del retraso se siga igualando al 41. Y del adelante lo que vimos fue el 27, que comentaba su compañero. Y el 3, lo demás está igual. Ya que está igualito, pero el mismo. Duración del proyecto 50. Eso que acabamos de hacer, ¿cuánto vale? Dos puntos. Un punto por dibujar el gráfico y otro punto por determinar la duración total y la nota triste. Una sola vez. Mejor lo hace la lápiz hasta que le quede perfecto. Ya está. Y ahora lo demás ya es más fácil cuando sale esto, ¿no? que dice calcúre el costo directo de cada privado. Presente una tabla e indica el costo total del proyecto. Por acá ya se interviene la disponibilidad de recursos, pero todo está al 100%. Y ahora hay que leer en la tablita, por ejemplo, en la A hay un gerente de proyecto que trabaja 3 días. El gerente de proyecto trabaja 500 soles por día. Entonces son 500 por 3, ¿no? En la B trabaja analista de procesos. Trabajan dos analistas de procesos. Que cobran 280 soles al día. Y van a estar 7 días. Entonces sería 2 por 280, 7. Y así tendríamos que seguir
+01:24:09 Speaker 2: haciendo. ¿Horas trabaja el día? ¿Las 8?
+01:24:46 Speaker 1: pero puede ser que la jornada sea distinta y por ahí que hayas que convertir o hacer algo más pero lo ideal sería que todo lo lleven a día para que la multiplicación por la duración sea directa salvo ese tema no creo que sea masividad pero esta parte es un poco más ligera porque la dificultad es tu en hallar la donación igual si se dan cuenta si por ahora no les sale los costos si los pueden hallar sin la ruta porque solo es sumar todo la sumatoria total de todo les va a dar el costo directo de cada actividad o el costo directo de todas las actividades y para eso no necesitan la ruta Ahí se aplican por recurso y por jornada de 8 horas. Entonces ahí sí es un más recordado.
+01:26:00 Speaker 2: Por
+01:26:00 Speaker 1: ejemplo, en la primera, un excelente proyecto. Vamos a dejar de diferente proyecto a la 500. Y hay 1 por 3 días. 500. 500 días por 3 días. Acá el analista del proceso será 280. Y hay 2 por 7. 50 hay 1 por 9 días ahora lo cierto es que acá está todo en 100 pero si queremos verlo completo acá estamos multiplicándonos por la disponibilidad que es al 100% es 1 lo vean ¿se entienden? este acá no estoy multiplicándolo pero acá lo vean con 1 este 1 de acá es la disponibilidad del recurso y esa disponibilidad está abajo solo que todos tienen 100 Gracias por ver el video. Por el recurso y la cantidad de dinero. Por la disponibilidad del por ciento uno o el porcentaje de dinero. Y así,
+01:27:52 Speaker 2: cada uno.
+01:27:55 Speaker 1: Así, por cada uno que les vayan a dar. Con esto tendrían el costo
+01:28:00 Speaker 2: directo
+01:28:03 Speaker 1: de cada proyecto.
+01:28:05 Speaker 2: Y
+01:28:06 Speaker 1: tendrían el costo total del proyecto. La vida real, acá por ejemplo, yo interpreto que esta persona está al 5%, pero la vida real, bueno acá salvo 5%. Por repente en otras cosas el gerente solo está mirando un par de cositas y no es que sea emitida. Debería desaparecer en todo caso esto y hasta marcarse cuánto es realmente esa persona.
+01:29:11 Speaker 2: Sí. Sí,
+01:29:26 Speaker 1: aún así la persona trabaje en una empresa, o sea, recibe su sueldo mensual, pero no es la única cosa que hace. Entonces, cuando queremos valorar el proyecto, el aporte de la persona al proyecto. Por eso necesitamos saber exactamente cuánto cuesta su trabajo en este proyecto. Y ya viene la manga más alto nivel. En este proyecto a lo que tenemos es 0.5% y en otro proyecto está el otro 0.5% y no se completan 100%. Entonces el sueldo que recibe a la empresa. Pero de alguna forma habría que saber cuál es el aporte. no se olviden de que si no les hablan de disponibilidad entonces la persona está al 100% si les hablan de disponibilidad habría que ajustar ese porcentaje porque lo que quiere decir es que no va a salir ya completo de 8 horas de repente solo va a estar 4 horas entonces solo esas 4 horas habría que cuantificar o el 70 Sí. Solamente afecta a los costos. Y con eso y con mucha fe tenemos tres puntos. Para eso la calculadora. Y de ahí hay una pregunta clave que dice que valen dos puntos. Se sabe que se tiene reservado el 10% impuesto total para los miembros conocidos. ¿Esa qué cosa era? Una contingencia. La reserva de contingencia. Entonces quiere decir que la reserva de contingencia es 10% de las sumaturas de valor total. Y además se destina el 5% de impuesto total de las actividades de la nota crítica, dice. O sea que ahí habría que entrar a la tabla y solo sumar esto, esa cosa. total de estos por 5% me daría la reserva de gestión. Y luego ya tengo todo para poder tener el presupuesto total de mi proyecto. Es que como la reserva de gestión iba a ser una constante que la empresa nos iba a dar, pues la reserva de gestión para esa empresa es tanto. De alguna forma aquí nos está diciendo cómo calcular esa constante de reserva de gestión. Para esto, ellos están diciendo que la regla es el 5% de esto. Siempre la reserva de gestión les va a dar... Y con todo esto ya está listo. Se tienen todos los datos. Y dos puntos al lado. ¿Sí o no? ¿O más o menos? ¿Hasta ahí alguna duda? En el examen, si no pasa nada, se puede venir.
+01:33:16 Speaker 2: Porque es viernes.
+01:33:24 Speaker 1: Viernes, once y media. Once y media, una y media. Es activo el glúteo.
+01:33:41 Speaker 2: Y
+01:33:41 Speaker 1: a la última dice, ¿Qué actividades tienen holgura total? Ah, otra cosa importante, es que, acá justamente pasó, no hay indicación así de página, que hay una hoja más. Así que hay que tener cuidado con esto, porque casi nadie volvió una hoja. Pueden pasar. Si
+01:34:15 Speaker 2: no responden estas preguntas acá.
+01:34:16 Speaker 1: Ya. ¿Desde qué activaste una locura todo tal? Ya eso ya lo sacamos. La ruta crítica y después individualmente cada una. Bueno, acá no hay eso.
+01:34:32 Speaker 2: Pero
+01:34:33 Speaker 1: de la resta, ¿no? Esto sería tres, tres, nada más, dos. Dos actividades tienen moléculas.
+01:34:44 Speaker 2: ¿Qué
+01:34:45 Speaker 1: implicancias tiene para la gestión del proyecto, dice? Que las actividades tienen moléculas. ¿Por qué no tiene locura? que
+01:35:48 Speaker 2: tenga un
+01:35:51 Speaker 1: espacio de tiempo donde puede todavía demorar un poco más
+01:36:24 Speaker 2: La locura es que se pueda demorar en el inicio. o en el final.
+01:36:30 Speaker 1: O sea, que toda la actividad pueda tomar...
+01:36:33 Speaker 2: En vez de 8, 11 días. Sí. Eso no pasaría hormonal. Siempre cuando empiece con 39, podría tomar en vez de 5 hasta 8 días. Tú dices acá, ya, 8 días. O sea, digo, la holgura. que podría tomar hasta tres días más. Porque si demorara, o sea, si terminaran en el 47, no conseguiría nada.
+01:37:26 Speaker 1: Siete menos cinco sería cuarenta y dos. Y cuarenta y dos.
+01:37:36 Speaker 2: O sea, ahí ya no se cumple con las fechas de inicio. Yo he dicho que alguna vez en relación con la actividad no tenía por qué moverse el inicio. Solamente se podría tomar hasta tres días más.
+01:37:50 Speaker 1: Pero en alguna ocasión lo sacamos cuando
+01:37:52 Speaker 2: terminamos de calcular el
+01:37:54 Speaker 1: inicio. Está diciendo algo en lo directo, ¿sabes?
+01:37:57 Speaker 2: Porque, por ejemplo, el contact puede iniciar en 47, pero el H termina en 44, porque tiene esos 3 días que todavía... H se podría extender, pero no está calculado porque solamente lo habíamos hecho en el otro cálculo. O sea, lo que consideramos nosotros para la evaluación sería tener únicamente ese bloque, entonces, para la locura, y no consideramos, por ejemplo, la relación que tiene con este bloque.
+01:38:21 Speaker 1: ¿Cómo se debe acabar para entenderlo bien? O
+01:38:23 Speaker 2: sea, aquí está... está como está pero
+01:38:26 Speaker 1: el H como su fin
+01:38:28 Speaker 2: es tardía 44 y el J inicio tardía 47 tiene esa diferencia entre H
+01:38:36 Speaker 1: y J porque su
+01:38:40 Speaker 2: fin de H es 44 pero el inicio de J es 47 entonces hay 3 días ahí que no está considerando como locura para H porque en H mismo sale como máximo 44 ¿Puede demorar igual más?
+01:39:29 Speaker 1: Bien, igual. Sí, deberíamos. Está buena la precisión. Para
+01:39:44 Speaker 2: entrar en
+01:39:45 Speaker 1: conclusión. Recién lo va a calcular cuando tiene los datos.
+01:39:49 Speaker 2: Digamos, completo.
+01:39:52 Speaker 1: Y sobre eso, van a ver qué tanto se puede todavía desplazar ese tiempo o no, por el caso de eso. Porque si esto tuviese un 47, quiere decir que ese es lo que no sería ruta crítica, y ya tendría una diferencia entre ellos. Y en ese caso, la
+01:40:13 Speaker 2: ruta crítica sería E y
+01:40:16 Speaker 1: J, pero para ser corta,
+01:40:20 Speaker 2: es un tasaje. no habría
+01:40:29 Speaker 1: otra manera de llegar Estaríamos anticipando una holgura que todavía proviene de la historia.
+01:41:05 Speaker 2: Esa es la holgura de la vida.
+01:41:20 Speaker 1: En el caso de acá, bueno, igual acá también le puse la notita que hacemos esta igualdad porque consideramos que esa ciudad tiene inicialmente orgura cero. Por eso es que juntamos estos dos iguales. Gracias por ver el video.
+01:42:12 Speaker 2: no
+01:42:13 Speaker 1: vamos a ayudar a esta pero adiós el examen también muy
+01:42:20 Speaker 2: curioso
+01:42:48 Speaker: Vamos a ver por encima. Por ejemplo aquí se dan cuenta. Todo es al inicio, no hay absolutamente ninguna relación rara. Y cuando viene así,
+01:42:59 Speaker 1: la dificultad está en un lugar grande. Ahora no hay nada, o sea, se asume el igual que viene al inicio y no hay ninguna complicidad. Si está así, la dificultad se coloca en cosas. Es dibujada. Lo demás es igual, duración. Eso ni siquiera le da, porque la resta es para eso. Entonces, si se dan cuenta ahí, es lo mismo. Pero esto sería lo mismo. Y lo mismo, dicen el diagrama de red. Acá dice, acá es más una recomendación. Le han pedido reducir el programa en 3 días para poder tener los laboratorios disponibles. diría su recomendación. En principio,
+01:43:54 Speaker 2: solamente
+01:43:58 Speaker 1: redactar, pero para reducir el cronograma, ¿a dónde nos tenemos que abocarnos? ¿Qué tenemos que saber para reducir el cronograma? Porque una actividad que tiene holgura, Por más que la reduzcan, no va a pasar. Porque justamente tiene esa extra locura que le permitiría demorarse más. En cambio, la ruta crítica tiene locura cero. Quiere decir que si ahí forzamos que se reduzca, ahí sí vamos a reducir todo el proyecto. Todo el tiempo del proyecto. Entonces, para esto, ustedes podrían tener propuestas. Una fase, por ejemplo, podría ser meter una tarea paralela. Porque eso mismo va a utilizar en dos estaciones para que se divida y con eso sea más raro. O podrían hacer horas exas también de la misma tarea, pero es más
+01:44:59 Speaker 2: personal.
+01:45:01 Speaker 1: Que hagan en el mismo tiempo que producirlo. Pero eso ustedes lo tendrían que evaluar en función a los laboratorios disponibles. Entonces tendrían que leer acá cuál es la de los laboratorios que será este. Y según eso marcar su recomendación. O sea, contextualizar por el COVID. O demás horas para poder, no sé, tener espacios habilitados. Creo que eso era lo único raro, pero ahí...
+01:45:34 Speaker 2: Ah, y eso también puede ser.
+01:45:40 Speaker 1: Este mapa, perfecto. Si se destina para el proyecto un monto X, indique si es suficiente o no. Lo único que habría que hacer ahí es comparar el monto total que le sale. Si le sale el 90 mil sobre el 83, el 90 es mayor. Entonces quiere decir que el presupuesto no es suficiente. Y si no es suficiente, ¿qué harían ustedes si les falta dinero? Es lo que se les ha que colocar. Una recomendación, pedir un proyecto. De repente bajar el alcance del proyecto. Porque quizás a 90 son bien... cosas, pero a ochenta son ocho. Y si fueran menos cosas, cuesta menos y si está contenido el motor de tiempo. O sea, ese tipo de preguntas es más para que ustedes se pongan en algunos escenarios y son escritas para que lo tengan en cuenta. ¿Sí?
+01:46:42 Speaker 2: Yo también.
+01:47:12 Speaker 1: No hay nada de final, de final, de final Es dibujar. Y en el dibujo está la computadora. Esa es la de 23 cosas. Pero las preguntas son exactamente las mismas. ¿Tres? Igual, ¿no? Incluso también lo que vamos a cerrar. Le han pedido reducir en tres días para poder tener laboratorio. Lo mismo los costos. Y lo mismo hay que comparar si el monto... que tiene, les alcanza hoy. Es el examen que ya los pueden revisar. Entonces, en conclusión, la pregunta más arrojosa es esta de acá. Y la sugerencia es que la déjame al final para que se vuelve toda su nota y como total, el caso no puede cerrar. Entonces solamente tendría que leer y dibujar su gráfico y recién ahí calculado. Siempre son tres preguntas.
+01:48:19 Speaker 2: Siempre son tres preguntas.
+01:48:31 Speaker 1: Este es otro examen, este es el 23-12. Pero normalmente el texto es el contexto.
+01:48:43 Speaker 2: Pero
+01:48:43 Speaker 1: bueno, siempre por ahí pueden haber sorpresas para que no se lo tomen como reglas, pero normalmente es el contexto. y los costos están...
+01:49:09 Speaker 2: Por
+01:49:10 Speaker 1: ejemplo acá sí, una pregunta para aclarar sería $100 por día.
+01:49:21 Speaker 2: Porque
+01:49:22 Speaker 1: eso no habla del costo estimado.
+01:49:24 Speaker 2: O es
+01:49:28 Speaker 1: ya el total de todos. De repente ya está regulado.
+01:49:36 Speaker 2: Por
+01:49:37 Speaker 1: el suelo, no. Dos obreros de 7500,
+01:49:43 Speaker 2: cada obrero de 7500.
+01:49:52 Speaker 1: Es una buena pregunta para aclarar, porque el texto ahí no menciona eso. Porque si ya estuviese así, sería fácil sumarlo. Y puede ser porque para hacer el gráfico, sí se han deudado parar bastante. Entonces, para que sus... ... ... ... Y eso es. Como ven, esto es lo mismo. O sea, la copilidad ya nos saca en el dibujo, lo demás termina siendo... Eso
+01:50:31 Speaker 2: es.
+01:50:42 Speaker 1: Entonces... Para el día de hoy, nos permite su
+01:50:46 Speaker 2: presupuesto.
+  
