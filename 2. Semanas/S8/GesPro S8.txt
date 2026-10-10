@@ -1,0 +1,1357 @@
+La caja tiene, tiene esa capacidad para absorberlo, ¿no? y absorber y no gastar más
+Ya tienen teoría esa capacidad instalada
+Eso por ejemplo es un supuesto que se podría declarar también, ¿no? Porque si no fuese así
+En la vida real lo que pasaría es que llega la solución y luego
+Quizá sólo vive por un corto tiempo porque la capacidad no de la organización no le da.
+Es, y nada más creo
+Sí, eso básicamente
+Es del equipo, en verdad lo demás creo que sí estaba.
+Está bastante completo equipo 2 y por las notas bueno ustedes han venido con notas también buenas
+Creo que con eso
+Esos supuestos hay que ponerlos bien
+Para aterrizar bien el casito y ya estamos. Eso es equipo 2. Muchas gracias
+Vamos ahora con el equipo 8, muchas gracias
+Franchesco Mackey Guillermo Romero
+10:43:34
+Gracias, bro.
+Pierre Gilbert Roncal Robladillo
+10:43:38
+Las observaciones valen pa todos, ¿sabes? Porque en, por ahí que las observaciones se mantienen en algunos casitos
+Frutilla
+Ustedes digan.
+GRANADOS CAHUANA, ZIARA NOELIA
+10:43:59
+Okay.
+BACA CHAVEZ, BENNY SEGUNDO
+10:44:03
+Una
+Pierre Gilbert Roncal Robladillo
+10:44:05
+Sí,
+GRANADOS CAHUANA, ZIARA NOELIA
+10:44:08
+Te, se me escucha, profesor?
+Pierre Gilbert Roncal Robladillo
+10:44:09
+Sí,
+GRANADOS CAHUANA, ZIARA NOELIA
+10:44:10
+Okay.
+Uh, buenos días, somos el equipo ocho y hoy vamos a presentar la planificacion de nuestro proyecto, que consiste en el diseño y desarrollo del sistema web frutilla.
+Para ello, vamos a explicar 4 puntos principales, el acta de constitucion, la EDT, el cronograma y el presupuesto del proyecto.
+Ok, el problema
+Para comenzar, Frutilla cuenta actualmente con cuatro modulos dentro de la universidad. El principal problema se presenta durante la hora de almuerzo, cuando cada modulo atiende alrededor de 180 pedidos y el tiempo de espera puede llegar hasta los 15 minutos. Debido a esta demora, aproximadamente 1 de cada 5 clientes termina retirándose sin comprar.
+lo que representan unas cuarenta y cinco ventas perdidas por módulo al día
+También existen problemas internos, el inventario se controla de forma manual
+Y esto genera una merma cercana al 8% de las compras
+Y por otro lado, los supervisores dedican
+varias horas a la semana para consolidar la información de ventas y de stock. En general, todos estos problemas tienen un mismo origen
+Que frutilla no cuenta con un canal digital propio ni con información centralizada.
+Siguiente, por favor.
+Frente a esto, el proyecto propone desarrollar un sistema web que integre a los distintos usuarios de Frutilla.
+donde los clientes podrán revisar los productos, hacer pedidos anticipados, pagar en línea y seguir el estado de orden.
+Por otro lado, los empleados podrán gestionar los pedidos, ver el inventario, mientras que los supervisores y la gerencia tendrán acceso a reportes y alertas automáticas.
+Con este sistema se estima reducir
+El tiempo de espera de 15 a 5 minutos y recuperar alrededor de 90 ventas diarias
+También se estima reducir la merma a la mitad y ahorrar 24 horas semanales de trabajo de supervisión
+En conjunto, esto representaría un beneficio aproximado de 82,000 soles al año
+Finalmente, los patrocinadores son los accionistas y el director de finanzas de frutilla
+Y ahora mi compañera explicará la organizacion del EDT
+SANCHEZ BOZA, REGINA VALERIA
+10:46:44
+Gracias para organizar el proyecto, nosotros hemos construido la ET siguiendo las 5 fases del ciclo de vida de un proyecto. El inicio, la planificación, la ejecución, control y cierre. La primera decision que se tomo fue poder separar los tipos de trabajo que se presenta en este proyecto en dos
+Los de rojo, que son el trabajo principalmente de gestión, es todo lo que es necesario para poder dirigir el proyecto y orientar, como el acta, los planes y el cierre formal. En verde tenemos lo que es concretamente el trabajo de construccion del producto, que se encuentra dentro de la parte de ejecución, siendo esta la fase más grande con 19 de los 55 entregables totales del proyecto
+El control en este caso no se está tomando en una etapa solo el final o intermedia, sino que se está tomando como de manera transversal, que acompañe el proyecto desde el inicio hasta el cierre, manteniendo la calidad de todos los entregables que se desarrollan a lo largo del proyecto.
+En general, la ET está orientado obviamente asegurando que cada uno permita tener algo verificable finalmente.
+Sinde de
+En lo que comprende a cada fase el criterio de agrupar cambios según la naturaleza del trabajo. En la ejecución vamos a poder agrupar cada capa de producto en el orden en el que se construye. Primero de ellos siendo el desarrollo a nivel de la infraestructura y de los ambientes de desarrollo.
+Luego de ahí en el software se va a dividir este en los 6 módulos funcionales principales que van a permitir el desarrollo de las funcionalidades que menciono mi companera previamente.
+Luego de ahí tenemos lo que comprende la seguridad de informacion y luego de ahí la integracion, y finalmente las pruebas, y con ello llevar a la pues en operación con considerando manuales, capacitaciones y despliegue, que son todo lo necesario para asegurar que este despliegue se realice de manera exitosa.
+En lo que comprende la planificación, vamos a agrupar nuestros entregables por tres áreas, por áreas de conocimiento. Primero, teniendo unas tres líneas bases dentro de lo que es el alcance, programa y costos.
+6 planes subsidiarios manteniendo lo que es calidad, recursos, comunicaciones, riesgos, adquisiciones e interesados
+Y finalmente un plan maestro para poder integrar todo lo que comprende el trabajo y poder presentarlo.
+En lo que comprende el control, vamos a agrupar por el tipo de control que se tiene que realizar, siendo este en lo que comprende al desempeno de como se desarrolla el proyecto, los cambios y configuraciones que se trabajan a lo largo del proyecto, al ser esto algo finalmente dinamico. La calidad
+de los pro entregagables y las pruebas y defectos que se pueden presentar a lo largo del proyecto. Finalmente, en el cierre separamos principalmente lo que es administrativo, que cierra compromisos con nuestro prosignador y con los proveedores, asegurando la transferencia adecuada del producto hacia futuro.
+A continuación vamos a ver como estos todos se ubican en el tiempo
+REYES SAMANIEGO, JOSE ALONSO
+10:49:31
+Sí, ahora estamos presentando el cronograma en una vista general, ya que nuestro cronograma detallado tiene más de más de 150 actividades. Comenzando, el proyecto tiene una duración de 24 semanas, desde el 15 de diciembre de 2026 hasta el 26 de febrero de 2027.
+Las etapas de inicio y planificación son las más cortas, 3 semanas en total hasta el 2 de octubre.
+La etapa de ejecución ocupa la mayor parte a partir del 5 de octubre. Primero se separan los ambientes y la base de datos. El desarrollo de módulos va a mediados de octubre y hasta mediados de enero, y en paralelo, corre la etapa de la seguridad de la información.
+El cifrado se configura desde octubre en diciembre vienen los controles OWAS o controles de acceso y la protección de datos personales y el análisis de vulnerabilidades se hace justo antes de liberar la versión candidato.
+Las pruebas de integración, carga y aceptación terminan a inicios de febrero, y la puesta en operación cierra con dos semanas de acompañamiento o marzo blanca.
+El control corre en paralelo durante todo el proyecto, mientras que el cierre ocupa las dos últimas semanas. En cada etapa podemos ver también unos rombos enumerados que representan a los hitos, los cuales veremos en la siguiente diapositiva.
+Aquí presentamos los 2 hitos, los 2 primeros cierran la gestión inicial. El acta aprobada el 18 de septiembre y el plan para la dirección del proyecto el 2 octubre. En verde tenemos la ruta del producto cada 3 a 5 semanas se valida un modulo con el usuario. Seguridad y roles, el 23 de octubre
+catalo y pedidos el 19 de noviembre ventas y pagos el 11 de diciembre e inventario y reportes el 14 de enero, el 21 de enero se libera la versión candidata y el 8 de febrero el sistema pasa ya a producción
+En amarillo tenemos los puntos de control de patrocinador con el patrocinador, el informe de desempeño parcial en noviembre y las pruebas de aceptación conforme es el 5 de febrero, y terminamos con el fin de la acompañamiento del 19 de febrero y el acta de cierre del 26. Y ahora pasaremos con el presupuesto.
+ALFREDO CARLOS FAUSTO JIMENEZ FELIX
+10:51:25
+Bueno, ya vimos que hacer y cuándo hacerlo. Ahora vamos a ver cuánto nos cuestamos que el presupuesto de abajo hacia arriba, siguiendo los 4 pasos que se ve en la izquierda, partimos de cada actividad programada y vimos que qué rol la realiza y con qué dedicación.
+Eso lo compartimos pues en meses equivalentes y lo multiplicamos por una tarifa mensual de acuerdo al mercado para analistas junior y semi senior, y así llegamos a costos directos de $130,000.
+Bueno, lo primero que notamos es que el equipo de desarrollo es casi, bueno, el coste personal es casi el 90%, la mayor parte se la lleva el equipo de desarrollo con $65,000 y pues le sigue la gestión de analysis
+con treinta y siete mil, luego pues están los especialistas que entran por periodos cortos en base de datos de OPS y seguridad después el restante se va a
+aproximado de 14 mensuales que cubre la nube pasará el pagos licencias y capacitaciones
+Siguiente, por favor
+Sobre costos directos haríamos 2 reservas
+La reserva de contingencia que cubre riesgos que ya identificamos y con ella llegamos a la linea base de costos de 146,500 soles
+que es contra la que vamos a medir pues el desempeño. Luego sumamos una reserva de gestión del 5%
+para riesgos no identificamos y con eso ya tenemos el presupuesto del proyecto, luego puedes añadimos una ganancia del 15%
+Y con eso llegaría pues a 176,900 soles
+Y voy de cara al cliente, el total sería 208 soles
+ahora puedes venir, les mostrará cómo se distribuye este dinero en el tiempo
+BACA CHAVEZ, BENNY SEGUNDO
+10:53:18
+Entonces pasemos al flujo de caja que tiene el proyecto, como se mencionó, el proyecto consta de 6 meses, entonces desde septiembre de 2016, el cliente va a inyectar la inversión, que es poco mas de $70,000, algo de $70,000,790 soles
+que va a ir directamente a pues el costo de los desarrolladores de los analistas de los analistas de seguridad, etcétera, entonces, como bien sabemos, en septiembre se realizan preliminares historias de usuario y todo lo demás
+para que el proyecto comience a inicial. También con el jefe del proyecto en mando. Después, en octubre y noviembre hacia todo febrero, se comienza el desarrollo como tal, donde se comienzan a, pues, contratar a los desarrolladores, a los analistas jugar, a los
+A los de box, etcétera, para que comiencen a construir el software como tal. Después, con los módulos de pago y la afiliación a la pasarela, también comprobados y aprobados por el usuario, se realiza la siguiente inyección de dinero, que es el 30% del total que el usuario debería pagarnos.
+Y con ello, pues, comenzamos a hacer las pruebas o as y también las pruebas de calidad y también se aprueban la carga para verificar que, pues, todos los usuarios puedan acceder, incluso cuando el software está siendo muy consultado.
+Y después de eso en enero hasta febrero, se realizan las últimas fases del módulo, se tiene una nube de prueba en enero que el senior de box va a ir configurando para que el pase a producción o el despliegue sea muchisimo mas sencillo.
+Y en febrero se invierte la última cantidad de dinero del 30% que quedaba del cliente para que éste ya se pueda inicializar con el nue, con el pago de la nube anual. Asimismo los últimos dos modos de pago tambien estan aceptados en esta instancia
+Y se procede con la capacitación de al menos 2 semanas y los materiales necesarios para todos los usuarios del sistema.
+Y bueno, en total nuestro punto más bajo del saldo acumulado es del 14,110 soles, lo cual es incluso mayor que la contingencia que teníamos diseñada para los riesgos que se podría materializar. Entonces, en ese entonces tenemos un poquito más de dinero para ello.
+Y finalmente nuestro saldo final como tal, o sea, con los ingresos y egresos restados es de 43,729 soles, lo cual es adecuado para un, para un proyecto de tal altura.
+Y bueno, después pasemos al resumen que estamos haciendo porque, bueno, básicamente el objetivo principal era recuperar las ventas y reducir la merma mediante un canal digital, y que vamos a hacer? Está en el NT, ¿no? Todos nuestros entregables y los paquetes de trabajo ya asignados.
+It finalmente cuánto costaba todo? 153,829
+Y bueno, muchas gracias por su atención, algunas preguntas
+Pierre Gilbert Roncal Robladillo
+10:56:19
+Muchas gracias, equipo 8
+Entiendo que ustedes serían como una especie de consultora que le venden el producto a frutilla, ¿no? El desarrollo de frutilla
+SANCHEZ BOZA, REGINA VALERIA
+10:56:29
+Sí, profesor, es correcto
+Pierre Gilbert Roncal Robladillo
+10:56:48
+I
+Perfecto, entonces claro, puedes aplica la ganancia
+really, en el caso de la estimación de recursos
+Me parece que, por ejemplo, en el cronograma
+Ustedes están mencionando eso para que lo revisen después
+Que el analista funcional, por ejemplo.
+Dice que tiene un tiempo de 66 días
+Pero, este, en el cronograma parece como dos punto ocho casi tres meses
+E
+En los de Bobs también aparece 31 días
+Versos un mes y medio
+O sea, solamente hay que confirmar que el tiempo que ustedes están colocando para multiplicar luego
+los recursos y obviamente por por la tarifa que aparece en el presupuesto
+sea el mismo tiempo que se está demorando ese recurso en trabajar para poder ejecutar las tareas sin el cronograma, no ambos en ambos lados tendría que haber el mismo tiempo
+No tendría que haber alguna diferencia, ¿no? Entre uno y otro
+Y la forma de acomodarse cuenta sería haciendo una tabla dinámica de todos los recursos en el cronograma. Con eso sumar las duraciones que tienen
+Y sobre esas duración es simplemente
+Colocarlas en meses, ¿no? Que es lo que seguramente han hecho, pero creo que en el análisis
+No está cuadrando
+mhm
+SANCHEZ BOZA, REGINA VALERIA
+10:58:31
+Gracias y se tomará en cuenta para, obviamente, hacer las revisiones y asegurar
+Pierre Gilbert Roncal Robladillo
+10:58:43
+Ya está, está bien.
+Cuando lo de la pasarela pagos está bien
+Hmm
+Si en caso esto fuese un flujo de caja de frutilla y eso sería para todos
+Al usar, por ejemplo, lo de la pasarela, ustedes saben que es una comisión que se paga en el tiempo, ¿no? Entonces, por ejemplo, a diferencia de que sea un gasto puntual aquí
+en el caso de frutilla sí es un costo que ellos siguen pagando a lo largo del tiempo, finalmente es algo, ¿no? Que
+Va a ser salido salida salida para ellos dado que ahora tienen un proceso digital pero acá
+Bueno, eso no aplica porque este
+Análisis está más
+del lado de la consultora a diferentes compañeros anteriores
+que él analizaba desde la caja
+Contratando un proveedor, acá está frutilla contratando el proveedor, pero en el análisis está desde la vista del proveedor, el proveedor finalmente
+Tiene los costos para ese momento le pagan en ese momento y con eso se hace una ganancia, luego se le entrega frutí ya tendrá otras cosas adicionales como por ejemplo
+Ese tema de la pasarela que nos va a acompañar en el tiempo
+ALFREDO CARLOS FAUSTO JIMENEZ FELIX
+11:00:14
+dentro de la pasarela siempre es la implementación, me olvidé mencionarlo en la VPT posterior
+A esto, que es que se excluye pues las, el pago por comisiones, comisión por ejemplo de la pasarela y los poste soporte posterior
+Pierre Gilbert Roncal Robladillo
+11:00:32
+Que eso sería ya pago de frutilla directamente, ¿no?
+ALFREDO CARLOS FAUSTO JIMENEZ FELIX
+11:00:35
+Sí, claro.
+Pierre Gilbert Roncal Robladillo
+11:00:37
+Sí, esto también lo pone en el informe, también está, estaría bueno como para tenerlo
+Tenerlo ahí y ya está, creo que eso es a nivel de nota, también creo que están bastante buenos, ¿no?
+Eso es el equipo 8, muchas gracias
+BACA CHAVEZ, BENNY SEGUNDO
+11:00:56
+As everyone.
+Pierre Gilbert Roncal Robladillo
+11:00:58
+equipos 6 ahora
+Y si se dan cuenta los demás, cómo va cambiando la vista, ¿no? Dependiendo desde que perspectiva lo vean, hay datos que aparecen o desaparecen, ¿no? Pero
+Cuenta mucho el contexto sobre el cual ustedes están analizando para poder
+Tener esa vista.
+Equipo 6 por alguna razón todos tienen la misma estructura la P P T no se han dado cuenta, abajo aparece equipo, los números los integrantes, curioso, ¿no? Muy curioso.
+Llega otro detalle también importante, ¿no? Al costado si se han dado cuenta, superior derecho también aparece quien expone, pero acá no, no está eso, pero
+También hay un detalle importante, ¿no?
+Yeah, continuo equipo 6
+Claro está bonita la plantilla.
+CURACA RUIZ, ALEJANDRA SOFIA
+11:02:06
+Bueno, ¿qué tal se escucha?
+Pierre Gilbert Roncal Robladillo
+11:02:09
+Sí,
+CURACA RUIZ, ALEJANDRA SOFIA
+11:02:11
+Okay.
+Bueno, buenos días, profesor, compañeros, el día de hoy les vamos a hacer nuestra presentacion sobre el modelo predictivo para poder identificar ese caus de lento movimiento y prelento movimiento.
+este proyecto está desarrollado en un entorno del del negocio del retail para el sector de electrodomésticos siente, por favor.
+El reto del negocio es principalmente tratar de reducir y eliminar el inventario que deja de generar valor en la empresa. Actualmente se conoce que el 18% del inventario de de esta empresa se se encuentra en una condición de lento o prelento movimiento
+Esto quiere decir que son combinaciones de SKU tiendas que no se que no se están vendiendo, que no están rotando y que se están quedando en el inventario. El prelento movimiento se define como productos que están en una tienda que no se han vendido en un tiempo mayor a 30 días
+Y lento movimiento son los SKUs que están en una tienda que no se han vendido en un entorno de sesenta días dentro de esa tienda
+para este proyecto se está evaluando una una cadena de electrodomésticos que tiene alrededor de doscientos cincuenta tiendas a nivel nacional
+El propósito de este proyecto es que se reduzca toda esta inventario ya que cuando la rotación cae, el problema se propaga. A menor rotación existe una mayor existe una mayor
+Cantidad de capital inmovilizado y también son productos que ocupan bastante espacio en tiendas
+Y esto genera una gestión reactiva
+Actualmente esto se combate con una gestión reactiva, con descuentos, liquidaciones o una redistribución tardía
+Siguiente, por favor
+La propuesta está enfocada en anticipar el riesgo y convertirlo en acción, es decir, en desarrollar una solucion que identifique anticipadamente esta combinación de SKUs tiendas para poder evitar de que pasen a lento movimiento cuando ya se encuentran en prelento
+Good morning.
+El objetivo es detectarlas a partir de una lectura historica con una estimacion de riesgo futuro y priorizar alertas.
+Es decir, ordenar cada tienda por probabilidad y nivel de impacto y de esta manera podemos orientar nuestras decisiones mucho más acertadas y poder vincular alertas con reubicación, redistribuciones, descuentos o liquidaciones según sean correspondientes.
+Siguiente por todos
+ahora les vamos a comentar cómo funciona la solución predictiva. Esta comienza a partir de una lectura de datos históricos, los cuales están incluidos en la venta, el inventario, los atributos que tienen cada producto y la cantidad de tiendas
+para poder trabajar estos datos históricos primero tenemos que hacer una preparación, es decir depurar los datos atípicos, tambien las elegir nuestras variables prehistoras y el target. En tercer lugar, aplicaríamos el, la técnica de random forest para poder entrenar las variables y asimismo hacer un ajuste y una validación de los datos.
+En cuarto lugar hallaríamos un riesgo de ska o tienda, es decir, la clase y la probabilidad asociada a cada caso de que un se vuelva o no lento movimiento en una tienda. Y de esta forma tendríamos una acción operativa
+De manera que tengamos alertas y priorizacion a traves de una matriz de definiciones.
+Bien, doctor.
+SEBASTIAN ALONSO SACO ALVARADO
+11:06:08
+El
+Okay, bueno, pasando al acta de constitución, definimos la estructura de gobierno y las principales condiciones del proyecto. Acá, como se puede ver, la estructura del gobierno, la gerencia general actúa como patrocinador, la gerencia comercial como cliente
+Y Ariana Mulatillo como gerente del proyecto.
+además participa en plenamente comercial, abastecimiento, inventario y logística, y los jefes de tienda para apoyar principalmente lo que viene siendo la validación y aplicación de los resultados.
+Bueno, pasando las premisas clave, asumimos la disponibilidad de datos históricos, personal de negocio e infraestructura suficiente y como principales restricciones, tenemos el calendario académico y el uso exclusivo de la informacion autorizada para este proyecto.
+Puede pasar de positivo, por favor
+Yeah, a partir de esto estructuramos los entregables en 3 principales frentes. El primero corresponde a lo que viene siendo la construccion de la solución predictiva.
+Esto incluye la base de datos analítica, el modelo preliminar el modelo final ya parametrizado el informe de evaluación y el código fuente documentado correctamente.
+En el segundo frente es la propuesta de implementación operativa. Aquí planteamos un procedimiento para utilizar las alertas generadas por el modelo que hemos desarrollado, una matriz de acciones comerciales y una propuesta de priorizacion, de manera que los resultados
+se orienten para tomar decisiones como reubicación, descuentos o seguimiento
+Y bueno, por último, el último frente, el tercero, corresponde a la evaluación del impacto y viabilidad
+aquí se establece una línea base, indicadores de éxito y una estimación del impacto económico potencial para el proyecto que estamos desarrollando
+siente positiva, por favor
+Basando a los requerimientos, el producto principal que se va a desarrollar, como se mencionó, es un modelo de clasificación basado en
+Randomforest, un algoritmo de random forest, este de trabajar a nivel de combinación de ska o tienda genera una estimación de riesgo y la probabilidad asociada.
+Además de ser evaluado mediante métricas como precision, recall y F1 score.
+Por el lado de la gestión este proyecto seguirá más un enfoque predictivo con alcance, cronograma, presupuesto responsables y criterios de control definidos desde la planificación. Que eso se mencionará mas adelante.
+De esta forma buscamos asegurar no solo que el modelo funcione técnicamente sino que también sea útil y aplicable para el negocio.
+Siguiente diapositiva por
+MULATILLO GOMEZ, ARIANA CAMILA
+11:08:48
+Okay, ahora pasandome un poco con los rizos iniciales, tenemos como primer riesgo el de la caridad y la disponibilidad de los datos, ya que podríamos contar con registros incompletos, inconsistentes o con poca representatividad del modelo.
+Como control previsto, tenemos el perfilado y depuración de los datos. Como segundo riesgo, tenemos el posible desbalance de las clases entre lento y lento movimiento, y como control tenemos metricas por clase y tecnicas de balanceo.
+Como tercer riesgo, tenemos el sobreajuste o fuga de información, ya que es importante considerar la posibilidad de que estas situaciones podrían generar un desempeño elevado que realmente es engañoso y que seria poco representativo para nuestros datos.
+Como control tenemos una separación de entre tren y test y una revisión técnica. Como cuarto riesgo, tenemos cambios de patrones y demandas
+Ya que el comportamiento futuro podría, podría dejar de parecerse al histórico que tenemos como control previsto, tenemos el monitoreo y el eventual reentrenamiento con nueva data.
+Y como último riesgo tenemos la baja adopción operativa ya que el modelo podría funcionar correctamente, pero no se podría estar utilizando de la mejor manera. Como control previsto, tenemos el manual, matriz de acciones.
+Y validación con usuarios
+I planificacion, la tercera, los datos, la corta el modelo, quita el impacto
+Sexto el control y séptimo el cierre. Estas etapas van a ser desadas de mejor manera por mi compañera.
+CHRISTOPHER ALEXANDER REINA PATI�O
+11:10:36
+Yo pasando al programa del proyecto, vamos a crecer un poco más cada etapa que hemos contemplado, nuestro cronograma va desde el 31 de agosto hasta el 28 de noviembre.
+Contemplamos ambos tipos de entregables tanto aquellos relacionados a lo que gestión como aquello que son aquellos que dirigen y controlan el paso del proyecto, y también aquellos de la construcción de del proyecto, del producto, que son los que realmente vamos a
+van querir implementación y validación por el estudiante
+En cuanto al inicio, este gestión, elaborando la constitucion, registro de interesados y el acuerdo al exceso de datos con
+Con la empresa efe siguiente, por favor
+En cuanto a la etapa de planificación, este.
+en esta construimos la línea base el proyecto con lo que es alcance de cronograma de presupuesto, esto buscamos aprobarlos todos también con el patrocinador, además de definir los planos de calidad, riesgos y comunicaciones.
+Hay que más se incorpore el ingeniero de calidad, que va a fijar las metricas que vamos a buscar tu modelo pueda cumplir
+Siguiente, por favor
+Ya en cuanto a lo que es preparación de datos, empiezan los centrales de construcción en la preparación de datos, el ingeniero empieza a depurar la base que elaboramos un diagnóstico.
+y actualicemos nuestra primera validación con el cliente a través de su parte de emprendimiento comercial y en un conferencia comercial
+Siguiente, porfa
+Ya en cuanto a lo que es monitoreo y control, este, pesarlo en paralelo, viene a ser, viene acompañar todo lo que la parte de ejecución e incluye reuniones semanales por parte de todo el equipo, informes de estado, registros de cambio.
+Y así al final se suman los jefes de tienda para que participen para piloto del modelo. Siguiente, por favor.
+Ya en cuanto a lo que es el desarrollo del modelo, el desarrollo es la fase
+Una cosa es, este, con mayor impacto debido, bueno, este era el líder actualmente, debido a que en esta parte es la que vamos a estar prácticamente, este, empezando a
+producir el producto entrenando el modelo y además revisándolo para el ingeniero de calidad y con esas observaciones vamos a ir afinando el modelo para tener un buen producto final. Siguiente, porfa.
+La penúltima etapa de operativización de impacto, este, en este negocio convierte las predicciones en decisiones
+teniendo, definiendo murales, acciones comerciales para
+Para esto trabajamos también junto con inventario y logística y ya finalmente, siguiente día, porfa
+Andrés entregables y el patrocinador tambien de alta reserva
+Se
+Valeria Porras Cruzado
+11:13:44
+Para armar el presupuesto, hemos utilizado la estimación ascendente donde se parte cada rol así determinado de las horas que se tiene en su cronograma, y multiplicamos la cantidad de
+O la cantidad de horas, por la tarifa, por el porcentaje de asignación y el tiempo, así vemos que la mano de obra se lleva aproximadamente el 82% del costo total del del proyecto
+Siguiente, por favor
+Bueno, con ello llegamos a un costo base de aproximadamente 95,650 soles, a lo cual se le debe sumar un 20% de contingencia para los riesgos que ya hemos identificado, como por ejemplo la calidad de los datos, y es una linea base de 114,800
+Y además de ello va una reserva de gestión del 5% para imprevistos que no hemos podido identificar y, por supuesto, con ello queda en 120,500. Finalmente, agregamos con la ganancia y el IGB. Con ello, el monto llega a facturar de a 163500
+Siguiente, por favor
+En el flujo de caja nos muestra cuánto dinero ingresa y cuánto sale mensualmente por el lado de los ingresos, el patrocinador va a pagar en 3 cuotas iguales de 54,500.
+Los egresos no son equitativos en estos tres meses. En el primer mes gastamos veinticuatro mil, sobre todo en parte ingeniería de datos, y en el segundo y tercer mes subimos a unos 35 mil porque entran ya las tareas de los ingenieros de aprendizaje de computadoras y de calidad.
+Como cada mes entra más dinero de lo que está saliendo, el saldo acumulado siempre es positivo y no necesitamos financiamiento extra, y al final de ello quedan casi 68,000 soles, de los cuales unos 25,000 son el IGB que va Sunat
+Ella restos en las reservas y la ganancia determinada
+Siento, por favor
+Esta es nuestra curva S, que va a mostrar el costo acumulado que hemos planificado gastar a lo largo del proyecto al cierre del primer mes hemos llevamos el 25% porque estamos en preparación de datos y el equipo recién está iniciando las tareas determinadas. En el segundo mes, la curva
+empina hasta el 63% porque entre el desarrollo del modelo con los ingenieros que hemos determinado y en tercer mes el ritmo está bajando y cerramos el 100% del costo base
+La línea punteada es la línea base de costos, que es el espacio entre los dos en la contingencia, y cada mes vamos a comparar lo gastado contra esta curva para detectar desviaciones
+que nada más que no hayamos este terminado previamente
+Siguiente, por favor
+Bueno, para cerrar el problema, el cual ya no está claro que es el que el 18% del inventario necesita gestionarse antes. Para ello ya hemos determinado una solución que es de los datos, vamos a incluirlos a un, a un
+método aprender método de clasificación, en este caso hemos elegido Organo forest a la acción comercial y el alcance tiene entregables y responsables definidos para que el presupuesto que es de 120,000 soles, lo podamos aplicar a este proyecto. Lo que sigue es el modelo preliminar
+que ya hemos definido su fecha que es el veinticuatro de octubre, realizar el modelo final para el 16 de noviembre y la sustentación final que es el 28
+Muchas gracias.
+Pierre Gilbert Roncal Robladillo
+11:17:16
+Perfecto, equipo número 6
+Al igual que el equipo anterior, ustedes también entiendo que brindan el servicio, ¿no? Están vendiendo el servicio
+Y son una especie de consultora externo
+Si no.
+SEBASTIAN ALONSO SACO ALVARADO
+11:17:43
+Sí,
+Pierre Gilbert Roncal Robladillo
+11:17:45
+mhm ya eso también hay que dejarlo explícito porque por esa justificación es que en su flujo de caja ustedes sí pueden colocar ingresos
+quería entrar cronograma
+Porque los recursos
+Ustedes hablan de días trabajando, horas totales
+Pero después creo que hay un porcentaje de asignación, ¿no?
+Ahí no más lo único que, al igual que el primer caso, el equipo
+And equipos que expuso sería validar si es que
+Esas horas
+Bueno, entiendo que esas horas ustedes la han multiplicado directamente, por ejemplo, el gerente, ¿no? 3385 horas
+Lo han llevado directamente a su presupuesto para poder
+Saber cuánto, claro, no
+Pero, y ahí ese porcentaje de asignación, por ejemplo, si ya en teoría del tiempo
+Este 338 5 el porcentaje de asignación
+Está dividiendo a la mitad esos 338 5 o en qué
+Interfiere el porcentaje
+SEBASTIAN ALONSO SACO ALVARADO
+11:19:48
+And
+El porcentaje indica la proporción de la jornada que se dedica a un proyecto, por ejemplo, el gerente está asignado al 50%, por lo que en estos días que participa solo consideramos aproximadamente la mitad de sus horas para calcular el costo.
+Pierre Gilbert Roncal Robladillo
+11:20:07
+Yeah, o sea, no son, o sea, realmente el tiempo que está ahí
+No es el tiempo, este.
+Total, si no es el tiempo
+SEBASTIAN ALONSO SACO ALVARADO
+11:20:18
+Depende del porcentaje de asignación
+Pierre Gilbert Roncal Robladillo
+11:20:30
+Hmm
+Valeria Porras Cruzado
+11:20:32
+Sí, es que en el programa parece que está, digamos, haciendo tal actividad, pero no es que la vaya a completar el propio gerente del proyecto, sino es que la va a asignar o va a administrar esta actividad, por eso el porcentaje de asignación baja.
+Pierre Gilbert Roncal Robladillo
+11:20:55
+Ya, entonces ahí
+Claro, quizás en el cronogram al momento de haber planteado la tablita en vez de horas en actividades debería ser como que horas totales, horas disponibles, ¿no? Porque a primera vista en el cronograma pareciera que el gerente
+Se dedica a trabajar 300 horas
+Pero entiendo que ese es el tiempo total disponible
+Y sobre eso hay que aplicarle el porcentaje que realmente están, o sea, realmente lo que debería estar ahí en todo caso ya sería el número multiplicado, ¿no? Para que no haya esa
+Esa diferenciación, ¿no?
+E
+Y creo que eso era entonces lo que no estaba claro, ¿no? Porque claro ahí era como que el porcentaje del tiempo parecía que
+Se duplicara y el gerente comercial
+No está ahí, ¿no? Pero creo que sí estaba
+No, tampoco, no, yo no es gerente co
+CHRISTOPHER ALEXANDER REINA PATI�O
+11:22:15
+Este, la parte de gerencia comerciales referente al nivel de la empresa
+De la empresa
+Pierre Gilbert Roncal Robladillo
+11:22:24
+Allá es personal de la empresa
+CHRISTOPHER ALEXANDER REINA PATI�O
+11:22:26
+Sí,
+Pierre Gilbert Roncal Robladillo
+11:22:29
+Por eso, como ustedes son de, de allá afuera, no aplica
+CHRISTOPHER ALEXANDER REINA PATI�O
+11:22:33
+Correcto.
+Pierre Gilbert Roncal Robladillo
+11:22:35
+mhm.
+Ya está
+Eso era
+mhm
+Por eso hay que explicitar bien
+Ese supuesto de desde donde, desde que perspectiva están
+Para, este, mantener esa, digamos, claridad, ¿no? Entre uno y otro, porque efectivamente hay costos pues que desaparecen o aparecen, ¿no? Como decíamos
+De acuerdo a la vista en la que estén.
+Eso sería, muchas gracias, equipo 6, vamos con el 4,
+MULATILLO GOMEZ, ARIANA CAMILA
+11:23:19
+El profesor
+SEBASTIAN ALONSO SACO ALVARADO
+11:23:20
+Ese profesor
+CHRISTOPHER ALEXANDER REINA PATI�O
+11:23:22
+Thank you.
+JEAN PIERRE LEON ESTRADA
+11:23:53
+Ok.
+Buenos días, profesor y compañeros, somos el equipo cuatro y en este proyecto propone básicamente implementar un sistema de asignación de ubicaciones para el almacenamiento de pallets en el centro de distribución de Decor Center, el cual es una empresa de comercialización de revestimiento para la construccion y para la remodelacion
+Siguiente, por favor
+Bueno, el problema inicial, parte básicamente de una asignación que depende actualmente únicamente de criterio de operario, es decir, no existen reglas estandarizadas que el sistema o tal vez algún sistema pueda validar
+Es por ello que en la simulacion del proceso actual en arena para una jornada de ocho horas tuvimos un error de ubicación del 30.2%, lo cual equivale más o menos a 3 de cada 10 pallets, lo cual genera 313 retrabajos y un tiempo promedio de
+del almacenamiento cercano a los dieciocho minutos y medio viendo esto, las esperas
+Además, el el pareto concentra el 81,42% de la pérdida económica en principalmente en 2 problemas en la asignación vertical de ubicaciones y la asignación de ubicaciones por otro criterios, ya sea por rotación o por o por mala asignación.
+Y es por eso que priorizamos sus causas, las cuales la definimos como la falta de un procedimiento estándar y de restricciones físicas configuradas en el, en el W M S.
+Siguiente, por favor.
+Y pues bueno, para atender esas causas proponemos una clasificación a veces por rotación y una matriz que considere los límites de cada nivel de rato, así como el peso máximo prometido.
+Y bueno, estas reglas se, se incorporarán al procedimiento estándar de almacenamiento que se plantea y al doble meses mejorado con el fin que sugiere ubicaciones y bloquee tal vez asignaciones que excedan la altura, el peso, tal vez una mala
+una mala ubicación en el sistema y físico. Además, complementaremos la solución con señalización y capacitación para, para 14 personas responsables del proceso de almacenamiento
+Y bueno, en el piloto buscaremos básicamente un tiempo máximo de 9.23, es decir, reducirlo a más de la mitad de lo que de lo que era, un error de ubicación infimo de hasta el 1%, porque es lo que se busca, que no hay errores de ubicación
+Y una exactitud de registro ubicaciones de por lo menos el 97%
+Y bueno, a continuación les presentamos la E D T.
+DIEGO STEFANO ALVAREZ CASTILLO
+11:26:35
+Con el alcance claro, el siguiente paso fue partir todo el trabajo, empiezas manejables
+En el primer nivel encontramos el objetivo del proyecto que queremos lograr, que es el sistema de asignación de ubicaciones implementado
+Y luego encontramos las 5 fases del proyecto que sería el inicio, la planificación, la ejecución, el seguimiento, el control del cierre
+Y si se fijan los colores, el gris hace referencia en la parte de gestión. Entre lo más destacado tenemos el acta, los planes, el cronograma, el presupuesto, los informes del cierre
+que estos son los que nos permiten dirigir el proyecto y lo rojo es lo que se construye en la solución para Decor Center
+En total son 50 paquetes trabajo y, como ven la mayor carga está en ejecución con 18 porque ahí se hace casi todo lo técnico
+El siguiente
+En esta podemos encontrar en la parte de construcción
+que contamos con veinticuatro paquetes de construcción y los ordenamos con el ciclo Ph
+Primero planeamos que levantamos cómo funciona hoy el almacén, el Asís y diseñamos cómo debería funcionar el tweep
+Que valíamos con simulacion en arena
+También armamos los datos maestros, los límites, los rags, la clasificación ABC, la matriz de asignación y el procedimiento
+Después hacemos lo que sería configurar el warehouse management system para ver que sugiera bloquee o alerte
+Lo instalamos el montacarga y los racks y los equipos de lectura
+Y también, este, señalizamos y capitamos al personal
+Luego verificamos que sería la parte de prueba, corregimos los defectos y corregimos el piloto
+Y al final actuamos que es de usar desplegar management system, estabilizar el proceso y se lo entregamos a operaciones ITI con la aceptación del patrocinador.
+Seguimos ahora con el cronograma.
+DAVILA MOSQUERA, JHONATAN CESAR
+11:28:48
+Bueno, ahora para la parte del cronograma, bueno, este cronograma reúne 181 actividades programadas y se prevé el cierre del proyecto para el 3 de diciembre. Estas barras que se muestran en la imagen muestran las cinco fases del ciclo de vida de un proyecto, inicio, planificación, ejecución.
+seguimiento y control y cierre las fases no ocurren una después de otra de forma estricta, la ejecución empieza mientras todavía se planifica porque el diseño puede avanzar una vez aprobado el alcance.
+En cambio, las compras y la instalación esperan todavía la aprobación del plan para la dirección, el seguimiento también acompaña la ejecución para revisar resultados e incidencias durante la ejecución de este proyecto. La planificacion concluye como tal, el 2 de octubre
+Con la aprobación programada del plan para la dirección del proyecto, luego además se pueden observar los siguientes hitos del cronograma donde podemos observar el acta de constitución el 7 de septiembre, el alcance el 9 de septiembre y el plan para la direccion el 2 de octubre.
+Idemas, el warehouse management system en pruebas para el 26 de octubre, piloto y capacitacion para el 16 de noviembre, y la aceptacion para el 30 de noviembre, considerando así la fecha tope, el 4 de diciembre y un día habil, que es un dia habil despues del cierre programado.
+Continuamos con la siguiente diapositiva donde podemos observar las dependencias del cierre donde un retraso en el contrato del W M S puede mover la fecha de cierre esta diapositiva, bueno, muestra la secuencia que comenzaría con las órdenes de compra y los contratos previstos
+del cinco al siete de octubre, luego se configura el W M S en el entorno de pruebas, siguen las pruebas funcionales, la corrección de defectos y la aprobación del piloto si el contrato se retrasa, puede afectar el inicio de esta tarea y aplazar el cierre previsto.
+Después el piloto viene el despliegue del warehouse management system, su funcionamiento se verificaría el 17 de noviembre, lo que permitiría comenzar con la estabilización el 18. El monitoreo inicial del sistema continua hasta el 19
+Y la estabilizacion terminaría el 26 de noviembre
+Finalmente se consolidan las lecciones aprendidas y se completa el informe final. Estos dos trabajos avanzan en paralelo, aunque estén colocados uno tras otro. Ambos terminarían el 1 de diciembre y son necesarios para poder preparar el acta de cierre el dos y 3 de diciembre
+con la fecha tope para la ejecución del, del proyecto de cuatro de diciembre. Ahora continuamos con presupuesto
+VALLADARES CORONADO, EDUARDO JOSE MANUEL
+11:31:33
+Bueno.
+Y continuando con la planificación, explicaré cómo estimamos los costos y construimos el presupuesto del proyecto. El costo estimado es de $233 para calcularlo, utilizamos una estimacion ascendente. Primero calculamos el costo de los recursos y las horas necesarias para cada actividad
+Y luego sumamos estos cobros por paquete de trabajo y por partida, las tarifas del equipo
+Se calcularon considerando el sueldo mensual más un 50% de beneficios sociales, dividido en 360 horas. El consultor externo del W M C tiene una tarifa de 150 soles por hora, luego el equipamiento representa aproximadamente el 56% del costo
+Incluido el montacargas, los rags y los equipos de lectura y cómputo. Además, aprovechamos el W M S existente mediante mejoras sin reemplazarlo
+A partir de este costo incorporamos 2 reservas, la primera es la contingencia de aproximadamente 8000 soles para cubrir riesgos identificados. Se calcula multiplicando la probabilidad de cada riesgo por si pacto económico y sumamos los resultados. Al agregarle el costo estimado, obtendremos una linea base de costos de $260,000 soles
+La segunda es la reserva de gestión.
+equivalente al 5% de la línea base, su uso requiere un cambio aprobado por esta reserva el presupuesto total alcanza aproximadamente $288.
+Finalmente, debemos distinguir el presupuesto y el precio comercial, el precio base para de call center es de aproximadamente $2853 incluye línea base más una ganancia del 15% aplicada únicamente a los servicios propios de computadora. Y luego pasamos con el flujo de caja.
+ANGELA INES GUTIERREZ ARANGO
+11:33:15
+Es así como a continuación de Core Center nos paga con $284,000 en 4 hitos importantes. Primero, el 15% con el acta, segundo, el 70 con el plan de dirección, tercero, 10 con el piloto, y finalmente cinco con la aceptación del patrocinador.
+Con este esquema tenemos un flujo de caja absolutamente positivo en todos los meses. En octubre, que es el mes mas exigente, observamos cómo es que con un ingreso de 19800, este es mayor al 195 que vendrían a ser de los egresos
+La clave está en el hito 2 del 7 de octubre porque éste financia la compra de todos los equipos, sea monda carga, racks, escáner, etcétera
+con un budget de ciento cuarenta y ocho mil mensuales
+Este punto es muy critico, y por eso lo cuidamos. Viendo entonces así un saldo acumulado de 20,700 million sales, 20,7000 sales, que equivale a la ganancia mas la contingencia no usada. Finalmente
+La viabilidad en el siguiente slide tenemos 4 criterios importantes.
+El valor presente neto
+Exacto, de doce mil soles aun despues de cubrir el costo de financiarlo, podemos ver que el valor de la empresa es mayor. Despues tenemos la tier, que del 11%, al ser mayor a un wacc de 9.51
+Este indicador nos quiere decir que el proyecto rinde más de lo que cuesta financiarlo y esa diferencia es justamente lo que sostiene nuestro valor presente tu anterior
+El inglés de rentabilidad es de $1,04, ¿qué quiere decir esto? Que por cada sueldo invertido recuperamos 1.04 al valor presente. Es positivo, pero modesto. Finalmente, con un playback de 4.83 años, recuperamos la inversion casi al final del horizonte.
+Así que el capital que el capital queda expuesto y cualquier retraso de los beneficios nos afecta directamente. Nuestra conclusion por este motivo es que tenemos poca holgadura. Los beneficios solo pueden caer en 3,3%.
+lo cual lo controlamos mediante tres medidas importantes
+Primero, el piloto es la compuerta o gatidor que exige confirmar el 96.7% de los beneficios
+Segundo, un plan de contingencia de 8000 soles y tercero, vigilamos con valor agregado. ¿Qué quiere decir? Escalamos hacia el patrocinador si es que el CPI, el índice de desempeño del costo, o el SPI, el del desempeno del cronograma.
+Baja a 0.95, muchas gracias
+Pierre Gilbert Roncal Robladillo
+11:36:01
+Perfecto, equipo número 4
+De hecho, bueno, en principio, felicitarlos por el análisis de sus costos, según lo que estaba revisando
+Que estaban bastante completos
+En términos generales
+Creo que no había una observación más allá de lo que ya ustedes
+Comentado y bueno creo que un poquito el feedback de este equipo hacia los demás de repente sería
+La trazabilidad que ellos comentaban para poder hallar sobre todo los costos por hora de sus tareas
+Que era un poquito eso lo que se pedía, pero
+En general, bueno, además, también ha añadido ciertos indicadores extras
+And presupuesto, pero en líneas generales estaba bastante bueno y detallado el trabajo, equipo.
+Eso sería, muchas gracias.
+ANGELA INES GUTIERREZ ARANGO
+11:37:10
+A usted profesor.
+DAVILA MOSQUERA, JHONATAN CESAR
+11:37:12
+Gracias por estar
+Pierre Gilbert Roncal Robladillo
+11:37:15
+Ahora vamos con el 1
+Carlos Rosas Senmache
+11:37:22
+Así provoca compartiendo
+CARRION SEGURA, ITALO MARCELO
+11:37:47
+Ya empezamos
+Pierre Gilbert Roncal Robladillo
+11:37:49
+Sí,
+CARRION SEGURA, ITALO MARCELO
+11:37:50
+Yeah, genial, entonces ya, buenos días, profesor y compañeros, y ya vamos a exponer
+Pierre Gilbert Roncal Robladillo
+11:37:50
+Adelante.
+CARRION SEGURA, ITALO MARCELO
+11:37:57
+La implementación de un proyecto de lineware housing, entonces somos el equipo uno y el siguiente, porfa, el índice, la bitácora del día de hoy es implementar en Marcelo siguiente
+es implementar el acta, no sé si implementar el acta, perdón, es exponer el alcance del proyecto, los riesgos del proyecto, el proyecto, el presupuesto y el flujo de caja asociados tambien al proyecto. En cuanto al propósito de este, de este proyecto, es la implementación del lineware housing, que es una estrategia
+de gestión de almacenes que busca eliminar todas las actividades que consuman de recursos que no agre y que consuman recursos y que encima no agreguen valor al propio
+El producto final o el servicio final
+En un, en un almacén, bueno, en el almacén de una empresa que se llama Works or que es una empresa peruana que se encarga de la produccion, bueno, en el procesamiento y distribución de
+Productos de alimentacion de alimentos y de salud que, bueno, al final tiene problemas en la distribución de sus despachos que no salen a tiempo o que no llegan a tiempo o que salen incompletos
+Ese generado por cuatro causas principales que vendría a ser que el almacén no trabaja sino una metodología de gestión especifica. Eso además lleva a que hayan procesos no estandarizados. Y finalmente también utilizan indicadores que no están actualizados con la operación del día de hoy de la, del almacén y no utilizan formatos para poder darle trazabilidad a su operación.
+Entonces, en cuanto al alcance de este proyecto, se busca trabajar durante 6 meses el diseño y la implementación de esta metodología linear housing en el único almacén que tiene acá en Lima, buscando combinar diferentes metodologias que busquen
+Reducir justamente la, los, los procesos que nos generen valor y capacitando al personal y mejoran y además dando documentación en cada entregable
+En cuanto a la situación actual, el día a día de hoy, la operacion genera en el almacén logra 78% de despachos a tiempo y 87% de
+De índice de despachos completos, esto esta por debajo de lo esperado o del objetivo del almacén, de hecho, y es en general, suman unos 4000 pedidos o despachos incompletos o que no están a tiempo, lo que genera finalmente un impacto de paga de paga en penalidades de casi 62000 soles
+En ese sentido, los beneficios esperados luego del primer año de la implementación es aumentar en casi 6 puntos porcentuales el despacho a tiempo y en casi 5 puntos porcentuales en los despachos, el índice de despachos completos
+Generando además el ahorro, el ahorro correspondiente justamente por dejar de pagar las penalidades por despachos fuera de plazo y despachos incompletos por 25 soles y 35 soles cada uno correspondientemente y finalmente generando un flujo de caja de 45 mil vez aproximadamente luego de una inversion de 16 mil
+Es sólo también
+ITALO MARCELO CARRION SEGURA
+11:41:18
+Sí, siguiendo con lo que es la, los entregables del proyecto, se resumen en estos 7 bloques donde tenemos una, un rediseño de los procesos utilizando distintas técnicas, otras técnicas que se utilizan a nivel de housing está el 5S, el andón, el Kaisen y el Pocayoke.
+donde también tenemos una gestión integral del proyecto justamente como mencionamos, vamos a presentar también el cronograma y la evaluación económica considerando el presupuesto y los flujos de casa. También a nivel
+de recursos humanos, también se espera una capacitacion del personal, incluyendo lo que es las charlas, el material educativo y tambien
+Informes de evaluación del aprendizaje, entonces, en lo que es requerimientos en la siguiente diapositiva, tenemos los requerimientos del producto donde justamente esperamos que el proyecto, el producto impacte en lo que es los flujos de recepción, almacenamiento y despacho, y no incluir lo que son actividades que no agreguen valor a
+justamente la cadena de valor de la empresa también aplicando justamente las técnicas mencionadas anteriormente como el 5 S volando
+Y también lo que es la incorporación de formatos, este, código de barras y la reestructuración de los procesos a nivel de proyectos y se espera que la duración sea de 6 meses, se participe activamente en lo que es el área de logística y calidad de forma
+bastante específica y también el presupuesto que ha aprobado que se necesita para el proyecto que sería de $16,527 soles
+justamente las premisas que tenemos es que se espera ese compromiso desde las áreas, tambien como la, el compromiso desde los mismos personales a capacitar
+Y también el desembolso según corresponda con los cronogramas que si no se puede atrasar el resto del proyecto, entonces como restricción se tienen justamente restringido el tema del plazo que sea máximo en 6 meses también sin exceder el presupuesto asignado inicialmente.
+además me dice fielmente lo que es el marco del newer housing y las normativas de higiene, sanidad Y seguridad alimentaria, justamente por ser una empresa de alimentacion.
+Pasando lo que son los riesgos, tenemos 3 principales identificados, uno por ejemplo, el más significativo es el de los turnos intensos, ya que al ser una alta demanda en lo que es la operación diaria, es muy difícil el hecho de acoplar las capacitaciones y auditorías a estos procesos
+Del mismo modo, también tenemos la resistencia al cambio, el que debe imponer un nuevo sistema de operación y tambien el trazo en activo, no el hecho de que puedan haber demoras en las compras y de pasar todo lo que viene a ser el proyecto, ¿no? Por esa misma razón, hemos definido una contingencia de 826 soles
+Que se ve la más grande también como como está distribuido
+Y luego pasando lo que es el equipo y los roles, bueno, somos el equipo uno con los integrantes que tenemos y a nivel de designación, me designaron a mí todo lo carrión como gerente del proyecto, al ingeniero Elvis Fernandez, que es el sponsor o gerente general de la empresa es según la tesis.
+Y también Vilma González, que sería la jefa de control de calidad, junto a otros interesados como los operarios, los clientes y auditores externos
+Carlos Rosas Senmache
+11:44:26
+del proyecto, tenemos lo que debería ser cinco fases. La primera es el inicio.
+el cual tenemos la gestión del proyecto que consta del acta de constitución, los objetivos y tambien lo que vendría a ser el alcance, continuando con la parte de la planificación, tenemos tres paquetes. En este caso, el primero es la gestiona del proyecto con el EET, el Gantt, el presupuesto y tambien la evaluacion economica
+Seguido de el segundo paquete que viene a estar compuesto por distintas herramientas, como son pareto, arbol de problemas, cinco porque conocemos de OPED A P y tambien el BCM para la parte de logística
+Luego, continuando, tenemos tambien el paquete número 3, que vendria a ser mas que todo los planes cinco S y herramientas como Bandon, Kaisen, también el Pocayoke y las capacitaciones que son vitales para que el equipo pueda integrar esas herramientas, ¿no?
+Continuando tenemos la parte de la fase 3, que es la ejecución, que en este caso tenemos las herramientas link que estan compuestas por tarjetas rojas, limpieza y aseos, el checklist de las cinco s y herramientas como Andon, PET y también junto con codificaciones de barras.
+Y también la capacitacion y cambios culturales, que son vitales para poder hacer que el equipo pueda integrar esas herramientas de manera progresiva y tambien amigable.
+Continuando con el control, tenemos dos paquetes. El primero consiste básicamente en supervisiones y auditorias, y el segundo es mas que todo para el monitoreo de indicadores, o lo que vendria a ser KPIs de despachos, checklist 5 S's, y tambien no conformidades.
+Y por último el cierre que en este caso está compuesto por 2 paquetes
+El primero viene a ser la eficacia posterior, junto con los de OP, DAP y el SM mejorado, y finalmente, el cierre, que vendría a ser la entrega del informe, tambien la retroalimentación entre los equipos y de las lecciones aprendidas como grupo, y el acta de cierre y toda la entrega de la documentación.
+PORTILLA CABALLERO, MARIANA
+11:46:14
+Bien, ahora, continuando con el cronograma, el cronograma completo dura exactamente 6 meses, va desde el 24 de agosto de 2026 hasta el 16 de febrero de 2027 y está organizado en diez fases. Arrancamos a fines de agosto con el inicio del proyecto
+Identificando interesados, definiendo objetivos y cerrando el acta de constitución. El 5 de septiembre. Casi a la par, desde el 2 de septiembre, empezamos con el diagnostico inicial, que nos tomo hasta mediados de octubre, y mientras tanto, avanzamos con la planificacion general, armando el EDT, el Gantt, el presupuesto
+Y la evaluación económica entre el 17 de septiembre y el 17 de octubre
+Terminando eso del 20 de octubre al 9 de noviembre nos enfocamos en diseñar los planes L I N 5 S and Don, Kaizen y Pocayoc
+De ahí entramos en la etapa más fuerte, que es la ejecucion. La implementación de las herramientas LIN nos lleva a Prox43 dias del diez de noviembre al 17 de diciembre en el transcurso desde el 3 de diciembre y hasta el 22 de enero
+Corremos la parte de capacitacion y cambio cultural, donde incluimos diez días de talleres con el personal y diez días para la prueba piloto. Finalmente, desde el 25 de enero, entramos a la recta final con monitoreo y cierre. Por un lado, auditamos el almacen y hacemos el seguimiento
+de los capéis hasta mediados de febrero y por el otro lado hacemos la evaluacion post test y el cierre formal, ¿no? Entregando toda la documentación y estandares finales el 16 de febrero.
+ASTETE ORTEGA, RAFAEL YAIR
+11:47:55
+Bueno, dado que tenemos todo el cronograma establecido, vamos a pasar con el presupuesto del proyecto. En este primer momento, nosotros delimitamos cada una de las actividades y, junto con la seccion anteriormente presentada, que son diez, y determinamos la partida que podría asignarse a cada una de esas actividades.
+en la cual determinamos la cantidad de recursos, la tarifa, el tiempo requerido y a su total
+Y en base a ello siguiente
+Determinamos lo siguiente.
+And tanto para, para, para inicio, que es la propia gestión del proyecto, vamos a determinar un determinado monto de 271,5 sales y para planificación que lo conforman los puntos anteriormente mencionados
+También tenemos para cada una de los apartados su presupuesto, y como vemos, tanto en implementación y monitoreo, esta la mayor cantidad de presupuestos en now, que es lo que realmente saben se va a ver en el flujo de caja cuando veamos el momento de los
+Costos asignados por mes y finalmente también tenemos el cierre con los presupuestos asignados
+Y con respecto al resumen de costos, tenemos que el total de todas esas actividades y el total de todas estas secciones, el apartado sumados es de 16,527 soles. Le sumamos una reserva de contingencia del 5% para eventualidades y también una reserva de gestión
+Por lo cual nos quedaría un presupuesto de $18,221,0 c en este caso no estamos asignando una ganancia ya que es un proyecto interno y la propia empresa tambien tiene este planificado todo esto. Y tambien le sumamos un porcentaje
+Que se refiere a 32079,78 soles para un total de nuestro de nuestro presupuesto de 21580 soles
+Siguiente.
+Y bueno, aquí también hicimos una trazabilidad, este, más a fondo sobre la naturaleza y el tipo de gasto que puede tener cada una de las partidas. Lo dividimos en 14 posibles partidas
+Y el tipo de gasto, pues, nos damos cuenta que la mayor cantidad de presupuesto va para asignación de servicios especializados y capacitación con 11,100 soles. Después también tenemos acondicionamiento físico y señaletica con 3030 soles, equipamiento tecnológico y software con 1847
+Y el soporte documental y procesos, que son las fichas y, y, y los planos propios del D O P, de APCM, etcétera, de 550 sales.
+Y bueno, cada uno, claro, este, cada partida también al lado derecho podemos ver que cada actividad tiene su concepto para lo cual entonces todo, toda nuestra, toda nuestro cronograma y todo nuestro ET realmente está justificado
+con presupuestos asignados siente
+Y bueno, ahora tenemos el flujo de caja en el cual vamos a tomar un rango de 15 meses para determinar los ahorros que va a tener, que vamos a visualizar durante todo este periodo
+Como se mencionó, lo que se busca con el link, con el link de para almacenes es el ahorro tanto por reducción de despachos incompletos como por despachos a destiempo. Y como tenemos desde el mes del mes uno hasta el mes siete, se va a determinar todos los gastos, tanto desde implementacion
+Theres 5 y mes 6, donde la implementación y la, bueno, la propia ejecución del proyecto estamos a fondo, ¿no?
+Siende, por favor
+Carlos Rosas Senmache
+11:51:33
+Para cerrar, tenemos lo que debería ser la curva s como podemos observar, tenemos egresos hasta el mes 7 con un total de 16,527 soles. Luego comienzan a ver ahorros, los cuales se prolongan hasta los 15 meses, ¿no? Que vendria a ser
+de 62 800 soles y podemos observar de que estamos en el umbral de cero a partir del mes 10, después esos son puros ingresos y el flujo de casco acumulado para el último mes del proyecto sería de 45,3733
+Gracias.
+Pierre Gilbert Roncal Robladillo
+11:52:08
+Muchas gracias, equipo uno
+Y ahí lo primero sería
+En este caso ustedes sí están haciendo el desarrollo a la interna, no de la empresa
+Y en este caso el costo
+De IGB no aplicaría porque, bueno, salvo
+Las horas que ustedes hayan colocado
+no lo hayan contemplado así
+O es que si las horas no lo contemos así el costo que ustedes han, el factor no de costo que ustedes han usado para
+poder calcular las horas ya lo contemplaba
+Entonces ya no se pone abajo, ¿no? Como EGB.
+Si sí lo con, hombre, perdón, si ahora con templado no se ponía, ¿no? Y si sí lo contemplaba, no se pone, entonces
+Por lo general la tarifa por hora ya viene con IGB, entonces
+no sería un dato, digamos que ustedes deberían de considerar nuevamente porque lo estarían duplicando
+E
+Normalmente sea tu IGB también es para más para el, el, la vista desde la consultora, no como en los otros equipos
+Que tienen que vender su servicio, ¿no? Al, a la empresa
+Eso sería con respecto al IGB
+Después con respecto a las observaciones que ustedes tenían en los entregables y actividades, aunque en la revisión no estaba ligada al cronograma, parecería que sí
+Ahora ya tienen mapeado todos los entregables no de su
+En su presupuesto al menos que luego seguramente lo van a llevar a su cronograma
+Porque recuerde, ¿no? El feedback que tenían en su cronograma donde había que incluir todas las actividades
+Pareciera que eso ya está pero por si acaso
+Me da una revisada para ver si falta algo
+aunque bueno por lo puesto del presupuesto pareciera que ya está
+completo igual eso habría que llevarlo arriba el cronograma para
+Poderlo actualizar
+Y lo último sería
+Si bien ustedes, digamos, han hecho una
+Digamos una asociación, ¿no? Entre lo, entre el monto ese total que tenían en la tesis versus lo que necesitaban para acá entregable
+De alguna manera para que
+thinga esa explicación extra, ¿no? Y para siempre entender la trazabilidad
+Podrían ustedes mencionar o hasta de pronto calcular, o sea, ya tienen ustedes el total, ¿no? que tienen entregable dinero, que es lo que están colocando?
+Pero es entregable a su vez en el cronograma tiene una, unos recursos uno o más un recurso que interactúa, ¿no?
+En una, en un cierto periodo de tiempo, en teoría
+Si multiplicáramos con el tiempo por el sala del recurso debería dar a lo lo que ustedes han colocado como monto
+Entonces
+Si fuese posible, podrían tratar de, hallar esa, esa relación, ¿no?
+O al menos dejar explicado esa relación
+para que se entienda que en realidad, claro, si bien ese monto por términos prácticos, no de, de disponibilidad de información
+Hoy ustedes lo han puesto directamente, ¿no? Lo han hecho, digamos.
+Por practicidad con el, con la información que tenía.
+Pero en el fondo lo correcto es que sea la multiplicación de la tarifa por la cantidad de tiempo que tiene el recurso, la sumatoria y todo eso me da en total, entonces
+Dos caminos
+A ese monto, ¿no? Lo explican así, ¿no? Que hoy es el monto total, sin embargo, este monto debería ser igual a la suma de
+la cantidad de recursos multiplicado por la disponibilidad por todas las tareas es igual a lo del entregable, ¿no? Como para que se quede ahí, este.
+Sustentada esa, ese cálculo correcto que
+Que está digamos englobando el monto que han declarado
+O lo otro es que
+Tenga ese monto como referencia entre comillas, ustedes agarran, le pongo una tarifa a todos sus recursos, simplemente multipliquen, suman y ya está, y reemplazan nomás el
+El monto, ¿no?
+Pierre Gilbert Roncal Robladillo
+11:57:10
+También podría ser una, una opción, pero en cualquiera de los dos casos de fondo sería
+Explicar no que ese cálculo está basado
+Y de hecho lo hacemos así para que
+Quede claro su trazabilidad de la multiplicación de la mano de obra por la cantidad de tiempo
+Y tendrían esas dos formas de hacerlo, ¿no? O lo describen así
+para que quede así puesto en el informe o
+Se olvidan de este monto y ventan una tarifa, no el recurso, una tarifa X, simplemente multiplican, lo suman y eso sería
+El total de cada uno
+Como para que quede, un poco cerrado ese criterio, ¿no? De por como digamos el
+El monto
+Y solo es eso, realmente, solo es eso, dejar explícito
+El cálculo de ese monto
+Que he hecho más menos ya está, ¿no? Porque ustedes ya tienen ahí, o sea está detallada está, pero falta esa última, ¿no?
+Esta última conclusión del cálculo y, y lo elige no que si no estaría
+Ven que esté ahí,
+ITALO MARCELO CARRION SEGURA
+11:58:31
+Pero es una pregunta, o sea, sobre lo último que menciona se refiere
+algún cálculo que hemos presentado ahorita o que está en el informe como para saber a cuál se refiere
+De la tarifa que menciona y la multiplicación
+Pierre Gilbert Roncal Robladillo
+11:58:47
+O sea, ahora en el informe, claro, ahora hay por ejemplo, ya aparece directamente esa tarifa, ¿no? Ese, esa
+Esa tarifa entiendo que la de ahí
+espera, en el informe
+Es lo mismo han actualizado el el word versus lo que está ahorita ahí
+Pues es lo mismo.
+ITALO MARCELO CARRION SEGURA
+11:59:14
+O sea, para la entrega pasan creo que no, pero sí
+O sea, o si creo que estaba enlazada, de hecho, porque eso está como un Excel aparte y le hemos enlazado al documento, entonces deberías estar actualizado
+Pierre Gilbert Roncal Robladillo
+11:59:29
+Ya, porque miren el informe yo veo que
+A ver si no yo comparto para verme si es
+Lo mismo en un ratito
+And
+Yeah, vamos a compartir
+Este.
+Yeah.
+Esta tarifa de aquí que aparece
+Es la tarifa de la actividad por completo, ¿no?
+Pero esa tarifa de aquí tiene un recurso que lo hace, ¿no?
+Entonces esa tarifa vendría a ser
+La tarifa del recurso que lo hace
+ITALO MARCELO CARRION SEGURA
+12:00:40
+o sea, de la partida
+Pierre Gilbert Roncal Robladillo
+12:00:45
+Claro, eso es justamente lo que quería que lo expli, especifiquen mucho más, o sea.
+CARRION SEGURA, ITALO MARCELO
+12:00:51
+Ahí sería como quien, quien brinda el o sea, te estoy diciendo que el recurso sería el asesor que brinda justamente la asesoría, sería el experto
+Pierre Gilbert Roncal Robladillo
+12:01:01
+Claro, sí, vamos.
+CARRION SEGURA, ITALO MARCELO
+12:01:02
+Eso.
+Pierre Gilbert Roncal Robladillo
+12:01:03
+al cronograma
+En ese punto interviene un recurso
+Que no, o sea, no sé exactamente
+Para hacerlo más rápido
+Por ejemplo, acá no.
+acá interviene para diseñar tal cosa, interviene supervisor, ¿no? Para implementar supervisorias y entonces teoría cada una de estas personas
+Tiene una tarifa por un tiempo X,
+Que se multiplique y sale un monto
+No, y la sumatoria de todos los montos me daría igual entregar entonces
+And caso de ustedes.
+Es eso el análisis así, o sea, es, es la, digamos, la multiplicación
+de cada uno de estos recursos así
+Porque esta partida
+CARRION SEGURA, ITALO MARCELO
+12:02:08
+Claro, o sea, la asesoría es como cuánto tiempo se requiere esta asesoría
+Y la tarifa lo hemos puesto como de esa manera, pero no con el recurso como tal, como la hora del experto que brindaría la asesoría
+Pierre Gilbert Roncal Robladillo
+12:02:25
+-
+Claro, esa
+O sea esa justo esa, o sea por digamos
+Si se han dado cuenta en los trabajos anteriores
+Existe como esa trazabilidad, ¿no? Entonces yo entiendo que acá este monto lo han tenido porque en sí el dato que ustedes
+Manejaron de la tesis es un dato global, ¿no? De toda la.
+Me parece que era de toda la, de toda la entrega
+CARRION SEGURA, ITALO MARCELO
+12:02:56
+Sí, en realidad ahí ya hemos hecho bastante, hemos asumido bastantes cosas porque, como le comentó a mi compañero la semana pasada, lo tenemos a muchos más grandes rasgos. Ahí ya hemos, o sea, en un inicio teníamos solamente como una división, como por ocho categorías
+De cómo se había distribuido el presupuesto aprobado, entonces lo que hicimos fue separarlo, separarlo, las categorías, asignar cada actividad a cada una de las categorías y a partir de eso, dividir
+El, el, el recurso que se le asigna
+Y la trazabilidad con la, con las, con las actividades de la tesis está en el, en el anexo del documento
+Pero claro, lo que haría falta entendemos es de dónde sale justamente la tarifa, ¿no? El
+Lo de la el recurso como tal, como usted menciona, que vendría a ser el experto
+Pierre Gilbert Roncal Robladillo
+12:03:57
+-
+Para que quede
+CARRION SEGURA, ITALO MARCELO
+12:03:59
+Sí, está bien.
+Pierre Gilbert Roncal Robladillo
+12:04:01
+Claro, para que esa parte quede más
+CARRION SEGURA, ITALO MARCELO
+12:04:06
+Claro.
+Pierre Gilbert Roncal Robladillo
+12:04:06
+Más explícita, ¿no?
+CARRION SEGURA, ITALO MARCELO
+12:04:07
+-
+Pierre Gilbert Roncal Robladillo
+12:04:12
+Ese es no importa en realidad si los montos no coinciden con lo real que es en la tesis, o sea, si sale más o menos, ¿verdad? No.
+CARRION SEGURA, ITALO MARCELO
+12:04:19
+Y no, no, no coincide, o sea, hicimos que calzara con las actividades, pero luego la contingencia la hemos agregado nosotros
+Pierre Gilbert Roncal Robladillo
+12:04:27
+Sí, sí, la verdad es un.
+CARRION SEGURA, ITALO MARCELO
+12:04:28
+Porque no, no había una evaluación al respecto
+Pierre Gilbert Roncal Robladillo
+12:04:32
+Sí, no, no, a nivel numérico, digamos no importa que coincida, no, lo que importa no más es que exista, este.
+Que tenga conexión ambos no tanto de presupuesto con el cronograma y acá nomás le faltaría
+Conectar con el recurso, ¿no?
+Para que quede más explícito
+Se pueden crear una tarifa, una tablita más, de repente recursos
+Si tiene que actualizar los números, bueno, normal lo actualizan, o sea, porque a nivel numérico no.
+No va tanto por ahí más da, más es porque se conecten ambos, ¿no?
+Porque lo natural sería si fuera real que directamente del cronograma
+Ustedes tienen la tarifa de todo lo que necesitan tanto de materiales como de personas y simplemente multiplican y ya suman y sale, ¿no?
+No habría nada más ahí
+Pero eso
+Eso sería
+Listo, equipo número 1, muchas gracias
+CARRION SEGURA, ITALO MARCELO
+12:05:40
+Muchas gracias, profesor.
+Pierre Gilbert Roncal Robladillo
+12:05:42
+Y los demás, bueno, faltan tres, ¿no? Tres equipos.
+Carlos Rosas Senmache
+12:05:43
+Las europeas
+Pierre Gilbert Roncal Robladillo
+12:05:48
+sí los fue liberando, si gustan, si ya tienen que comer exámenes, semana de exámenes, pueden ir
+Digamos saliendo, y bueno, nada más recordar que el examen es a las 11:30
+Del día viernes en teoría son 2 horas de duración en teoría es lo que ha venido, digamos, sucediendo, todavía el examen no está hecho
+lleguen puntuales, entonces vienen de calculadora normal para los cálculos del presupuesto, la estructura se mantiene con sus ocho puntos de preguntas, donde ustedes van a tener que colocar la letra correcta en el cuadernillo
+Y ahí justamente tienen esa trazabilidad, ¿no? Porque desde los datos del cronograma ustedes van a hallarnos duración del proyecto y desde eso van a calcular el presupuesto, ¿no? Y hay una tablita, ¿no? ¿Dónde está la tarifa de los recursos, entonces
+Justo por eso hacíamos esta acotación para que vean cómo se conecta presupuesto
+Y de hecho es, este.
+Es la misma logística también del examen
+Entonces nada, los que ya tengan que retirarse pueden irlo haciendo en cualquier cosita me avisan muchos éxitos en sus exámenes
+Ahora vamos con el equipo 5
+LUCAS MATTIAS ALVITES GALARZA
+12:07:21
+Buenas tardes, ahorita compartimos pantalla
+CHAMORRO CAYETANO, JORGE JOSUE
+12:07:26
+Buenas tardes
+Pierre Gilbert Roncal Robladillo
+12:07:28
+Buenos tardes.
+CHAMORRO CAYETANO, JORGE JOSUE
+12:07:35
+Okay, profesor, este, en nuestra ocasión necesitamos 4 integrantes, este, somos cinco, pero nuestro compañero este Alfonso estaba mal de salud, así que seguramente se contactará con usted.
+Pero vamos a empezar
+Pierre Gilbert Roncal Robladillo
+12:07:48
+-
+CHAMORRO CAYETANO, JORGE JOSUE
+12:07:50
+Ok, buenas, buenos días, profesor, compañeros, somos el grupo 5 y, bueno, le vamos a presentar el informe parcial del proyecto llamado DCPUC Workshops. Veremos el acta de Constitution, el EET, Cronograma y tambien el presupuesto siguiente slide, por favor.
+Ahora vamos a empezar por el acta de Constitución y en particular por su propósito que, bueno, es lo que justificaría todo el proyecto en realidad. Queremos implementar de ese book workshops, que viene a ser un programa integral de entrenamiento y networking
+Capacitaría de forma escalonada el desarrollo con inteligencia artificial, ciencia de datos, machine learning, Google Cloud y tambien algunas habilidades de comunicacion como un pitch
+Este, bueno, básicamente lo aprendido se valida con competencias progresivas que culminarían en una generación internacional de veinticuatro horas y bueno además el programa estaria diseñado para repetirse cada ciclo académico, ya que se ejecutaría de marzo a julio de 2027
+Si antes la iPhone este por favor
+Para
+¿Por qué lo hacemos? Este, los planes de estudio actualmente no siguen el ritmo de la I A generativa, la nube o tambien este herramientas como MLabs, y ya son este requisitos para procesos de selección en unas prácticas profesionales. El estudiante egresa sin saber
+Sin haber este desplegado tal vez un producto en producción y bueno eso tiene tres consecuencias, ¿no? Compite con desventajas en las prácticas, se autoforma con tutoriales dispersos o cursos pagados, y tambien
+Este, practica poco su pitch, ¿no? Para que sepa cómo venderse y ahora, la necesidad de real, tenemos más de cien este, al menos encuestas y el sesenta por ciento de los encuestados, este, les interesó más temas de inteligencia artificial, desarrollo web o nube y contamos con más de 100 al menos expertos registrados o especialistas, ¿no?
+Que donde, donde al menos necesitaríamos unos cincuenta expertos.
+Y bueno, ofrecemos una plaza de 500 este participantes o 300 entre 300 o 500
+y un superávit objetivo de 2000 soles como cap
+Como capital semilla ahora así se estaría viendo la ruta de talleres, no sientes ahí, por favor
+Así se estaría viendo la ruta de talleres en marzo tendríamos el módulo 1 que se llama ese programa se llama que trataría sobre desarrollo web con agentes de IA que cierra con una cachimbo y bueno, en abril tendríamos un módulo 2
+que hay una serie de inteligencia artificial con que cerraría con la competencia de Kager en mayo, el torneo by Coding, que básicamente es una de ocho horas en el open y bueno, en junio tendríamos el módulo 3 que viene a ser este unos talleres de Google Cloud con una
+Como una premiacion y en julio tendriamos una internacional de veinticuatro horas en Perú. En total vienen a hacer este 21 sesiones prácticas de dos horas y cuatro competencias escalonadas.
+Continuo, compañero
+AVILA MAMANI , ENZO ANDRE
+12:10:55
+Okay, fases
+Siendo lo primero lo de preparación, lo cual básicamente donde nos encontramos ahora, el periodo es de septiembre a febrero, en donde comenzamos por el plan de la dirección del proyecto, que incluye el cronograma, presupuesto, toda la planificación.
+Luego el siguiente entregable sería el plan logístico y los plazos confirmados, los acuerdos de patrocinio confirmados
+El programa y re de expertos, confirmada
+Es decir, saber exactamente qué va a tener cada sesiones
+La plataforma web y la campaña de difusión para todo el evento, luego ya durante la fase de ejecución, comenzaremos en marzo de 2027 con el primer modulo de hack with DSC. Esto básicamente estos módulos se refieren básicamente a los eventos que constituyen los distintos talleres de donde se van
+enfatizando en temas de IA WorldCloud, etcétera
+machine learning, siguiente la hackathon de 8 horas como ya también llamada el torneo de
+que se realizaría en nombre la hackaton
+De 24 horas sería tentativamente internacional, el siguiente entrega el reporte de seguimiento de todo, bueno, básicamente de todos los asistentes
+la asistencia la decepción la satisfacción mediante indicadores NPS y demás y luego llegaremos a la fase de cierre
+En agosto de 2017 que básicamente que el primer regalo sería el informe final de todos los resultados, es decir, todas esas métricas que ya se obtuvieron en base a
+La ejecución, por ejemplo, métricas de que ya comienza a mencionar sugerencias, quejas, reclamos
+y ya finalmente el plan de continuidad es ser administrativo en base a la sugerencias que nos brindaron, saber que podemos hacer, qué tendencias con las que más se
+Más captaron la atención de los inscritos y para ello genera nuevos eventos
+La siguiente
+Yeah, bueno, como les interesaba, encontramos el equipo organizador con la presidencia del patrocinador, la gerencia de proyecto, que es actualmente Lucas Salvitas.
+El equipo 5 que somos todos nosotros encargamos más que nada de la fase de planificación y un poco de apoyo en la parte del cierre
+La logística y eventos, el marketing y con, y con humanidad, las relaciones exteriores.
+financia realidad todo lo que se necesita en primera instancia como para que funcione de nuestra parte. Luego ya aliados y espacios, básicamente la la da es para que nos permita el acceso de alumnos que no sean de la católica
+El pabellón web que básicamente donde se referían algunas cacatones, laboratorios servidores, el open book para eventos, ya algunas ponencias que se puedan dar con respecto al
+Los catalanes otros eventos entity data por comunidad estratégico para también poder realizar algunas vacaciones en su sede y bueno la fácil para apoyarnos en todo lo que viene la logística como tal.
+Y aquí nos queremos buscar, queremos buscar a estudiantes entre primero y sexo ciclo, ya que son los que queremos formar, pero también es un poco más intensos
+necesitaremos apoyo de speakers, mentores, jurados Y voluntarios de la misma comunidad de Scc
+Siguiendo, por favor.
+El trabajo, bueno, estamos dividiéndolo en unas 5 fases en base a los entregables
+en los cuales se han dividido al primer inicio, ¿no? Es que en el acta preliminar, etcétera, la planificación, otros 9
+9 que incluyen el pan integrador, el cronograma, los contenidos que van a incluir en cada evento, el alcance, costos, etcétera, y ya lo que sí nos va a tomar mucho más tiempo, y es lo que más o menos nos vamos a dedicar más de la parte de ejecución
+Que ya es como se divide en diferentes paquetes, ¿no? Paquetes contenedores, paquetes transversales, paquetes de la gente que va a hacer cada taller
+Y bueno, claro, los paquetes de cómo va a funcionar la competencia como tal
+Andrés de cambios, el informe de control de este evento, el registro de riesgos actualizado
+Y ya finalmente el cierre otros 6 entregables que ya son todo lo que viene con informes soltados, análisis, sirve de activos y demás, y sugerencias.
+Siguiente
+Yeah, con respecto a la fase de ejecución, que es lo que dijimos que más o menos nos vamos a enfocar entre unos paquetes tenemos el paquete de patrocinios, adquisiciones, que son todos los contratos con sponsors y compra del
+Del, del merchandising, todo lo que se va a vender, la publicidad de difusión tambien, saber qué piezas gráficas y los informes de campaña que debemos tomar en cuenta para revisar toda la publicidad
+AVILA MAMANI , ENZO ANDRE
+12:16:02
+Y bueno.
+También otros 7 eventos, ¿no? El que viene a ser por cada
+Por cada, por cada módulo que dijimos, por cada machine learning models que deberían que se dividen entre talleres, competencias
+Y bueno, cada evento, como dice, es una cuenta de control a nivel, el nivel que es, a que se estima el costo y se mide el desempeño.
+Gandy Zinanyuca
+12:16:31
+Ahora voy a explicar el programa general, el cual comienza el 4 de septiembre de 2026 hasta el 20 de agosto de 2027. Este contempla cinco fases, el inicio, planificación, ejecución, control y cierre, y pues en total estamos tomando en cuenta alrededor de 208 actividades programadas.
+La fase de inicio comienza con la definición del acta de constitución y el alcance del proyecto. A partir de ello se comienza la planificación, por eso parece que estan iniciando paralelos para realidad. Se espera primero la definición bien de lo que es el proyecto y el alcance. Después tenemos la parte de la ejecucion
+que comienzan más o menos por octubre, porque diariamente se va actualizándose
+Se va actualizándose el plan de gestión del cáncer, así como también otros planes transversales de el proyecto. Después de ello, tenemos el control que, pues, se tome en cuenta un registro semanal de riesgos y un informe de control por evento. Por eso es que
+Comienza desde octubre y termina en agosto, y finalmente tenemos el cierre, que también cuenta algunos entregables como el informe final de resultados por evento, así como tambien la sugerencia de mejoras para el siguiente semestre.
+Siguiente, por favor
+De entre los más importantes, tenemos el de la planificacion que se lleva el 22 de enero de 2027, con los acuerdos de patrocinio firmados. Estos
+Es muy importante porque nos da a conocer la decisión financiera, así como tambien tenemos el hito numero quince de la ejecucion, que ya contempla nuestro habathon internacional del 24 horas, el cual es nuestro evento cumbre, el mas grande y el que tambien tiene mayor duracion.
+Siguiente
+A través de esta matriz de probabilidad e impacto tenemos algunos riesgos prioritarios. Estos son tres. El primero es no alcanzar la meta de auspicios, esto es debido a que algunas empresas cierran caja entre noviembre y diciembre. Tenemos a riesgo numero tres.
+que el calendario 20271 pues es distinto al propuesto, esto debido a que no tenemos un calendario oficial, por lo que se pueden reprogramar algunas actividades y la deserción del staff voluntario, que pues por picos
+de carga de horario por diferentes motivos, ya sea académicos o personales, podrían desertar, ser parte del equipo.
+Siguiente
+Y pues bueno, aquí también tenemos criterios de éxito
+final pues despliegue un producto, y esto sea funcional y que funcione en nube.
+tenemos la satisfacción del más de 60% de más de 60 de net promoter score en las encuestas de talleres y competencias, eso ya tiene que ver con la satisfacción de los participantes. El cien por cien de las finanzas que se logre, si es que es posible, la meta de hospicios, y tambien con un superávit de cierre
+tenemos el criterio de éxito de voluntariado, retener en más del 85% de la retención de staff durante los 5 meses y las alianzas, obtener más del 50% de los sponsors, los cuales tienen intención de renovación en su patrocinio.
+Siguiente pp
+LUCAS MATTIAS ALVITES GALARZA
+12:19:47
+Bueno, ahora yo les voy a comentar un poco sobre la parte del presupuesto
+Si me logra escuchar bien
+todos los gastos son, bueno, los gastos de personal o voluntarios son 0 justamente porque trabajamos con voluntarios, ese es un proyecto de estudiantes para estudiantes
+Gandy Zinanyuca
+12:20:00
+Sí,
+Pierre Gilbert Roncal Robladillo
+12:20:01
+Sí,
+LUCAS MATTIAS ALVITES GALARZA
+12:20:15
+Por lo que se hacen convocatorias en las que ingresan voluntarios o los espacios también son cedidos, no como, por ejemplo el open book, el pabellón V o la sede de identidad son espacios para hacer cedidos de forma voluntaria. Asimismo, otros herramientas queremos usarse durante el hackathon, como créditos de GCP, o sea, Google Cloud o licencias, tambien son estudiantiles o son dadas para
+voluntarios.
+Ahora encontramos los monetarios, se ve, es realmente todo el gasto del proyecto de $4,520 soles en los cuales se van distribuidos en alimentación, materiales, más que nada merchandising como polos, premios para los ganadores de la hackathones y servicios como puede ser, por ejemplo, a lo mejor internet para algunos participantes
+Y ya, ahora en cuanto al resumen del presupuesto, como vemos, el presupuesto consta de $4,000, y hemos considerado $1,160 soles de contingencia, por lo cual nos daría una linea base de 15,880 soles
+Esta línea de base de 1580 soles, hemos decidido añadir un 5% de reserva gestión, para lo cual el costo final del proyecto terminaría en 16,464 soles
+Bueno, no me considero nada de IGB más que nada porque no ya está incluido dentro de los costos de todos los
+todos los considera un apartado extra
+Y, y si
+Bueno, ahora sobre el costo por entregable, podemos ver que lo primero que da a resaltar esta gráfica es que las data internacional de 24 horas es la que más costo tiene. Es justamente por su larga duración y por la gran cantidad de materiales que se van a necesitar. Podemos ver que desde la parte uno hasta la parte dos, que son etapas previas, más que nada en patrocinios.
+estudiantes y dentro de, de la universidad
+Y ya ahora sobre el costo por tipo, como ya menciona previamente, el 58% de los gastos se van a alimentación, es decir, a que hay que tener que se podrían dar dentro de las ratones. Por ejemplo, para las ratones de 24 horas pizzas, copyrights
+O bocaditos para que, bueno, como su de la duración los integrantes no pasen hambre.
+Asimismo, esta vez se considera un gran costo en la parte de materiales Y merchandising como polos para los jurados, polos para participantes y premios para los ganadores de los ratones.
+Y bueno, acá vamos a poder tener un poco de forma rápida la cuenta de control que tenemos identificada, que es la parte, como ya mencionó previamente, en la parte de catering en pixas y refrescos, se estima algo de 4000 soles. En el tema de premios, el ganador se ha designado que sería el quinto soles, el segundo premio
+Puesto 300 el celular 200 así sumando mensuales en premios y tambien en snacks, bebidas que es aparte del catering se suman otros quintos soles y entre diversos gastos del saldo de $6,590 soles, es decir, el 45% del costo del proyecto.
+Ahora sobre la reserva contingencia, primero que nada, hemos identificado los riesgos como también se muestra, por lo tanto, se ha considerado un router 4G y un plan de datos de respaldo, que es con un costo de $250 aproximadamente. También digamos que se
+cancele o haya un problema con la sede se ha considerado el traslado del personal a otras sedes por los otros soles también, digamos que se pierden piezas o se necesita más publicidad, se considera un costo adicional. También para asistentes adicionales, es decir, por si
+Residuos más participantes de los que se hayan planificado se ha considerado 20 asistentes adicionales y tambien snacks para esos asistentes
+Y finalmente un poco sobre el esfuerzo por recursos humanos, primero que nada, los voluntarios son los que más van a dar esfuerzo en esta sección. Si vemos realmente se les otorga un
+Un gran reconocimiento y la gran experiencia de participaciones, así como el equipo de CC se encarga de regresar los certificados oficiales firmados por el presidente, por el gerente y por el proyecto.
+Se estiman 5,822 horas persona entre aproximadamente casi 50, 60 voluntarios en todas las hacktonas
+CHAMORRO CAYETANO, JORGE JOSUE
+12:24:38
+Y ahora yo retomo con estupe de caja de enero, agosto de dos mil veintisiete, que muestra cuando entre y cuándo sale el dinero, los ingresos sumaría unos 18500 soles y, bueno, 300 soles de una capital semilla blindado por la misma directiva de
+y un dieciocho mil doscientos de auspicios con patrocinadores y sponsors
+Este, los egresos sumarían unos catorce mil quinientos veinte soles, por lo que el saldo acumulado se estaría cerrando este de tres mil novecientos ochenta soles en julio es el mes de mayor regreso porque bueno son 6,670 soles con la hackathon de 24 horas
+Marzo, mayo y julio cierran con un saldo mensual negativo, pero el acumulado nunca baja de 240 soles.
+Porque bueno nos estaría comprando nada ante antes de recibir los fondos. Con esto paso a mi siguiente compañera
+Gandy Zinanyuca
+12:25:33
+Bien, en total se contemplan dieciocho mil quinientos soles con 14520 de egresos con un saldo acumulado de $3980
+Y pues, de acuerdo a nuestros cálculos, el julio es el mes con mayor egreso debido a la hackaton internacional, como anteriormente lo mencionamos, es nuestro evento mas grande y nuestro evento cumbre.
+Siguiente, por favor
+AVILA MAMANI , ENZO ANDRE
+12:25:57
+Okay, same cada evento, por ejemplo, en febrero.
+la orden de compra de merchandising 30 días antes del módulo uno o en abril también antes del torneo de Vice Coding en junio un mes antes de la 24 horas y ya todo dando un total de 240 salas de un saldo acumulado mínimo en el periodo.
+prácticamente nosotros financiamos para ello para cada evento y se ve todo bien
+Muchas gracias
+Pierre Gilbert Roncal Robladillo
+12:26:31
+Muchas gracias, equipo
+Ehm
+En términos generales está bastante bueno el análisis que ustedes han hecho
+En general no tengo un feedback al presupuesto
+Que han presente
+Que han presentado
+Así que por ese lado está, digamos, bastante completo
+Creo que también las notas han sido de menos a súper más, ¿no? a lo largo
+Digamos de los avances
+sigue por esa parte está bien
+Me voy a concentrar en una parte que no nos toca hasta ahora y es con respecto a la presentacion.
+y esto digamos más allá de lo que
+Es como, es algo que está mal, ¿no? Pero es algo que hay que tenerlo en cuenta, sobre todo porque
+Es una herramienta que nosotros tenemos a nuestra disposición, entonces
+Dependiendo la, el foro en el que ustedes estén
+Esta observación podría estar más o menos presente.
+Hoy no está tan presente porque no es un poco el foco, pero en otras situaciones podría estar.
+Entonces, por ejemplo, aquí en cada lámina que ustedes van presentando, si van retrocediendo, al pie de página aparece en teoría el número del integrante que va exponiendo, ¿no?
+Pero eso
+No es bueno.
+No tendría por qué verse en teoría, ¿no?
+Y no es algo como tan natural, ¿no? De, de colocar
+Ehh
+Luego, bueno, el término de especie se puede entender, sí, o sea, no.
+Si ustedes lo entienden, está bien, si el foro que lo, que al que están presentando también se entiende, está bueno
+Y si no también podrían elegir
+Un término que es un sinónimo para que todo se puede entender, pero sí está claro para todos, entonces está bueno, solamente como nunca mencionamos nosotros especies
+Podría para algunos compañeros resultar algo nuevo
+El feedback en todo caso es que todos los términos siempre sean
+pensados en que todo el mundo lo entiende, o al menos los asistentes al foro lo entiende, ¿no?
+Entonces, en general, bueno, a nivel de trabajo está, está perfecto, o sea, en verdad está súper bueno, está bastante completo
+Y en términos de la presentación también, entonces lo que yo, la reflexión que haría yo es la siguiente, o sea, está bueno que nosotros hoy en día, porque de hecho todos lo utilizamos, que tengamos ese plus de poder
+E
+Mejorar nuestras presentaciones, ¿no? Con diversos tipos de herramientas con las que podemos interactuar
+Pero sobre esas mejoras hay que tratar de retirar las cosas que no nos parecen tan naturales, ¿no? Por ejemplo, aqui
+Este término de los integrantes en los primeros dos o tres equipos si era más parecido porque el nombre estaba en la parte superior y siempre iba el mismo, no el mismo
+El mismo formato arriba, si también se dan cuenta, hay ciertas cosas que se van repitiendo en todos, como por ejemplo eso de poner un subtítulo pequeño arriba y una letra más grande abajo
+Es a lo que va cambiando en los equipos, pero el formato finalmente termina siendo lo mismo, de poner una frase así en letras más grandes
+Que si le suma está bien y si no también es, es este, podría ser como para que ustedes evalúen siempre poder prescindir cierta información. Conclusión
+Que ustedes reciban digamos el formato, está bueno y sobre eso hay que siempre
+Eliminará lo que ustedes no les suene, si no les suene, no les parece natural, mejor eliminarlo
+para que no, para que se note siempre algo distinto porque si no, sí se va, si al momento de contrastar todos se comienzan a ver elementos en común, entonces
+No es, pues, una conclusión natural, ¿no? Porque si se comienza a repetir el patrón
+Eso sería como
+Como a lo general, pero nada más, todo está check equipo número cinco, muchas felicitaciones.
+Ahora vamos con el número 3,
+CHAMORRO CAYETANO, JORGE JOSUE
+12:31:13
+Gracias
+Pierre Gilbert Roncal Robladillo
+12:31:15
+¿Qué formato nos va a traer el número 3? A ver, vamos a ver el número 3
+FARJE SANTILLAN, RENZO VALENTINO
+12:31:18
+Para usar, voy a compartir pantalla.
+Pierre Gilbert Roncal Robladillo
+12:31:21
+Adelante.
+FARJE SANTILLAN, RENZO VALENTINO
+12:31:46
+Se logra ver profe.
+Pierre Gilbert Roncal Robladillo
+12:31:48
+Mhm sí,
+FARJE SANTILLAN, RENZO VALENTINO
+12:31:50
+You
+Pierre Gilbert Roncal Robladillo
+12:31:51
+equipo 3 adelante
+BRAULIO SEBASTIAN LINGAN BUSTAMANTE
+12:31:54
+Ya vamos a comenzar. Buenos días, profesor y compañeros, somos el equipo 3 y, en este caso estamos encargados de mostrarles el proyecto Trevo Apartments, el cual es un edificio multifamiliar ubicado en Barranco, que esta a cargo de la constructora, líder Grupo Constructor.
+En los siguientes minutos vamos a desarrollar todos los integrables realizados hasta la fecha, entre los cuales encontramos el acta de constitución, la E DT, el cronograma y el presupuesto.
+Siguiente.
+porque el porqué del proyecto, este proyecto nace de una necesidad de negocio de la empresa donde se busca desarrollar una oferta inmobiliaria de alta densidad en Barranco, a su vez, aprovechando la demanda existente que hay de viviendas eficientes y sostenibles
+A través del programa Mi Vivienda Verde
+En numeros podemos hablar de un edificio de 13 pisos más azotea y tres sótanos, el cual está levantado sobre un lote de 1160 metros cuadrados
+Contando con ciento cincuenta y dos departamentos de uno a dos dormitorios cada uno y con un con un área de treinta y ocho 114 metros cuadrados
+Además, este edificio busca obtener la certificación edge del IFC del Banco Mundial
+Que solicita
+contar con un ahorro mínimo del 20% de agua y energía, esto generó un aumento en el valor de los departamentos y también le permite a los compradores que accedan al bono verde
+Siguiente, por favor
+Acerca del alcance debido a la profundidad de estos 3 sótanos y a la presencia de los vecinos colindantes al proyecto
+este proyecto inicia con un sistema de sostenimiento de cómo muros anclados, la excavación masiva y calzadoras en los linderos sensibles
+Luego se da paso a la estructura de concreto armado iniciando con la losa de cimentación los sótanos y, finalmente, el casco de 13 pisos.
+Luego de esto, posteriormente inicia la arquitectura y los acabados de los 152 departamentos junto con las áreas comunes para finalmente y en paralelo los acabados, realizar los entregables de gestión como el plan de seguridad y salud en el trabajo
+La certificación Edge y el expediente de liquidación con los planos A S built, le doy paso a mi compañero Edison
+POLO CRUZ, EDINSON JOSE
+12:34:31
+Departamentos, que ten
+Ademas esta
+que en este
+Para
+important
+constructor, como patreac
+Ente dia
+Y por el otro comont a llar mechan
+Las unos horarios municipales que restring debido al ruido y la car la puesada.
+que tenemos
+materiales, y pedia derencia
+durales.
+Avara
+RODRIGUEZ CANO, LUIS GUILLERMO
+12:36:41
+Okay nosotros lo dividimos en 2 grupos principales. Por un lado está el grupo de entregables de gestión del proyecto y, por otro lado, el grupo de entregables de construcción del proyecto. El primero de estos, el grupo de gestion, está clasificado o dividido en función de las etapas del ciclo de vida del proyecto.
+Por eso es que se pueden observar por ejemplo la fase de inicio, la de planificación, la de ejecución de control, y por último la fase de cierre de gestión. Ejemplificando en el EET de la diapositiva se pueden ver, por ejemplo, actividades como el acta de constitución.
+Conograma costos y navas en el alcance y para finalizar obviamente el tema del acta de cierre administrativo con relación al segundo grupo al entrar de construcción, pues en esta ocasión estan divididos, pero en términos de las etapas del proceso de construcción.
+Por eso es que se ven, por ejemplo, horas preliminares, su estructura, superestructura, arquitectura y acabados, áreas comunes, instalaciones técnicas y, para acabar, el tema de cierre técnico y conforme, la conformidad de la municipalidad.
+y la entrega a los clientes, todo esto es un total de 11 entregables de nivel 2, 47 nivel 3 y 75 nivel 4, que no se ven en la diapositiva porque preferimos un poco el entendimiento visual a aglomerar de paquetes y que, por tanto.
+por letra, pues, no se pueda entender del todo, gente positiva.
+Bueno, haciendo énfasis en este último entregable, en este último nivel, digo, nivel 4, pues, este, nos percatamos que era necesario añadirlo porque en un inicio no estaba en el nivel 4, en que era necesario, pues, este, mencionar de forma un poco más realista como eras que se ejecutaba la obra
+Ejemplificando esto, tenemos el caso de los muros anclados, que no serán un entregable sin más, pero ahora lo hemos dividido en justamente lo que se observa. Por un lado esta la parte de ingenieria de detalle, con ensayos previos y movilizacion. Luego esta, pues es el tema de
+La ejecución de los anillos en cada uno de los sectores siguiendo un proceso de punto uno, perforación y dirección de lechada, punto dos, curado de la misma y punto 3, tensado y bloqueo de anclaje y para finalizar con un tema de control de calidad y recepción.
+Todo eso está coordinado con el punto de la excavación, ya que mientras un sector se excava, el anterior se está ancla, de modo que la obra jamás se detiene y los vecinos que estan protegidos en todo momento.
+Ahora les doy la palabra a mi compañero Sergio
+Sergio Torres
+12:39:13
+Muchas gracias, tenga una duración aproximada de 2 años y medio teniendo el inicio desde primero de agosto de 205
+hasta el 28 de enero de 2028
+Eso tomando en cuenta que el inicio de la obra se daría el desde agosto de 2016
+Uh, durante todo durante la elaboración de este proyecto se tiene con el 218 actividades y bueno, comenzando con las fases, esas se dividen en 5, comenzando con el inicio que vendría a ser desde primero de agosto primero de agosto de 2005 hasta el 24 de
+De noviembre del mismo año en el cual se aprueba tanto lo que es el acta de construcción como la viabilidad del proyecto de ahí se pasa a la planificación de la etapa de planificación que tiene una educación de noviembre
+la gestión de recursos de la gestión de los recursos del proyecto.
+Así como, este, así como los trámites de licencias, principalmente la que la licencia de la para edificación
+Una vez, este.
+Uh, una vez terminado con la, con la etapa de planificación, se pasa directamente a la ejecución como tal que tendría una duración desde desde agosto de 2016 hasta el 20 de
+20 de septiembre de 2017 una versión de un año
+En esta, en esta etapa precisamente que se comienza con lo que ya sacó lo que son las obras, este, o sea, como la elaboración de la suestructura del edificio en la cual la cual la excavación para poder, para poder el sótano y
+Y también la, la construcción de, la construcción de los cascos de los tres pisos
+De forma paralela, de forma paralela a la ejecución se contempla la etapa de, este, de monitoreo y control en el cual se evalúa la, este, se evalúa parte de la base de proyecto, principalmente lo que es la parte de la obra y, por último, se tiene el cierre en el cual se
+Se presenta allá lo que es el, lo que es el informe el informe con los resultados y también se obtiene las certificaciones internacionales
+Y bueno, y pasamos al siguiente diapositiva.
+y los y los demás
+Son referentes a la obra, destacamos principalmente los que son referentes referentes a las obras, a la obra debido a que es dentro de esta etapa de la etapa de ejecución se encuentra la secuencia
+críticas del proyecto de vida y destaco la parte estructura ya que si
+Si no se puede realizar bien bien los anclajes, eso atrasa, lo atrasa el periodo de inicio de las, este, de la excavación
+Y sin esa no, y, y sin es, y así sucesivamente impidiendo que el proyecto se ejecute de manera
+eficiente dentro del tiempo que hemos establecido
+Ahora le paso a mi compañero Lorenzo para que les explique la parte
+FARJE SANTILLAN, RENZO VALENTINO
+12:42:46
+Ben Sergio.
+Bueno, entonces
+El presupuesto que construimos de abajo hacia arriba a partir del cronograma, cada recurso asignado a una actividad se multiplicó por su tarifa y por el tiempo que toma a realizar esa tarea y lo organizamos en 16, 16 partidas
+los 4 rubros del acta que son sostenimiento y movimiento de tierras, estructuras, arquitectura e instalaciones y gestión combinados con los 4 tipos de insumo, mano de obra, materiales, maquinaria y servicio de terceros.
+El costo directo suma 24,56 millones de soles, encima agregamos una reserva de contingencia del 7% para los riesgos que ya identificamos, como los que mencionaron mis compañeros anteriores, como era los
+los, las casas colindantes, el suelo o el precio del acero
+Y eso nos da una linea base de costo de veintiséis punto veintiocho millones de soles. Después sumamos una reserva de gestión del 5% para para imprevistos que sólo se usan con la aprobación del fielcomiso
+Y llegamos a un presupuesto de 27,59 millones de soles dentro del tope que es $27.6 millones del acta
+La partida más grande es estructuras con 11,2 millones porque consciente al concreto el acero por tipo de insumo los materiales representan más de la mitad del costo directo
+Great.
+Yeah, bueno, el flujo de caja, el flujo de carga donde representamos la curva S con la gráfica de costos acumulados a lo largo del proyecto.
+Repartimos cada costo en meses en que ocurren sus actividades durante la planificación se gasta poco, unos 100, 100,000 soles al mes en un periodo desde agosto de 2025 a julio de 2026.
+Desde agosto de 2026 el gasto sube a más de $1000 mensual y queda en su pico en agosto de 2027
+con cerca de 2.8 millones cuando coinciden el casco y los acabados
+esa forma, esa forma, la curva es, lo finalizamos con un aporte inicial de capital y desembolso del fideicomiso según el avance y la finalidad, el saldo de caja coincide con las reservas
+Bueno, para cerrar, Atrio Apartments tiene un alcance claro, un Edite que baja hasta donde se ejecuta la obra, un cronograma con 218 actividades programadas y un presupuesto controlado de $27.6 millones.
+Muchas gracias.
+Pierre Gilbert Roncal Robladillo
+12:45:50
+equipo, muchas gracias
+En general, creo que también
+Sí, han tenido una recuperación con respecto al cronograma
+De hecho no era objeto de la revisión, pero si esta mucho más detallado que antes, ¿no?
+E
+Y creo que en general algo que podría igual lo van a recibir
+por por
+pa y bella
+Pero entiendo que la única fuente de ingreso de la obra es la del fideicomiso, ¿no? que mencionan
+No hay algo
+E
+No hay otro préstamo de repente llega en el banco o
+O de repente no hay ventas de departamentos
+Durante la de ejecución, quizás de repente al final, de repente hay ventas, que
+Que quizás puedan ser ingresos también para que lo revisen o si no bueno
+Series a la única fuente de financiamiento que tiene el proyecto
+E
+Lo último sería la misma observación de todos y hay que ver que cuadrar siempre lo de los recursos
+Para ver que efectivamente
+tengan esa trazabilidad no de recursos, tiempo, costo y, finalmente, con eso sale el total
+Pero creo que está bastante mejor que el entregarle anterior, ¿no? que presentaron del cronograma
+Y eso sería.
+en el este caso en su PPT también tener cuidado ahí la siguiente lámina de parece una palabra muy extraña
+No me, no me acuerdo cuál es, pero tiene, dice una más
+Eso de la ET baja a cómo se ejecuta esa cómo se entiende
+RODRIGUEZ CANO, LUIS GUILLERMO
+12:48:04
+O sea, se refiere a que este no está incluido en la gráfica, pues no, pero originalmente sí está en el, en el, este, en la ET, digamos, enlistada
+Se refiere a que este, o sea, la, lo, los entregables posteriores van, este, bajando en función este al, al procedimiento que se lleva a cabo dentro de la hora
+That
+Pierre Gilbert Roncal Robladillo
+12:48:40
+Ya está en el equipo número 3, muchas gracias
+Y ahora finalmente casi en tiempo, equipo 7
+Ya nos quedan a mí, estoy bien, compañeros
+Seguramente está nuestro delegado conectado
+I
+Y hasta equipo 7
+Idelante y con ustedes cerramos
+CUYO ALATA, JAFETH MANASES
+12:49:16
+Buenas tardes, profesor y compañeros, en esta oportunidad, mi equipo y yo vamos a exponer nuestro proyecto de gestión que consta de una gestión anual de la semana de ingeniería para la mesa en este caso, la de Ingeniería industrial.
+Siguiente, por favor
+Para ello, primero vamos a hablarles sobre el acta de constitución. Siguiente por
+Bueno, primero, antes que todo, tenemos que comprender la problemática que conlleva esto, la cada vez que una MD toma el puesto de gestión
+Tiene que, muchas veces tiene que comenzar de cero, ya que el proyecto desde estos proyectos que, por ejemplo, de semana en ingeniería conlleva no sólo una preparación solamente de 2 semanas, que son ya en la ejecución, sino que se contempla desde el inicio del ano, desde el comienzo de la gestión
+Pierre Gilbert Roncal Robladillo
+12:50:06
+Y
+CUYO ALATA, JAFETH MANASES
+12:50:16
+de la M D
+tienen que hacer toda una serie de actividades para recaudar fondos, planificar integraciones, etcétera.
+Es por ello que muchas veces esta información se pierde cada vez que una nueva MD sube a la gestión
+Y para ello nosotros vemos una oportunidad en el cual podemos mejorar ello
+Ya que proponemos un plan de gestión general en el cual cada MD puede registrar todas sus actividades tanto las monetarias o las actividades que se realizaron, cuáles funcionaron, cuáles no, cuáles son los proveedores a los que contactaron, ¿no?
+Y los auspiciadores, entre ellos que les ayude a gestionar de una mejor manera todo este proyecto. Asimismo que la integral integración de la comunidad, generación de fondos, todo eso debe estar incluido en un mismo cronograma. Siguiente, por favor.
+Bueno, para ello, a grandes rasgos, nuestros principales entregables sería, por un lado, de gestión, el plan maestro anual, que incluye todas las actividades con los hitos y los objetivos que se busca alcanzar
+con una vez acabadas estas, la base de responsables para, para distinguir la, el material de responsabilidades plan de comunidad e integración
+con los egresados que quieran participar o con los nuevos cachimos, ¿no? que suban a facultad, asimismo, el informe de cierre o lecciones aprendidas
+Por un lado de presupuesto
+tenemos el balance general, el destinado de fondos, en qué actividad se está destinando más fondos y cuáles son los fuentes de ingreso
+Y bueno, y que este modelo sea replicable, ¿no? Por las siguientes MDS. siguiente, por favor.
+Bueno, el cronograma de grandes rasgos, nosotros lo dividimos en 5 fases, el cual va desde enero, como se puede ver aquí, hasta noviembre, el cierre con la culminación de semana de ingeniería. Los principales interesados en
+Ese proyecto sería no solo los estudiantes, la M D, los profesores, los egresados que quieran participar, sino que exteriormente también se tienen los proveedores de marchaidad merchandising o, bueno.
+the insumos como snacks, ¿no? Y también los auspiciadores a los que se les contactaron. Siguiente, por favor
+Y bueno, para esto nosotros definimos ciertas premisas que debemos acatar y también posibles riesgos. Como premisa, tenemos que la capacidad de la convocatoria por esperamos una convocatoria amplia, ya que hay una gran cantidad de estudiantes en
+The Canadian state, así que esperamos un apoyo, pero tambien tenemos que restringirnos en ciertos aspectos. Muchas veces ellos tienen peces que lo practicas que pueden impedir un poco en que participen de ciertas actividades. Asimismo, tenemos que considerar los procesos de la universidad
+Para que pueden dificultar ciertas actividades, por ejemplo, el de reservar un espacio
+Y bueno.
+Como principales riesgos, tenemos que la faja recaudación, que conlleva la baja participación
+Asimismo, sobrecarga de actividades para los responsables.
+Y también que muchas veces las fechas se vaya, se vayan cambiando a lo largo del transcurso del ano o a última hora
+Y para considerar que nuestro proyecto se llevó a cabo correctamente, definimos que el 90% de los compromisos deben llevarse a cabo, ¿no? Y que el balance general debe ser positivo, no queremos dejar con deudas a la siguiente mesa directiva
+Y bueno, la transferencia formal de los documentos y las acciones aprendidas
+Todo ello pasó a mi compañero
+OSCAR LAU LU
+12:54:15
+Yeah, pasamos con la parte del EDT
+tenemos las 5 fases de la gestión y hemos definido 25 entregables y 76 actividades
+En la primera parte tenemos el inicio donde aquí formalizamos todas las partes del proyecto, tenemos 4 entregables principales que, en primer lugar, tenemos el acta de constitución, donde definimos el propósito, los objetivos, beneficios, identificamos
+Los supuestos restricciones y riesgos iniciales
+como meses no mi compañero anteriormente, también tenemos el registro de interesados donde identificamos a los internos y externos y analizamos su influencia. Luego tenemos el equipo y la gobernanza, donde asignamos los roles
+Los niveles de decisión, escalamiento
+And acordamos los canales de comunicación y luego tenemos el alcance preliminar, que es el cuarto
+Donde delimitamos los entregables y excluir y exclusiones y fijamos los criterios de aceptación con ADN y con el equipo siguiente
+I
+Seguimos con la parte 2 que es la etapa de planificación que tiene 8 entregables y 24 actividades
+Empieza con el plan de gestión del proyecto que ya ha sido aprobado, que integra el alcance, el cronograma de costos y la calidad
+Junto con la gestión de riesgos, comunicaciones y cambios. Luego tenemos el cronograma maestro, que es el 1.22
+Donde aquí se comenzamos las actividades e hitos
+y recursos y duraciones y costos, luego tenemos un plan para cada frente del proyecto, por ejemplo, tenemos el plan de comunidad de integración con las bienvenidas, integraciones, encuentros
+de egresados, etcétera, luego tenemos plan de financiamiento y merchandising con las metas de recaudación, líneas de productos, inventarios, precios, etcétera. Siguiente.
+No tenemos el plan de auspicios y alianzas donde tenemos el paquete de auspicios
+aliados prioritarios, contraprestaciones, etcétera, el plan de comunicaciones
+donde tenemos nuestra identidad visual del calendario de contenidos, métricas de alcance
+El, luego tenemos el programa académico y deportivo donde definimos las actividades delegaciones y la preparación de las mismas, y finalmente, el plan logistico y operativo, donde tenemos las inscripciones, acreditaciones, transporte, alimentacion, protocolos, etc.
+To
+FABIAN TEOBALDO DIAZ MEO?O
+12:57:16
+Para los meses de ejecución sean bueno para esta fase ya se llevan a cabo todo lo que se ha planeado en el anterior, en la anterior fase en los diferentes frentes, en comunidad e integración, se realizan las actividades con recién egresados
+Se ejecutan los viernes del diablo, que son viernes de integración, donde, bueno, se junta
+Los alumnos de ingeniería industrial y se les presentan proyectos, una integración bastante bonita, se desarrollan encuentros con egresados y
+y se consolidan las bases de participación de voluntarios por el lado de financiamiento, se ejecutan las actividades de recaudación, se produce y distribuye línea de merchandising
+Y se actualiza las ventas e inventarios
+Y en esos
+En el lado de gestión de auspicios y alianzas se contacta con y negocia con los aliados que pueda tener para este evento. Se formalizan los acuerdos
+contratos formales en cierto punto y se ejecutan acciones y contraprestaciones
+Por la parte de comunicación se empieza a producir las piezas gráficas y se aplican en los medios oficiales
+ese difundan las acciones de la comunidad, las acciones tanto para la comunidad como para los patrocinadores o aliados
+Tres frentes más preparación académica y deportiva se conforman los grupos
+deportivos se ejecutan entrenamientos, ensayos y preparaciones, y se confirman los requerimientos de participación de las agrupaciones
+Posteriormente en paralelo la logística confirma las inscripciones, esto más es para los asistentes
+No tanto por los deportistas, sino los que van a estar ahí presentes, se adquieren indumentaria y materiales y se coordina con los proveedores de alimentacion, hidratación y transporte. Finalmente, para esta etapa se ejecuta ya la participación de la semana de ingenieria, se explica el programa
+que se ha establecido, se coordina con los responsables y se registran los resultados evidencias de patrocinio, aunque esto más hace formalmente en la siguiente fase de seguimiento y control en seguimiento en control se miden los alcances, los alcances, si se
+Los costos, los riesgos
+Se gestionan las solicitudes de cambio de acción en caso hay algún, este, imprevisto y se actualizan los registros y se reportan los estados del proyecto. Esto se hace tambien de forma paralelo, transversal.
+con las demás fases
+Las fases que sí se realiza necesariamente al final es el cierre
+El informe final de resultados aprobado se consolida en las indicaciones, resultados, evidencias
+Si comparan los resultados finales con los objetivos planeados al inicio y se presenta para obtener la aprobación del informe
+Por el lado financiero se consolidan los ingresos, gastos e inventarios, se ahorran los pagos y se emite el balance financiero final
+En los compromisos con los aliados se verifica el cumplimiento de las contraprestaciones, se entregan los reportes y los agradecimientos pertinentes, y se cierra el programa de concursos.
+Para el registro de elecciones aprendidas, bueno, se recopilan las experiencias en distintas entrevistas a los participantes, se crea una documentación en base a eso de buenas prácticas y oportunidades de mejora
+esa valida las recomendaciones para una siguiente gestión, para la siguiente mes
+En el expediente de transferencia, ya pasando a la siguiente mesa, se ordenaría los archivos de datos y documentaciones que se hayan hecho a lo largo de del proceso
+Se transfieren los accesos, la certificación de las cuentas que se tienen a los siguientes y se formaliza la aceptación final y se liberan los artículos
+TAPIA VICENTE, MARIA DEL PILAR
+13:01:40
+Bueno, como han explicado mis compañeros de manera bastante detallada, todo lo que tiene que ver con los entregables y las tareas, ahorita vamos a pasar con el tema del cronograma y ver entre qué tiempos debemos o cuanto tiempo duraría cada fase
+En este caso estamos previendo que el proyecto dure alrededor de 234 días hábiles, como bien se sabe, la semana de ingenieria es un proyecto de integracion que se da aproximadamente en el mes de noviembre. Entonces, lo que nosotros estamos planteando es de que desde los primeros días del ano
+Especialmente el cinco de enero ya se venga como que desde el inicio planificando todo para que al momento de noviembre llegue y todo esté como que completo
+El proyecto en sí tendría cinco fases, veinticinco entregables y setenta y seis actividades, ¿no? Donde, bueno, se ve que el inicio seria prácticamente el primer mes del ano
+Y luego seguiría la planificación que entraria entre inicios de abril, inicios de febrero y fines de abril. La ejecucion propiamente entre quincena de marzo y e inicios de noviembre, el control de seguimiento lo estamos planteando que sea alrededor de todo el proyecto.
+para que se pueda contemplar que todo esté avanzando de la manera correcta y bueno el cierre que es prácticamente ya como que ver el tema de cómo terminó, como tal sería este
+De quincena a fin de noviembre
+Siguiente, por favor
+Bueno, en este caso está mucho más detallado lo que son los entregables y las actividades. Mis compañeros han detallado bastante bien lo que va a ir en cada fase, pero yo en este caso me voy a centrar en lo que son las duraciones. El inicio tendria una duracion de diecinueve dias habiles como tal.
+donde cada entregable tendría alrededor de 4 días hábiles para esto
+Y los recursos en cuanto a personal que se va a necesitar para esta fase, en primer lugar, sería el gerente del proyecto y la mesa directiva de ADN. luego seguiria la planificación que dura alrededor de 59 días habiles, ¿no?
+En este caso se tiene 8 entregables donde se está poniendo de que en promedio se tenga una duracion de nueve dias
+Cada uno y algunos son superpuestos, es por eso que, este, a veces la duración final no es la misma de la suma de todos los días hábiles, en este caso, los recursos como tal siguen siendo el gerente del proyecto, la mesa directiva de
+Como un plus aparte la mesa directiva de Inc lo hemos incluido en todas las fases ya que si es que no tiene participación directa, igual sí tendría una participación indirecta en cuanto a validación de cada actividad.
+Luego también, los diferentes coordinadores de la comunidad estudiantil
+Así como asesores financieros o coordinador de financiamiento, los pisadores, perdón, las personas que se van a encargar de ver todo el tema de los auspicios y tambien, este, coordinador academico y logística. Todo esto para el tema de la planificacion.
+Siguiente
+Luego pasamos a la fase de ejecución, que es la fase que conlleva más tiempo, que vendría a ser 169 días hábiles, en este caso tiene 7 entregables
+Y dentro de ello los recursos prácticamente son muy parecidos a los de la etapa con la cual se planifico todo ello, ya que en teoría pues lo que han planificado deben estar tambien la mayoria dentro de la ejecución.
+Este, viendo temas de controles
+Es por ello que también se ha previsto el coordinador de la comunidad tambien participantes propios de
+De los estudiantes que sean voluntarios
+También parte de comunicaciones, camarógrafo, gestor de comunidad, la parte deportiva, la parte logística
+Luego seguiría la parte de control y seguimiento, bueno, no es un luego, sino que el control y seguimiento prácticamente es durante casi toda la ejecución del proyecto. Es por ello que dura un poco mas que la ejecución, pero es porque se toma en cuenta desde el inicio, mas que todo para cumplir los tiempos.
+Y bueno en este caso sí o sí seguiría el gerente del proyecto y bueno también entraría la mesa directiva de Edin y finalmente llegue el cierre con 14 días hábiles. En este caso se tienen cinco entregables
+Y ya sería más que todo la etapa donde se recolecta todo lo que se ha ejecutado y se realizan informes, ver cómo es que ha salido el proyecto realmente, y es por ello que los recursos tambien siguen siendo el gerente del proyecto, y todos los coordinadores de las áreas
+Conjuntas para que
+TAPIA VICENTE, MARIA DEL PILAR
+13:06:40
+En conjunto, valga la redundancia, puede ver cómo es que salió el proyecto.
+QUISPE CHAYÑA, GERALD SEBASTIAN
+13:06:49
+Ahora, hablando del tema de presupuesto, tenemos que ratoner la pregunta: ¿cuánto dinero realmente necesitamos para realizar las actividades del proyecto y también si podemos contar un respaldo para darle frente a posibles cambios. Siguiente, por favor.
+Then, por favor
+Yeah, entonces, este, como se había mencionado la planificación abarca desde enero hasta noviembre de 2027, lo que incluye actividades como la integración, la recaudación de fondos, las comunicaciones, la preparación deportiva y académica, y también al final la participacion en la semana de ingeniería
+Entonces para estimar los costos lo que hemos hecho es identificar los recursos necesarios para cada actividad y tambien lo hemos multiplicado por su tarifa y tambien cuando corresponde es decir el mes, los dias o las ediciones en las que se va a utilizar
+Por ejemplo, acá vemos un resumen, pero dentro de esto hay un disgregue que, por ejemplo, podría ser a inicios, las herramientas digitales y los materiales de oficina que se tienen una estimacion de 120 soles mensuales
+Entonces como se consideran once meses o tenemos como un costo total de mil trescientos veinte sóles mensuales. Otro ejemplo ya más aplicado en lo que es la alimentacion e hidratación durante la semana ingeniería podría ser considerar alrededor de cincuenta participantes por día con un costo de seis horas por persona, que incluye como que un snack y su bebida hidratante, ¿no?
+A una duración de 8 días, lo que nos da un resultado de alrededor de 2,400 soles
+Entonces nosotros lo que hemos hecho es, a partir de estas estimaciones, continuar con la construcción del presupuesto. Aquí vamos mas o menos distinguir que alrededor de cien personas se van a considerar para las descripciones de indumentaria, que también incluye su polio, y 50 personas en promedio que
+van a estar o sea durante todo el día no lo que incluye equipos deportes individuales y demás ahora lo que hacemos es al sumar todos estos costos estimados y también los costos que dentro de un momento voy a hablar, es
+Si nos, nos resulta como alrededor de veintinueve mil quinientos treinta soles
+estos mundos todavía deben validarse por la cotización, o sea, son montos estimados, pero presentados por la planificación económica, o sea, no son gastos que realmente se realicen como tal, pero es lo más aproximado que se ha tenido durante estos últimos años.
+Entonces también hay otro supuesto bastante importante que es el tema del personal, como se había mencionado el ADEN cuenta como que con una comunidad bastante grande, lo que significa que el equipo que va a trabajar lo hace de manera voluntaria, no recibe un sueldo, ni siquiera la mesa directiva, ni siquiera el gerente de proyecto, que
+Usualmente viene a ser un estudiante delegado, delegado solamente para actividades de ingeniería.
+Entonces lo que se presenta es que, si bien el trabajo no va a ser remunerado, de todas formas, si requiere tiempo y esfuerzo
+Este, y ahora algo importante que también estamos como que manteniendo ya es el tema de la contingencia y la gestión ahora porque mantenemos la contingencia primero hemos considerado un 10% de los costos que equivale a $2,953 soles.
+Pues su finalidad es más que nada tener a los riesgos que ya hemos identificado, ¿no? Durante la planificación, por ejemplo, un posible aumento en los precios o una necesidad adicional en la seguridad o otros ejemplos de riesgo que ya hemos confirmado. En cambio, los casos estimados para lo que es
+La gestión equivalen al cinco por ciento de la línea base o sea considerando que la contingencia y este los costos estimados ya forman la línea base, a y partir de ello ya consideramos para los costos para la gestión que vendría a ser el 5%, que es alrededor de $1624 soles aproximadamente, que sirve para atender las necesidades que no
+Hemos contemplado probablemente imprevistas en lo que viene a ser la planificación
+Entonces es más que nada eso y obviamente su autorización para requerir de ellos y si requiere como la aprobación del gerente
+Este, y en total, al final como presupuesto total, tenemos alrededor de $3,0341107 soles
+Este, como mencionaba la contingencia y la gestión, este, sí se han considerado para este proyecto. Siguiente, por favor
+Ya. Ahora lo que viene a ser la distribución de los gastos de los gastos y el financiamiento, ¿no? Comenzando por los gastos de lo que viene a ser la la comunidad de integración representa alrededor de 7320 soles, lo que incluye bienvenidas de cachimbos, las cuatro integraciones del Viernes del Diablo
+Apoye seguridad y primeras auxilias y también los encuentros con los egresados ahora dentro de esto en la escuela integraciones tienen un costo conjunto, o sea total de $5000 soles y $4000 para locales de alimentación y mil soles para seguridad y primeros auxilios, ¿no?
+Eso, o sea, lo, yo menciono porque para no, no confundirnos que cada costo que está presentado en el presupuesto viene a ser propio para una integración, sino como es el conjunto.
+Ahora lo que viene a ser la logística representa alrededor de 6000 soles y la, este, lo que incluye la inscripción y acreditaciones para la indumentaria de la delegacion y tambien para el transporte y su movilidad, como mencionaban los polos y demás. Ahora, eso es importante mencionarlo porque se diferencia del merchandising
+QUISPE CHAYÑA, GERALD SEBASTIAN
+13:11:51
+el merchandising recaudación y merchandising viene a ser un costo que nosotros incurrimos para poder tener un beneficio, ¿no? Lo que viene a ser la
+El gasto en, perdón, el gasto en recaudación y merchandising es, por ejemplo, nosotros tenemos producir, sino juntos de polos o de kits de polos y stickers a 38 soles, lo cual nos cuesta como $3800 soles, que esperamos tambien vender a un valor de
+de 50 soles entonces ahí estemos, ya estamos planificando más o menos el retorno, pero igual se ha considerado durante los gastos y también el retorno se considera durante financiamiento, por eso es que vemos doble merchandising en ambos casos
+Bueno.
+And see, ahora lo que nosotros buscamos es para el financiamiento proyectar alrededor de $19.100 soles mediante actividades de recaudación, comunidad 4500 soles mediante merchandising que le comentaba de dónde vienen
+y $10,500 mediante auspicios, alianzas y aporte inicial. El deporte inicial, un poco para dar el contexto, viene a ser el aporte con los cuales, ya sea la mesa pasada deja de su gestión o incluso los propios miembros de la mesa directiva dan para después, o sea, despues de un tiempo que ya la mesa ya tenga un fondo más grande, se le pueda retornar, ¿no?
+Entonces es eso
+Ahora, este, la primera fuente también que incluye como que los ingresos, el financiamiento viene a ser las integraciones, como se van a cobrar cuotas de bienvenida actualmente se hacen fiestas como a fin de parciales o a fin de finales, pero se está hablando otra alternativa un poco más económica que viene a ser
+En las entradas para los viernes del diablo, en las cuales lo que se busca también es de que el estudiante pueda integrarse, pero también buscamos de alguna forma poder tener un retorno, ¿no? Entonces, considerando todo ello el total de ingresos es de 34000 soles
+Ese entonces eso vendría a ser como que los gastos y el financiamiento un poco ya más a detalle lo siguiente, por favor
+Yeah, ahora lo que viene a ser el flujo de caja y ya por último, lo que nosotros buscamos conocer es el presupuesto total necesario, pero también como que tenemos que revisar las fechas de los cobros y los pagos.
+Lo que sí podemos hacer es esperar que va a ser suficiente durante todo el año, no vamos a tener dificultades como tal, no vamos a tener como que una caja negativa o algo porque desde un inicio como que eso es lo que se mantiene siempre presente, no sé. Si bien tenemos una caja bastante corta al inicio.
+Siempre buscamos incrementar o al menos que nuestra inversión sea bastante segura no como por ejemplo el merchandising y las fiestas de integración o las reuniones de integración
+Entonces, para revisar un poco la situación, utilizamos el flujo de caja que organiza las entradas y salidas de dinero por mes
+El gráfico que podemos ver presenta el saldo acumulado, este es el saldo, este saldo es el dinero que queda disponible después de considerar lo recibido y lo pagado por cada momento
+Entonces no hay que confundirlo sólo con ingreso del mes ni con una ganancia sino como que es lo que queda, ¿no? O sea, por eso vamos viendo que poco a poco va incrementando hasta el punto en el que realmente lo vamos a necesitar, que viene a ser agosto y septiembre
+Y por eso, este, ahí es donde se hacen como que las inversiones fuertes ya para noviembre, entonces por eso también en noviembre ya es donde se va disminuyendo, ¿no?
+Por ejemplo, en enero contamos con un aporte inicial de 500 soles y pagamos 120 soles de herramientas y materiales que había mencionado antes, entonces quedan 380 soles y eso es lo que se refleja en el gráfico.
+Por ejemplo, en febrero no se proyectan nuevos ingresos y lo que se gasta es 120 soles, por eso también disminuye, es por ello que nos quedan como que 260 soles
+después más adelante, el saldo va a aumentar por la recaudación y la llegada de hospicios, como mencionaba, lo que en junio se proyecta como 5000 soles
+Y lo que contribuye como que al un aumento al dinero que ya teníamos disponible y el saldo alcanza a su máximo, su tope en agosto con $10,985 soles y ya después, como mencionaba, se disminuye para septiembre, octubre, donde encuentran los desembolsos de 6000
+de 6010 soles y era 6110 soles
+Entonces ahí viene los casos de integración, preparación, implementación de la participación ya para hacer una ingeniería.
+Este, finalmente todas las reservas suman $4,577 soles mientras que el saldo previsto es de 4,570 soles hay una diferencia mínima, pero esto es porque hemos considerado lo que es la contingencia
+Y los gastos de gestión
+entonces igual, este, sí, una recomendación bastante importante es de que el tema de los tiempos con los auspicios sí se debe hacer con, se debe tomar en cuenta el tiempo porque a finales de ano se consiguieron los precios bastante complicado porque las empresas ya
+That se tiene ya por agosto, septiembre.
+QUISPE CHAYÑA, GERALD SEBASTIAN
+13:16:56
+Entonces es ello y pues nada con todo la recaudación de todo lo que se tiene tanto en actividades sponsors, este, venta de merchandising es como que se plantea solventar todos los gastos para la semana de ingeniería
+Y lo restante, este, ya quedaría para otro proyecto de Adén porque todavía queda un mes o tal vez se destinaría para la siguiente gestión
+Sí, gracias.
+Pierre Gilbert Roncal Robladillo
+13:17:24
+Perfecto, equipo número 7
+en general también creo que han venido de menos a más, ¿no?
+Y ahora el presupuesto está casi casi
+Y
+Son lo que
+Bueno, no aplica ganancias de hecho, ¿no? Porque es algo más
+interno
+Y dijo su compañero que habían recursos que no eran parte del proyecto, ¿no? Porque son recursos internos
+Que no te, que no cobra, ¿no?
+Eso no más habría que especificarlo ahí en el presupuesto
+El informe ya para que no esté
+Porque es por esa razón, pues, que no aparece en el presupuesto
+Y luego ya está, o sea, como notas, yo creo que están yendo súper bueno.
+Y nada, felicitaciones, que sigan así
+Ese es el equipo número 7, entonces, dicho eso
+Terminamos por hoy y
