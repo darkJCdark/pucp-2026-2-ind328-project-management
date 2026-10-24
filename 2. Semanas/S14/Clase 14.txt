@@ -1,7 +1,5 @@
-. {
-	. {
-		. 
-	}
+. Grabacion{
+	https://pucp.zoom.us/rec/play/FXSVdXovuCrLvgK7pC7isjADX0Zm5uXS_2U_WkyUg9YTgR7tEvKr7GrdMBj5C_SqWyWLIQM5OwFfk2Q_.8WXU-JiiquRNMctD?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1719761224000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fpucp.zoom.us%2Frec%2Fshare%2FJ1wOihiZWJ0lUFwnumizX0e2AhLWAIS3PSVMtPQy6Dk5HweFHaCsHmRtJKcsIul9.MHiVs_VegkeSsoIn%3FstartTime%3D1719761224000
 }
 
 . {

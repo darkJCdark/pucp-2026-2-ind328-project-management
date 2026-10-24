@@ -1,0 +1,953 @@
+0:06
+bueno para los que no me conocen mi nombre es luis flores soy especialista en temas de gestión de
+0:13
+proyectos desarrollo de habilidades gestión de cambio
+0:19
+más recientemente gestión estratégica una maestría en la universidad politécnica de madrid estoy haciendo un
+0:26
+doctorado de gestión estratégica tengo varias certificaciones de pm y
+0:32
+simplemente soy certificado en riesgos en ágiles escala master y por supuesto
+0:38
+tengo las dos certificaciones del ció manchester management y jito
+0:45
+además soy facilitador para el desarrollo habilidades blandas utilizando la metodología de let die bastaban la teoría de conciencia de
+0:51
+relaciones y soy coach certificada por la internacional coaching convertir
+0:56
+actualmente soy docente en temas de gestión de proyectos y calidad
+1:02
+soy socio de fm consulting el presidente del capítulo lima perú
+1:09
+y entonces el secretario del comité de normalización en gestión de proyectos adscrito a una carla distinto nacional
+1:15
+para la calidad y miembros del comité internacional de la iso que está desarrollando una norma específica para
+1:22
+competencias en gestión de proyectos
+1:30
+si realizamos cuáles serían los objetivos de esta breve presentación podríamos
+1:37
+resumir los de esta forma queremos quiero que reflexiones un poquito sobre la importancia la gestión
+1:43
+del cambio especialmente en proyectos estratégicos los proyectos estratégicos son críticos para que una empresa pueda
+1:50
+crecer y para que pueda desarrollarse pero a su vez son difíciles de gestionar y más aún terminado el proyecto
+1:56
+enfrentan un reto adicional que vamos a ir conversando en camino en ese contexto usaremos una breve
+2:03
+presentación de la integración entre la metodología de gestión de proyectos y la de gestión de cambios y presentaremos el
+2:09
+abordaje de lacy en boca para la gestión de cambios
+2:19
+hay tres ideas clave de las cuales queremos conversar y como les dije me
+2:25
+gustaría que no fuera solamente una exposición sino que varios de ustedes puedan también intervenir a través del chat oa través
+2:33
+de él oa través de levantar la mano y darle que pueden
+2:41
+hablar
+2:48
+entonces tenemos tres ideas principales una es el miedo al cambio
+2:55
+existen la idea de que las personas le tienen miedo al cambio
+3:00
+por otras de hacer una transformación organizacional puede ser un proceso muy complejo que requiere muchos aspectos de
+3:06
+gestión pero también muchos aspectos humanos en ese sentido la gestión de cambios fue
+3:12
+un rol importante en gestionar adecuadamente estos proyectos y garantizar que los resultados de estos proyectos se vuelvan adicionalmente
+3:19
+sostenibles y es ahí donde nace el tiempo como un
+3:25
+conjunto de prácticas tomadas de múltiples disciplinas que ayudan en este proceso de garantizar
+3:33
+que los resultados del proyecto se vuelvan sostenibles y que no haya una
+3:39
+vuelta atrás lo que a veces ocurre en muchos proyectos o simplemente que la resistencia al cambio impida que el
+3:45
+proyecto se llegue bueno brevemente sobre nosotros se firme
+3:53
+consulting es una consultora especializada en temas de gestión damos servicios en gestión de proyectos
+3:59
+desarrollo habilidades gestión de cambio gestión estratégica y coaching y pues nuestro objetivo es utilizar
+4:07
+todas estas herramientas para que las empresas puedan aumentar su potencial y lograr resultados
+4:14
+mucho más beneficiosos fuera de ello pues sabemos que en el
+4:19
+perú hay un déficit de capacidad de gestión en todos los niveles
+4:26
+y desarrollar cada una de estas habilidades o cada uno de estos conocimientos pues de alguna manera
+4:32
+también es un aporte consideramos a que nuestro país pueda seguir 300
+4:38
+pero bueno empecemos con el tema en sí y no hay mejor forma de empezar a hablar
+4:44
+del cambio que con esta frase de la quitó del siglo
+4:49
+4 que decía que nadie permanece excepto el cambio
+4:56
+qué opinan están de acuerdo en esta frase
+5:09
+riccardo nos dice que está totalmente de acuerdo
+5:19
+rocío catering parece que todos están de acuerdo en
+5:24
+general cádiz nos agrega que todo cambia en la
+5:30
+vida en la cama cual ha sufrido muchos cambios catherine por lo que se ve
+5:37
+pero bueno nada es permanente lo único que cambia es el cambio de un permanente perdón es
+5:45
+el cambio desde que nacemos cambiamos cambiamos
+5:51
+físicamente cambiamos en nuestra personalidad la personalidad se va desarrollando hasta los 14 años de
+5:57
+aproximadamente idea y como adultos también podemos cambiar si lo analizamos esto a nivel de
+6:03
+personas cambiar siempre es posible
+6:09
+desde un punto de vista general y estoy seguro que alguna vez alguien
+6:14
+les ha dicho que tienen que cambiar en algún aspecto de su vida
+6:20
+sí eso sí pues habrá que cambiar no necesariamente es fácil
+6:27
+o si alguien de ustedes creen que cambiar es fácil
+6:33
+y dejar atrás los hábitos es sencillo
+6:40
+una persona que tiene una vida sedentaria es fácil que empiece a hacer ejercicio y lo haga su rutina
+6:48
+una persona que está acostumbrada a vivir con su familia empezar a vivir
+6:54
+solo por más excitante que pueda parecer será fácil
+7:01
+todos esos casos en general son experiencias que pueden experimentar las personas y
+7:08
+que son en cambio son carne su vida son un cambio en su forma de vivir
+7:13
+y como tal usualmente les tenemos miedo y si como dice andrés toma tiempo y
+7:21
+perseverancia en muchos casos
+7:26
+hay una creencia de que por ejemplo para desarrollar un hábito hay que básicamente a repetirlo
+7:34
+si alguien dice que va a ir al gimnasio todos los días a las 6 de la mañana y el primer día a las 6 de la mañana
+7:42
+hace su rutina sale muy satisfecho consigo mismo de
+7:48
+haberlo logrado qué pasa el segundo día
+7:54
+vuelve a las 6 de la mañana ojalá y ocurriera así en todos los casos
+8:02
+pero en muchos casos no es así en muchos casos el siguiente día ya las seis y cuarto seis y media
+8:12
+y el tercer o cuarto día ya solamente pasas por la cafetería del gimnasio
+8:21
+esto se relaciona también con autodisciplina cambiar requiere autodisciplina
+8:28
+no se hace de la noche a la mañana y a veces pues necesitamos ayuda
+8:40
+si no escuchamos a alguien un poquito más reciente seguramente reconocerán este autor john
+8:46
+maxwell su reconocido autor en temas de liderazgo y él dice que el cambio es inevitable
+8:52
+pero el crecimiento es opcional tú decides si el cambio es beneficioso
+8:58
+para ti tú decides que hace algo de frente a un cambio
+9:05
+qué pasa cuando una persona pierde un trabajo en realidad tiene dos opciones
+9:12
+o se lamenta de sí mismo o busca una mejor alternativa y en algunos casos
+9:20
+cuando una persona pierda el trabajo puede que sea la mejor oportunidad de su vida
+9:28
+en eso
+9:34
+lo cierto es que es completamente cierto en muchos casos
+9:40
+pero eso requiere una habilidad más la inteligencia emocional para asumir que
+9:47
+estás que tu situación está cambiando pero que eso no necesariamente es mal te vendrá la autodisciplina para buscar
+9:55
+tu verdadero objetivo para lograr cumplir una meta todos esos cambios pero
+10:01
+son cambios a nivel personal
+10:08
+si es así a quien la gente le tiene miedo al cambio
+10:14
+si hiciéramos una encuesta qué resultados creen que darían
+10:27
+los invito a todos a responder en el chat esta pregunta si quieren que la
+10:33
+gente le tiene miedo al cambio
+10:54
+ricardo está sacando estadísticas más de la mitad de las personas
+11:00
+catherine está de acuerdo la ley nos dice que si hay una resistencia al cambio natural porque prefieren seguir
+11:07
+haciendo lo mismo y claudia me parece que también es
+11:12
+cierto bueno seguramente si hiciéramos esta encuesta
+11:18
+en una muestra grande la respuesta sería básicamente la misma que ustedes acaban de dar pero la verdad es que yo no creo
+11:25
+que la gente le tenga miedo al cambio
+11:35
+a mi modo de ver las personas no les termina el cambio
+11:41
+a lo que le tienen miedo es al impacto del cambio sobre ellos y no es exactamente lo mismo
+11:50
+una persona no le tiene miedo a mudarse de casa una persona le tiene miedo a perder el
+11:57
+contacto con las personas cercanas a perder los amigos del barrio de repente
+12:04
+aquí va a tener que invertir tiempo en conocer otra zona en que no va a tener el supermercado cerca
+12:10
+lo que fuera pero en general esto es la clave de gestionar el cambio al mismo deber las
+12:17
+personas no le tienen miedo al cambio por sí mismo las personas lo que tienen miedo es el impacto que el cambio va a
+12:22
+tener sobre ellos los trabajadores no le tienen miedo a
+12:29
+cambiar los procesos de una empresa lo que tienen es a que ese cambio a que los despidan
+12:35
+o que ya no sean necesarios
+12:53
+y esto ciertamente está muy relacionado en la gestión de proyectos en el sentido de que todo proyecto trae consigo un
+13:00
+cambio de hecho el objetivo mismo de ejecutar un proyecto es lograr un cambio
+13:05
+cambiar una situación lograr un cambio organizacional aprovechar una oportunidad salir de un problema todo
+13:13
+son cambios y a la inversa todo cambio se logra a través de un proyecto los cambios no
+13:18
+ocurren por sí solos entonces estamos en el escenario de lo de siempre versus algo nuevo
+13:28
+tenemos que decidir si queremos seguir en el mismo status quo con lo de siempre o si queremos ir a un nivel más y llegar
+13:36
+a algo nuevo algo nuevo que no sabemos todavía si será bueno o malo hay un
+13:41
+riesgo de por medio probablemente pero entra otra habilidad de por medio
+13:46
+que es el positivismo el ser positivo al enfrentar los cambios en tratar de
+13:51
+sacar lo mejor de esas situaciones entonces no me hables que les estoy
+13:57
+mencionando el tema de inteligencia emocional el tema de la autodisciplina el tema de ser
+14:04
+positivo son características que están presentes en la gente que suele hacerle frente
+14:11
+bien al cambio la pregunta es cómo podemos transmitir
+14:17
+esto a nuestros colaboradores nuestros empleados oa nuestro cartel
+14:28
+y una empresa para crecer también necesita cambiar
+14:36
+las empresas se habla mucho de que tenemos estrategias a largo plazo tenemos planes estratégicos con
+14:42
+objetivos aún múltiples con objetivos en múltiples años
+14:49
+y también se puede haciendo por etapas podemos tener la estrategia definida la
+14:55
+plasmar la en un portafolio de proyectos podemos tener programas podemos tener
+15:00
+proyectos específicos y cada uno de estos proyectos debería estar alineado con el estrategia
+15:05
+podemos hablar de un segundo ciclo bajo el mismo esquema
+15:11
+modificando quizás la estrategia agregando nuevos proyectos el portafolio gestionando cada uno de sus proyectos
+15:17
+que pueden incluir proyectos de diseño de nuevos productos proyectos de mejora
+15:23
+del clima organizacional el cambio de los procesos
+15:32
+entre varios otros que vamos a ver un poco más adelante pero estos proyectos
+15:37
+son críticos para la empresa si están alineados con su estrategia y aquí hay
+15:43
+un número que es yo diría un poco aterrador las estadísticas muestran que de todas
+15:50
+las empresas que realizan un planeamiento estratégico entre comillas bien realizados sólo el
+15:57
+30 por ciento en logra implementar adecuadamente
+16:02
+una de las razones por las que eso ocurre es justamente porque no se gestiona adecuadamente el factor humano
+16:08
+no se gestiona adecuadamente el cambio
+16:16
+y eso es el proceso de transformación organizacional un proceso de transformación organizacional implica un
+16:22
+cambio brusco en la organización y ese cambio le va a generar impacto a las
+16:29
+personas y ese impacto es lo que le tiene miedo
+16:38
+entonces queremos aumentar la productividad la rentabilidad la competitividad
+16:43
+la longevidad de la empresa cualquiera de estas variables va a requerir un cambio y ese cambio tiene
+16:51
+que gestionarse de lo contrario estamos en problemas eso y pueden ser problemas muy serios
+16:59
+ejemplos de proyectos estratégicos bueno podemos hablar de múltiples ejemplos este es solo uno de ellos un cambio de
+17:05
+tecnología en la empresa la instalación de un sistema integrado de un sistema de gestión un sistema de
+17:13
+explotación de datos un sistema de automatización de procesos lo que sea
+17:20
+pero el cambio de tecnología suele implicar un cambio fuerte en las organizaciones especialmente si su
+17:25
+organización que no estaba acostumbrada a usar este tipo de sistemas empezar a utilizarlos un cambio significativo en
+17:33
+todos los niveles de la organización desde el nivel más bajo hasta el gerente
+17:39
+general muchas implementaciones de estos sistemas fallan porque no se tuvo en
+17:47
+cuenta el factor humano en este caso en particular la
+17:53
+implementación de sistemas erp dentro de organizaciones he tenido la posibilidad de presenciar muchos éxitos y también
+17:59
+muchos fracasos dentro de las organizaciones y cuando analizamos por qué fallaron nuestros procesos de
+18:05
+implementación el hecho de no haber considerado el factor humano de hecho de
+18:10
+no haber analizado qué es lo que estas personas esperaban del proyecto
+18:16
+hacerlos partícipes de este cambio es una de las razones por las cuales estas
+18:22
+personas al final rechazan los nuevos sistemas no los quieren usar por supuesto pueden obligarlos pero no
+18:29
+obligarlos no hay ninguna no hay ningún esquema de motivación real en ese esquema si es así
+18:36
+la gente hace trabajo porque tiene que hacerlo no porque sienta que le va a ayudar en su trabajo y eso eventualmente
+18:42
+termina desmotivando pero si queremos realmente implementar un cambio tecnológico dentro de la
+18:49
+organización necesitamos hacerlo de una manera adecuada gestionando la parte tecnológica por supuesto pero también la
+18:55
+parte en baño
+19:00
+algunos de los presentes ha pasado por un cambio de tecnología dentro de sus organizaciones
+19:17
+no
+19:26
+quieres contarla a ricardo
+19:50
+buenas noches bueno en senati simplemente un erp primero educativo y
+19:57
+luego la parte y danza
+20:05
+[Música]
+20:13
+fácil las dificultades aunque la cosa estuvo bastante bien
+20:18
+llevada es un avance y retroceso constante ha cambiado mucho la cabeza de
+20:24
+la gerencia y esta última lo que quiere es cambiar la receta - y la gente que hace los procesos
+20:31
+de estas áreas simplemente no tienen
+20:36
+ninguna voluntad de usarla de erp por más que como decía estos implementado
+20:42
+hace casi 10 años wow y analizando las cosas todo comienza
+20:50
+porque en la implementación de la parte académica se involucró bastante a la
+20:59
+gente pero la parte de finanzas no y hasta ahora se pagan las consecuencias
+21:06
+me parece que es un muy buen ejemplo ricardo gracias
+21:11
+definitivamente cuando ocurren este tipo de cosas hay
+21:17
+que analizarse cuáles son los factores que pueden haber afectado y casi siempre llegamos a la misma conclusión no se
+21:22
+involucró a las personas adecuadas en el momento adecuado
+21:29
+otro proyecto estratégico este es uno de mis favoritos nos jugamos un cambio de
+21:34
+ubicación de oficina esto es de hecho un proyecto estratégico y resulta que es un proyecto estratégico
+21:40
+bien complicado y hay múltiples ejemplos que podemos ver en nuestro alrededor
+21:48
+algunos buenos ejemplos de cómo se llevó a cabo otros no tan buenos
+21:55
+creo que hay dos ejemplos bueno
+22:01
+bueno además de dos ciertamente pero hay varios hay algunos ejemplos que podríamos examinar con respecto a este
+22:07
+tema de la mudanza de oficina el banco de crédito cuando mudó el área sistemas es de hecho un buen caso de estudio en
+22:13
+esa línea clean [Música]
+22:18
+mi esposa hace poco de hecho pasó por un proceso similar
+22:24
+en que se mudaron de una empresa de una
+22:29
+de la sede de la oficina que estaba en una casa alquilada una casa relativamente grande donde tenían un
+22:37
+espacio considerable a una oficina en un centro empresarial de oficinas más chica
+22:42
+está más lejos
+22:48
+pero tiene otros beneficios como venderle a la gente
+22:55
+que esto realmente va a ser bueno para ellos esto no es un proceso de simplemente decirles
+23:01
+vamos a mudarnos porque hay muchas variables que afectan a estas personas
+23:09
+si tienes tu vida organizada en una zona específica no sé si les haya pasado a
+23:15
+algunos de ustedes en algún momento si lo es lo pueden comentar igual por el chat pero con esto ya tienes tu vida hecha en
+23:22
+una zona que te muden a otra zona es un cambio radical
+23:28
+porque empiezas a pensar cuánto tiempo te vas a demorar en llegar qué
+23:34
+otros problemas vas a tener y lo que ocurre aquí es que usualmente pensamos más en lo que perdemos qué es lo que
+23:40
+ganamos esto lo he visto también con mucha gente
+23:47
+cuando se compra un auto nuevo se compran un auto reo que en teoría
+23:53
+debe ser mejor pero cuando tú le preguntas qué extraña el auto antiguo es
+24:00
+son muy rápidos para responder lo dice angela positivo tenía este esta cosa en
+24:07
+el centro donde entraba justamente mi billetera o tenía en el tablero este
+24:13
+espacio dónde exactamente entraba mi celular pero cuando le preguntas y qué ganas te demora en responder
+24:22
+eso es porque en general recordamos más lo que perdemos que lo que ganamos y la
+24:28
+gestión del cambio en este contexto tiene que enfatizar lo que la gente gana al mudarse a una nueva oficina
+24:37
+tengo un par de amigas que están especializadas en este tipo de gestión de cambio yo trabaja con empresas
+24:43
+justamente para facilitar el trabajo de mudanza de una organización por supuesto
+24:50
+igual es un proyecto de mudanza tiene que ver mucho con temas administrativos ver dónde va cada persona
+24:58
+mover equipos de temas de licencias estacionamientos etcétera etcétera
+25:08
+pero uno de los factores más importantes es que piensa la gente de este cambio y
+25:13
+hay que encontrar una razón para que quieran mudarse y para eso hay que enfatizar las cosas buenos
+25:24
+y uno de los más complicados ejemplos de
+25:30
+gestión de cambio a nivel empresarial una fusión
+25:36
+en una fusión es un hecho 99.9 por ciento de probabilidad que se
+25:43
+va a despedir gente sí eso sí en el momento de que se
+25:50
+anunció una fusión va a haber un miedo generalizado entre muchos trabajadores que no saben si se
+25:56
+quedan o se van ahora algunos trabajadores que piensan
+26:02
+están casi seguros que se van a quedar hay otros que estarán casi seguro que se van yo creo que estarán en la duda
+26:10
+y llegarán a sus casas preguntándose si al día siguiente seguirán teniendo trabajo otros se irán pensando cuando
+26:16
+nos van a votar este es un caso bastante complicado
+26:22
+porque es un hecho que en una fusión van a haber puestos que ya no son necesarios
+26:31
+también he tenido la posibilidad de ver de cerca varios de estos casos
+26:36
+y el complicado si tienes dos empresas dos gerentes de
+26:42
+producción dos gerentes de mantenimiento dos gerentes comerciales cuál se queda
+26:51
+si es una empresa grande que está comprando a otros lo más seguro es que los de la empresa grande se quedan y los
+26:57
+otros se van pero ahí viene el problema si tú quieres
+27:05
+una fusión exitosa necesitas que estas personas que tienen el know how de la
+27:10
+otra empresa te lo dejen cómo hacer que una persona que sabe que
+27:16
+lo van a sacar te ayuda
+27:25
+se les ocurre alguna idea
+27:33
+si escuchas algunas sugerencias de su parte mejor dicho lee algunas sugerencias de su parte
+28:05
+un incentivo nos dice ricardo sea económico de algunos de tipos es un buen
+28:11
+punto no todos los incentivos sobre económicos pero en cierta forma pueden
+28:16
+ayudar si ustedes ya por ejemplo una persona que necesitan que se quede hasta el final de la fusión para poder hacerlo de
+28:23
+manera adecuada pero ya saben que después no va a haber lugar para el empresa se lo dicen o no
+28:30
+se lo dicen es una decisión ética en la que de por medio hay que decidir si cuando se va y cómo
+28:39
+se va pero si quieres mantener nuestro determinado potencial o un incentivo algo que el gane y puede decirle que se
+28:46
+va a quedar hasta tal fecha pero que le vas a pagar un bono de tres o hasta seis
+28:53
+sueldos adicionales si es que se queda hasta el último día pero si se va a un día antes pierde el 1
+29:01
+puedes también contratarle un servicio de outplacement para ayudarlo a conseguido tu trabajo
+29:10
+obviamente una carta de recomendación cosas cuáles sino también puede ayudar hay que mantener a la gente motivada y
+29:17
+eso no es fácil en este escenario
+29:24
+entonces qué es lo que realmente ocurre qué es lo que vemos cuando se hace una consultoría en gestión del cambio
+29:30
+encontramos que siempre hay un desempeño antes del proyecto de cambio a veces la fase antes del inicio luego empieza el
+29:38
+cambio empieza el proyecto y ante él ante la incertidumbre lo que
+29:45
+va a ocurrir la gente entre lo que llamamos el valle de la desesperación
+29:52
+cuando termina el cambio la gente empieza a salir del valle de la desesperación y logró un desempeño
+29:58
+posterior al cambio el problema es justamente esa
+30:04
+ese pase vuelva ya la desesperación porque cuando la gente está ahí no
+30:10
+piensa bien no producen
+30:16
+entonces la idea de la una de las ideas principales en la gestión del cambio es tratar de reducir el mínimo que se pase
+30:22
+por el valle de la desesperación hacerlo lo menos largo y lo menos hondo posible
+30:29
+y eso como logramos una de las características de siendo lo más transparente que podamos
+30:36
+si una persona sabe que se va a ir por lo menos sabe que se va a ir pero si una
+30:41
+persona no sabe vive con la incertidumbre y eso no es bueno
+30:48
+entonces el bayern de la situación siempre va a existir pero queremos que sea el menor
+30:53
+posible y muchas veces la gente entra en el valle de la desesperación sin ninguna razón para ello la única razón es que no
+31:00
+le damos la información correcta es una persona que piensa que la van a
+31:07
+despedir porque se está haciendo un proyecto cuando en realidad luego del proyecto él va a tener otro cargo más
+31:14
+alto dentro de la organización pero nadie se lo dijo
+31:19
+pero su tiempo está en un valle de la desesperación bastante profundo y durante ese tiempo no es productivo
+31:30
+si ustedes vamos una empresa que acaba de fusionarse los trabajadores de la
+31:35
+empresa que está siendo adquirida que están tomando café conversando con la secretaria y haciendo cualquier cosa
+31:42
+menos ser productivos porque no saben qué es lo que va a ocurrir y eso no y eso nos desespera a cualquiera
+31:49
+eso es estar en el valle de la desesperación y no queremos que la gente se quede ahí al contrario queremos
+31:55
+ayudarlos a pasar por ese valle de la desesperación de forma que sean productivos nuevamente para la
+32:01
+organización y que obtengan sus propios beneficios también
+32:07
+y eso es lo que denominamos el sostenimiento del cambio muchas veces cuando tenemos un proyecto termina el
+32:14
+proyecto oficialmente el simple vido del proyecto termina al entregar el producto desde un punto de vista de gestión del
+32:21
+cambio ahí no puede terminar porque hay que dar un sostenimiento al cambio de garantizar que no se vuelva al estado
+32:27
+anterior como comentaba ricardo por ejemplo después de implementar un sistema así la
+32:34
+gente no lo quiere usar para tratar de regresar la anterior incluso puedes presionar para tratar de regresar al
+32:39
+anterior la labor de la gestión del cambio que
+32:44
+empieza desde la planificación del proyecto busca que ese cambio sea sostenible
+32:51
+y una vez implementado hay que darse hay que usar ciertas estrategias de sostenimiento también para poder lograrlo y para que esto se mantenga en
+32:57
+el tiempo y sin embargo
+33:02
+a pesar de que tenemos herramientas de gestión de proyectos a pesar que se han
+33:08
+hecho estudios en todo lo que es la retención del talento en el desarrollo
+33:14
+de las habilidades en la gestión del cambio las estadísticas nos dicen
+33:20
+que la mitad de los proyectos de tecnología que tienen un presupuesto de 15 millones o más son cerrados con un
+33:28
+sobrecosto de 45 por ciento más de lo planeado con retraso ser del 56% y no se
+33:35
+logran los alcances si tenemos tanta patología de gestión de proyectos yo trabajaba tanto en esa
+33:40
+línea porque siguen ocurriendo estos resultados y entre más complejo el proyecto menos
+33:48
+probabilidad de éxito tiene entre más estratégico el proyecto más
+33:54
+impacto tiene en la organización y por lo tanto tiene un mayor riesgo de fallo
+34:03
+y si verificamos por qué fallas de estos proyectos podemos revisar estadísticas
+34:09
+de algunos tipos de proyectos específicos si buscamos un poco encontramos por ejemplo las razones que
+34:14
+irán al fracaso a la implementación de una oficina de gestión de proyectos en empresas con facturación de más de un
+34:19
+millón de dólares y encontramos que las razones principales son la resistencia y razones
+34:26
+culturales que no fueron tratadas adecuadamente y el fatal y la falta de patrocinio de la alta dirección en otras
+34:33
+palabras lugar en que defendían el proyecto pero además está toda la parte cultural
+34:40
+que no es otra cosa que personas las personas no fueron tratadas adecuadamente no se sintieron parte del
+34:47
+cambio no se sintieron que podían beneficiarse del cambio sino por el
+34:53
+contrario pensaban que se podría hacer que podrían verse perjudicadas y en muchos casos ese pensamiento era pasar
+35:00
+por el valle de la desesperación cuando pudo haberse evitado si se hubiera planificado de una manera adecuada y eso
+35:07
+es un objetivo importante de la gestión del cambio
+35:16
+riccardo nos pregunta cómo se entiende que haya falta de patrocinio de alta dirección
+35:22
+dependiendo los tipos de proyectos y
+35:29
+se adquieren diferentes metodologías propias de cada una de las industrias pero cuál estamos hablando de proyectos
+35:36
+estratégicos una característica clave que tiene que haber es tener los recursos disponibles y que data gerencia
+35:43
+esté comprometida un ejemplo de ellos es el ejemplo clásico de falta de
+35:48
+patrocinio es la implementación de mejora de procesos dentro de una empresa un iso 9000 un modelo de calidad
+35:56
+específico un sí exijo a lo que sea si los ángeles
+36:03
+si la alta cadencia no está comprometida con eso no vamos a ninguna parte
+36:11
+y hay muchas empresas los gerentes dicen quiero mejorar es más sé que que sé que
+36:18
+tengo que mejorar pero si me dicen que tengo que poner recursos para lograr la
+36:23
+mejora entonces la respuesta es ya no ya no quiero eso es una falta paso signo de la alta
+36:29
+dirección no hay un compromiso real de la de los altos directivos de la empresa
+36:36
+saben que lo necesitan pero no están dispuestos a invertir en ello
+36:45
+pregunta si el objetivo es acortar el valle la desesperación aunque se reduzca al máximo
+36:52
+y parece obvio que lo se pase por él si sería lo ideal que no se pase por él
+36:58
+pero la verdad es que es casi imposible no pasar por el vaya la desesperación el objetivo es minimizarlo
+37:05
+que sea como dije lo menos hondo en otras palabras que tenga el menor impacto posible sobre las personas y que
+37:10
+sea el menor tiempo que dure lo menos posible
+37:21
+y si seguimos con estadísticas resulta que la gestión del cambio es un factor
+37:26
+bastante bueno para garantizar el éxito de un proyecto
+37:33
+si vemos en el gráfico tenemos que el porcentaje de iniciativas estratégicas con éxito
+37:45
+era proyectos que tenían un sponsor activo y proyectos que tenían una buena gestión
+37:52
+del cambio 66 y 69 respectivamente estos dos
+37:58
+factores el compromiso de alta dirección y la una buena una eficaz gestión del
+38:05
+cambio aumentan considerablemente las propiedades que un proyecto estratégico tenga éxito
+38:20
+ah y otra encuesta esto es una encuesta de una publicación de 1er
+38:25
+denominada por social profesión revela que es de los habilitadores de cambio
+38:32
+dos meses más iniciativas estratégicas cumplen las metas originales en tiempo y presupuesto si lo comparamos con
+38:38
+organizaciones en donde no se aplica gestión de todo
+38:46
+y además bueno menciona hay prácticas de gestión de proyectos y programas estandarizadas un esposo enganchado con
+38:54
+el proyecto y comprometido y de nuevo gestionar a las personas gestionar el
+39:00
+cambio de las personas todas estas tres son características
+39:05
+importantes para lograr el éxito de un proyecto estratégico y de nuevo aparece el compromiso del esposo y la gestión
+39:11
+del cambio así que las estadísticas no mienten las
+39:17
+empresas necesitan aplicar gestión del cambio para aplicar gestión de cambio no es fácil
+39:23
+no hay una biblia de cómo aplicar gestión del cambio requiere un
+39:30
+un entendimiento de cómo trabajar con las personas ahí está el tema habilidades pero también requiere un
+39:36
+proceso ordenado de gestión del cambio que nos permita seguir paso a paso algunos lineamientos como es identificar
+39:44
+a los interesados que también está en la guía del tiempo mapear los riesgos al cambio
+39:52
+identificar quienes van a participar identificar quién son los líderes identificar quiénes son quienes nos apoyan identificar bien puede estar en
+40:00
+contra no solamente escuchar palabras sino ver gestos la comunicación no verbal es muy
+40:07
+valiosa para identificar cuando una persona está en contra de un proyecto o cuando no tiene algo que decir
+40:15
+e para una gestión del cambio la creatividad es un aspecto importante de
+40:21
+las soluciones los veintes estratégicos usualmente requieren soluciones creativas
+40:28
+pero entonces como definimos gestión de cambio
+40:36
+déjenme ponerles aquí un videíto que creo puede ayudarnos a entender esto
+40:53
+[Música]
+41:03
+[Aplausos] [Música]
+41:18
+veamos [Música]
+41:26
+[Música]
+41:37
+y es esta
+41:42
+[Aplausos] para mí
+41:53
+[Música] ah
+42:01
+[Música]
+42:12
+[Música] o no
+42:21
+juicio a
+42:27
+[Música]
+42:38
+[Aplausos] [Música]
+43:11
+triste
+43:21
+ok expresión creativo
+43:30
+tenían un objetivo querían hacer que la gente use las escaleras
+43:35
+pero no las escaleras eléctricas sino que hice un poco de transición
+43:41
+y se les ocurrió esta idea de diseñar un piano en esas escaleras donde la gente
+43:47
+pudiera tocar música cuando esté subiendo y como vieron el resultado fue que lograron su objetivo
+43:58
+entonces como defina la gestión de cambio lo puedo definir de esta forma es planear a aplicar medir y monitorear los
+44:06
+componentes de la atmósfera humana en un proceso de cambio planteando así la posibilidad del éxito de un proyecto y
+44:12
+si tengo que describirlo en el corto me quedo con la última frase
+44:17
+lo que esté en amarillo ampliar la posibilidad del éxito de un proyecto eso
+44:22
+es gestión de cambio trabajar para ampliar la posibilidad de
+44:27
+éxito de un proyecto y cambio afecta los resultados de un
+44:33
+proyecto la posibilidad el miedo al cambio afecta la posibilidad de éxito de un proyecto pero si la gestionamos bien
+44:40
+podemos aumentar su posibilidad de éxito
+44:45
+en esa línea por otro lado en todo el proyecto de personas que van a estar a
+44:50
+favor o en contra del proyecto
+44:56
+si estás de acuerdo con eso
+45:29
+a
+45:35
+bueno efectivamente es todo proyecto de gente que va a estar a favor y gente que
+45:41
+va a estar en contra los difíciles identificarlos
+45:49
+mucha gente te va a decir que está a favor cuando no es cierto y hay muchas personas que te va que van
+45:57
+a estar en contra sin decírselo
+46:02
+es uno de los elementos importantes que debemos tener en cuenta cuando gestionamos un proyecto
+46:08
+sí el que tenemos que identificar a los impulsores esas personas que van a
+46:15
+apoyar el cambio que lo van a defender que son nuestros agentes de cambio
+46:20
+esas personas van a tener influencia sobre los demás y van a ayudar que el cambio se lleve a cabo pero tenemos al
+46:26
+otro lado a los saboteadores esas personas que no quieren que se dé
+46:31
+el cambio por múltiples razones algunas veces porque no lo entienden si es así podemos
+46:37
+hacer algo al respecto otras veces porque tienen algún interés en que no se dé el cambio
+46:46
+en alguna oportunidad pudieron empresas que había un gerente que no quería que se
+46:53
+hiciera el cambio a una nueva tecnología pero cuando se investigaba un poco más se encontraba que la verdadera razón por
+47:01
+la que él no quería es porque actualmente le echaba la culpa de todo el sistema así el sistema no lo ayudaba
+47:06
+pero reportes menos adecuados que no le dejaba tomar decisiones
+47:12
+y cuando se hizo el proyecto para cambiar el sistema en el principal opositor porque en realidad no quería que pusiera en un sistema y poder
+47:18
+dejarlo de usar la excusa
+47:23
+los saboteadores tenemos dos tipos están los activadores abiertos que nos van a decir que de acuerdo con nosotros
+47:32
+la verdad es que eso es bueno porque por lo menos sabes con quién tratas y puede ser actualmente esta lección es trabajar
+47:38
+con él pero también están los saboteadores velados esos son los ocultos los que te dicen sí
+47:46
+sí sí sí te apoyo sí muy buen proyecto buena idea luego te das la vuelta y te
+47:53
+meten una cuchillada esos son los más difíciles de detectar
+48:00
+y es parte importante en la labor de un buen consultor de gestión de cambio cómo
+48:08
+identificarlos a través de sus actos a través de sus
+48:14
+gestos alguien que está muy callada en una
+48:19
+reunión puede que no esté interesado en lo que está ocurriendo en esa reunión
+48:26
+el que habla comenta que una forma de sabotear es no hacer los trabajos que efectivamente sistema no serán muy no lo
+48:32
+haces está saboteando el proyecto desde esa forma se está volviendo un
+48:39
+saboteador abierto y eso se puede gestionar el mayor problema cuando tengamos los
+48:45
+saboteadores velados a ellos que no dicen nada pero están diciéndole al gerente que
+48:51
+esto es una mala idea que como se está haciendo y es muy peligroso si estos
+48:56
+saboteadores velados tienen ascendencia en las altas esferas de la organización porque van a llegar con un mensaje
+49:03
+contra el cambio si pueden influir fuertemente
+49:10
+en esa línea podemos hablar del ciclo de vídeo del proyecto como habíamos dicho
+49:15
+implantar una red el término cuando lo dejó instalado configurado virtualmente con capacitación la mudanza termina pues
+49:22
+lo que llevó a la gente a la otra oficina con todas sus cosas pertenencia a la infraestructura etcétera
+49:29
+la función empresarial que es un proceso que dura varios años de hecho con las
+49:34
+compresas que han pasado diez años y no terminan de hacer una función completa
+49:42
+pero el parque terminó el proyecto después decir ahí termina podría
+49:48
+continuar si no hemos hecho una buena gestión del cambio
+49:54
+entonces no tenemos un cambio sostenible tenemos un escenario en el que la gente
+50:00
+va a querer regresar a hacer lo que hacía antes si estamos en ese escenario no hemos
+50:06
+sido productivos en la gestión del cambio si nos estamos enfrentando un problema serio
+50:17
+pero la pregunta es queremos cambios sostenibles si es así tenemos que trabajar en base de eso
+50:25
+y es ahí donde podemos hablar del trabajo realizado por el simas
+50:30
+management institute principalmente plan plasmado en la ley se invoca encima
+50:35
+chispa desmemoria flores que a su vez el cual cuando vaya de la
+50:43
+asociación por case management profesional que es una institución internacional que agrupa profesionales especializados en gestión de cambio
+50:51
+y que sólo diciendo es básicamente un conjunto de prácticas
+50:57
+y se va a hacer una mezcla de diferentes disciplinas que incluyen por supuesto la gestión de proyectos incluye también a
+51:03
+la antropología a la psicología a la tanatología gestión de personas sin
+51:09
+liderazgo alguien sabe qué cosa es tanatología
+51:24
+se han secado tiene que ver con estudio la muerte en realidad es la fama en la psicología que trabaja con enfermos
+51:30
+terminales
+51:40
+en esta disciplina se dice que la gente sufre el luto anticipado
+51:46
+cuando una persona está moribunda desahuciada
+51:53
+la familia y el sufren un luto desahuciado por anticipado
+52:01
+en algunos casos sirve para prepararse
+52:06
+pero también hay que hacerlo de una manera adecuada lo que nos dice la gestión de camiones
+52:13
+yendo es que las personas cuando están en este valle de la de esta operación entra en lo que denominamos el lujo
+52:19
+anticipado y hay que sacarlos
+52:26
+y estoy aquí en la estructura del tiempo
+52:31
+y una estructura en cuanto al ciclo de vida muy parecida a la del tiempo solo
+52:37
+qué en vez de cinco grupos de proceso tiene seis
+52:43
+tenemos una fase de inicio y planificación dónde se va a finalmente la obra del
+52:48
+plan estratégico de gestión del cambio tenemos una fase donde vamos a trabajar mucho con identificación de proveedores
+52:55
+asignación de la cultura del producto de la cultura organizacional y al revés
+53:01
+en que vamos a realizar el proyecto e implementar los cambios
+53:07
+decidir si desplegamos el cambio o no usualmente muchos proyectos empiezan con
+53:12
+un piloto y en un momento hay que decidir si desplegamos o no para toda la organización
+53:20
+cerrar el cambio recolectando lecciones aprendidas asegurándonos de que estemos listos para para que el cambio sea
+53:27
+sostenible y con eso garantizamos que el pasear que en el entorno de producción
+53:33
+esto se mantenga pero para lograr esto necesitamos una buena comunicación y es una práctica transversal pero ante todo
+53:39
+el ciclo de venecia en boga necesitamos formar el espíritu de equipo realizamos
+53:45
+dinámicas de refuerzo para que la gente se comprometa con el cambio hablamos de compromiso con el propósito
+53:52
+más que con el objetivo háblanos de un proceso participativo el
+53:58
+que la gente tenga la oportunidad de participar no necesariamente democrático pero sí participativo por lo menos
+54:04
+gestionar los conflictos que esperamos la motivación que tenemos el estrés que tenemos el comportamiento estimulamos la
+54:10
+creatividad porque la razón un cambio proyecto estratégico requiere un cambio de tipo requiere soluciones creativos es
+54:19
+también nos lleva a la innovación pues todo eso está planteado le decimos
+54:24
+como un conjunto de prácticas y la verdad que las empresas que no
+54:30
+quieren cambiar o no están dispuestos a cambiar están condenadas a desaparecer
+54:36
+un ejemplo claro de esto bueno para este ejemplo lo podemos encontrar múltiples empresas que han desaparecido por
+54:42
+transcurrir del tiempo por no querer cambiar su modelo de negocio
+54:47
+un ejemplo característico es por ejemplo corp colas desarrolló la primera cámara
+54:53
+digital en realidad nunca las actual mercado no sé con mucho después podrías un ya
+55:00
+había sacado el azul y la razón de no hacerlo es porque cuando desarrollaron el prototipo
+55:08
+pensaba que tenía una cámara digital haría que dejaran de vender las otras cosas que vendía con los rollos no
+55:16
+parten el espacio de lado el papel fotográfico etcétera etcétera y en ese
+55:21
+momento no me pareció que sería adecuado caso diferente y caso emblemático de
+55:27
+empresa de innovación lo tiene ajo con el desarrollo del iphone el ipad entre otros productos
+55:36
+y en esta línea pues el tema cheech marin y se ofrece
+55:42
+un programa de capacitación y formación y certificación perdón en la gestión del
+55:47
+cambio con tres niveles el primer nivel es el xxi en práctica que es un
+55:55
+básicamente se trata del conocimiento de ley tiempo y las prácticas del ciclo de
+56:01
+vida el segundo nivel es el siguiente si
+56:06
+mantienes manos del proceso que ya está no es una de las actividades sino también de las habilidades
+56:12
+requeridas
+

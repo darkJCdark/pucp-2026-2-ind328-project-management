@@ -1,7 +1,5 @@
-. {
-	. {
-		. 
-	}
+. Video: Una mirada a la Gestión del Cambio{
+	https://www.youtube.com/watch?v=iutR8BCmYU0
 }
 
 . {
