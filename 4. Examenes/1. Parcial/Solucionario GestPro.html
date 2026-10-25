@@ -1,0 +1,829 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Solucionario GestPro</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: cuadernillo de examen — hoja cuadriculada, tinta azul para respuestas, rojo de corrector para errores. Columna única de cards, barra de pestañas fija arriba. */
+:root{
+  --paper:#f6f8fb; --sheet:#ffffff; --grid:#e3e9f2; --ink:#1b2333; --muted:#5b6578;
+  --pen:#2348b8; --pen-soft:#e6ecfb; --ok:#13795b; --ok-soft:#e3f4ec; --red:#c7352b; --red-soft:#fbe9e7;
+  --warn:#9a6400; --warn-soft:#fbf1dc; --line:#d5dce8;
+  --f-display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#11151d; --sheet:#181e29; --grid:#1f2633; --ink:#e4e8f0; --muted:#98a2b5;
+  --pen:#8aa6ff; --pen-soft:#1f2a47; --ok:#4cc79a; --ok-soft:#14302a; --red:#ff7b6e; --red-soft:#3a1d1b;
+  --warn:#e3b55a; --warn-soft:#352a14; --line:#2c3545; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#11151d; --sheet:#181e29; --grid:#1f2633; --ink:#e4e8f0; --muted:#98a2b5;
+  --pen:#8aa6ff; --pen-soft:#1f2a47; --ok:#4cc79a; --ok-soft:#14302a; --red:#ff7b6e; --red-soft:#3a1d1b;
+  --warn:#e3b55a; --warn-soft:#352a14; --line:#2c3545; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.55;
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:22px 22px;background-attachment:fixed}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--sheet)}
+.wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header.top{padding-block:28px 14px}
+.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(28px,5vw,40px);line-height:1.1;margin:.2em 0 .3em;text-wrap:balance;letter-spacing:-.01em}
+.lede{color:var(--muted);max-width:62ch;margin:0}
+
+nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--sheet);border-bottom:1px solid var(--line);box-shadow:0 2px 10px rgba(0,0,0,.04)}
+.tabrow{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.tabrow::-webkit-scrollbar{display:none}
+.tab{appearance:none;border:0;background:none;color:var(--muted);font:600 14px/1 var(--f-display);padding:15px 14px 13px;border-bottom:3px solid transparent;cursor:pointer;white-space:nowrap}
+.tab small{display:block;font:400 11px/1.3 var(--f-mono);margin-top:4px;letter-spacing:.02em}
+.tab[aria-selected="true"]{color:var(--pen);border-bottom-color:var(--pen)}
+.tab:focus-visible,button:focus-visible{outline:2px solid var(--pen);outline-offset:2px}
+
+main{padding-block:20px 60px}
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px;margin-bottom:18px}
+.toolbar .score{margin-left:auto;font-family:var(--f-mono);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.btn{appearance:none;border:1px solid var(--line);background:var(--sheet);color:var(--ink);font:600 13px/1 var(--f-body);padding:9px 12px;border-radius:7px;cursor:pointer}
+.btn:hover{border-color:var(--pen);color:var(--pen)}
+.btn.primary{background:var(--pen);border-color:var(--pen);color:var(--sheet)}
+.btn.primary:hover{color:var(--sheet);filter:brightness(1.08)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{appearance:none;border:1px solid var(--line);background:var(--sheet);color:var(--muted);font:500 12px/1 var(--f-mono);padding:7px 10px;border-radius:99px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--pen-soft);color:var(--pen);border-color:var(--pen)}
+
+.examhead{background:var(--sheet);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin-bottom:18px;display:grid;gap:6px}
+.examhead h2{font:800 22px/1.2 var(--f-display);margin:0}
+.examhead p{margin:0;color:var(--muted);font-size:14.5px}
+.part{font:700 13px/1 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:28px 0 12px;display:flex;align-items:center;gap:10px}
+.part::after{content:"";flex:1;height:1px;background:var(--line)}
+.list{display:grid;gap:14px}
+
+.card{background:var(--sheet);border:1px solid var(--line);border-radius:10px;padding:16px 18px 14px;min-width:0}
+.card.done-ok{border-color:color-mix(in srgb,var(--ok) 55%,var(--line))}
+.card.done-bad{border-color:color-mix(in srgb,var(--red) 55%,var(--line))}
+.qhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 10px;margin-bottom:6px}
+.qnum{font:700 13px/1 var(--f-mono);color:var(--pen)}
+.tag{font:500 11px/1 var(--f-mono);padding:4px 7px;border-radius:5px;background:var(--paper);color:var(--muted);border:1px solid var(--line)}
+.tag.out{background:var(--warn-soft);color:var(--warn);border-color:transparent}
+.tag.src{background:var(--pen-soft);color:var(--pen);border-color:transparent}
+.q{font-size:16.5px;margin:0 0 12px;max-width:70ch}
+.opts{display:grid;gap:7px;margin:0 0 10px;padding:0;list-style:none}
+.opt{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;appearance:none;border:1px solid var(--line);background:var(--sheet);color:var(--ink);font:inherit;font-size:15px;padding:9px 12px;border-radius:8px;cursor:pointer}
+.opt:hover:not(:disabled){border-color:var(--pen);background:var(--pen-soft)}
+.opt:disabled{cursor:default}
+.opt .l{font:700 13px/1.6 var(--f-mono);color:var(--muted);min-width:1.3em}
+.opt.correct{border-color:var(--ok);background:var(--ok-soft)}
+.opt.correct .l{color:var(--ok)}
+.opt.wrong{border-color:var(--red);background:var(--red-soft)}
+.opt.wrong .l{color:var(--red)}
+.opt .mark{margin-left:auto;font:700 12px/1.6 var(--f-mono);white-space:nowrap}
+.opt.correct .mark{color:var(--ok)}
+.opt.wrong .mark{color:var(--red)}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.reveal{appearance:none;border:0;background:none;color:var(--pen);font:600 13.5px/1 var(--f-body);padding:6px 0;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.ans{margin-top:10px;border-top:1px dashed var(--line);padding-top:12px;font-size:15px;min-width:0}
+.verdict{font:700 14px/1.3 var(--f-display);margin:0 0 6px}
+.verdict.ok{color:var(--ok)} .verdict.bad{color:var(--red)} .verdict.neutral{color:var(--pen)}
+.ans p{margin:0 0 8px;max-width:70ch}
+.ans .src{font:400 12.5px/1.5 var(--f-mono);color:var(--muted);margin-top:6px}
+.note{background:var(--warn-soft);color:var(--ink);border-radius:7px;padding:9px 12px;font-size:14px;margin:8px 0}
+.note b{color:var(--warn)}
+.ans h4{font:700 15px/1.3 var(--f-display);margin:14px 0 6px}
+.ans ul,.ans ol{margin:0 0 8px;padding-left:1.3em}
+.ans li{margin:2px 0}
+.tw{overflow-x:auto;margin:6px 0 10px;border:1px solid var(--line);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-size:13.5px;font-variant-numeric:tabular-nums}
+th,td{padding:6px 9px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th{font:600 12px/1.3 var(--f-mono);color:var(--muted);background:var(--paper);text-align:right}
+th:first-child,td:first-child,th.l,td.l{text-align:left}
+tr:last-child td{border-bottom:0}
+tr.crit td{color:var(--pen);font-weight:700}
+tr.total td{font-weight:700;background:var(--pen-soft)}
+.wbs{font-size:14.5px;list-style:none;padding-left:0!important}
+.wbs>li{margin:8px 0}
+.wbs>li>b{font-family:var(--f-display)}
+.wbs ul{list-style:none;padding-left:16px;border-left:2px solid var(--line);margin:4px 0 0 4px}
+.wbs ul ul{border-left-color:var(--pen-soft)}
+.wbs code{font:600 12px var(--f-mono);color:var(--pen);margin-right:6px}
+.net{font:13px/1.7 var(--f-mono);background:var(--paper);border-radius:8px;padding:10px 12px;overflow-x:auto;white-space:pre;margin:6px 0 10px}
+.check{list-style:none;padding-left:0!important}
+.check li::before{content:"✓ ";color:var(--ok);font-weight:700}
+.empty{color:var(--muted);text-align:center;padding:30px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--sheet)}
+.seg button{appearance:none;border:0;background:none;color:var(--muted);font:600 13px/1 var(--f-body);padding:9px 13px;cursor:pointer}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--pen);color:var(--sheet)}
+.deck{display:grid;gap:14px;max-width:680px;margin:0 auto}
+.deckbar{display:flex;align-items:center;gap:12px;font:13px/1 var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.deckbar .pos b{color:var(--pen)}
+.prog{flex:1;height:6px;border-radius:99px;background:var(--grid);overflow:hidden}
+.prog i{display:block;height:100%;background:var(--pen);border-radius:99px;transition:width .2s}
+.flash .card{min-height:340px;padding:22px 22px 18px;box-shadow:0 6px 24px rgba(20,30,60,.08)}
+.flash .q{font-size:18px}
+.decknav{display:flex;gap:8px;justify-content:space-between}
+.decknav .btn{flex:1;padding:12px;font-size:14px}
+.btn:disabled{opacity:.45;cursor:default;pointer-events:none}
+.hint{margin:0;text-align:center;font:12px/1.4 var(--f-mono);color:var(--muted)}
+@media (hover:none){.hint{display:none}}
+.netwrap{overflow-x:auto;margin:6px 0 12px;border:1px solid var(--line);border-radius:8px;background:var(--paper)}
+.net-svg{display:block;max-width:none}
+.netlegend{display:flex;gap:12px;align-items:center;flex-wrap:wrap;font-size:13.5px;color:var(--muted);margin:8px 0 6px}
+.netlegend div{min-width:0;flex:1 1 220px}
+.netlegend b{color:var(--ink)}
+.critkey{color:var(--pen);font-weight:700}
+.nbox{fill:var(--sheet);stroke:var(--line);stroke-width:1.5}
+.nhead{fill:var(--grid)}
+.nt{fill:var(--ink);font:700 12.5px var(--f-mono)}
+.ngrid{stroke:var(--line);stroke-width:1}
+.nv{fill:var(--ink);font:600 13px var(--f-mono)}
+.nv.late{fill:var(--muted)}
+.nh{fill:var(--muted);font:500 11px var(--f-mono)}
+.nh.slack{fill:var(--warn);font-weight:700}
+.nd.crit .nbox{stroke:var(--pen);stroke-width:2.5}
+.nd.crit .nhead{fill:var(--pen)}
+.nd.crit .nt{fill:var(--sheet)}
+.nd.crit .nh{fill:var(--pen)}
+.ne{fill:none;stroke:var(--muted);stroke-width:1.4;opacity:.75}
+.ne.crit{stroke:var(--pen);stroke-width:2.6;opacity:1}
+.ahm{fill:var(--muted)} .ahm.crit{fill:var(--pen)}
+.nlab{fill:var(--red);font:700 11.5px var(--f-mono);paint-order:stroke;stroke:var(--paper);stroke-width:3px}
+@media (max-width:520px){.card{padding:14px 14px 12px}.q{font-size:16px}.toolbar .score{margin-left:0;width:100%}}
+@media (prefers-reduced-motion:no-preference){.ans{animation:fade .18s ease-out}@keyframes fade{from{opacity:.4;transform:translateY(-2px)}to{opacity:1;transform:none}}}
+</style>
+
+<header class="top wrap">
+  <div class="eyebrow">IND328 · Gestión de Proyectos · Examen 1</div>
+  <h1>Solucionario de exámenes pasados</h1>
+  <p class="lede">Responde cada pregunta tocando una opción: verás si acertaste y por qué. Las preguntas abiertas tienen la respuesta oculta hasta que la pidas. Las referencias apuntan a las tarjetas de <b>Parcial_GestPro.html</b>.</p>
+</header>
+<nav class="tabs" aria-label="Exámenes">
+  <div class="wrap tabrow" role="tablist" id="tabs"></div>
+</nav>
+<main class="wrap" id="main"></main>
+
+<script>
+const HTMLSRC = "Parcial_GestPro.html";
+const src = (t) => `Fuente: ${HTMLSRC} · tarjeta ${t}`;
+const OUT = "Fuera del HTML (PMBOK 7)";
+
+/* ---------- helpers para tablas ---------- */
+function table(head, rows, opts={}){
+  const th = head.map((h,i)=>`<th${i===0?' class="l"':''}>${h}</th>`).join("");
+  const tb = rows.map(r=>{
+    const cls = r._cls ? ` class="${r._cls}"` : "";
+    const cells = (r.cells||r).map((c,i)=>`<td${i===0||(opts.left||[]).includes(i)?' class="l"':''}>${c}</td>`).join("");
+    return `<tr${cls}>${cells}</tr>`;
+  }).join("");
+  return `<div class="tw"><table><thead><tr>${th}</tr></thead><tbody>${tb}</tbody></table></div>`;
+}
+const soles = n => "S/ " + n.toLocaleString("es-PE");
+
+/* ---------- diagrama de red con nodos de 4 celdas ---------- */
+function netSVG(nodes, edges){
+  const W=118, TH=26, CH=24, H=TH+2*CH, CS=158, RS=122, PAD=14, GAP=CS-W;
+  const by = Object.fromEntries(nodes.map(n=>[n.id,n]));
+  const pos = n => ({x:PAD+n.c*CS, y:PAD+n.r*RS});
+  const cols = Math.max(...nodes.map(n=>n.c))+1, rows = Math.max(...nodes.map(n=>n.r))+1;
+  const vw = PAD*2 + (cols-1)*CS + W, vh = PAD*2 + (rows-1)*RS + H + 22;
+  let e = "", l = "";
+  edges.forEach(([f,t,lab])=>{
+    const a=by[f], b=by[t], pa=pos(a), pb=pos(b), crit=a.crit&&b.crit;
+    const sx=pa.x+W, sy=pa.y+TH+CH, tx=pb.x-3, ty=pb.y+TH+CH, mx=pb.x-GAP/2;
+    const d = sy===ty ? `M${sx} ${sy} H${tx}` : `M${sx} ${sy} H${mx} V${ty} H${tx}`;
+    e += `<path class="ne ${crit?"crit":""}" d="${d}" marker-end="url(#ah${crit?"c":""})"/>`;
+    if(lab){
+      const lx = sy===ty ? (sx+tx)/2 : mx+6, ly = sy===ty ? sy-7 : (sy+ty)/2+4;
+      l += `<text class="nlab" x="${lx}" y="${ly}" text-anchor="${sy===ty?"middle":"start"}">${lab}</text>`;
+    }
+  });
+  let n = "";
+  nodes.forEach(o=>{
+    const {x,y}=pos(o), h=o.ls-o.es, cx=x+W/2, c=o.crit?"crit":"";
+    n += `<g class="nd ${c}"><title>${o.id} · ${o.name} (${o.d} días)</title>
+      <rect class="nbox" x="${x}" y="${y}" width="${W}" height="${H}" rx="6"/>
+      <rect class="nhead" x="${x}" y="${y}" width="${W}" height="${TH}" rx="6"/>
+      <rect class="nhead" x="${x}" y="${y+TH-6}" width="${W}" height="6"/>
+      <text class="nt" x="${cx}" y="${y+17}" text-anchor="middle">${o.id} · ${o.d} d</text>
+      <line class="ngrid" x1="${x}" y1="${y+TH+CH}" x2="${x+W}" y2="${y+TH+CH}"/>
+      <line class="ngrid" x1="${cx}" y1="${y+TH}" x2="${cx}" y2="${y+H}"/>
+      <text class="nv" x="${x+W/4}" y="${y+TH+16}" text-anchor="middle">${o.es}</text>
+      <text class="nv" x="${x+3*W/4}" y="${y+TH+16}" text-anchor="middle">${o.ef}</text>
+      <text class="nv late" x="${x+W/4}" y="${y+TH+CH+16}" text-anchor="middle">${o.ls}</text>
+      <text class="nv late" x="${x+3*W/4}" y="${y+TH+CH+16}" text-anchor="middle">${o.lf}</text>
+      <text class="nh ${h?"slack":""}" x="${cx}" y="${y+H+15}" text-anchor="middle">${h?`holgura ${h}`:"holgura 0 · crítica"}</text></g>`;
+  });
+  return `<div class="netlegend">
+      <svg width="104" height="62" viewBox="0 0 104 62" aria-hidden="true"><rect class="nbox" x="1" y="1" width="102" height="60" rx="5"/><rect class="nhead" x="1" y="1" width="102" height="20" rx="5"/><rect class="nhead" x="1" y="16" width="102" height="5"/>
+      <text class="nt" x="52" y="15" text-anchor="middle">ID · duración</text><line class="ngrid" x1="1" y1="41" x2="103" y2="41"/><line class="ngrid" x1="52" y1="21" x2="52" y2="61"/>
+      <text class="nv" x="26" y="35" text-anchor="middle">ES</text><text class="nv" x="78" y="35" text-anchor="middle">EF</text><text class="nv late" x="26" y="55" text-anchor="middle">LS</text><text class="nv late" x="78" y="55" text-anchor="middle">LF</text></svg>
+      <div><b>Arriba:</b> inicio y fin más temprano (ES · EF), calculados hacia adelante.<br><b>Abajo:</b> inicio y fin más tarde (LS · LF), calculados hacia atrás.<br><b>Holgura</b> = LS − ES. <span class="critkey">Azul</span>: ruta crítica (holgura 0).</div></div>
+    <div class="netwrap"><svg class="net-svg" viewBox="0 0 ${vw} ${vh}" width="${vw}" height="${vh}" role="img" aria-label="Diagrama de red con fechas tempranas y tardías">
+    <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto"><path class="ahm" d="M0 0L10 5L0 10z"/></marker>
+    <marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto"><path class="ahm crit" d="M0 0L10 5L0 10z"/></marker></defs>
+    ${e}${n}${l}</svg></div>`;
+}
+
+/* Caso A–K (2025-2 y 2026-0): resultados verificados (convención tiempo 0) */
+const AK = [
+ ["A","Inicio y planificación","—",3,1,"Jefe de Proyecto",400, 1,3,1,3,0,0],
+ ["B","Revisión de historias/expedientes físicos","A",10,4,"Técnico Archivero",180, 4,13,4,13,0,0],
+ ["C","Preparación del sistema de escaneo","A",6,2,"Especialista IT",300, 4,9,8,13,4,0],
+ ["D","Escaneo masivo","B, C",20,6,"Operador de Escáner",150, 14,33,14,33,0,0],
+ ["E","Clasificación digital","D",10,4,"Digitador",160, 34,43,34,43,0,0],
+ ["F","Control de calidad","D",8,2,"Supervisor QA",250, 34,41,36,43,2,2],
+ ["G","Carga al nuevo sistema","E, F",8,2,"Especialista IT",300, 44,51,44,51,0,0],
+ ["H","Configuración de accesos","C",6,1,"Especialista IT",300, 10,15,46,51,36,0],
+ ["I","Validación con el área usuaria","G, H",5,2,"Coordinador Técnico",350, 52,56,52,56,0,0],
+ ["J","Capacitación al personal","H",4,1,"Instructor Técnico",200, 16,19,53,56,37,37],
+ ["K","Cierre del proyecto","I, J",3,1,"Jefe de Proyecto",400, 57,59,57,59,0,0],
+];
+AK.forEach(r=>{r[7]--; r[9]--;});  /* ES y LS en tiempo 0: ES = mayor EF de predecesoras */
+const akCrit = new Set(["A","B","D","E","G","I","K"]);
+const akLayout = {A:[0,0],B:[1,0],C:[1,1],D:[2,0],H:[2,2],E:[3,0],F:[3,1],J:[3,3],G:[4,0],I:[5,0],K:[6,0]};
+const akNet = netSVG(
+  AK.map(r=>({id:r[0],name:r[1],d:r[3],es:r[7],ef:r[8],ls:r[9],lf:r[10],crit:akCrit.has(r[0]),c:akLayout[r[0]][0],r:akLayout[r[0]][1]})),
+  [["A","B"],["A","C"],["B","D"],["C","D"],["C","H"],["D","E"],["D","F"],["E","G"],["F","G"],["G","I"],["H","I"],["H","J"],["I","K"],["J","K"]]);
+const TA = [
+  {id:"A0",name:"Plan de Proyecto",d:5,es:0,ef:5,ls:0,lf:5,crit:1,c:0,r:0},
+  {id:"A1",name:"Análisis del sistema actual",d:5,es:5,ef:10,ls:5,lf:10,crit:1,c:1,r:0},
+  {id:"A2",name:"Identificación de áreas de automatización",d:3,es:10,ef:13,ls:10,lf:13,crit:1,c:2,r:0},
+  {id:"A3",name:"Selección de herramientas",d:4,es:13,ef:17,ls:13,lf:17,crit:1,c:3,r:0},
+  {id:"A4",name:"Diseño del nuevo flujo",d:5,es:11,ef:16,ls:12,lf:17,crit:0,c:3,r:1},
+  {id:"A5",name:"Desarrollo de software",d:10,es:17,ef:27,ls:17,lf:27,crit:1,c:4,r:0},
+  {id:"A6",name:"Configuración del sistema",d:7,es:27,ef:34,ls:27,lf:34,crit:1,c:5,r:0},
+  {id:"A7",name:"Pruebas del nuevo sistema",d:5,es:37,ef:42,ls:37,lf:42,crit:1,c:6,r:0},
+  {id:"A8",name:"Capacitación a empleados",d:4,es:27,ef:31,ls:38,lf:42,crit:0,c:5,r:1},
+  {id:"A9",name:"Implementación",d:3,es:42,ef:45,ls:42,lf:45,crit:1,c:7,r:0},
+  {id:"A10",name:"Monitoreo post-implementación",d:7,es:45,ef:52,ls:45,lf:52,crit:1,c:8,r:0}];
+const taNet = netSVG(TA,
+  [["A0","A1"],["A1","A2"],["A2","A3"],["A2","A4","FI −2"],["A3","A5"],["A4","A5"],["A5","A6"],["A5","A8"],["A6","A7","FI +3"],["A7","A9"],["A8","A9"],["A9","A10"]]);
+const akCPM = table(["Act.","Dur.","ES","EF","LS","LF","Holgura total","Holgura libre"],
+  AK.map(r=>({_cls:akCrit.has(r[0])?"crit":"",cells:[r[0],r[3],r[7],r[8],r[9],r[10],r[11],r[12]]})));
+const akCost = (()=>{
+  let tot=0, hh=0;
+  const rows = AK.map(r=>{ const c=r[3]*r[4]*r[6], h=r[3]*r[4]*8; tot+=c; hh+=h;
+    return [r[0], r[5], r[3], r[4], soles(r[6]), h, soles(c)]; });
+  rows.push({_cls:"total",cells:["Total","","","","",hh,soles(tot)]});
+  return table(["Act.","Recurso","Días","Personas","Tarifa diaria","Horas-persona","Costo"],rows,{left:[1]});
+})();
+
+const AKopen = (exam) => [
+ {type:"open", n:"a", pts:"2 pts", q:"Elabore un diagrama de red basado en las relaciones (precedencias) indicadas en la tabla.",
+  a:`<p>Todas las relaciones son <b>Final a Inicio</b> y sin adelantos ni atrasos. Se dibuja con nodos de actividad (AON) y una flecha por cada precedencia. Cada nodo ya lleva sus cuatro fechas, así que el mismo dibujo responde también b, c y d:</p>
+  ${akNet}
+  <p>Comprueba en tu dibujo: D tiene dos flechas de entrada (B y C), G tiene dos (E y F), I tiene dos (G y H), K tiene dos (I y J), y C tiene <b>dos salidas</b> (D y H). Esa doble salida de C es la que más se olvida.</p>
+  <div class="src">${src("5.6 y 6.5")}</div>`},
+ {type:"open", n:"b", pts:"1 pt", q:"Determine la ruta crítica y la duración total estimada del proyecto.",
+  a:`<p><b>Ruta crítica: A → B → D → E → G → I → K</b></p>
+  <p><b>Duración: 59 días</b> (3 + 10 + 20 + 10 + 8 + 5 + 3).</p>
+  <p>Los otros caminos son más cortos: A-C-D-E-G-I-K = 55, A-B-D-F-G-I-K = 57, A-C-H-I-K = 23, A-C-H-J-K = 22.</p>
+  ${akCPM}
+  <p>Convención de tiempo 0 (A va de 0 a 3, B de 3 a 13): ES = mayor EF de las predecesoras; EF = ES + duración. Hacia atrás: LF = menor LS de las sucesoras; LS = LF − duración. Holgura = LS − ES = LF − EF. Como se empieza en 0, no se suma ni resta 1 (tarjeta 6.5).</p>
+  <div class="src">${src("5.9 y 6.5")}</div>`},
+ {type:"open", n:"c", pts:"1 pt", q:"¿Qué actividades tienen holgura? ¿Qué implicancias tiene?",
+  a:`${table(["Act.","Holgura total","Holgura libre","Lectura"],[
+    ["C","4","0","Puede retrasarse 4 días sin mover el fin del proyecto, pero cualquier retraso empuja el inicio de H."],
+    ["F","2","2","Muy poco margen: con más de 2 días de retraso se vuelve crítica y alarga el proyecto."],
+    ["H","36","0","Mucho margen total, pero si se retrasa arrastra a J (su sucesora inmediata)."],
+    ["J","37","37","La más flexible: puede moverse casi 5 semanas sin afectar a nadie."]],{left:[3]})}
+  <h4>Implicancias</h4>
+  <ul>
+   <li>Las actividades con holgura <b>no son críticas</b>: un retraso dentro de su holgura no cambia los 59 días.</li>
+   <li>H y J pueden <b>reprogramarse</b> para estabilizar recursos (por ejemplo, el Especialista IT trabaja en C, G y H; H se puede mover para no sobrecargarlo).</li>
+   <li>F merece seguimiento cercano: con solo 2 días es la siguiente en volverse crítica.</li>
+   <li>Holgura libre ≠ holgura total: C y H tienen holgura total pero holgura libre 0, porque cualquier atraso empuja a su sucesora inmediata.</li>
+  </ul>
+  <div class="src">${src("5.10 y 6.4")}</div>`},
+ {type:"open", n:"d", pts:"1 pt", q:"Si la actividad D se retrasa 3 días, ¿cómo afecta al proyecto?",
+  a:`<p>D está en la ruta crítica (holgura 0). Un retraso de 3 días en D <b>retrasa el proyecto 3 días: pasa de 59 a 62 días</b>.</p>
+  <p>La ruta crítica no cambia. Todas las actividades posteriores a D (E, F, G, I, K) se corren 3 días. Las holguras de H y J aumentan a 39 y 40 días, porque su fecha tardía se corre y su fecha temprana no.</p>
+  <p>Opciones para recuperar los 3 días: <b>crashing</b> en una actividad crítica posterior (por ejemplo, más digitadores en E, a mayor costo) o <b>fast tracking</b> (iniciar E o G en paralelo parcial, con más riesgo de retrabajo).</p>
+  <div class="src">${src("6.2 y 6.5")}</div>`},
+ {type:"open", n:"e", pts:"2 pts", q:"Calcule el costo por actividad y el costo total del proyecto considerando duración, número de personas y jornada de 8 horas.",
+  a:`<p><b>Costo por actividad = días × personas × tarifa diaria.</b> La tarifa ya es diaria, así que la jornada de 8 horas solo sirve para expresar el esfuerzo en horas-persona (días × personas × 8). Si quieres que la jornada aparezca en la fórmula: tarifa por hora = tarifa diaria ÷ 8, y costo = horas-persona × tarifa por hora; el resultado es el mismo.</p>
+  ${akCost}
+  <p><b>Costo total en recursos humanos: S/ 52,500</b> (2,160 horas-persona). D es la actividad más cara (S/ 18,000, 34%): 6 operadores durante 20 días.</p>
+  <div class="src">${src("7.6 y 7.11")}</div>`},
+];
+
+const mgmtWBS = `<li><b>1 · Gestión del proyecto</b><ul>
+  <li><code>1.1</code>Acta de constitución aprobada<ul><li><code>1.1.1</code>Caso de negocio validado</li><li><code>1.1.2</code>Registro de interesados elaborado</li></ul></li>
+  <li><code>1.2</code>Plan del proyecto aprobado<ul><li><code>1.2.1</code>Cronograma y línea base de costos aprobados</li><li><code>1.2.2</code>Plan de riesgos y comunicaciones aprobado</li></ul></li>
+  <li><code>1.3</code>Proyecto cerrado<ul><li><code>1.3.1</code>Informes de desempeño emitidos</li><li><code>1.3.2</code>Acta de cierre y lecciones aprendidas firmadas</li></ul></li></ul></li>`;
+
+const wbsChecklist = `<h4>Lo que se evalúa en una EDT</h4><ul class="check">
+ <li>«Gestión del proyecto» es una de las fases.</li>
+ <li>Las fases son etapas o componentes del producto, no los grupos de procesos (Planificación, Ejecución, Control y Cierre no son fases de la EDT).</li>
+ <li>Entregables y paquetes se nombran como resultado: sustantivo + participio («Prototipo validado»), nunca como acción («Validar prototipo», «Reuniones iniciales»).</li>
+ <li>3 entregables por fase y 2 paquetes por entregable, con numeración jerárquica (1, 1.1, 1.1.1).</li>
+ <li>El último nivel es el paquete de trabajo. Las actividades van en el cronograma, no en la EDT.</li></ul>
+ <div class="src">${src("4.4, 4.5 y 4.6")}</div>`;
+
+const logicEDT = (ctx) => `<p>La EDT es la base de la que salen el cronograma y el presupuesto:</p>
+ <ol>
+  <li><b>Paquete de trabajo → actividades.</b> Cada paquete de la EDT se descompone en actividades (verbos) en el cronograma. Ejemplo: «${ctx}».</li>
+  <li><b>Secuencia.</b> Se definen precedencias (normalmente Final a Inicio) y el tipo de dependencia: obligatoria, discrecional, externa o interna.</li>
+  <li><b>Duración y recursos.</b> Se estima cada actividad (análoga, paramétrica, PERT, juicio experto) y se le asignan recursos.</li>
+  <li><b>Cronograma.</b> Con la red se calcula la ruta crítica, las holguras y la duración total.</li>
+  <li><b>Costos (de abajo hacia arriba).</b> Costo de actividad = duración × recursos × tarifa. Se suma a paquete de trabajo, luego a cuenta de control (entregable) y luego al costo del proyecto. Más la reserva de contingencia da la línea base de costos; más la reserva de gestión da el presupuesto total.</li>
+ </ol>
+ <p>Así se estima de forma <b>ordenada y coherente</b>: cada costo y cada día se rastrea hasta un entregable, nada queda fuera y no se cuela trabajo no planificado (baja corrupción del alcance). Además, el avance se controla por cuenta de control.</p>
+ <div class="src">${src("6.8, 7.6 y 7.7")}</div>`;
+
+/* ================= EXAMEN 2024-2 ================= */
+const E24 = {id:"ex242", label:"Examen 2024-2", sub:"18 oct 2024",
+ head:`<h2>Examen 1 · 2024-2</h2><p>Sección I: 16 preguntas de opción múltiple (0.5 c/u). Sección II: Caso 1 EcoPack (EDT, 5 pts) y Caso 2 TechAutomate (cronograma y costos, 7 pts).</p>`,
+ parts:[
+ {title:"Sección I · Opción múltiple", items:[
+  {k:"caract-proy-24", n:1, q:"No corresponde a las características de un proyecto:",
+   o:["Es un esfuerzo temporal que cuenta con un final","Posee un enfoque gradual, con niveles de esfuerzo menores que se incrementan durante la etapa de ejecución","Genera un producto, servicio o resultado que puede ser 100% igual a otro","Siempre propone un cambio."], a:2,
+   e:"Un proyecto crea algo único (T-U-V: Temporal, Único, Valor). Aunque dos casas se parezcan, cada proyecto tiene otro terreno, otro equipo y otro contexto. El esfuerzo gradual (bajo al inicio, sube en ejecución) y el cambio sí son características.", s:"1.1"},
+  {k:"ciclo-vida", n:2, q:"¿Qué constituye el ciclo de vida de un proyecto?",
+   o:["Conjunto de actividades lógicas que culminan con el desarrollo de un entregable.","Conjunto de etapas por las cuales transita un proyecto, desde su concepción hasta su entrega.","El Ciclo de Vida del Proyecto forma parte del Ciclo de Vida del Producto.","Conjunto de actividades que van a ser ejecutadas siempre por el mismo Equipo de Proyecto."], a:1,
+   e:"El ciclo de vida es la serie de fases que atraviesa el proyecto de inicio a cierre. La opción a describe un paquete de trabajo. La c es cierta en general, pero no define el ciclo de vida.", s:"1.2 y 3.3"},
+  {k:"predictivo-24", n:3, q:"El enfoque de desarrollo Predictivo es principalmente empleado cuando:",
+   o:["Se tiene claridad de lo que se tiene que hacer o entregar junto con los resultados esperados","Se tiene la necesidad de realizar prueba y error para verificar.","Se posee la capacidad de dividir el proyecto en iteraciones y existe incertidumbre por cambios en el proyecto.","Se tiene la posibilidad de combinar un enfoque Iterativo e Incremental"], a:0,
+   e:"Predictivo = cambio bajo y entrega concentrada al final: requisitos estables y alcance claro desde el inicio. Prueba y error es iterativo; iteraciones con incertidumbre es ágil; iterativo + incremental también es ágil.", s:"3.2"},
+  {k:"principios-24", n:4, out:true, q:"No corresponde al listado de Principios para la dirección de proyectos.",
+   o:["Equipo, Liderazgo, Calidad, Complejidad.","Gestión del cambio, Valor, Pensamiento Holístico, Interesados","Adaptabilidad y resiliencia, gestión del cambio, oportunidades y amenazas.","Equipo, Monitoreo Constante, Valor, Pensamiento Sesgado"], a:3,
+   e:"El PMBOK 7 tiene 12 principios: Administración responsable (stewardship), Equipo, Interesados, Valor, Pensamiento sistémico (holístico), Liderazgo, Adaptación (tailoring), Calidad, Complejidad, Riesgo (oportunidades y amenazas), Adaptabilidad y resiliencia, y Cambio. «Monitoreo constante» y «Pensamiento sesgado» no son principios; el pensamiento sesgado es lo contrario del pensamiento holístico.",
+   note:"Tu HTML (tarjeta 2.2) solo trae los 6 principios del PMBOK 2025. Los exámenes preguntan por los 12 del PMBOK 7: memoriza también esa lista.", s:"2.2"},
+  {k:"alcance-24", n:5, q:"¿Cuál es la diferencia sustancial entre el Alcance de Proyecto y Alcance de Producto?",
+   o:["El primero se enfoca en el cómo y el segundo en el qué.","El alcance de proyecto se asocia a determinar las características funcionales, de uso.","El alcance de producto se asocia a determinar las actividades a realizar para su diseño y construcción.","El primero se enfoca en el por qué y el segundo en el cuándo."], a:0,
+   e:"Alcance del proyecto = el trabajo que haremos (cómo). Alcance del producto = las características del resultado (qué). Las opciones b y c intercambian las definiciones.", s:"4.1"},
+  {k:"edt-minima", n:6, q:"Conforme a lo revisado en clase, dentro de una EDT, ¿cuál es el nombre de la unidad mínima de descomposición?",
+   o:["Entregable","Actividades o Tareas.","Paquete de Trabajo","Cuentas de Control"], a:2,
+   e:"El nivel más bajo de la EDT es el paquete de trabajo: se puede planificar, controlar y asignar a un responsable. Las actividades salen después, en el cronograma.", s:"4.5"},
+  {k:"req-negocio", n:7, q:"El Cliente solicita que el proyecto genere una rentabilidad neta del 15% sobre la inversión. Este requisito es:",
+   o:["Requisito de la Solución","Requisito de Transición.","Requisito de Interesados","Requisito de Negocio."], a:3,
+   e:"La rentabilidad es una necesidad de alto nivel de la organización: el porqué del proyecto. Eso lo hace requisito de negocio. Los de solución describen funciones del producto y los de transición, lo necesario para pasar a operación.", s:"4.2"},
+  {k:"edt-except-24", n:8, q:"Todos los siguientes enunciados sobre estructuras de desglose del trabajo son ciertos EXCEPTO:",
+   o:["Ayudan a organizar el trabajo","Son siempre creadas por el director del proyecto","Proveen una base para estimar el proyecto","Evitan que el trabajo se vaya de las manos"], a:1,
+   e:"La EDT se construye con el equipo y con juicio experto, no la arma solo el director. La palabra «siempre» suele delatar la opción falsa.", s:"4.5 y 5.5"},
+  {k:"analoga-24", n:9, q:"En un proyecto anterior, tres compañeros hicieron un trabajo similar para una empresa más pequeña en un mes. Ajustas por tamaño y estimas cinco semanas. ¿Qué técnica es?",
+   o:["Juicio experto.","Estimación análoga.","Estimación por tres valores (PERT).","Planning Poker."], a:1,
+   e:"Tomas un proyecto anterior parecido y lo ajustas: estimación análoga.", s:"5.8"},
+  {k:"poker", n:10, q:"Cada miembro elige en secreto una carta con puntos de esfuerzo, se revelan a la vez y se discuten las diferencias hasta el consenso. ¿Qué técnica es?",
+   o:["Juicio experto.","Estimación análoga.","Estimación por tres valores (PERT).","Planning Poker."], a:3,
+   e:"Cartas, revelación simultánea y consenso: Planning Poker, la estimación colaborativa y relativa de los equipos ágiles.", s:"5.8"},
+  {k:"dep-oblig", n:11, q:"La estructura del edificio debe completarse antes de instalar el techo; no se puede cambiar por regulaciones de seguridad. ¿Qué tipo de dependencia es?",
+   o:["Dependencias obligatorias.","Dependencias discrecionales.","Dependencias externas.","Dependencias internas."], a:0,
+   e:"La exige la naturaleza física del trabajo y una regulación: es obligatoria (como «no hay pared sin cimientos»).", s:"5.7"},
+  {k:"fi", n:12, q:"La fase de pruebas debe completarse antes de lanzar la app al público. ¿Qué relación de dependencia hay?",
+   o:["Final a final.","Comienzo a final.","Final a inicio.","Comienzo a comienzo."], a:2,
+   e:"Una termina (pruebas) y recién entonces inicia la otra (lanzamiento): Final a Inicio, la relación más común.", s:"5.6"},
+  {k:"hund-calidad", n:13, q:"La empresa gasta dinero en prototipos que ya no se usarán y también invierte en mejora continua de la calidad. ¿Cómo se clasifican estos costos?",
+   o:["Costos Hundidos.","Costos de la Calidad.","Costos Fijos.","a y b."], a:3,
+   e:"Los prototipos descartados son costo hundido: ya se gastó y no se recupera. La mejora continua es costo de la calidad (prevención). Son dos costos distintos, así que van ambos.", s:"7.3 y 7.4"},
+  {k:"juicio-hist", n:14, q:"El equipo usa datos de proyectos anteriores y consulta con expertos para estimar costos y definir el presupuesto. ¿Qué técnicas usan?",
+   o:["Juicio de expertos.","Relaciones históricas.","a y b.","Agregación de costos."], a:2,
+   e:"«Datos de proyectos anteriores» = relaciones históricas; «consulta con expertos» = juicio de expertos. Se usan las dos.", s:"7.8"},
+  {k:"reservas", n:15, q:"Se establece una reserva de gestión para imprevistos generales y una de contingencia para riesgos específicos identificados. ¿Qué afirmación es correcta?",
+   o:["La reserva de gestión se utiliza solo para costos directos del proyecto.","La reserva de contingencia se destina a cubrir riesgos conocidos y específicos.","Ambas reservas se utilizan para imprevistos y se gestionan de la misma manera.","La reserva de gestión se usa para riesgos específicos, mientras que la reserva de contingencia es para imprevistos generales."], a:1,
+   e:"Contingencia = lo que Conozco (riesgos identificados, dentro de la línea base). Gestión = la sorpresa que le toca a la Gerencia (fuera de la línea base). La d invierte las dos.", s:"7.5"},
+  {k:"ent-act", n:16, q:"El equipo identifica entregables, actividades, recursos y costos. ¿Qué afirmación describe correctamente la relación?",
+   o:["Los costos representan los entregables finales del proyecto.","Los recursos determinan cómo se definirán las actividades del proyecto.","Los entregables definen qué recursos se utilizarán para realizar las actividades.","Las actividades describen lo que debemos hacer para alcanzar los entregables."], a:3,
+   e:"La cadena es Entregable (qué) → Actividades (cómo) → Recursos (con qué) → Costos (cuánto). Las actividades son el trabajo para lograr el entregable.", s:"7.6"},
+ ]},
+ {title:"Sección II · Caso 1: EcoPack Solutions (EDT)", items:[
+  {type:"open", n:"a", pts:"1 pt", q:"Defina el propósito del proyecto: nueva línea de producción de envases biodegradables con materiales reciclados (maquinaria, procesos sostenibles y capacitación).",
+   a:`<p><b>Propósito:</b> diseñar e implementar una nueva línea de producción de envases biodegradables elaborados con materiales reciclados, para reducir el impacto ambiental de EcoPack, atender la demanda de clientes que exigen empaques sostenibles y cumplir las nuevas normativas ambientales.</p>
+   <p>Un buen propósito dice <b>para qué</b> existe el proyecto. La justificación (el porqué: regulaciones más estrictas y conciencia ambiental) se puede añadir en una línea, pero no la confundas con el propósito.</p>
+   <div class="src">${src("3.7")}</div>`},
+  {type:"open", n:"b", pts:"1 pt", q:"Divida el proyecto en un mínimo de 4 fases, incluida Gestión de Proyectos.",
+   a:`<ol><li>Gestión del proyecto</li><li>Diseño del producto y de la línea</li><li>Maquinaria e instalación</li><li>Procesos sostenibles y personal</li></ol>
+   <p>Las fases salen del propio enunciado: maquinaria, procesos sostenibles y capacitación, más el diseño que va antes y la gestión que cubre todo.</p>`},
+  {type:"open", n:"c", pts:"3 pts", q:"Determine por cada fase 3 entregables (cuentas de control) y 2 paquetes de trabajo por cada entregable.",
+   a:`<ul class="wbs">${mgmtWBS}
+   <li><b>2 · Diseño del producto y de la línea</b><ul>
+    <li><code>2.1</code>Envase biodegradable diseñado<ul><li><code>2.1.1</code>Especificación de materiales reciclados aprobada</li><li><code>2.1.2</code>Prototipo de envase validado</li></ul></li>
+    <li><code>2.2</code>Línea de producción diseñada<ul><li><code>2.2.1</code>Layout de planta aprobado</li><li><code>2.2.2</code>Especificaciones técnicas de maquinaria definidas</li></ul></li>
+    <li><code>2.3</code>Cumplimiento normativo verificado<ul><li><code>2.3.1</code>Matriz de normativa ambiental elaborada</li><li><code>2.3.2</code>Permisos y certificaciones ambientales obtenidos</li></ul></li></ul></li>
+   <li><b>3 · Maquinaria e instalación</b><ul>
+    <li><code>3.1</code>Maquinaria adquirida<ul><li><code>3.1.1</code>Proveedor seleccionado y contrato firmado</li><li><code>3.1.2</code>Maquinaria recibida e inspeccionada</li></ul></li>
+    <li><code>3.2</code>Línea instalada<ul><li><code>3.2.1</code>Obras civiles y eléctricas concluidas</li><li><code>3.2.2</code>Maquinaria montada y conectada</li></ul></li>
+    <li><code>3.3</code>Línea probada<ul><li><code>3.3.1</code>Pruebas en vacío aprobadas</li><li><code>3.3.2</code>Lote piloto producido y aprobado</li></ul></li></ul></li>
+   <li><b>4 · Procesos sostenibles y personal</b><ul>
+    <li><code>4.1</code>Procesos sostenibles documentados<ul><li><code>4.1.1</code>Procedimientos operativos estándar aprobados</li><li><code>4.1.2</code>Plan de gestión de residuos y reciclaje aprobado</li></ul></li>
+    <li><code>4.2</code>Personal capacitado<ul><li><code>4.2.1</code>Programa de capacitación en prácticas ecológicas diseñado</li><li><code>4.2.2</code>Operarios capacitados y evaluados</li></ul></li>
+    <li><code>4.3</code>Línea en operación<ul><li><code>4.3.1</code>Producción inicial supervisada</li><li><code>4.3.2</code>Línea transferida a operaciones</li></ul></li></ul></li></ul>
+   ${wbsChecklist}`},
+ ]},
+ {title:"Sección II · Caso 2: TechAutomate (cronograma y costos)", items:[
+  {type:"open", n:"a", pts:"1 pt", q:"Determine el esfuerzo requerido (horas-persona) por cada actividad.",
+   a:`<p><b>Esfuerzo (HH) = duración en días × cantidad de personas × 8 horas.</b></p>
+   ${table(["Act.","Descripción","Días","Personas","Horas-persona"],[
+     ["A0","Plan de Proyecto",5,1,40],["A1","Análisis del sistema actual",5,2,80],["A2","Identificación de áreas de automatización",3,1,24],
+     ["A3","Selección de herramientas",4,1,32],["A4","Diseño del nuevo flujo",5,2,80],["A5","Desarrollo de software",10,3,240],
+     ["A6","Configuración del sistema",7,1,56],["A7","Pruebas del nuevo sistema",5,2,80],["A8","Capacitación a empleados",4,1,32],
+     ["A9","Implementación",3,1,24],["A10","Monitoreo post-implementación",7,1,56],{_cls:"total",cells:["Total","","","",744]}],{left:[1]})}
+   <p>El enunciado no dice cuántas horas tiene la jornada; se asume la jornada estándar de 8 horas (la que usan los exámenes 2025-2 y 2026-0). Escribe ese supuesto en tu respuesta.</p>
+   <div class="src">${src("7.6")}</div>`},
+  {type:"open", n:"b", pts:"1 pt", q:"Identifique la ruta crítica.",
+   a:`${taNet}
+   <p><b>Ruta crítica: A0 → A1 → A2 → A3 → A5 → A6 → A7 → A9 → A10</b></p>
+   <p>Cómo leer el adelanto y el atraso:</p>
+   <ul><li><b>A4 con adelanto de 2 días:</b> empieza 2 días antes de que termine A2 (FI − 2). Así A4 va de 11 a 16 y A3 de 13 a 17: manda A3, que termina después.</li>
+   <li><b>A7 con atraso de 3 días:</b> espera 3 días después de terminar A6 (FI + 3). Esos 3 días cuentan en la duración aunque nadie trabaje.</li></ul>
+   <div class="src">${src("5.7 y 6.5")}</div>`},
+  {type:"open", n:"c", pts:"1 pt", q:"Indique la duración del proyecto.",
+   a:`<p><b>52 días.</b></p>
+   <p>Suma de la ruta crítica: 5 + 5 + 3 + 4 + 10 + 7 + <b>3 (atraso)</b> + 5 + 3 + 7 = 52. El error típico es olvidar el atraso de 3 días y responder 49.</p>`},
+  {type:"open", n:"d", pts:"2 pts", q:"Indique la holgura de cada actividad.",
+   a:`${table(["Act.","Dur.","ES","EF","LS","LF","Holgura"],TA.map(n=>({_cls:n.crit?"crit":"",cells:[n.id,n.d,n.es,n.ef,n.ls,n.lf,n.ls-n.es]})))}
+   <p><b>Solo dos actividades tienen holgura: A4 = 1 día y A8 = 11 días.</b> Las demás son críticas.</p>
+   <p>Convención de tiempo 0: ES = mayor EF de las predecesoras (± adelanto/atraso), EF = ES + duración; hacia atrás, LF = menor LS de las sucesoras, LS = LF − duración.</p>
+   <ul><li>A4: ES = EF(A2) − 2 = 13 − 2 = 11, EF = 16. LF = LS(A5) = 17, LS = 12. Holgura = LS − ES = 12 − 11 = 1.</li>
+   <li>A7: ES = EF(A6) + 3 = 34 + 3 = 37, EF = 42. Hacia atrás, LF(A6) = LS(A7) − 3 = 37 − 3 = 34.</li>
+   <li>A8: puede terminar hasta el día 42 (A9 empieza en 42), pero termina en 31: holgura 11.</li></ul>
+   <div class="src">${src("6.5 y 5.10")}</div>`},
+  {type:"open", n:"e", pts:"2 pts", q:"Determine el costo que se incurrirá en recursos humanos.",
+   a:`<p><b>Costo = días × personas × tarifa diaria.</b></p>
+   ${table(["Act.","Recurso","Días","Personas","Tarifa diaria","Costo"],[
+     ["A0","Jefe de Proyecto",5,1,400,soles(2000)],["A1","Analista de procesos",5,2,300,soles(3000)],["A2","Ing. de automatización",3,1,350,soles(1050)],
+     ["A3","Consultor tecnológico",4,1,400,soles(1600)],["A4","Analista de procesos",5,2,300,soles(3000)],["A5","Desarrollador",10,3,250,soles(7500)],
+     ["A6","Ingeniero de sistemas",7,1,300,soles(2100)],["A7","Tester de calidad",5,2,250,soles(2500)],["A8","Entrenador técnico",4,1,150,soles(600)],
+     ["A9","Ing. de automatización",3,1,350,soles(1050)],["A10","Ing. de automatización",7,1,350,soles(2450)],{_cls:"total",cells:["Total","","","","",soles(26850)]}],{left:[1]})}
+   <p><b>Costo total en recursos humanos: 26,850</b> (el enunciado no indica moneda). Los 3 días de atraso antes de A7 no generan costo: es tiempo de espera, sin recurso asignado.</p>
+   <div class="src">${src("7.6")}</div>`},
+ ]}
+]};
+
+/* ================= EXAMEN 2025-2 ================= */
+const E25 = {id:"ex252", label:"Examen 2025-2", sub:"17 oct 2025",
+ head:`<h2>Examen 1 · 2025-2</h2><p>Parte 1: 16 preguntas de opción múltiple (0.5 c/u). Parte 2: caso App Recicla+ (EDT). Parte 3: caso Digitalización de archivos públicos (ruta crítica y costos). Las respuestas salen de la teoría de tu HTML. El PDF trae también la hoja resuelta de un alumno; no se usó como clave porque tiene errores.</p>`,
+ parts:[
+ {title:"Parte 1 · Opción múltiple", items:[
+  {k:"caract-proy-25", n:1, q:"No corresponde a las características de un proyecto:",
+   o:["Es un esfuerzo temporal sin fecha final definida","Posee un enfoque gradual, con niveles de esfuerzo menores que se incrementan durante la etapa de ejecución","Genera un producto, servicio o resultado que puede ser 100% igual a otro","Opciones A y B"], a:2,
+   e:"Un proyecto es un esfuerzo temporal para crear algo único (T-U-V). La opción c contradice la unicidad. La b sí es una característica: el esfuerzo empieza bajo y crece en la ejecución.",
+   note:"Pregunta mal construida: la opción a también contradice la teoría, porque «temporal» significa que tiene un final definido. Como no existe la opción «a y c», marca c (es la misma pregunta del 2024-2 y del 2026-0, donde no hay ambigüedad) y, si el examen lo permite, deja una nota explicando que a también es incorrecta.", s:"1.1"},
+  {k:"ciclo-vida", n:2, q:"Es el conjunto de etapas por las cuales transita un proyecto, desde su concepción hasta su entrega; esta definición corresponde a:",
+   o:["Estructura de Descomposición de Trabajo (EDT).","Ciclo de Vida del Proyecto.","Un Proyecto.","La Ruta Crítica."], a:1,
+   e:"Etapas de inicio a cierre = ciclo de vida del proyecto.", s:"3.3"},
+  {k:"agil-no", n:3, q:"Sobre el enfoque de desarrollo Ágil, no es recomendable emplearlo cuando:",
+   o:["Se tiene claridad de lo que se tiene que hacer o entregar junto con los resultados esperados","Se tiene la necesidad de realizar prueba y error para verificar.","Se posee la capacidad de dividir el proyecto en iteraciones y existe incertidumbre por cambios en el proyecto.","Se tiene la posibilidad de combinar un enfoque Iterativo e Incremental"], a:0,
+   e:"Si todo está claro y estable, conviene el enfoque predictivo. Ágil sirve cuando hay mucho cambio y entregas frecuentes.", s:"3.2"},
+  {k:"principios-25", n:4, out:true, q:"Corresponde al listado de Principios para la dirección de proyectos.",
+   o:["Equipo, Liderazgo, Calidad, Comp…dad (palabra rota en el PDF)","Gestión del cambio, Valor, Pensamiento Sesgado, Interesados","Equipo, Monitoreo Constante, Valor, Pensamiento Sesgado","Adaptabilidad y resiliencia, gestión de las oportunidades, integridad."], a:0,
+   e:"Equipo, Liderazgo, Calidad y Complejidad son los cuatro principios del PMBOK 7, y Liderazgo y Calidad también están entre los 6 de tu HTML. La d mezcla un principio (Adaptabilidad y resiliencia) con cosas que no lo son: la «integridad» es una cualidad dentro del principio de Liderazgo, no un principio aparte. b y c incluyen «Pensamiento sesgado» y «Monitoreo constante», que no son principios.",
+   note:"La última palabra de la opción a está rota en el PDF. En el examen 2024-2 la misma lista aparece como «Equipo, Liderazgo, Calidad, Complejidad», así que se asume que dice Complejidad. La hoja del alumno marca d, pero eso no coincide con la teoría.", s:"2.2"},
+  {k:"alcance-25", n:5, q:"Respecto al Alcance de Proyecto y Alcance de Producto, ¿qué opción es verdadera?",
+   o:["El alcance de proyecto se asocia a determinar las características funcionales, de uso.","El alcance de producto se asocia a determinar las actividades a realizar para su diseño y construcción.","El primero se enfoca en el por qué y el segundo en el cuándo.","Ninguna de las anteriores."], a:3,
+   e:"a y b intercambian las definiciones (el proyecto es el trabajo; el producto, las características). c no tiene sentido. Por eso: ninguna.", s:"4.1"},
+  {k:"edt-nivel1", n:6, q:"Dentro de una EDT, el primer nivel de descomposición puede estar basado en:",
+   o:["Fases","Grandes Entregables.","Subproyectos.","Todas las anteriores"], a:3,
+   e:"El primer nivel se puede organizar por fases del ciclo de vida, por entregables principales o por subproyectos. Todas son válidas.", s:"4.5"},
+  {k:"req-trans", n:7, q:"El cliente pide documentación completa, usuarios bien entrenados y datos maestros correctamente migrados. Estos requisitos se asocian con:",
+   o:["Requisitos de la Solución","Requisitos de Transición.","Requisitos de Interesados","Requisitos de Negocio."], a:1,
+   e:"Capacitación, migración de datos y documentación son lo necesario para pasar del estado actual al nuevo: requisitos de transición. Los de solución describen qué hace el producto.", s:"4.2"},
+  {k:"edt-except-25", n:8, q:"Todos los siguientes enunciados sobre estructuras de desglose del trabajo son ciertos EXCEPTO:",
+   o:["Ayudan a organizar el trabajo","Se pueden incluir actividades como último nivel de descomposición","Proveen una base para estimar el proyecto","Evitan que el trabajo se vaya de las manos"], a:1,
+   e:"El último nivel de la EDT es el paquete de trabajo; las actividades van al cronograma.", s:"4.5 y 5.3"},
+  {k:"sin-hist", n:9, q:"En un proyecto donde no se tiene información de proyectos anteriores, ¿cuál sería el método de estimación más adecuado?",
+   o:["Análoga","Juicio Experto","Paramétrica","Planning poker"], a:1,
+   e:"La análoga y la paramétrica necesitan datos de proyectos anteriores (un proyecto parecido o una tasa conocida). Sin historia, se consulta a quien sabe: juicio experto. El Planning Poker es una técnica de equipos ágiles para estimar esfuerzo relativo en puntos, no el método general cuando faltan datos.", s:"5.8"},
+  {k:"pert", n:10, q:"Si todo sale bien la tarea dura 6 días, con muchos problemas 18, y lo más probable es 9. ¿Qué duración usaría para el cronograma?",
+   o:["6","9","10","18"], a:2,
+   e:"PERT = (O + 4M + P) ÷ 6 = (6 + 4·9 + 18) ÷ 6 = 60 ÷ 6 = 10 días.", s:"5.9"},
+  {k:"red-4", n:11, q:"Una red tiene 4 actividades A, B, C y D; el proyecto dura 20 días, A, B y C están en la ruta crítica y D tiene 2 días de holgura total. ¿Cuál es correcta?",
+   o:["La actividad D tiene un inicio temprano en el día 18","La actividad C tiene holgura 0","Si la actividad D se retrasa dos días el proyecto es más riesgoso","B y C"], a:3,
+   e:"b es cierta: toda actividad de la ruta crítica tiene holgura 0. c también es cierta: si D se retrasa 2 días consume toda su holgura y se vuelve crítica. La fecha final no cambia, pero ahora hay dos caminos críticos y cualquier retraso en cualquiera de ellos mueve el fin del proyecto, así que el riesgo aumenta. La a no se puede afirmar con los datos.",
+   note:"La hoja del alumno marca b. Según la teoría, la mejor respuesta es d, porque b y c son ciertas a la vez.", s:"5.10 y 6.1"},
+  {k:"holg-falsa", n:12, q:"¿Cuál es la afirmación falsa?",
+   o:["La holgura libre es igual a la holgura total","La holgura se obtiene del análisis del diagrama de red","El método de camino crítico permite hacer frente a la incertidumbre","Las actividades que no forman parte de la ruta crítica siempre tienen holgura."], a:0,
+   e:"La holgura libre mide el retraso posible sin afectar a la sucesora; la total, sin afectar al proyecto. La libre es menor o igual que la total, no siempre igual (en el caso A–K, H tiene total 36 y libre 0).", s:"5.10"},
+  {k:"hundido", n:13, q:"Al recuperar un proyecto que estuvo paralizado, los gastos incurridos previamente se consideran costos:",
+   o:["De oportunidad","Hundidos","Variables","Indirectos"], a:1,
+   e:"Ya se gastaron y no se recuperan: costo hundido. «Agua pasada no mueve molino»: no debe influir en la decisión de seguir.", s:"7.3"},
+  {k:"param", n:14, q:"Para calcular el costo de una obra se toma información histórica para identificar el costo por metro cuadrado. ¿Qué estimación es?",
+   o:["Por analogía","Juicio Experto","Paramétrica","Ascendente"], a:2,
+   e:"Costo por m² × cantidad de m² es una tasa unitaria × cantidad: estimación paramétrica. Que use datos históricos no la convierte en análoga; la análoga copia un proyecto completo parecido.", s:"5.8 y 7.2"},
+  {k:"lb-except", n:15, q:"La línea base de costos incluye todo lo siguiente excepto:",
+   o:["Reserva de contingencia","Costo de los paquetes de trabajo","Costos de gestión","Reserva de gestión"], a:3,
+   e:"La reserva de gestión está fuera de la línea base y se suma después para llegar al presupuesto total. La de contingencia sí está dentro.", s:"7.5 y 7.9"},
+  {k:"tipo-cambio", n:16, q:"En la última revisión de estado se detecta que los costos subieron por una variación en el tipo de cambio. ¿Cuál debería ser su primera acción?",
+   o:["Solicitar una ampliación presupuestal","Modificar el plan de adquisiciones para comprar a proveedores locales","Evaluar el impacto sobre el presupuesto general del proyecto","Actualizar la curva S"], a:2,
+   e:"Antes de pedir dinero, cambiar el plan o tocar la línea base, primero mides el impacto. Cualquier cambio posterior a la línea base pasa por el control integrado de cambios.", s:"3.8 y 7.10"},
+ ]},
+ {title:"Parte 2 · Caso App Recicla+ (EDT)", items:[
+  {type:"open", n:"a", pts:"1 pt", q:"Redacte el objetivo general del proyecto y explique por qué resulta valioso para la comunidad universitaria.",
+   a:`<p><b>Objetivo general:</b> diseñar, desarrollar y validar con usuarios reales un prototipo funcional de la app Recicla+, que permita a los estudiantes registrar los materiales que reciclan, acumular puntos y canjearlos por beneficios en las cafeterías del campus, antes del evento final del Concurso de Innovación Sostenible PUCP 2025.</p>
+   <p><b>Por qué es valioso:</b> convierte el reciclaje en un hábito con incentivo inmediato, reduce los residuos que llegan a la basura común del campus, suma a las cafeterías como aliadas y genera datos medibles (kilos reciclados, usuarios activos) que la universidad puede usar en sus metas de sostenibilidad.</p>
+   <p>Fíjate que el objetivo incluye el <b>qué</b> (prototipo funcional validado), el <b>para quién</b> y el <b>cuándo</b> (antes del evento final). Eso lo hace medible.</p>`},
+  {type:"open", n:"b", pts:"1 pt", q:"Plantee la estructura principal del proyecto, indicando al menos cuatro fases o componentes, incluyendo la fase de Gestión del Proyecto.",
+   a:`<ol><li>Gestión del proyecto</li><li>Investigación y diseño</li><li>Desarrollo del prototipo</li><li>Validación y presentación</li></ol>
+   <div class="note"><b>Trampa:</b> la hoja del alumno usa «Planeamiento, Ejecución, Control, Cierre» como fases. Según la teoría eso está mal: son grupos de procesos (tarjeta 1.7), no fases ni entregables de la EDT, y además falta «Gestión del proyecto» como fase.</div>`},
+  {type:"open", n:"c", pts:"3 pts", q:"Desarrolle la EDT hasta el nivel de paquete de trabajo, con al menos tres entregables por fase y dos paquetes por entregable.",
+   a:`<ul class="wbs">${mgmtWBS}
+   <li><b>2 · Investigación y diseño</b><ul>
+    <li><code>2.1</code>Necesidades de usuarios identificadas<ul><li><code>2.1.1</code>Encuesta a estudiantes aplicada</li><li><code>2.1.2</code>Informe de hallazgos elaborado</li></ul></li>
+    <li><code>2.2</code>Modelo de puntos y canje definido<ul><li><code>2.2.1</code>Reglas de puntaje aprobadas</li><li><code>2.2.2</code>Acuerdos con cafeterías firmados</li></ul></li>
+    <li><code>2.3</code>Diseño UX/UI aprobado<ul><li><code>2.3.1</code>Flujos de usuario diseñados</li><li><code>2.3.2</code>Prototipo navegable validado</li></ul></li></ul></li>
+   <li><b>3 · Desarrollo del prototipo</b><ul>
+    <li><code>3.1</code>Módulo de registro de reciclaje desarrollado<ul><li><code>3.1.1</code>Registro por código QR implementado</li><li><code>3.1.2</code>Validación de material implementada</li></ul></li>
+    <li><code>3.2</code>Módulo de puntos y canje desarrollado<ul><li><code>3.2.1</code>Billetera de puntos implementada</li><li><code>3.2.2</code>Canje por cupón implementado</li></ul></li>
+    <li><code>3.3</code>Backend y base de datos implementados<ul><li><code>3.3.1</code>Modelo de datos implementado</li><li><code>3.3.2</code>Panel para cafeterías desarrollado</li></ul></li></ul></li>
+   <li><b>4 · Validación y presentación</b><ul>
+    <li><code>4.1</code>Piloto con usuarios reales ejecutado<ul><li><code>4.1.1</code>Usuarios piloto reclutados</li><li><code>4.1.2</code>Métricas de uso recolectadas</li></ul></li>
+    <li><code>4.2</code>Prototipo ajustado<ul><li><code>4.2.1</code>Informe de pruebas de usabilidad elaborado</li><li><code>4.2.2</code>Mejoras implementadas</li></ul></li>
+    <li><code>4.3</code>Presentación del concurso entregada<ul><li><code>4.3.1</code>Pitch y demo preparados</li><li><code>4.3.2</code>Prototipo presentado en el evento final</li></ul></li></ul></li></ul>
+   ${wbsChecklist}`},
+  {type:"open", n:"d", pts:"1 pt", q:"Explique la lógica que sigue la EDT para construir el cronograma y el presupuesto del proyecto.",
+   a: logicEDT("3.2.1 Billetera de puntos implementada → diseñar el modelo de puntos, programar el servicio, probar la acumulación")},
+ ]},
+ {title:"Parte 3 · Caso Digitalización de archivos públicos", items: AKopen("25")}
+]};
+
+/* ================= EXAMEN 2026-0 ================= */
+const E26 = {id:"ex260", label:"Examen 2026-0", sub:"04 feb 2026",
+ head:`<h2>Examen 1 · 2026-0</h2><p>Parte 1: 14 preguntas de opción múltiple (0.5 c/u). Parte 2: caso Nuevo sistema para Elecciones 2026 (EDT, 6 pts). Parte 3: caso Historia Clínica en una red de clínicas (7 pts). <b>La tabla de la Parte 3 es idéntica a la del examen 2025-2</b>; solo cambia el contexto.</p>`,
+ parts:[
+ {title:"Parte 1 · Opción múltiple", items:[
+  {k:"predictivo-26", n:1, q:"Una de las características del Enfoque Predictivo es:",
+   o:["Se emplea cuando la posibilidad de cambio es baja dado que se cuenta con un alcance bien definido y la entrega es una única vez","Se emplea bajo un escenario de alta incertidumbre.","Ayuda a predecir lo que el proyecto entregará considerando una tasa de cambio alta y entregas múltiples.","Se tiene la posibilidad de combinar un enfoque Incremental con fast-tracking"], a:0,
+   e:"Predictivo = cambio bajo + entrega baja (una sola, al final). Alta incertidumbre o entregas múltiples apuntan a ágil o incremental.", s:"3.2"},
+  {k:"caract-proy-24", n:2, q:"No corresponde a las características de un proyecto:",
+   o:["Es un esfuerzo temporal que cuenta con un final","Posee un enfoque gradual, con niveles de esfuerzo menores que se incrementan durante la etapa de ejecución","Genera un producto, servicio o resultado que puede ser 100% igual a otro","Siempre propone un cambio."], a:2,
+   e:"Un proyecto crea algo único. Es la misma pregunta del 2024-2.", s:"1.1"},
+  {k:"alcance-26", n:3, q:"¿Cuál es la diferencia entre el Alcance de Proyecto y Alcance de Producto?",
+   o:["El alcance de proyecto se asocia a determinar el presupuesto y cronograma","El alcance de producto se asocia a determinar la lista de materiales.","El primero se enfoca en el por qué y el segundo en el cuándo.","El alcance de proyecto se enfoca en el cómo y el de producto en el qué."], a:3,
+   e:"Proyecto = el trabajo (cómo); producto = las características del resultado (qué). La a es incompleta: el alcance del proyecto abarca todo el trabajo, no solo presupuesto y cronograma.", s:"4.1"},
+  {k:"edt-except-26", n:4, q:"Todos los siguientes enunciados sobre estructuras de desglose del trabajo son ciertos EXCEPTO:",
+   o:["Ayudan a organizar el trabajo","Su último nivel de descomposición son las actividades","Proveen una base para estimar y controlar el proyecto","Permiten evidenciar el Alcance del Proyecto"], a:1,
+   e:"El último nivel es el paquete de trabajo. Esta trampa aparece en los tres exámenes con distinta redacción.", s:"4.5"},
+  {k:"descomp", n:5, out:true, q:"¿Qué herramienta o técnica es la más adecuada para la identificación de tareas en la gestión del cronograma?",
+   o:["Ruta crítica","Descomposición","Método Delphi","Matriz de trazabilidad"], a:1,
+   e:"Las actividades se identifican descomponiendo los paquetes de trabajo. La ruta crítica sirve para calcular la duración; el método Delphi es una técnica de consenso anónimo entre expertos (rondas de cuestionarios) para estimar o identificar riesgos; la matriz de trazabilidad vincula requisitos con objetivos.",
+   note:"El método Delphi no aparece en tu HTML. Basta con saber que es juicio experto anónimo en varias rondas.", s:"5.5"},
+  {k:"red", n:6, out:true, q:"¿Qué tipo de diagrama se utiliza para mostrar visualmente la secuencia lógica de actividades, incluyendo relaciones de precedencia?",
+   o:["Gantt","Diagrama de red","Matriz de riesgos","Árbol de decisiones"], a:1,
+   e:"El diagrama de red (método de diagramación por precedencia, AON) muestra las actividades y sus dependencias. El Gantt muestra duraciones en un calendario con barras; puede mostrar vínculos, pero su propósito es el tiempo, no la lógica.",
+   note:"El HTML menciona el diagrama de red (tarjetas 5.6 y 6.1) pero no compara con Gantt.", s:"5.6 y 6.1"},
+  {k:"aprueba-crono", n:7, out:true, q:"¿Quién debe aprobar formalmente el cronograma del proyecto?",
+   o:["El equipo de proyecto","El líder funcional","El patrocinador del proyecto (Project Sponsor)","El PMO"], a:2,
+   e:"La línea base del cronograma se aprueba formalmente por el patrocinador (y los interesados clave). El equipo lo elabora, pero no lo aprueba. El sponsor es quien autoriza y financia el proyecto.",
+   note:"En el examen impreso esta opción «El PMO» aparece rotulada otra vez como «a»; aquí la mostramos como d.", s:"1.3"},
+  {k:"nivelacion", n:8, q:"¿Cuál es el objetivo principal de la nivelación de recursos?",
+   o:["Identificar la ruta crítica","Reducir el alcance","Minimizar el número de actividades","Ajustar el cronograma para resolver sobreasignación de recursos"], a:3,
+   e:"La nivelación equilibra recursos sobreasignados o limitados, aunque eso mueva la fecha final.",
+   note:"En el examen impreso las opciones están rotuladas b, c, d, e; la respuesta correcta aparece como «e».", s:"6.1 y 6.4"},
+  {k:"dur-rec", n:9, q:"¿Cuál de los siguientes factores afecta directamente la estimación de la duración de una actividad?",
+   o:["Costos fijos del proyecto","Interesados del proyecto","Restricciones de alcance","Recursos asignados a la actividad"], a:3,
+   e:"Estimar la duración es fijar el tiempo según el esfuerzo, los recursos y su calendario. Más o menos recursos cambian directamente la duración.", s:"5.8"},
+  {k:"ciclo-vida", n:10, q:"Es el conjunto de etapas por las cuales transita un proyecto, desde su concepción hasta su entrega; esta definición corresponde a:",
+   o:["Estructura de Descomposición de Trabajo (EDT).","Ciclo de Vida del Proyecto.","Un Proyecto.","La Ruta Crítica."], a:1,
+   e:"Ciclo de vida del proyecto.", s:"3.3"},
+  {k:"agil-no", n:11, q:"Sobre el enfoque de desarrollo Ágil, no es recomendable emplearlo cuando:",
+   o:["Se tiene claridad de lo que se tiene que hacer o entregar junto con los resultados esperados","Se tiene la necesidad de realizar prueba y error para verificar.","Se posee la capacidad de dividir el proyecto en iteraciones y existe incertidumbre por cambios en el proyecto.","Se tiene la posibilidad de combinar un enfoque Iterativo e Incremental"], a:0,
+   e:"Con todo claro y estable, conviene el predictivo.", s:"3.2"},
+  {k:"juicio-hist", n:12, q:"El equipo utiliza datos de proyectos anteriores y además consulta con expertos para estimar los costos y definir el presupuesto total. ¿Qué técnicas usan?",
+   o:["Juicio de expertos.","Relaciones históricas.","b y c. (debería decir «a y b»)","Agregación de costos."], a:2,
+   e:"Datos de proyectos anteriores = relaciones históricas; consultar expertos = juicio de expertos. Se usan las dos.",
+   note:"El examen impreso dice «b y c», un error de tipeo por «a y b». Es la misma pregunta del 2024-2.", s:"7.8"},
+  {k:"reservas", n:13, q:"Se establece una reserva de gestión para imprevistos generales y una de contingencia para riesgos identificados. ¿Qué afirmación es correcta?",
+   o:["La reserva de gestión se utiliza solo para costos directos del proyecto.","La reserva de contingencia se destina a cubrir riesgos conocidos y específicos.","Ambas reservas se utilizan para imprevistos y se gestionan de la misma manera.","La reserva de gestión se usa para riesgos específicos, mientras que la reserva de contingencia es para imprevistos generales."], a:1,
+   e:"Contingencia = riesgos conocidos, dentro de la línea base. Gestión = lo no identificado, fuera de ella.", s:"7.5"},
+  {k:"ent-act", n:14, q:"El equipo identifica entregables, actividades, recursos y costos. ¿Qué afirmación describe correctamente la relación?",
+   o:["Los costos representan los entregables finales del proyecto.","Los recursos determinan cómo se definirán las actividades del proyecto.","Los entregables definen qué recursos se utilizarán para realizar las actividades.","Las actividades describen lo que debemos hacer para alcanzar los entregables."], a:3,
+   e:"Entregable (qué) → Actividades (cómo) → Recursos (con qué) → Costos (cuánto).", s:"7.6"},
+ ]},
+ {title:"Parte 2 · Caso Nuevo sistema para Elecciones 2026 (EDT)", items:[
+  {type:"open", n:"a", pts:"1 pt", q:"Redacte el objetivo general del proyecto y explique por qué resulta valioso para llevar unas elecciones más transparentes.",
+   a:`<p><b>Objetivo general:</b> diseñar, desarrollar y validar un prototipo funcional del sistema de votación digital para las Elecciones 2026, que incluya verificación y validación biométrica del votante, conteo automático y estadística de votación en vivo integrados con los sistemas de la ONPE, a más tardar el 1 de marzo de 2026.</p>
+   <p><b>Por qué aporta transparencia:</b></p>
+   <ul><li>La validación biométrica impide la suplantación y el voto doble.</li>
+   <li>Cada voto queda registrado de forma digital, trazable y auditable.</li>
+   <li>El conteo automático elimina errores y manipulación del conteo manual de actas.</li>
+   <li>La estadística en vivo permite que ciudadanos, personeros y observadores vean los resultados en tiempo real, lo que reduce la desconfianza.</li></ul>`},
+  {type:"open", n:"b", pts:"1 pt", q:"Plantee la estructura principal del proyecto, indicando al menos cuatro fases o componentes, incluyendo la fase de Gestión del Proyecto.",
+   a:`<ol><li>Gestión del proyecto</li><li>Análisis y diseño</li><li>Desarrollo e integración</li><li>Pruebas y validación del prototipo</li></ol>
+   <p>Alternativa por componentes del producto: Gestión · Verificación del votante · Votación y conteo · Integración con la ONPE y estadística. Las dos formas son válidas, porque el primer nivel puede organizarse por fases o por entregables.</p>
+   <div class="src">${src("4.5")}</div>`},
+  {type:"open", n:"c", pts:"3 pts", q:"Desarrolle la EDT hasta el nivel de paquete de trabajo, con al menos tres entregables por fase y dos paquetes por entregable.",
+   a:`<ul class="wbs">${mgmtWBS}
+   <li><b>2 · Análisis y diseño</b><ul>
+    <li><code>2.1</code>Requisitos del sistema aprobados<ul><li><code>2.1.1</code>Requisitos legales y de la ONPE documentados</li><li><code>2.1.2</code>Matriz de trazabilidad de requisitos elaborada</li></ul></li>
+    <li><code>2.2</code>Arquitectura y seguridad diseñadas<ul><li><code>2.2.1</code>Arquitectura de la solución aprobada</li><li><code>2.2.2</code>Modelo de seguridad y cifrado definido</li></ul></li>
+    <li><code>2.3</code>Experiencia de votación diseñada<ul><li><code>2.3.1</code>Flujo de votación en mesa diseñado</li><li><code>2.3.2</code>Interfaz accesible prototipada</li></ul></li></ul></li>
+   <li><b>3 · Desarrollo e integración</b><ul>
+    <li><code>3.1</code>Módulo de verificación biométrica desarrollado<ul><li><code>3.1.1</code>Consulta al padrón electoral implementada</li><li><code>3.1.2</code>Lectura de huella dactilar integrada</li></ul></li>
+    <li><code>3.2</code>Módulo de votación y conteo desarrollado<ul><li><code>3.2.1</code>Emisión de voto cifrado implementada</li><li><code>3.2.2</code>Conteo automático implementado</li></ul></li>
+    <li><code>3.3</code>Integración con la ONPE y estadística en vivo implementadas<ul><li><code>3.3.1</code>Interfaz con los sistemas de la ONPE integrada</li><li><code>3.3.2</code>Tablero de estadística en vivo desarrollado</li></ul></li></ul></li>
+   <li><b>4 · Pruebas y validación del prototipo</b><ul>
+    <li><code>4.1</code>Pruebas técnicas aprobadas<ul><li><code>4.1.1</code>Pruebas funcionales y de integración ejecutadas</li><li><code>4.1.2</code>Pruebas de seguridad y de carga ejecutadas</li></ul></li>
+    <li><code>4.2</code>Prototipo validado con usuarios<ul><li><code>4.2.1</code>Simulacro de votación realizado</li><li><code>4.2.2</code>Informe de validación elaborado</li></ul></li>
+    <li><code>4.3</code>Prototipo entregado<ul><li><code>4.3.1</code>Manual de uso elaborado</li><li><code>4.3.2</code>Acta de aceptación del prototipo firmada</li></ul></li></ul></li></ul>
+   ${wbsChecklist}`},
+  {type:"open", n:"d", pts:"1 pt", q:"Explique la lógica que sigue la EDT para construir el cronograma y el presupuesto. Describa cómo la descomposición permite estimar tiempos y costos de manera ordenada y coherente.",
+   a: logicEDT("3.1.2 Lectura de huella dactilar integrada → seleccionar el lector biométrico, programar el SDK, probar con 100 huellas")},
+ ]},
+ {title:"Parte 3 · Caso Historia Clínica Electrónica en una red de clínicas", items: AKopen("26")}
+]};
+
+/* ================= PREGUNTAS NUEVAS (teoría del HTML) ================= */
+const NEW = [
+ {k:"n1", q:"La PMO asigna a los directores de proyecto y estos le rinden cuentas. ¿Qué tipo de PMO es?", o:["De apoyo","De control","Directiva","Consultiva"], a:2, e:"Apoyo < Control < Directiva. La directiva dirige los proyectos; la de control exige cumplimiento; la de apoyo es un repositorio.", s:"1.6"},
+ {k:"n2", q:"¿Quién aporta los recursos financieros, monetarios o en especie al proyecto?", o:["El gerente de proyecto","El sponsor","La PMO","El equipo de proyecto"], a:1, e:"El sponsor pone los recursos; el gerente, nombrado por la organización ejecutante, pone la dirección.", s:"1.3"},
+ {k:"n3", q:"Un vecino cree que la obra le quitará clientes, aunque al final no le pasa nada. ¿Es interesado del proyecto?", o:["No, porque no resulta afectado","Sí, porque se percibe afectado","Solo si firma un contrato","Solo durante el cierre"], a:1, e:"Interesado es quien puede afectar, verse afectado o percibirse afectado.", s:"1.3"},
+ {k:"n4", q:"La cultura organizacional de la empresa es un ejemplo de:", o:["APO","FAE interno","FAE externo","Requisito de negocio"], a:1, e:"La cultura es una condición que rodea al proyecto y no controlas, interna a la organización. No es APO: no es un documento guardado.", s:"3.5"},
+ {k:"n5", q:"Las plantillas de proyectos anteriores y el registro de lecciones aprendidas son:", o:["FAE internos","FAE externos","APO","Supuestos"], a:2, e:"APO es lo que está guardado en el archivo de la empresa: políticas, plantillas, bases históricas, lecciones aprendidas.", s:"3.5"},
+ {k:"n6", q:"Un proyecto con alto grado de cambio y una sola entrega final consolidada, que se refina con prototipos, usa un enfoque:", o:["Predictivo","Incremental","Iterativo","Ágil"], a:2, e:"Cambio alto + entrega baja = iterativo: itero para aprender.", s:"3.2"},
+ {k:"n7", q:"La dirección está clara pero se entrega por partes utilizables (red por etapas, solución por módulos). El enfoque es:", o:["Incremental","Iterativo","Predictivo","Adaptativo"], a:0, e:"Cambio bajo + entrega alta = incremental: entrego piezas.", s:"3.2"},
+ {k:"n8", q:"El equipo detecta que el desempeño podría desviarse el próximo mes y propone un ajuste para evitarlo. ¿Qué tipo de solicitud de cambio es?", o:["Acción correctiva","Acción preventiva","Reparación de defectos","Actualización"], a:1, e:"Correctiva = el desempeño ya se desvió (hoy). Preventiva = cuidar el desempeño futuro (mañana).", s:"3.8"},
+ {k:"n9", q:"¿Cuál de estos elementos NO va en el acta de constitución?", o:["Resumen del cronograma de hitos","Riesgo general","Cronograma detallado con todas las actividades","Recursos financieros preaprobados"], a:2, e:"Todo en el acta es de alto nivel. El detalle llega en la planificación.", s:"3.7"},
+ {k:"n10", q:"En la versión nueva de la guía, ¿dónde vive la calidad?", o:["Es un dominio de desempeño propio","Dentro del dominio de Alcance (y como principio)","Dentro del dominio de Riesgos","Solo en el grupo de procesos de Control"], a:1, e:"Los 7 dominios son Gobernanza, Alcance, Cronograma, Finanzas, Stakeholders, Recursos y Riesgos. La calidad vive en Alcance.", s:"2.3"},
+ {k:"n11", q:"Ante una externalidad negativa, ¿cuál es el orden de menor a mayor impacto positivo según el principio de Sostenibilidad?", o:["Evitar → minimizar → compensar","Compensar → minimizar → evitar","Minimizar → evitar → compensar","Compensar → evitar → minimizar"], a:1, e:"Compensar es lo mínimo; evitar es lo mejor.", s:"2.2"},
+ {k:"n12", q:"¿Cuál está bien redactado como entregable?", o:["Diseño de arquitectura de software","Monitorear costos","Arquitectura de software diseñada y aprobada","Desarrollo de interfaz de usuario"], a:2, e:"Se nombra el resultado terminado: sustantivo + participio (-ado/-ido). «Diseño de…» describe la acción.", s:"4.6"},
+ {k:"n13", q:"Se entregaron 50 entregables y 5 no estaban planificados. ¿Cuál es la corrupción del alcance?", o:["5%","10%","90%","45%"], a:1, e:"Corrupción = no planificados ÷ total = 5 ÷ 50 = 10%. Cuanto más baja, mejor.", s:"4.9"},
+ {k:"n14", q:"«2 días por pantalla × 10 pantallas = 20 días». ¿Qué técnica de estimación es?", o:["Análoga","Paramétrica","Tres valores","Juicio experto"], a:1, e:"Tasa conocida × cantidad: paramétrica (patrón matemático).", s:"5.8"},
+ {k:"n15", q:"El plan dice 69 días y el contrato exige 60. ¿Cuál es la holgura del proyecto?", o:["9 días","0 días","−9 días","69 días"], a:2, e:"Holgura del proyecto = fecha comprometida − fecha planificada = 60 − 69 = −9. Puede ser negativa.", s:"5.10"},
+ {k:"n16", q:"Para acortar el cronograma, el equipo hace en paralelo actividades que iban en secuencia. ¿Qué técnica es y qué riesgo trae?", o:["Crashing, más costo","Fast tracking, más riesgo de retrabajo","Nivelación, se mueve la fecha","Estabilización, más costo"], a:1, e:"Fast tracking = carril rápido, paralelizar (más riesgo). Crashing = agregar recursos (más costo).", s:"6.2"},
+ {k:"n17", q:"¿Qué técnica además de las dependencias considera la disponibilidad real de los recursos y agrega colchones?", o:["Ruta crítica","Cadena crítica","PERT","Análisis what-if"], a:1, e:"La cadena crítica mira si el recurso está disponible (el mismo analista no puede hacer A y C a la vez) y agrega buffers.", s:"6.3"},
+ {k:"n18", q:"Se usan los recursos de forma más pareja manteniendo la fecha final. Es:", o:["Nivelación","Estabilización","Crashing","Cadena crítica"], a:1, e:"Estabilización mantiene la fecha; nivelación acepta moverla por falta de recursos.", s:"6.4"},
+ {k:"n19", q:"EV = 80,000 y AC = 100,000. ¿Qué indica el CPI?", o:["CPI = 1.25, por debajo del presupuesto","CPI = 0.8, sobrecosto","CPI = 0.8, adelantado","CPI = −20,000, sobrecosto"], a:1, e:"CPI = EV ÷ AC = 0.8 < 1: cada sol gastado rinde 0.80 de trabajo (sobrecosto). CV = EV − AC = −20,000.", s:"7.10"},
+ {k:"n20", q:"Reclamos, devoluciones y garantías después de entregar al cliente son costos de:", o:["Prevención","Evaluación","Fallas internas","Fallas externas"], a:3, e:"Interna = lo vimos nosotros; externa = lo vio el cliente (la más cara).", s:"7.4"},
+ {k:"n21", q:"Elegir invertir en la app y dejar de mejorar la web genera un costo:", o:["Hundido","De oportunidad","Indirecto","Fijo"], a:1, e:"Costo de oportunidad: lo que pierdes por lo que no elegiste.", s:"7.3"},
+ {k:"n22", q:"Estimar cada actividad o paquete y sumar hacia arriba es la estimación:", o:["Análoga","Ascendente (bottom-up)","Paramétrica","Por tres valores"], a:1, e:"Ascendente: de abajo hacia arriba.", s:"7.2"},
+ {k:"n23", q:"Costo del proyecto + reserva de contingencia = …", o:["Presupuesto total","Línea base de costos","Cuenta de control","Requisitos de financiamiento"], a:1, e:"La escalera: actividades → paquetes → cuentas de control → costo del proyecto; + contingencia = línea base; + gestión = presupuesto.", s:"7.7"},
+ {k:"n24", q:"En la planificación ágil de entregas, ¿qué debe tener el alcance definido?", o:["Todas las entregas","La hoja de ruta completa","La primera iteración","Solo la última entrega"], a:2, e:"El contenido de entregas e iteraciones puede ser difuso, pero la primera iteración sí debe estar definida.", s:"6.7"},
+ {k:"n25", q:"¿Quién está a cargo del Product Backlog?", o:["El Scrum Master","El sponsor","El Product Owner","La PMO"], a:2, e:"El Product Owner lo refina, ordena y prioriza constantemente.", s:"4.7"},
+ {k:"n26", q:"O = 4, M = 6, P = 10 días. ¿Cuál es la duración PERT?", o:["6 días","6.33 días","6.67 días","7 días"], a:1, e:"(4 + 4·6 + 10) ÷ 6 = 38 ÷ 6 = 6.33 días.", s:"5.9"},
+ {k:"n27", q:"Hacia adelante en CPM, cuando una actividad tiene varias predecesoras, su ES se calcula con:", o:["El menor EF de las predecesoras","El mayor EF de las predecesoras","El promedio de los EF","El menor LS de las sucesoras"], a:1, e:"Adelante tomas el MAYOR (esperas al más lento); atrás tomas el MENOR. Empezando en tiempo 0, no se suma 1: si A termina en 3, B empieza en 3.", s:"6.5"},
+ {k:"n28", q:"Un proveedor debe entregar una API antes de integrarla. ¿Qué tipo de dependencia es?", o:["Discrecional","Interna","Externa","Final a final"], a:2, e:"Depende de alguien fuera del equipo: externa. (Puede ser además obligatoria: son dos ejes distintos).", s:"5.7"},
+];
+
+const EXAMS = [E24, E25, E26];
+const examName = {ex242:"2024-2", ex252:"2025-2", ex260:"2026-0"};
+
+/* ---------- estado ---------- */
+const state = {}; // id -> {picked:idx, revealed:bool}
+const key = (scope, item) => scope + "::" + (item.k || item.n);
+let theoryOrder = null, theoryFilter = "all", theoryView = "list", theoryIdx = 0;
+try{ const v=localStorage.getItem("gp-view"); if(v==="cards"||v==="list") theoryView=v; }catch(e){}
+
+function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+
+function theoryPool(){
+  const seen = new Map();
+  EXAMS.forEach(ex=>ex.parts.forEach(p=>p.items.forEach(it=>{
+    if(it.type==="open") return;
+    if(seen.has(it.k)){ seen.get(it.k).from.push(examName[ex.id]+" P"+it.n); return; }
+    seen.set(it.k,{...it, from:[examName[ex.id]+" P"+it.n], origin:"exam"});
+  })));
+  return [...seen.values(), ...NEW.map(q=>({...q, origin:"new", from:["Nueva · tarjeta "+q.s]}))];
+}
+const POOL = theoryPool();
+
+/* ---------- render ---------- */
+const LET = "abcd";
+function mcqCard(it, scope, label, extraTags=""){
+  const id = key(scope, it), st = state[id] || {};
+  const answered = st.picked !== undefined, show = answered || st.revealed;
+  const opts = it.o.map((t,i)=>{
+    let cls="", mark="";
+    if(show && i===it.a){cls="correct";mark="Correcta"}
+    if(answered && st.picked===i && i!==it.a){cls="wrong";mark="Tu respuesta"}
+    return `<li><button class="opt ${cls}" data-id="${id}" data-i="${i}" ${show?"disabled":""}><span class="l">${LET[i]})</span><span>${t}</span>${mark?`<span class="mark">${mark}</span>`:""}</button></li>`;
+  }).join("");
+  let verdict = "";
+  if(show){
+    verdict = answered ? (st.picked===it.a ? `<p class="verdict ok">¡Correcto! Es la ${LET[it.a]}.</p>` : `<p class="verdict bad">No es la ${LET[st.picked]}. La correcta es la ${LET[it.a]}.</p>`)
+                       : `<p class="verdict neutral">Respuesta: ${LET[it.a]})</p>`;
+  }
+  const cardCls = answered ? (st.picked===it.a?"done-ok":"done-bad") : "";
+  return `<article class="card ${cardCls}">
+    <div class="qhead"><span class="qnum">${label}</span>${extraTags}${it.out?`<span class="tag out">${OUT}</span>`:""}</div>
+    <p class="q">${it.q}</p>
+    <ul class="opts">${opts}</ul>
+    ${show?`<div class="ans">${verdict}<p>${it.e}</p>${it.note?`<div class="note"><b>Nota:</b> ${it.note}</div>`:""}<div class="src">${src(it.s)}</div></div>`
+          :`<div class="actions"><button class="reveal" data-rev="${id}">Ver respuesta sin responder</button></div>`}
+  </article>`;
+}
+function openCard(it, scope, label){
+  const id = scope + "::open" + label, st = state[id] || {};
+  return `<article class="card">
+    <div class="qhead"><span class="qnum">${label}</span><span class="tag">${it.pts}</span><span class="tag">Desarrollo</span></div>
+    <p class="q">${it.q}</p>
+    ${st.revealed?`<div class="ans">${it.a}</div><div class="actions"><button class="reveal" data-hide="${id}">Ocultar respuesta</button></div>`
+                 :`<div class="actions"><button class="btn" data-rev="${id}">Mostrar respuesta modelo</button></div>`}
+  </article>`;
+}
+
+function examIds(ex){
+  const ids=[];
+  ex.parts.forEach((p,pi)=>p.items.forEach(it=>ids.push(it.type==="open"? ex.id+"::open"+(pi+"-"+it.n) : key(ex.id,it))));
+  return ids;
+}
+function scoreFor(scope, items){
+  let ok=0, done=0;
+  items.forEach(it=>{const st=state[key(scope,it)]; if(st&&st.picked!==undefined){done++; if(st.picked===it.a) ok++;}});
+  return `Aciertos <b>${ok}</b> / ${done} respondidas · ${items.length} preguntas`;
+}
+
+function renderExam(ex){
+  const mcqs = ex.parts.flatMap(p=>p.items.filter(i=>i.type!=="open"));
+  let h = `<div class="examhead">${ex.head}</div>
+    <div class="toolbar"><button class="btn primary" data-all="${ex.id}">Mostrar todas las respuestas</button>
+    <button class="btn" data-reset="${ex.id}">Reiniciar</button><span class="score">${scoreFor(ex.id,mcqs)}</span></div>`;
+  ex.parts.forEach((p,pi)=>{
+    h += `<div class="part">${p.title}</div><div class="list">`;
+    p.items.forEach(it=>{
+      h += it.type==="open" ? openCard(it, ex.id, (pi+"-"+it.n)).replace(`<span class="qnum">${pi}-${it.n}</span>`,`<span class="qnum">${it.n})</span>`)
+                            : mcqCard(it, ex.id, "P"+it.n, `<span class="tag">0.5 pts</span>`);
+    });
+    h += `</div>`;
+  });
+  return h;
+}
+
+function renderTheory(){
+  if(!theoryOrder) theoryOrder = shuffle(POOL.map((_,i)=>i));
+  const list = theoryOrder.map(i=>POOL[i]).filter(q=>theoryFilter==="all"||q.origin===theoryFilter);
+  const nEx = POOL.filter(q=>q.origin==="exam").length, nNew = POOL.length-nEx;
+  let h = `<div class="examhead"><h2>Repaso de teoría</h2><p>Todas las preguntas teóricas de los tres exámenes (sin repetir las que se repiten entre exámenes) más ${nNew} preguntas nuevas sacadas de las tarjetas de tu HTML. El orden cambia cada vez que mezclas.</p></div>
+   <div class="toolbar">
+    <button class="btn primary" data-shuffle="1">Mezclar de nuevo</button>
+    <button class="btn" data-all="theory">Mostrar todas</button>
+    <button class="btn" data-reset="theory">Reiniciar</button>
+    <div class="chips" role="group" aria-label="Filtrar">
+      <button class="chip" data-filter="all" aria-pressed="${theoryFilter==="all"}">Todas (${POOL.length})</button>
+      <button class="chip" data-filter="exam" aria-pressed="${theoryFilter==="exam"}">De exámenes (${nEx})</button>
+      <button class="chip" data-filter="new" aria-pressed="${theoryFilter==="new"}">Nuevas (${nNew})</button>
+    </div>
+    <div class="seg" role="group" aria-label="Vista">
+      <button data-view="list" aria-pressed="${theoryView==="list"}">Lista</button>
+      <button data-view="cards" aria-pressed="${theoryView==="cards"}">Tarjetas</button>
+    </div>
+    <span class="score">${scoreFor("theory",list)}</span></div>`;
+  const tagsOf = q => q.from.map(f=>`<span class="tag ${q.origin==="new"?"src":""}">${f}</span>`).join("");
+  if(theoryView==="cards"){
+    if(!list.length) return h + `<p class="empty">No hay preguntas con este filtro.</p>`;
+    theoryIdx = Math.max(0, Math.min(theoryIdx, list.length-1));
+    const q = list[theoryIdx], pct = ((theoryIdx+1)/list.length*100).toFixed(1);
+    const st = state[key("theory",q)] || {}, shown = st.picked!==undefined || st.revealed;
+    return h + `<div class="deck" id="deck">
+      <div class="deckbar"><span class="pos">Tarjeta <b>${theoryIdx+1}</b> de ${list.length}</span><div class="prog"><i style="width:${pct}%"></i></div></div>
+      <div class="flash">${mcqCard(q, "theory", "#"+(theoryIdx+1), tagsOf(q))}</div>
+      <div class="decknav">
+        <button class="btn" data-step="-1" ${theoryIdx===0?"disabled":""}>← Anterior</button>
+        ${shown?"":`<button class="btn" data-rev="${key("theory",q)}">Voltear</button>`}
+        <button class="btn primary" data-step="1" ${theoryIdx===list.length-1?"disabled":""}>Siguiente →</button>
+      </div>
+      <p class="hint">Atajos: ← → para pasar, espacio para voltear. En el celular, desliza la tarjeta.</p>
+    </div>`;
+  }
+  h += `<div class="list">`;
+  list.forEach((q,i)=>{ h += mcqCard(q, "theory", "#"+(i+1), tagsOf(q)); });
+  return h + `</div>`;
+}
+function theoryList(){ const all=(theoryOrder||[]).map(i=>POOL[i]); return all.filter(q=>theoryFilter==="all"||q.origin===theoryFilter); }
+function step(n){ const len=theoryList().length; const ni=Math.max(0,Math.min(theoryIdx+n,len-1)); if(ni!==theoryIdx){theoryIdx=ni; render(true); const d=document.getElementById("deck"); if(d) d.scrollIntoView({block:"nearest"});} }
+
+const TABS = [...EXAMS.map(e=>({id:e.id,label:e.label,sub:e.sub})), {id:"theory",label:"Repaso de teoría",sub:"aleatorio"}];
+let current = "ex242";
+try{ const h=location.hash.slice(1); if(TABS.some(t=>t.id===h)) current=h; else { const s=localStorage.getItem("gp-tab"); if(s&&TABS.some(t=>t.id===s)) current=s; } }catch(e){}
+
+function render(keepScroll){
+  const y = window.scrollY;
+  document.getElementById("tabs").innerHTML = TABS.map(t=>`<button class="tab" role="tab" id="tab-${t.id}" aria-selected="${t.id===current}" data-tab="${t.id}">${t.label}<small>${t.sub}</small></button>`).join("");
+  const m = document.getElementById("main");
+  m.innerHTML = current==="theory" ? renderTheory() : renderExam(EXAMS.find(e=>e.id===current));
+  if(keepScroll) window.scrollTo(0,y);
+}
+
+document.addEventListener("click",(ev)=>{
+  const b = ev.target.closest("button"); if(!b) return;
+  const d = b.dataset;
+  if(d.tab){ current=d.tab; try{localStorage.setItem("gp-tab",current)}catch(e){} render(false); window.scrollTo(0,0); return; }
+  if(d.i!==undefined){ state[d.id]={...(state[d.id]||{}),picked:+d.i}; render(true); return; }
+  if(d.rev){ state[d.rev]={...(state[d.rev]||{}),revealed:true}; render(true); return; }
+  if(d.hide){ state[d.hide]={...(state[d.hide]||{}),revealed:false}; render(true); return; }
+  if(d.shuffle){ theoryOrder=null; theoryIdx=0; Object.keys(state).filter(k=>k.startsWith("theory::")).forEach(k=>delete state[k]); render(false); return; }
+  if(d.filter){ theoryFilter=d.filter; theoryIdx=0; render(true); return; }
+  if(d.view){ theoryView=d.view; try{localStorage.setItem("gp-view",theoryView)}catch(e){} render(true); return; }
+  if(d.step){ step(+d.step); return; }
+  if(d.all){
+    const ids = d.all==="theory" ? POOL.map(q=>key("theory",q)) : examIds(EXAMS.find(e=>e.id===d.all));
+    ids.forEach(id=>state[id]={...(state[id]||{}),revealed:true}); render(true); return; }
+  if(d.reset){ Object.keys(state).filter(k=>k.startsWith(d.reset+"::")).forEach(k=>delete state[k]); if(d.reset==="theory") theoryIdx=0; render(true); return; }
+});
+const inCards = () => current==="theory" && theoryView==="cards";
+document.addEventListener("keydown",(ev)=>{
+  if(!inCards() || ev.altKey || ev.ctrlKey || ev.metaKey) return;
+  if(ev.key==="ArrowRight"){ev.preventDefault(); step(1);}
+  else if(ev.key==="ArrowLeft"){ev.preventDefault(); step(-1);}
+  else if(ev.key===" " && !(ev.target.closest&&ev.target.closest("button"))){
+    ev.preventDefault(); const q=theoryList()[theoryIdx]; if(q){const id=key("theory",q); state[id]={...(state[id]||{}),revealed:true}; render(true);}
+  }
+});
+let tx=null, ty=null;
+document.addEventListener("touchstart",(e)=>{ if(!inCards()||!e.target.closest(".flash")) return; tx=e.touches[0].clientX; ty=e.touches[0].clientY; },{passive:true});
+document.addEventListener("touchend",(e)=>{ if(tx===null) return; const dx=e.changedTouches[0].clientX-tx, dy=e.changedTouches[0].clientY-ty; tx=null;
+  if(Math.abs(dx)>60 && Math.abs(dx)>Math.abs(dy)*1.5) step(dx<0?1:-1); },{passive:true});
+render(false);
+</script>
+
+</body></html>
